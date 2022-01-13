@@ -447,6 +447,88 @@
                         }
                         
                     ]
+                },
+                {
+                    "id": "1.6",
+                    "type": "SECTION",
+                    "next_content_preview": {
+                        "time": 5,
+                        "show_caption": false
+                    },
+                    "menu_section": {
+                        "ico": "",
+                        "img_bg": "1-6-0-image.jpg",
+                        "menu_prev": true,
+                        "time": "10 minuto",
+                        "tags": [
+                            {
+                                "name": "Vídeo"
+                            }
+                        ]
+                    },
+                    "status": 0,
+                    "title": "Test",
+                    "activities": [
+                        
+                        {
+                            "id": "1.6.0",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_MAP",
+                            "status": 0,
+                            "title": "Test del Módulo 1",
+                            "content": {
+                                "c_type": "story",
+                                "c_img": "1-6-0-image.jpg",
+                                "b_subtitle": "",
+                                "b_text": [
+                                    {
+                                        "b_line": "A continuación te invitamos a comprobar los conocimientos adquiridos en el módulo 1."
+                                    }
+                                ],
+                                "css":""
+                            },
+                            "css": "top left col-xl-6 offset-xl-3"
+                        },
+                        {
+                            "id": "1.6.1",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "save_info": true,
+                            "status": 0,
+                            "title": "",
+                            "random": false,
+                            "feedback_review": true,
+                            "id_quiz": "1"
+                        },
+                        {
+                            "id": "1.6.2",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "save_info": true,
+                            "status": 0,
+                            "title": "",
+                            "random": false,
+                            "feedback_review": true,
+                            "id_quiz": "1"
+                        },
+                        {
+                            "id": "1.6.3",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "save_info": true,
+                            "status": 0,
+                            "title": "",
+                            "random": false,
+                            "feedback_review": true,
+                            "id_quiz": "1"
+                        }
+                    ]
                 }
                 
             ]

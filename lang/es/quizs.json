@@ -1,198 +1,14 @@
 {
     "quizs": {
-        "0.5": [
-            {
-                "id": "0",
-                "qType": "TEST_TYPE.DRAGDROP",
-                "qTitle": "Juego de asignación de riesgos y oportunidades a los 3 ODS citados:",
-                "instructions": "Arrastra los mensajes a la columna y fila correctas de manera que asocies los ODS con sus riesgos y oportunidades correspondientes.",
-                "feedback_ok": "¡Correcto!",
-                "feedback_ko": "¡Incorrecto!",
-                "topic": "Introducción",
-                "layout": "DD_LAYOUT.COLUMNS",
-                "countDown": true,
-                "timeCountDown": 120,
-                "points": 3,
-                "defs_title": "ODS",
-                "defs": [
-                    {
-                        "id": "ods1",
-                        "text": "ODS 13: Acción por el Clima."
-                    },
-                    {
-                        "id": "ods2",
-                        "text": "ODS 7: Energía asequible y no contaminante."
-                    },
-                    {
-                        "id": "ods3",
-                        "text": "ODS 12: Producción y Consumo Responsables."
-                    }
-                ],
-                "origins": [
-                    {
-                        "title": "Riesgos",
-                        "options_order_random": true,
-                        "options": [
-                            {
-                                "id": "r1",
-                                "text": "Proyectos de construcción de nuevos edificios en zonas de costa.",
-                                "group": "riesgos",
-                                "dest_target": [
-                                    "dr1",
-                                    "dr2",
-                                    "dr3"
-                                ]
-                            },
-                            {
-                                "id": "r2",
-                                "text": "Proyectos de generación de energía eléctrica en base al carbón.",
-                                "group": "riesgos",
-                                "dest_target": [
-                                    "dr1",
-                                    "dr2",
-                                    "dr3"
-                                ]
-                            },
-                            {
-                                "id": "r3",
-                                "text": "Proyectos de embalajes plásticos que permitan una mejor conservación de alimentos.",
-                                "group": "riesgos",
-                                "dest_target": [
-                                    "dr1",
-                                    "dr2",
-                                    "dr3"
-                                ]
-                            }
-                        ]
-                    },
-                    {
-                        "title": "Oportunidades",
-                        "options_order_random": true,
-                        "options": [
-                            {
-                                "id": "o1",
-                                "text": "Proyectos de rehabilitación energética de edificios en las ciudades.",
-                                "group": "oportunidades",
-                                "dest_target": [
-                                    "do1",
-                                    "do2",
-                                    "do3"
-                                ]
-                            },
-                            {
-                                "id": "o2",
-                                "text": "Proyectos de aumento de la producción eléctrica mediante energías renovables.",
-                                "group": "oportunidades",
-                                "dest_target": [
-                                    "do1",
-                                    "do2",
-                                    "do3"
-                                ]
-                            },
-                            {
-                                "id": "o3",
-                                "text": "Proyectos de aprovechamiento de excedentes de alimentos de las tiendas locales.",
-                                "group": "oportunidades",
-                                "dest_target": [
-                                    "do1",
-                                    "do2",
-                                    "do3"
-                                ]
-                            }
-                        ]
-                    }
-                ],
-                "dest_groups": [
-                    {
-                        "id": "riesgos",
-                        "text": "Riesgos"
-                    },
-                    {
-                        "id": "oportunidades",
-                        "text": "Oportunidades"
-                    }
-                ],
-                "dest": {
-                    "title": "",
-                    "options": [
-                        {
-                            "id": "dr1",
-                            "text": "Riesgos 1",
-                            "min": 1,
-                            "max": 1,
-                            "answer": [
-                                "r1"
-                            ],
-                            "css": "centered",
-                            "group": "riesgos"
-                        },
-                        {
-                            "id": "dr2",
-                            "text": "Riesgos 2",
-                            "min": 1,
-                            "max": 1,
-                            "answer": [
-                                "r2"
-                            ],
-                            "css": "centered",
-                            "group": "riesgos"
-                        },
-                        {
-                            "id": "dr3",
-                            "text": "Riesgos 3",
-                            "min": 1,
-                            "max": 1,
-                            "answer": [
-                                "r3"
-                            ],
-                            "css": "centered",
-                            "group": "riesgos"
-                        },
-                        {
-                            "id": "do1",
-                            "text": "Oportunidades 1",
-                            "min": 1,
-                            "max": 1,
-                            "answer": [
-                                "o1"
-                            ],
-                            "css": "centered",
-                            "group": "oportunidades"
-                        },
-                        {
-                            "id": "do2",
-                            "text": "Oportunidades 2",
-                            "min": 1,
-                            "max": 1,
-                            "answer": [
-                                "o2"
-                            ],
-                            "css": "centered",
-                            "group": "oportunidades"
-                        },
-                        {
-                            "id": "do3",
-                            "text": "Oportunidades 3",
-                            "min": 1,
-                            "max": 1,
-                            "answer": [
-                                "o3"
-                            ],
-                            "css": "centered",
-                            "group": "oportunidades"
-                        }
-                    ]
-                }
-            }
-        ],
-        "1.5": [
+       
+        "1.6": [
             {
                 "id": "1",
                 "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "¿Por qué tenemos la certeza de que es la acción humana la que ha generado el cambio climático?",
+                "qTitle": "¿Cómo se llama la válvula que separa la aurícula izquierda del ventrículo izquierdo?",
                 "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto!",
-                "feedback_ko": "¡Incorrecto!",
+                "feedback_ok": "¡Correcto! Las válvulas aurículo-ventriculares separan las aurículas de los ventrículos, permitiendo el paso de sangre desde aurículas a ventrículos e impidiendo su retroceso en sentido inverso. La válvula mitral separa la aurícula izquierda del ventrículo izquierdo y la válvula tricúspide la aurícula y ventrículo derechos.",
+                "feedback_ko": "¡Incorrecto! Las válvulas aurículo-ventriculares separan las aurículas de los ventrículos, permitiendo el paso de sangre desde aurículas a ventrículos e impidiendo su retroceso en sentido inverso. La válvula mitral separa la aurícula izquierda del ventrículo izquierdo y la válvula tricúspide la aurícula y ventrículo derechos.",
                 "topic": "",
                 "countDown": false,
                 "timeCountDown": 5,
@@ -201,583 +17,26 @@
                 "options": [
                     {
                         "id": "1",
-                        "text": "Los análisis científicos nos dan dicha certeza dado que las concentraciones de gases de efecto invernadero han aumentado derivado de la actividad humana.",
+                        "text": "Válvula mitral.",
                         "correct": true,
                         "feedback": ""
                     },
                     {
                         "id": "2",
-                        "text": "No estamos seguros porque la radiación solar que llega a la Tierra ahora es mayor que antes.",
+                        "text": "Válvula tricúspide.",
                         "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "3",
-                        "text": "La certeza proviene de disponer de registros sobre desastres naturales en el planeta desde hace muchos años.",
-                        "correct": false,
-                        "feedback": ""
-                    }
-                ]
-            },
-            {
-                "id": "2",
-                "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "¿Cuánto tenemos que reducir las emisiones de CO2 para estabilizar la temperatura del planeta en +2 ºC desde los valores de referencia?",
-                "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto!",
-                "feedback_ko": "¡Incorrecto!",
-                "topic": "",
-                "points": 3,
-                "options_order_random": true,
-                "options": [
-                    {
-                        "id": "1",
-                        "text": "Debemos reducir todas las emisiones generadas por la actividad humana.",
-                        "correct": true,
-                        "feedback": ""
-                    },
-                    {
-                        "id": "2",
-                        "text": "Con reducir las emisiones de CO2 el 50% sería suficiente, dado que se habla de reducir al 100% si queremos limitar el aumento de temperatura global a +1,5 ºC,",
-                        "correct": false,
-                        "feedback": ""
-                    },
-                    {
-                        "id": "3",
-                        "text": "Con un nivel de confianza del 95%, debemos reducir las emisiones al 66%.",
-                        "correct": false,
-                        "feedback": ""
-                    }
-                ]
-            },
-            {
-                "id": "3",
-                "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "¿Por qué si el cambio climático es un problema, solucionarlo puede ser fuente de oportunidades para la actividad económica y el sector financiero?",
-                "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto!",
-                "feedback_ko": "¡Incorrecto!",
-                "topic": "",
-                "points": 3,
-                "options_order_random": true,
-                "options": [
-                    {
-                        "id": "1",
-                        "text": "El cambio en la economía requiere del desarrollo de nuevas actividades que serán necesarias y que serán fuente de oportunidades futuras para quien las desempeñe y quien las apoye financieramente.",
-                        "correct": true,
-                        "feedback": ""
-                    },
-                    {
-                        "id": "2",
-                        "text": "Si sabemos acertar en los préstamos, tendremos mayores oportunidades de negocio.",
-                        "correct": false,
-                        "feedback": ""
-                    },
-                    {
-                        "id": "3",
-                        "text": "No lo es, pues no deberíamos generar negocio gracias a solucionar un problema tan grave como este.",
-                        "correct": false,
-                        "feedback": ""
-                    }
-                ]
-            }
-        ],
-        "1.10": [
-            {
-                "id": "1",
-                "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "Entre las energías renovables tenemos:",
-                "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto!",
-                "feedback_ko": "¡Incorrecto!",
-                "topic": "",
-                "countDown": false,
-                "timeCountDown": 5,
-                "points": 3,
-                "options_order_random": true,
-                "options": [
-                    {
-                        "id": "1",
-                        "text": "Biomasa, mareomotriz, geotérmica, undimotriz.",
-                        "correct": true,
-                        "feedback": ""
-                    },
-                    {
-                        "id": "2",
-                        "text": "Biomasa, carbón, eólica, geotérmica.",
-                        "correct": false,
-                        "feedback": ""
-                    },
-                    {
-                        "id": "3",
-                        "text": "Petróleo, mareomotriz, geotérmica, undimotriz.",
-                        "correct": false,
-                        "feedback": ""
-                    }
-                ]
-            },
-            {
-                "id": "2",
-                "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "¿Cuál ha sido la evolución de los costes de generación de las energías renovables en los últimos años?",
-                "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto!",
-                "feedback_ko": "¡Incorrecto!",
-                "topic": "",
-                "points": 3,
-                "options_order_random": true,
-                "options": [
-                    {
-                        "id": "1",
-                        "text": "Se han reducido en gran parte.",
-                        "correct": true,
-                        "feedback": ""
-                    },
-                    {
-                        "id": "2",
-                        "text": "Han incrementado ligeramente.",
-                        "correct": false,
-                        "feedback": ""
-                    },
-                    {
-                        "id": "3",
-                        "text": "Han disminuido tímidamente.",
-                        "correct": false,
-                        "feedback": ""
-                    }
-                ]
-            },
-            {
-                "id": "3",
-                "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "Uno de los retos presentes es el hecho de que las  fuentes de energía renovable son  intermitentes. ¿En qué área se está trabajando para salvar este desafío?",
-                "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto!",
-                "feedback_ko": "¡Incorrecto!",
-                "topic": "",
-                "points": 3,
-                "options_order_random": true,
-                "options": [
-                    {
-                        "id": "1",
-                        "text": "Soluciones de almacenamiento.",
-                        "correct": true,
-                        "feedback": ""
-                    },
-                    {
-                        "id": "2",
-                        "text": "Desarrollo de costes operativos más bajos.",
-                        "correct": false,
-                        "feedback": ""
-                    },
-                    {
-                        "id": "3",
-                        "text": "Fomento de la energía nuclear.",
-                        "correct": false,
-                        "feedback": ""
-                    }
-                ]
-            }
-        ],
-        "1.16": [
-            {
-                "id": "1",
-                "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "La economía circular tiene el propósito de:",
-                "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto!",
-                "feedback_ko": "¡Incorrecto!",
-                "topic": "",
-                "points": 3,
-                "options_order_random": true,
-                "options": [
-                    {
-                        "id": "1",
-                        "text": "Transformar la forma en que producimos y consumimos para minimizar la generación de residuos.",
-                        "correct": true,
-                        "feedback": ""
-                    },
-                    {
-                        "id": "2",
-                        "text": "Hacer menos con más.",
-                        "correct": false,
-                        "feedback": ""
-                    },
-                    {
-                        "id": "3",
-                        "text": "Fomentar un mayor consumo para dinamizar la economía.",
-                        "correct": false,
-                        "feedback": ""
-                    }
-                ]
-            },
-            {
-                "id": "2",
-                "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": " Las 3 R básicas de la economía circular consisten en (indicar la respuesta con el orden correcto):",
-                "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto!",
-                "feedback_ko": "¡Incorrecto!",
-                "topic": "",
-                "points": 3,
-                "options_order_random": true,
-                "options": [
-                    {
-                        "id": "1",
-                        "text": "Reducir, Reutilizar, Reciclar.",
-                        "correct": true,
-                        "feedback": ""
-                    },
-                    {
-                        "id": "2",
-                        "text": "Reciclar, Reutilizar, Reducir.",
-                        "correct": false,
-                        "feedback": ""
-                    },
-                    {
-                        "id": "3",
-                        "text": "Repensar, Reciclar, Recuperar.",
-                        "correct": false,
-                        "feedback": ""
-                    }
-                ]
-            },
-            {
-                "id": "3",
-                "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "Transformar nuestra economía lineal (consumir-usar-tirar) a una economía circular, supone:",
-                "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto!",
-                "feedback_ko": "¡Incorrecto!",
-                "topic": "",
-                "points": 3,
-                "options_order_random": true,
-                "options": [
-                    {
-                        "id": "1",
-                        "text": "La oportunidad de desarrollar nuevos modelos de negocio sostenibles.",
-                        "correct": true,
-                        "feedback": ""
-                    },
-                    {
-                        "id": "2",
-                        "text": "Una amenaza para la generación de empleo.",
-                        "correct": false,
-                        "feedback": ""
-                    },
-                    {
-                        "id": "3",
-                        "text": "Una reducción de nuestro bienestar.",
-                        "correct": false,
-                        "feedback": ""
-                    }
-                ]
-            }
-        ],
-        "2.3": [
-            {
-                "id": "1",
-                "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "¿Qué compromiso firmaron algunos de los principales bancos en septiembre de 2019?",
-                "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto!",
-                "feedback_ko": "¡Incorrecto!",
-                "topic": "",
-                "points": 3,
-                "options_order_random": true,
-                "options": [
-                    {
-                        "id": "1",
-                        "text": "El compromiso de alinear su actividad financiera con los objetivos del Acuerdo de París (COP-21) y que supone la descarbonización progresiva de sus carteras.",
-                        "correct": true,
-                        "feedback": ""
-                    },
-                    {
-                        "id": "2",
-                        "text": "La obligación de financiar más proyectos de energías renovables y eficiencia energética en España.",
-                        "correct": false,
-                        "feedback": ""
-                    },
-                    {
-                        "id": "3",
-                        "text": "La responsabilidad de asumir el coste financiero de la celebración de la COP-25 que iba a celebrarse en Chile.",
-                        "correct": false,
-                        "feedback": ""
-                    }
-                ]
-            },
-            {
-                "id": "2",
-                "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "¿Qué es una hipoteca verde?",
-                "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto!",
-                "feedback_ko": "¡Incorrecto!",
-                "topic": "",
-                "points": 3,
-                "options_order_random": true,
-                "options": [
-                    {
-                        "id": "1",
-                        "text": "Un préstamo hipotecario donde el precio está vinculado a la calidad energética de la vivienda comprada o reformada.",
-                        "correct": true,
-                        "feedback": ""
-                    },
-                    {
-                        "id": "2",
-                        "text": "Un préstamo hipotecario concedido para comprar una vivienda construida con placas solares.",
-                        "correct": false,
-                        "feedback": ""
-                    },
-                    {
-                        "id": "3",
-                        "text": "Un préstamo hipotecario concedido para reformar la vivienda.",
-                        "correct": false,
-                        "feedback": ""
-                    }
-                ]
-            },
-            {
-                "id": "3",
-                "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "¿Qué es la Red de Centros Financieros para la Sostenibilidad?",
-                "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto!",
-                "feedback_ko": "¡Incorrecto!",
-                "topic": "",
-                "points": 3,
-                "options_order_random": true,
-                "options": [
-                    {
-                        "id": "1",
-                        "text": "Un conjunto de centros financieros internacionales que trabajan juntos para lograr los Objetivos de Desarrollo Sostenible y el Acuerdo de París promovido por Naciones Unidas.",
-                        "correct": true,
-                        "feedback": ""
-                    },
-                    {
-                        "id": "2",
-                        "text": "Una red de bancos internacionales que coordinan la toma de decisiones en materia de finanzas sostenibles.",
-                        "correct": false,
-                        "feedback": ""
-                    },
-                    {
-                        "id": "3",
-                        "text": "La red de bancos centrales para fortalecer la respuesta mundial necesaria para cumplir los objetivos del Acuerdo de París compuesta por bancos centrales de la mayor parte del mundo.",
-                        "correct": false,
-                        "feedback": ""
-                    }
-                ]
-            }
-        ],
-        "2.3_descarte": [
-            {
-                "id": "1",
-                "qType": "TEST_TYPE.DRAGDROP",
-                "qTitle": "Vamos a comprobar si ya tienes claras las responsabilidades y funciones de cada rol con un ejercicio.<br><i><font color=\"#3CD0D1\">Arrastra las cajas al rol que corresponda.</font></i>",
-                "instructions": "",
-                "feedback_ok": "¡Correcto!",
-                "feedback_ko": "¡Incorrecto!",
-                "topic": "Introducción",
-                "origins": [
-                    {
-                        "title": "",
-                        "options_order_random": true,
-                        "options": [
-                            {
-                                "id": "o1",
-                                "text": "Realizo el levantamiento de la información."
-                            },
-                            {
-                                "id": "o2",
-                                "text": "Modelo los procesos en ARIS."
-                            },
-                            {
-                                "id": "o3",
-                                "text": "Defino KPIs para la monitorización del proceso."
-                            },
-                            {
-                                "id": "o4",
-                                "text": "Mantengo actualizada la taxonomía de procesos."
-                            },
-                            {
-                                "id": "o5",
-                                "text": "Mantengo y administro la herramienta corporativa ARIS."
-                            },
-                            {
-                                "id": "o6",
-                                "text": "Doy soporte para el uso de ARIS y la aplicación de la metodología de modelado."
-                            },
-                            {
-                                "id": "o7",
-                                "text": "Participo en cualquier cambio en el diseño del proceso, idenitfico puntos de dolor y propongo mejoras."
-                            },
-                            {
-                                "id": "o8",
-                                "text": "Velo porque se apliquen y se ejecuten los controles en el proceso."
-                            },
-                            {
-                                "id": "o9",
-                                "text": "Impulso la mejora continua del proceso a través de la esponsorización de iniciativas de transformación."
-                            }
-                        ]
-                    }
-                ],
-                "dest": {
-                    "title": "",
-                    "options": [
-                        {
-                            "id": "d1",
-                            "text": "Ingeniero de Procesos",
-                            "min": 3,
-                            "max": 3,
-                            "answer": [
-                                "o1",
-                                "o2",
-                                "o3"
-                            ],
-                            "css": "centered"
-                        },
-                        {
-                            "id": "d2",
-                            "text": "Arquitecto de Procesos",
-                            "min": 3,
-                            "max": 3,
-                            "answer": [
-                                "o4",
-                                "o5",
-                                "o6"
-                            ],
-                            "css": "centered"
-                        },
-                        {
-                            "id": "d3",
-                            "text": "Process Owner",
-                            "min": 3,
-                            "max": 3,
-                            "answer": [
-                                "o7",
-                                "o8",
-                                "o9"
-                            ],
-                            "css": "centered"
-                        }
-                    ]
-                }
-            }
-        ],
-        "4.6": [
-            {
-                "id": "1",
-                "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "¿Cuál de las siguientes afirmaciones es correcta sobre las tipologías de vehículos que se consideran sostenibles?",
-                "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto!",
-                "feedback_ko": "¡Incorrecto!",
-                "topic": "",
-                "options_order_random": true,
-                "options": [
-                    {
-                        "id": "1",
-                        "text": "Los vehículos 100% eléctricos o eléctrico puro (BEV), los vehículos eléctricos de autonomía extendida (EREV) y los vehículos híbridos enchufables (PHEV).",
-                        "correct": false,
-                        "feedback": ""
-                    },
-                    {
-                        "id": "2",
-                        "text": "Los vehículos 100% eléctricos o eléctrico puro (BEV), los vehículos eléctricos de autonomía extendida (EREV) y los vehículos híbridos enchufables (PHEV) solo en los casos contemplados en el  estándar de cada  geografía.",
-                        "correct": true,
-                        "feedback": ""
-                    },
-                    {
-                        "id": "3",
-                        "text": "Los vehículos 100% eléctricos o eléctrico puro (BEV), los vehículos eléctricos de autonomía extendida (EREV) y los vehículos híbridos autorecargables.",
-                        "correct": false,
-                        "feedback": ""
-                    }
-                ]
-            },
-            {
-                "id": "2",
-                "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "¿El concepto de movilidad sostenible engloba tanto vehículos sostenibles como bicicletas,  motocicletas eléctricas o híbridas y patines?",
-                "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto!",
-                "feedback_ko": "¡Incorrecto!",
-                "topic": "",
-                "options_order_random": false,
-                "options": [
-                    {
-                        "id": "1",
-                        "text": "Verdadero.",
-                        "correct": true,
-                        "feedback": ""
-                    },
-                    {
-                        "id": "2",
-                        "text": "Falso.",
-                        "correct": false,
-                        "feedback": ""
-                    }
-                ]
-            },
-            {
-                "id": "3",
-                "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "¿Cuál es la razón por la que se consideran rentables los vehículos sostenibles?",
-                "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto!",
-                "feedback_ko": "¡Incorrecto!",
-                "topic": "",
-                "options_order_random": true,
-                "options": [
-                    {
-                        "id": "1",
-                        "text": "Por tener un precio menor al del resto de vehículos.",
-                        "correct": false,
-                        "feedback": ""
-                    },
-                    {
-                        "id": "2",
-                        "text": "Por los ahorros en el consumo de combustible y los gastos de mantenimiento.",
-                        "correct": true,
-                        "feedback": ""
-                    }
-                ]
-            }
-        ],
-        "5.7": [
-            {
-                "id": "1",
-                "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "¿Cuál de las siguientes reformas se considera sostenible? ",
-                "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto!",
-                "feedback_ko": "¡Incorrecto!",
-                "topic": "",
-                "options_order_random": false,
-                "options": [
-                    {
-                        "id": "1",
-                        "text": "Aislamientos de paredes.",
-                        "correct": false,
-                        "feedback": ""
-                    },
-                    {
-                        "id": "2",
-                        "text": "Colocación de ventanas de doble y triple cristal.",
-                        "correct": false,
-                        "feedback": ""
-                    },
-                    {
-                        "id": "3",
-                        "text": "Usar bombillas de bajo consumo.",
+                        "text": "Válvula aórtica.",
                         "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "4",
-                        "text": "Todas las anteriores son correctas.",
-                        "correct": true,
+                        "text": "Válvula pulmonar.",
+                        "correct": false,
                         "feedback": ""
                     }
                 ]
@@ -785,84 +44,35 @@
             {
                 "id": "2",
                 "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "¿La siguiente afirmación es verdadera o falsa: Para considerarse una reforma como sostenible es necesario poder calcular el valor exacto del ahorro porcentual relevante en rendimiento energético?",
-                "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto!",
-                "feedback_ko": "¡Incorrecto!",
+                "qTitle": "¿Qué cavidad del corazón recibe la sangre venosa que llega desde los pulmones al corazón?",
+                "instructions": "Selecciona las opciones que consideres correctas:",
+                "feedback_ok": "¡Correcto! Las aurículas reciben la sangre venosa que llega desde el organismo hasta el corazón. La aurícula izquierda recibe sangre oxigenada de la circulación pulmonar, mientras que la aurícula derecha recibe sangre desoxigenada desde la circulación sistémica (el resto del cuerpo).",
+                "feedback_ko": "¡Incorrecto! Las aurículas reciben la sangre venosa que llega desde el organismo hasta el corazón. La aurícula izquierda recibe sangre oxigenada de la circulación pulmonar, mientras que la aurícula derecha recibe sangre desoxigenada desde la circulación sistémica (el resto del cuerpo).",
                 "topic": "",
-                "options_order_random": false,
-                "options": [
-                    {
-                        "id": "1",
-                        "text": "Verdadero.",
-                        "correct": false,
-                        "feedback": ""
-                    },
-                    {
-                        "id": "2",
-                        "text": "Falso.",
-                        "correct": true,
-                        "feedback": ""
-                    }
-                ]
-            }
-        ],
-        "6.6": [
-            {
-                "id": "1",
-                "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "Las certificaciones por las que se considera sostenible una vivienda dependen:",
-                "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto!",
-                "feedback_ko": "¡Incorrecto!",
-                "topic": "",
+                "points": 3,
                 "options_order_random": true,
                 "options": [
                     {
                         "id": "1",
-                        "text": "De un convenio internacional.",
-                        "correct": false,
+                        "text": "Aurícula izquierda.",
+                        "correct": true,
                         "feedback": ""
                     },
                     {
                         "id": "2",
-                        "text": "De la ONU.",
+                        "text": "Aurícula derecha.",
                         "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "3",
-                        "text": "De cada geografía.",
-                        "correct": true,
-                        "feedback": ""
-                    }
-                ]
-            },
-            {
-                "id": "2",
-                "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "¿Cuál de las siguientes afirmaciones no es verdadera respecto a los beneficios de las viviendas sostenibles?",
-                "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto!",
-                "feedback_ko": "¡Incorrecto!",
-                "topic": "",
-                "options_order_random": true,
-                "options": [
-                    {
-                        "id": "1",
-                        "text": "Las facturas de la luz, el agua, el gas, etc. son menores que los de una vivienda no eficiente, existiendo un ahorro relevante.",
+                        "text": "Ventrículo izquierdo.",
                         "correct": false,
                         "feedback": ""
                     },
                     {
-                        "id": "2",
-                        "text": "Las viviendas sostenibles tienen únicamente un impacto en los gastos variables de mantenimiento y restauración.",
-                        "correct": true,
-                        "feedback": ""
-                    },
-                    {
-                        "id": "3",
-                        "text": "Las emisiones de CO2 son menores.",
+                        "id": "4",
+                        "text": "Ventrículo derecho.",
                         "correct": false,
                         "feedback": ""
                     }
@@ -871,108 +81,35 @@
             {
                 "id": "3",
                 "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "¿Cuál de las siguientes afirmaciones no es verdadera?",
+                "qTitle": "Indique la opción correcta respecto a la anatomía de los ventrículos del corazón: ",
                 "instructions": "Selecciona una opción:",
                 "feedback_ok": "¡Correcto!",
                 "feedback_ko": "¡Incorrecto!",
                 "topic": "",
+                "points": 3,
                 "options_order_random": true,
                 "options": [
                     {
                         "id": "1",
-                        "text": "La opción de vivienda sostenible está dirigida a un público objetivo muy concreto por el alto coste inicial de la inversión.",
+                        "text": "El ventrículo derecho es más grueso (tiene más masa) que el izquierdo.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "El ventrículo derecho es más anterior que el izquierdo.",
                         "correct": true,
-                        "feedback": ""
-                    },
-                    {
-                        "id": "2",
-                        "text": "Las viviendas sostenibles generan una eficiencia en el gasto energético a medio - largo plazo.",
-                        "correct": false,
-                        "feedback": ""
-                    }
-                ]
-            }
-        ],
-        "7.6": [
-            {
-                "id": "1",
-                "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "Las inversiones sostenibles se caracterizan por…",
-                "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto!",
-                "feedback_ko": "¡Incorrecto!",
-                "topic": "",
-                "options_order_random": true,
-                "options": [
-                    {
-                        "id": "1",
-                        "text": "Aportar retornos a largo plazo para los inversores.",
-                        "correct": false,
-                        "feedback": ""
-                    },
-                    {
-                        "id": "2",
-                        "text": "Beneficios sobre la sociedad.",
-                        "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "3",
-                        "text": "Ambas respuestas son correctas.",
-                        "correct": true,
-                        "feedback": ""
-                    }
-                ]
-            },
-            {
-                "id": "2",
-                "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "¿Cuál de las siguientes afirmaciones es correcta sobre los beneficios de incluir criterios sostenibles en la inversión?",
-                "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto!",
-                "feedback_ko": "¡Incorrecto!",
-                "topic": "",
-                "options_order_random": true,
-                "options": [
-                    {
-                        "id": "1",
-                        "text": "La inclusión de criterios ASG en el proceso inversor es rentable: si bien no hay evidencia empírica y académica de que esta integración genera mayor rentabilidad.",
+                        "text": "El ventrículo izquierdo tiene tracto de salida anatómico mientras que el derecho no lo tiene.",
                         "correct": false,
                         "feedback": ""
                     },
                     {
-                        "id": "2",
-                        "text": "El riesgo a largo plazo se mitiga totalmente, sirviendo como filtro de calidad adicional al detectar empresas con mayor adaptabilidad a la nueva tecnología.",
-                        "correct": false,
-                        "feedback": ""
-                    },
-                    {
-                        "id": "3",
-                        "text": "Las decisiones de inversión son más completas al incluir todos los factores: permitiendo contribuir a un mundo más sostenible.",
-                        "correct": true,
-                        "feedback": ""
-                    }
-                ]
-            },
-            {
-                "id": "3",
-                "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "La inversión socialmente responsable (ISR) es un tipo de enfoque de inversión orientado al:",
-                "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto!",
-                "feedback_ko": "¡Incorrecto!",
-                "topic": "",
-                "options_order_random": true,
-                "options": [
-                    {
-                        "id": "1",
-                        "text": "Largo plazo.",
-                        "correct": true,
-                        "feedback": ""
-                    },
-                    {
-                        "id": "2",
-                        "text": "Corto plazo.",
+                        "id": "4",
+                        "text": "El ventrículo izquierdo tiene músculos papilares y el derecho no los tiene.",
                         "correct": false,
                         "feedback": ""
                     }
