@@ -34,6 +34,10 @@ app-parent > .container-fluid .wrapper > .container-fluid .main-content .main {
 background-color: #0460A9 !important;
 }
 
+.activity activity-test .testcontent .page-indicator, .activity mines-weeper-test .testcontent .page-indicator {
+    display: none !important;
+}
+
 .pretitle, .subtitle {
     display: block;
     color: #ec9a1e !important;
