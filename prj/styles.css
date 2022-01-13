@@ -1,0 +1,41 @@
+module-header header {
+    background: #0460A9 !important;
+}
+
+app-parent ::-webkit-scrollbar-thumb {
+    background: #EC9A1E !important;
+    border-radius: 0.8rem;
+}
+
+progress-menu-2021 .progress-container {
+    background-color: #0460A9 !important;
+    color:#fff;
+}
+
+progress-menu-2021 .progress-container .progress .progress-bar {
+    background-color: #ec9a1e !important;
+}
+
+
+netflix .netflix .netflix-cover .cover-info .frame-header h2 {
+    
+    color: #ec9a1e !important;
+}
+
+.btn.btn-netflix, .btn.btn-netflix:not([href]):not([tabindex]) {
+    background: #ec9a1e !important;
+    font-weight: 600;
+    color: #20272F !important;
+    padding: 0.7rem 1.2rem 0.8rem;
+    border: 2px solid #ec9a1e !important;
+}
+
+app-parent > .container-fluid .wrapper > .container-fluid .main-content .main {
+background-color: #0460A9 !important;
+}
+
+.pretitle, .subtitle {
+    display: block;
+    color: #ec9a1e !important;
+}
+
