@@ -1,0 +1,66 @@
+{
+    "PERCENTAGE_SUCCESS": 70,
+    "TEST_FINAL_PROPORTION": [],
+    "MAX_ATTEMPS": 2,
+    "MENU_TOOLTIP_TIMES": 1,
+    "ACTIVITY_TUTORIAL_TOOLTIP_TIMES": 3,
+    "show_timeline": false,
+    "show_header": true,
+    "show_menu": false,
+    "show_module_status": false,
+    "show_progress_header": true,
+    "show_logo_header": true,
+    "show_back_netflix": true,
+    "show_lang_header": true,
+    "header": {
+        "show": true,
+        "show_logo": true,
+        "show_ico": true,
+        "show_section": true,
+        "mod_menu": true,
+        "show_lang": false
+    },
+    "intro_module_completed_state": true,
+    "free_navigation": true,
+    "tutorial": {
+        "show": false,
+        "slides": [
+            {
+                "img": "0-2-cover-img.jpg",
+                "color": "#ff4d4d"
+            },
+            {
+                "img": "",
+                "color": "#32ff7e"
+            },
+            {
+                "img": "",
+                "color": "#18dcff"
+            },
+            {
+                "img": "",
+                "color": "#c56cf0"
+            }
+        ]
+    },
+    "langs": [
+        {
+            "code": "es",
+            "display": "ES",
+            "src_sufix": ""
+        }
+    ],
+    "video": {
+        "path": ""
+    },
+    "decisions": {
+        "active": false,
+        "mode": 0,
+        "total_answers_value": 51,
+        "total_answers_questions": 17,
+        "description": "MODE: 0->only one try, 1->better answer"
+    },
+    "glosary": {
+        "active": true
+    }
+}

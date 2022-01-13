@@ -1,0 +1,586 @@
+{
+    "minesweeper": {
+        "0.0.0": [
+            {
+                "config": {
+                    "validation_auto": true,
+                    "feedback_review": true
+                },
+                "id": "1",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "El principio Lean Mindset busca",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto!",
+                "feedback_ko": "¡Incorrecto!",
+                "timeCountDown_mine": 30,
+                "topic": "",
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Evitar cualquier trabajo extra o gasto que no aporte valor al cliente para entregar al cliente exactamente lo que necesita y le genera valor.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Hacer procesos ágiles que maximicen el ahorro en la prestación de servicios al cliente.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "config": {
+                    "validation_auto": true,
+                    "feedback_review": true
+                },
+                "id": "2",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Para alcanzar la excelencia en la entrega de productos y servicios, se han definido:",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto!",
+                "feedback_ko": "¡Incorrecto!",
+                "timeCountDown_mine": 30,
+                "topic": "",
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "10 principios de diseño, gestión y entrega que aplican al trabajo diario de un BEx.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "10 principios para gestionar un Bex de forma eficiente.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "config": {
+                    "validation_auto": true,
+                    "feedback_review": true
+                },
+                "id": "3",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Para BBVA la sostenibilidad implica",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto!",
+                "feedback_ko": "¡Incorrecto!",
+                "timeCountDown_mine": 30,
+                "topic": "",
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Diseñar los servicios lo más sostenibles posible, minimizando el uso de papel y el consumo de recursos energéticos y velar por la inclusión social.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Diseñar los servicios lo más sostenibles posible, minimizando el uso de papel y el consumo de recursos energéticos.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "config": {
+                    "validation_auto": true,
+                    "feedback_review": true
+                },
+                "id": "4",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "De cara a la transformación mediante automatización, es mejor:",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto!",
+                "feedback_ko": "¡Incorrecto!",
+                "timeCountDown_mine": 30,
+                "topic": "",
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Concebir la automatización de los procesos completos (“end to end”) antes de su lanzamiento, evitando al máximo el procesamiento manual.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Ir autorizando poco a poco las partes más engorrosas en las que interviene el cliente.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "config": {
+                    "validation_auto": true,
+                    "feedback_review": true
+                },
+                "id": "5",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Para modernizarnos, es necesario lanzar aplicaciones novedosas y con muchas funcionalidades rápidamente para no perder ritmo (Verdadero o Falso)",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto!",
+                "feedback_ko": "¡Incorrecto!",
+                "timeCountDown_mine": 30,
+                "topic": "",
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Recuerda, testar los procesos que soportan los servicios son clave, lanzar servicios no testados pueden afectar gravemente la relación con los clientes.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "En efecto, lo importante no es lanzar continuamente servicios sino que estos funcionen como el cliente espera, por lo que es necesario probarlos antes de lanzarlos.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "config": {
+                    "validation_auto": true,
+                    "feedback_review": true
+                },
+                "id": "6",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "El principio de fiabilidad es importante para un BEx debido a que:",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto!",
+                "feedback_ko": "¡Incorrecto!",
+                "timeCountDown_mine": 30,
+                "topic": "",
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "La incorporación de nuevos servicios, no debe afectar a la calidad ni a la prestación de otros servicios.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Ayuda a identificar procesos susceptibles de mejorar.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "config": {
+                    "validation_auto": true,
+                    "feedback_review": true
+                },
+                "id": "7",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "La medición de las variables de los principales servicios son necesarias para:",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto!",
+                "feedback_ko": "¡Incorrecto!",
+                "timeCountDown_mine": 30,
+                "topic": "",
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Tener información que nos permitirá mejorar nuestros procesos y servicios hasta llegar a ser excelentes en la entrega y conseguir los objetivos perseguidos de calidad-experiencia cliente, productividad y control.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Seguir de cerca los gastos para detectar desviaciones presupuestarias y oportunidades de eficiencia en costes.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "config": {
+                    "validation_auto": true,
+                    "feedback_review": true
+                },
+                "id": "8",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "El acronimo IRENE significa:",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto!",
+                "feedback_ko": "¡Incorrecto!",
+                "timeCountDown_mine": 30,
+                "topic": "",
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Índice de Recomendación Neta y sirve para conocer la percepción de los clientes sobre la entrega de los servicios.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Índice de Reorganización de Negocio, comúnmente usado para medir la eficacia en la implementación de cambios organizaciones.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "config": {
+                    "validation_auto": true,
+                    "feedback_review": true
+                },
+                "id": "9",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "La mejora continua consiste en:",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto!",
+                "feedback_ko": "¡Incorrecto!",
+                "timeCountDown_mine": 30,
+                "topic": "",
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Un proceso sostenible, organizado, sistemático y permanente en el tiempo, para mejorar día a día con pequeños, pero constantes cambios en los servicios.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Un proceso mediante el cual es posible priorizar procesos de mejora de procesos basado en robótica y machine learning.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "config": {
+                    "validation_auto": true,
+                    "feedback_review": true
+                },
+                "id": "10",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Los eventos kaizen son importantes para la mejora continua debido a:",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto!",
+                "feedback_ko": "¡Incorrecto!",
+                "timeCountDown_mine": 30,
+                "topic": "",
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Identificar puntos de dolor, oportunidades de mejora o sugerencias puedan canalizarse adecuadamente para introducir estas mejoras.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Priorizar el backlog de iniciativas de mejora de cara a futuros desarrollos.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "config": {
+                    "validation_auto": true,
+                    "feedback_review": true
+                },
+                "id": "11",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Acordar los niveles de servicio esperado por el cliente sirve para:",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto!",
+                "feedback_ko": "¡Incorrecto!",
+                "timeCountDown_mine": 30,
+                "topic": "",
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Conocer qué es lo más relevante para el cliente, así como el mínimo nivel de servicio a partir del cual estará satisfecho.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Conocer las expectativas del cliente para poder ofrecer más funcionalidades y sorprenderlo.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "config": {
+                    "validation_auto": true,
+                    "feedback_review": true
+                },
+                "id": "12",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Los acuerdos de nivel de servicio (ANS) son:",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto!",
+                "feedback_ko": "¡Incorrecto!",
+                "timeCountDown_mine": 30,
+                "topic": "",
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Una serie de condiciones mínimas acordadas que ha de cumplir el entregable para que sea considerado como satisfactorio por parte del cliente.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Una norma estándar de mercado, por la cual las empresas de servicio son capaces de comparar niveles de calidad entre si.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "config": {
+                    "validation_auto": true,
+                    "feedback_review": true
+                },
+                "id": "13",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Un servicio es:",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto!",
+                "feedback_ko": "¡Incorrecto!",
+                "timeCountDown_mine": 30,
+                "topic": "",
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Un determinado entregable o producto que se presta o ejecuta por los BEx y que permite satisfacer las necesidades de un cliente.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Un determinado entregable o producto que se presta o ejecuta por los BEx con independencia de los destinatarios o clientes.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "config": {
+                    "validation_auto": true,
+                    "feedback_review": true
+                },
+                "id": "14",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Validar periódicamente con el cliente los servicios que se le prestan sirve para:",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto!",
+                "feedback_ko": "¡Incorrecto!",
+                "timeCountDown_mine": 30,
+                "topic": "",
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Validar que continúa cubriendo sus necesidades y en caso contrario modificarlo o directamente dejarlo de hacer.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Identificar oportunidades de automatización o ahorro.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "config": {
+                    "validation_auto": true,
+                    "feedback_review": true
+                },
+                "id": "15",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "La misión de un área de operaciones es:",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto!",
+                "feedback_ko": "¡Incorrecto!",
+                "timeCountDown_mine": 30,
+                "topic": "",
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Entregar productos y servicios excelentes que ayuden a conseguir los objetivos estratégicos del Banco, buscando crear una ventaja competitiva en términos de calidad-experiencia cliente, productividad y control, mediante la transformación y mejora continua de los procesos operativos.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Entregar la mayor cantidad de servicios posible, con la finalidad que el cliente tenga a su alcance en todo momento el 100% de las capacidades del BEx.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "config": {
+                    "validation_auto": true,
+                    "feedback_review": true
+                },
+                "id": "16",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "La frase de Confucio “la vida es muy simple, pero insistimos en complicarla” se puede asociar al principio de:",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto!",
+                "feedback_ko": "¡Incorrecto!",
+                "timeCountDown_mine": 30,
+                "topic": "",
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Mentalidad Lean.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Sostenibilidad.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "config": {
+                    "validation_auto": true,
+                    "feedback_review": true
+                },
+                "id": "17",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Es importante asignar las tareas de mayor valor a los mejores recursos y para ello, es necesario:",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto!",
+                "feedback_ko": "¡Incorrecto!",
+                "timeCountDown_mine": 30,
+                "topic": "",
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Identificar y potenciar el talento en el equipo al tiempo que se automatizan las tareas repetitivas y de bajo valor.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Robotizar las tareas complejas para que los equipos ejecuten las más baratas.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "config": {
+                    "validation_auto": true,
+                    "feedback_review": true
+                },
+                "id": "18",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Probar y testar con los clientes la creación de un nuevo servicio o la modificación de uno existente es importante para:",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto!",
+                "feedback_ko": "¡Incorrecto!",
+                "timeCountDown_mine": 30,
+                "topic": "",
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Maximizar la fiabilidad en la entrega y cumplir los estándares de calidad.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Obtener información útil para la creación de nuevos servicios.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "config": {
+                    "validation_auto": true,
+                    "feedback_review": true
+                },
+                "id": "19",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Necesitamos medir la forma en la que estamos ejecutando los procesos y entregando los servicios para:",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto!",
+                "feedback_ko": "¡Incorrecto!",
+                "timeCountDown_mine": 30,
+                "topic": "",
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Tener información que nos permita mejorar nuestros procesos y servicios hasta llegar a ser excelentes en la entrega y conseguir los objetivos perseguidos de calidad-experiencia cliente, productividad y control.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Ajustar los presupuestos y la productividad.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "config": {
+                    "validation_auto": true,
+                    "feedback_review": true
+                },
+                "id": "20",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Para asegurar la entrega de los servicios antes de implantar nuevos procesos es necesario comprobar:",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto!",
+                "feedback_ko": "¡Incorrecto!",
+                "timeCountDown_mine": 30,
+                "topic": "",
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Impacto en otros servicios, impacto en ANS y controles existentes para asegurar la entrega.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Coste medio por operación, fases del proyecto y fecha de implantación.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            }
+        ]
+    }
+}

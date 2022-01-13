@@ -1,0 +1,394 @@
+{
+    "workbook-inputs": [
+        {
+            "id": "0.9.3-1",
+            "title": "¿Qué mecanismos (sesgos o atajos) puedes observar?",
+            "placeholder": "",
+            "css": "col-12",
+            "limit": "250",
+            "mandatory": true,
+            "config": {
+                "print": true,
+                "show": true,
+                "type": "other"
+            }
+        },
+        {
+            "id": "0.9.3-2",
+            "title": "¿Cuáles están bien aplicados y cuáles mal aplicados?<br><span class='text-sm text-white font-weight-normal'>En todos los casos vamos a encontrar varios mecanismos: tres, cuatro y hasta cinco diferentes. Así que revisa muy bien todas las todas las tarjetas para identificarlos.</span>",
+            "placeholder": "",
+            "css": "",
+            "limit": "250",
+            "mandatory": true,
+            "config": {
+                "print": true,
+                "show": true,
+                "type": "exercise"
+            }
+        },
+        {
+            "id": "0.9.4-1",
+            "title": "Aquí vemos que hay un montón de información y tienes que ver qué mecanismos se están aplicando bien y cuáles crees que no están presentes ( y deberían estar) o no se están aplicando bien.",
+            "placeholder": "",
+            "css": "col-12 pl-0",
+            "limit": "250",
+            "mandatory": true,
+            "config": {
+                "print": true,
+                "show": true,
+                "type": "exercise"
+            }
+        },
+        {
+            "id": "0.9.5-1",
+            "title": "Identifica los mecanismos que hay en toda esta página y cómo se están aplicando en la parte positiva o en la parte negativa. ",
+            "placeholder": "",
+            "css": "col-12 px-0",
+            "limit": "250",
+            "mandatory": true,
+            "config": {
+                "print": true,
+                "show": true,
+                "type": "exercise"
+            }
+        },
+        {
+            "id": "0.9.6-1",
+            "title": "¿Qué mecanismos crees que están utilizando para influir en el comportamiento de los conductores?",
+            "placeholder": "",
+            "css": "col-12 px-0",
+            "limit": "250",
+            "mandatory": true,
+            "config": {
+                "print": true,
+                "show": true,
+                "type": "exercise"
+            }
+        },
+        {
+            "id": "0.9.7-1",
+            "title": "De nuevo, el objetivo es analizar toda la estructura de la página web, toda la información que está aquí presentada para identificar los mecanismos que se están aplicando, y si se están aplicando bien o mal, es decir las barreras y dificultades que puede haber, o por el contrario los facilitadores.",
+            "placeholder": "",
+            "css": "col-12 px-0",
+            "limit": "250",
+            "mandatory": true,
+            "config": {
+                "print": true,
+                "show": true,
+                "type": "exercise"
+            }
+        },
+        {
+            "id": "1.6.6-1",
+            "title": "¿Qué comportamiento queremos cambiar? <br><span class='text-sm text-white font-weight-normal'>(BE siempre actúa sobre un cambio de comportamiento)</span>",
+            "placeholder": "",
+            "css": "col-12",
+            "limit": "250",
+            "mandatory": true,
+            "config": {
+                "print": true,
+                "show": true,
+                "type": "exercise"
+            }
+        },
+        {
+            "id": "1.6.6-2",
+            "title": "¿Cómo estamos midiendo o vamos a medir ese comportamiento? ¿Cómo mediremos el éxito?<br><span class='text-sm text-white font-weight-normal'>(Es importante tener de antemano descritos los objetivos/KPIs con los que mediremos el éxito de la intervención BE)</span>",
+            "placeholder": "",
+            "css": "col-12",
+            "limit": "250",
+            "mandatory": true,
+            "config": {
+                "print": true,
+                "show": true,
+                "type": "exercise"
+            }
+        },
+        {
+            "id": "1.6.6-3",
+            "title": "¿Qué problemas puede tener el cliente para realizar el cambio de comportamiento indicado?",
+            "placeholder": "",
+            "css": "col-12",
+            "limit": "250",
+            "mandatory": true,
+            "config": {
+                "print": true,
+                "show": true,
+                "type": "exercise"
+            }
+        },
+        {
+            "id": "1.6.6-4",
+            "title": "¿Qué barreras cognitivas identificamos? Puedes identificar una o más de una barreras a la acción por parte del cliente <br><span class='text-sm text-white font-weight-normal'>(en esta parte te puede servir de ayuda las Tarjetas de mecanismos)</span>",
+            "placeholder": "",
+            "css": "col-12",
+            "limit": "250",
+            "mandatory": true,
+            "config": {
+                "print": true,
+                "show": true,
+                "type": "exercise"
+            }
+        },
+        {
+            "id": "1.6.8-1",
+            "title": "¿Qué comportamiento queremos cambiar? <br><span class='text-sm text-white font-weight-normal'>(BE siempre actúa sobre un cambio de comportamiento)</span>",
+            "placeholder": "",
+            "css": "col-12",
+            "limit": "250",
+            "mandatory": true,
+            "config": {
+                "print": true,
+                "show": true,
+                "type": "exercise"
+            }
+        },
+        {
+            "id": "1.6.8-2",
+            "title": "¿Cómo estamos midiendo o vamos a medir ese comportamiento? ¿Cómo mediremos el éxito? <br><span class='text-sm text-white font-weight-normal'>(es importante tener de antemano descritos los objetivos/KPIs con los que mediremos el éxito de la intervención BE)</span>",
+            "placeholder": "",
+            "css": "col-12",
+            "limit": "250",
+            "mandatory": true,
+            "config": {
+                "print": true,
+                "show": true,
+                "type": "exercise"
+            }
+        },
+        {
+            "id": "1.6.8-3",
+            "title": "¿Qué problemas puede tener el cliente para realizar el cambio de comportamiento indicado?",
+            "placeholder": "",
+            "css": "col-12",
+            "limit": "250",
+            "mandatory": true,
+            "config": {
+                "print": true,
+                "show": true,
+                "type": "exercise"
+            }
+        },
+        {
+            "id": "1.6.8-4",
+            "title": "¿Qué barreras cognitivas identificamos? Puedes identificar una o más de una barreras a la acción por parte del cliente <br><span class='text-sm text-white font-weight-normal'>(En esta parte os pueden servir de ayuda las Tarjetas de mecanismos)</span>",
+            "placeholder": "",
+            "css": "col-12",
+            "limit": "250",
+            "mandatory": true,
+            "config": {
+                "print": true,
+                "show": true,
+                "type": "exercise"
+            }
+        },
+        {
+            "id": "2.6.2-1",
+            "title": "¿Cómo ayudarías al equipo de T&C a repensar un mejor producto de Pensiones para el empleado?",
+            "placeholder": "",
+            "css": "col-12",
+            "limit": "250",
+            "mandatory": true,
+            "config": {
+                "print": true,
+                "show": true,
+                "type": "exercise"
+            }
+        },
+        {
+            "id": "2.6.2-2",
+            "title": "¿Cómo mejorarías la interacción en el site para conseguir que más empleados contribuyan a su Plan Porvenir?",
+            "placeholder": "",
+            "css": "col-12",
+            "limit": "250",
+            "mandatory": true,
+            "config": {
+                "print": true,
+                "show": true,
+                "type": "exercise"
+            }
+        },
+        {
+            "id": "2.7.2-1",
+            "title": "¿Qué comportamiento queremos cambiar?<br><span class='text-sm text-white font-weight-normal'>(BE siempre actúa sobre un cambio de comportamiento)</span>",
+            "placeholder": "",
+            "css": "col-12",
+            "limit": "250",
+            "mandatory": true,
+            "config": {
+                "print": true,
+                "show": true,
+                "type": "exercise"
+            }
+        },
+        {
+            "id": "2.7.2-2",
+            "title": "¿Cómo estamos midiendo o vamos a medir ese comportamiento? ¿Cómo mediremos el éxito?<br><span class='text-sm text-white font-weight-normal'>(Es importante tener de antemano descritos los objetivos/KPIs con los que mediremos el éxito de la intervención BE)</span>",
+            "placeholder": "",
+            "css": "col-12",
+            "limit": "250",
+            "mandatory": true,
+            "config": {
+                "print": true,
+                "show": true,
+                "type": "exercise"
+            }
+        },
+        {
+            "id": "2.7.3-1",
+            "title": " ¿Qué problemas puede tener el cliente para realizar el cambio de comportamiento indicado?",
+            "placeholder": "",
+            "css": "col-12",
+            "limit": "250",
+            "mandatory": true,
+            "config": {
+                "print": true,
+                "show": true,
+                "type": "exercise"
+            }
+        },
+        {
+            "id": "2.7.3-2",
+            "title": "¿Qué barreras cognitivas identificamos?<br><span class='text-sm text-white font-weight-normal'>Puedes identificar una o más de una barrera a la acción por parte del cliente (En esta parte te pueden servir de ayuda las Tarjetas de mecanismos)</span>",
+            "placeholder": "",
+            "css": "col-12",
+            "limit": "250",
+            "mandatory": true,
+            "config": {
+                "print": true,
+                "show": true,
+                "type": "exercise"
+            }
+        },
+        {
+            "id": "2.7.4-1",
+            "title": "Una vez identificadas las diferentes barreras a la acción, diseña las diferentes formas en las que crees que se pueden neutralizar estas barreras (generalmente se suele utilizar un Nudge o hacer un Debiasing).",
+            "placeholder": "",
+            "css": "col-12",
+            "limit": "250",
+            "mandatory": true,
+            "config": {
+                "print": true,
+                "show": true,
+                "type": "exercise"
+            }
+        },
+        {
+            "id": "2.7.4-2",
+            "title": "Cada una de estas posibles soluciones que diseñes se llamarán “hipótesis” (que posteriormente se deberán validar con un test para saber cuál es la que mayor efectividad tiene con el cliente).<br>Para este ejercicio únicamente tendrás que plantear las diferentes hipótesis por cada barrera de acción identificada, justificando el mecanismo que vas a utilizar en cada una de ellas.<br><span class='text-sm text-white font-weight-normal'>(Puedes hacer un boceto en un papel con lápiz o bolígrafo y hacerle una foto para mostrar en la sesión de puesta en común. Nuevamente puedes apoyarte en las tarjetas para pensar en posibles hipótesis)</span>",
+            "placeholder": "",
+            "css": "col-12",
+            "limit": "250",
+            "mandatory": true,
+            "config": {
+                "print": true,
+                "show": true,
+                "type": "exercise"
+            }
+        },
+        {
+            "id": "2.7.5-1",
+            "title": "Elige si llevarás a cabo un pre-test o un RCT<ul class='simple-list my-4'><li>Identifica cuales son la o las versiones BE que quieres probar</li><li>Señala cual es tu control</li><li>Qué muestra vas a seleccionar (perfil y tamaño)</li><li>Cuánto tiempo va a durar el test</li><li>Qué KPI / KPIs de medición de éxito tendrás</li><li>Cómo validarás los resultados obtenidos</li></ul>",
+            "placeholder": "",
+            "css": "col-12",
+            "limit": "500",
+            "mandatory": true,
+            "config": {
+                "print": true,
+                "show": true,
+                "type": "exercise"
+            }
+        },
+        {
+            "id": "2.7.7-1",
+            "title": "¿Qué comportamiento queremos cambiar?<br><span class='text-sm text-white font-weight-normal'>(BE siempre actúa sobre un cambio de comportamiento)</span>",
+            "placeholder": "",
+            "css": "col-12",
+            "limit": "250",
+            "mandatory": true,
+            "config": {
+                "print": true,
+                "show": true,
+                "type": "exercise"
+            }
+        },
+        {
+            "id": "2.7.7-2",
+            "title": "¿Cómo estamos midiendo o vamos a medir ese comportamiento? ¿Cómo mediremos el éxito?<br><span class='text-sm text-white font-weight-normal'>(Es importante tener de antemano descritos los objetivos/KPIs con los que mediremos el éxito de la intervención BE)</span>",
+            "placeholder": "",
+            "css": "col-12",
+            "limit": "250",
+            "mandatory": true,
+            "config": {
+                "print": true,
+                "show": true,
+                "type": "exercise"
+            }
+        },
+        {
+            "id": "2.7.8-1",
+            "title": " ¿Qué problemas puede tener el cliente para realizar el cambio de comportamiento indicado?",
+            "placeholder": "",
+            "css": "col-12",
+            "limit": "250",
+            "mandatory": true,
+            "config": {
+                "print": true,
+                "show": true,
+                "type": "exercise"
+            }
+        },
+        {
+            "id": "2.7.8-2",
+            "title": "¿Qué barreras cognitivas identificamos?<br><span class='text-sm text-white font-weight-normal'>Puedes identificar una o más de una barrera a la acción por parte del cliente (En esta parte te pueden servir de ayuda las Tarjetas de mecanismos)</span>",
+            "placeholder": "",
+            "css": "col-12",
+            "limit": "250",
+            "mandatory": true,
+            "config": {
+                "print": true,
+                "show": true,
+                "type": "exercise"
+            }
+        },
+        {
+            "id": "2.7.9-1",
+            "title": "Una vez identificadas las diferentes barreras a la acción, diseña las diferentes formas en las que crees que se pueden neutralizar estas barreras (generalmente se suele utilizar un Nudge o hacer un Debiasing).",
+            "placeholder": "",
+            "css": "col-12",
+            "limit": "250",
+            "mandatory": true,
+            "config": {
+                "print": true,
+                "show": true,
+                "type": "exercise"
+            }
+        },
+        {
+            "id": "2.7.9-2",
+            "title": "Cada una de estas posibles soluciones que diseñes se llamarán “hipótesis” (que posteriormente se deberán validar con un test para saber cuál es la que mayor efectividad tiene con el cliente).<br>Para este ejercicio únicamente tendrás que plantear las diferentes hipótesis por cada barrera de acción identificada, justificando el mecanismo que vas a utilizar en cada una de ellas.<br><span class='text-sm text-white font-weight-normal'>(Puedes hacer un boceto en un papel con lápiz o bolígrafo y hacerle una foto para mostrar en la sesión de puesta en común. Nuevamente puedes apoyarte en las tarjetas para pensar en posibles hipótesis)</span>",
+            "placeholder": "",
+            "css": "col-12",
+            "limit": "250",
+            "mandatory": true,
+            "config": {
+                "print": true,
+                "show": true,
+                "type": "exercise"
+            }
+        },
+        {
+            "id": "2.7.10-1",
+            "title": "Elige si llevarás a cabo un pre-test o un RCT<ul class='simple-list my-4'><li>Identifica cuales son la o las versiones BE que quieres probar</li><li>Señala cual es tu control</li><li>Qué muestra vas a seleccionar (perfil y tamaño)</li><li>Cuánto tiempo va a durar el test</li><li>Qué KPI / KPIs de medición de éxito tendrás</li><li>Cómo validarás los resultados obtenidos</li></ul>",
+            "placeholder": "",
+            "css": "col-12",
+            "limit": "500",
+            "mandatory": true,
+            "config": {
+                "print": true,
+                "show": true,
+                "type": "exercise"
+            }
+        }
+    ]
+}

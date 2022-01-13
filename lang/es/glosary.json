@@ -1,0 +1,237 @@
+{
+    "glosary": {
+        "terms": [
+            {
+                "id": 1,
+                "code": "bms",
+                "name": "BMS",
+                "desc": "Sistema de gestión de edificios que brinda un monitoreo, control, automatización y visualización. Además permite la interacción de más de un proyecto y de esta manera tener una comparativa de los gastos y ahorros de cada uno de ellos, por ejemplo, en las cadenas hoteleras.",
+                "side": "top"
+            },
+            {
+                "id": 2,
+                "code": "biodegradable",
+                "name": "Biodegradable",
+                "desc": "Producto o sustancia que puede descomponerse en condiciones naturales gracias a la acción de agentes biológicos (plantas, hongos, animales o microorganismos). Algunos de estos productos son la madera, la lana, el papel o la cáscara de la fruta.",
+                "side": "top"
+            },
+            {
+                "id": 3,
+                "code": "biomasa",
+                "name": "Biomasa",
+                "desc": "Fuente de energía que procede de materia orgánica. El origen puede ser animal o vegetal y se recoge de residuos agrícolas o forestales. Estos residuos se transforman en energía a través de distintos procesos químicos.",
+                "side": "top"
+            },
+            {
+                "id": 4,
+                "code": "Bonosverdesysociales",
+                "name": "Bonos verdes y sociales",
+                "desc": "Son valores de deuda emitidos por instituciones públicas o empresas privadas que se destinan exclusivamente a financiar en proyectos verdes y sostenibles.",
+                "side": "top"
+            },
+            {
+                "id": 5,
+                "code": "calentamientoglobal",
+                "name": "Calentamiento global",
+                "desc": "Aumento de la temperatura de la Tierra por la acumulación de gases de efecto invernadero. Estos no permiten que el calor reflejado en la superficie del planeta pueda escaparse al espacio.",
+                "side": "top"
+            },
+            {
+                "id": 6,
+                "code": "cer",
+                "name": "CER",
+                "desc": "Los certificados de reducción de emisiones garantizan la realización de acciones que compensen las emisiones de gases de efecto invernadero (GEI) ya producidas. Estas acciones van dirigidas, por ejemplo, a la repoblación forestal de zonas dañadas.",
+                "side": "top"
+            },
+            {
+                "id": 7,
+                "code": "certificacionbreeam",
+                "name": "Certificación BREEAM®",
+                "desc": "(Building Research Establishment Environmental Assessment Methodology): es el método de evaluación y certificación de la sostenibilidad en la edificación técnicamente más avanzado y líder a nivel mundial por el número de proyectos certificados desde su creación en 1990.",
+                "side": "top"
+            },
+            {
+                "id": 8,
+                "code": "certificaciondgnbsystem",
+                "name": "Certificación DGNB System",
+                "desc": "Sistema desarrollado por el Sustainable Building Council alemán DGNB para evaluar y certificar la sostenibilidad de edificios y distritos. ... La implementación del sistema DGNB System en cada país requiere la adaptación a las condiciones específicas del mismo.",
+                "side": "top"
+            },
+            {
+                "id": 9,
+                "code": "certificacionhqe",
+                "name": "Certificación HQE",
+                "desc": "(High Quality Environmental) es un método de evaluación y certificación de la sostenibilidad en la construcción, planificación urbana e infraestructuras con más de 20 años en el mercado, que reúne a profesionales para ofrecer a todos un entorno de vida más saludable.",
+                "side": "top"
+            },
+            {
+                "id": 10,
+                "code": "certificacionleed",
+                "name": "Certificación LEED",
+                "desc": "Sistema de certificación de proyectos, acrónimo de Leadership in Energy & Environmental Design (Liderazgo en Energía y Diseño Ambiental). Este certificado se aplica no solo a viviendas unifamiliares de nueva construcción, sino que también pueden acogerse a ella edificios rehabilitados o incluso barrios completos.",
+                "side": "top"
+            },
+            {
+                "id": 11,
+                "code": "certificacionpassivhaus",
+                "name": "Certificación Passivhaus",
+                "desc": "Se trata de un documento que reconoce con carácter oficial que las casas son merecedoras de ser consideradas sostenibles, y es una solicitud que cada día intentan conseguir más personas en todo el mundo, ya que cuenta con múltiples y positivas consecuencias.",
+                "side": "top"
+            },
+            {
+                "id": 12,
+                "code": "certificacionverde",
+                "name": "Certificación VERDE",
+                "desc": "(Valoración de Eficiencia de Referencia de Edificios) fue creado por la asociación Green Building Council España (GBCE) para fomentar la creación de un mercado más sostenible en la construcción.",
+                "side": "top"
+            },
+            {
+                "id": 13,
+                "code": "compensacionambiental",
+                "name": "Compensación ambiental",
+                "desc": "Creación de proyectos que ayuden a reparar el daño generado por la humanidad en ecosistemas naturales. De esta manera, se procura disminuir los efectos negativos de la deforestación de la extracción de materiales en el medio ambiente.",
+                "side": "top"
+            },
+            {
+                "id": 14,
+                "code": "desarrollosostenible",
+                "name": "Desarrollo sostenible",
+                "desc": "Capacidad que tiene una sociedad para satisfacer sus necesidades básicas sin comprometer los recursos ni el ecosistema de las futuras generaciones y facilitando a todos los miembros de la sociedad a participar de ellos.",
+                "side": "top"
+            },
+            {
+                "id": 15,
+                "code": "ecologia",
+                "name": "Ecología",
+                "desc": "Rama de la biología que se dedica al estudio de los seres vivos y su relación con el medio ambiente en el que habitan.",
+                "side": "top"
+            },
+            {
+                "id": 16,
+                "code": "economiacircular",
+                "name": "Economía circular",
+                "desc": "Sistema de producción y consumo que invita a compartir, reutilizar, renovar y reciclar materiales y productos existentes mientras sea posible. También se anima a reducir el consumo innecesario. De esta manera, se optimizan los materiales, alargando su vida útil y se reduce la cantidad de residuos.",
+                "side": "top"
+            },
+            {
+                "id": 17,
+                "code": "eficienciaenergetica",
+                "name": "Eficiencia energética",
+                "desc": "Medidas y sistemas que ayudan a que el consumo energético necesario para realizar una actividad sea más óptimo. Es decir, son soluciones que evitan que se utilice más energía de la necesaria.",
+                "side": "top"
+            },
+            {
+                "id": 18,
+                "code": "emisiondegasesdeefectoinvernadero",
+                "name": "Emisión de gases de efecto invernadero",
+                "desc": "Vertido a la atmósfera de diferentes sustancias contaminantes procedentes de generar energía a partir de combustibles fósiles.",
+                "side": "top"
+            },
+            {
+                "id": 19,
+                "code": "emisionesdeco2",
+                "name": "Emisiones de CO2",
+                "desc": "Vertido a la atmósfera de dióxido de carboro, uno de los gases de efecto invernadero más importantes, procedente de generar energía a partir de combustibles fósiles. Suele medirse en función de los gramos de C02 por kilómetro recorrido en un vehículo.",
+                "side": "top"
+            },
+            {
+                "id": 20,
+                "code": "ems",
+                "name": "EMS",
+                "desc": "Sistemas de gestión energética que ofrecen mayor visibilidad y control operativo de las redes de transmisión y subtransmisión en la infraestructura de suministro eléctrico.",
+                "side": "top"
+            },
+            {
+                "id": 21,
+                "code": "dondodeinversionsostenible",
+                "name": "Fondo de inversión sostenible",
+                "desc": "Opciones de inversión que, además del retorno económico, piensa en la sostenibilidad. Se apuesta principalmente por el fomento de energías renovables o por el mantenimiento de zonas verdes pero también por la lucha contra la desigualdad social o el impulso para la inclusión de las personas.",
+                "side": "top"
+            },
+            {
+                "id": 22,
+                "code": "energiarenovable",
+                "name": "Energía renovable",
+                "desc": "Energía que se obtiene de fuentes naturales e inagotables como el sol, el viento, el agua o la biomasa.",
+                "side": "top"
+            },
+            {
+                "id": 23,
+                "code": "gasesdeefectoinvernaderogei",
+                "name": "Gases de efecto invernadero (GEI)",
+                "desc": "Los gases de efecto invernadero tienen la capacidad de retener en la atmósfera la radiación que la Tierra refleja procedente del Sol. Esto ha permitido que la temperatura del planeta sea adecuada para la vida. Sin embargo, el alto volumen de emisiones ha provocado que se acumulen en exceso y está aumentando la temperatura del planeta, impidiendo que el calor sea devuelto al espacio.",
+                "side": "top"
+            },
+            {
+                "id": 24,
+                "code": "huelladecarbono",
+                "name": "Huella de carbono",
+                "desc": "Señal que deja nuestro paso en el planeta. Contabiliza la cantidad de emisiones de gases de efecto invernadero que se producen al fabricar un producto o al realizar nuestras actividades diarias. Se expresa en toneladas de CO2 emitidas. Cada persona deja una huella diferente en función de sus hábitos de consumo y sus rutinas.",
+                "side": "top"
+            },
+            {
+                "id": 25,
+                "code": "hvac",
+                "name": "HVAC",
+                "desc": "Un sistema de calefacción, ventilación y aire acondicionado (HVAC, del inglés para Heating,Ventilation and Air Conditioning) que permite controlar el movimiento, la calidad y temperatura del aire en un recinto cerrado.",
+                "side": "top"
+            },
+            {
+                "id": 26,
+                "code": "idae",
+                "name": "IDAE",
+                "desc": "Instituto para la Diversificación y Ahorro de la Energía, organismo adscrito al Ministerio para la Transición Ecológica y el Reto Demográfico cuyo objetivo es contribuir a la consecución de los objetivos que tiene adquiridos nuestro país en materia de  mejora de la eficiencia energética, energías renovables y otras tecnologías bajas en carbono.",
+                "side": "top"
+            },
+            {
+                "id": 27,
+                "code": "impactoambiental",
+                "name": "Impacto ambiental",
+                "desc": "Cambio o una alteración en el medio ambiente causada por la intervención humana. Estos cambios afectan al equilibrio de los sistemas ecológicos, incluyendo la vida humana.",
+                "side": "top"
+            },
+            {
+                "id": 28,
+                "code": "objetivosdesarrollosostenible",
+                "name": "Objetivos Desarrollo Sostenible",
+                "desc": "17 retos impulsados por Naciones Unidas cuyo fin es erradicar la pobreza, proteger el planeta y garantizar que todas las personas del mundo gocen de paz y prosperidad.",
+                "side": "top"
+            },
+            {
+                "id": 29,
+                "code": "plasticoreciclado",
+                "name": "Plástico reciclado",
+                "desc": "Material que se obtiene por la reutilización de plásticos. Su gran resistencia a la degradación permite crear nuevos productos, alargando la vida útil del recurso y disminuyendo el volumen de residuos.",
+                "side": "top"
+            },
+            {
+                "id": 30,
+                "code": "pmus",
+                "name": "PMUS",
+                "desc": "Planes de Movilidad Urbana Sostenible, son instrumentos públicos para impulsar los cambios necesarios en la movilidad urbana con criterios de sostenibilidad. Se trata de un conjunto de actuaciones que tienen como objetivo implantar formas de desplazamiento más sostenibles en el espacio urbano (caminar, pedalear o utilizar el transporte público) reduciendo el consumo energético y las emisiones contaminantes, logrando al mismo tiempo garantizar la calidad de vida de la ciudadanía, igualmente se contemplan los objetivos de lograr la cohesión social y el desarrollo económico.",
+                "side": "top"
+            },
+            {
+                "id": 31,
+                "code": "reciclaje",
+                "name": "Reciclaje",
+                "desc": "Proceso que tiene como objetivo convertir residuos en nuevos productos o en materia prima para su posterior utilización. Es un componente de la economía circular, pues permite alargar la vida útil de los materiales y ayuda a la preservación de los recursos naturales del planeta.",
+                "side": "top"
+            },
+            {
+                "id": 32,
+                "code": "residuo",
+                "name": "Residuo",
+                "desc": "Desechos que producimos en nuestras actividades diarias y de los que nos desprendemos porque han perdido su valor o utilidad.",
+                "side": "top"
+            },
+            {
+                "id": 33,
+                "code": "sostenibilidad",
+                "name": "Sostenibilidad",
+                "desc": "Satisfacción nuestras necesidades actuales sin comprometer la capacidad de las generaciones futuras para satisfacer las suyas. Está muy vinculado al equilibrio y afecta tanto al medio ambiente como a las personas, fomentando la igualdad de oportunidades entre ellas.",
+                "side": "top"
+            }
+        ]
+    }
+}
