@@ -37,18 +37,12 @@ background-color: #0460A9 !important;
 .activity activity-test .testcontent .page-indicator, .activity mines-weeper-test .testcontent .page-indicator {
     display: none !important;
 }
-
+.activity activity-test .testcontent, .activity mines-weeper-test .testcontent {
+    background: #ffffff !important;
+}
 .pretitle, .subtitle {
     display: block;
     color: #ec9a1e !important;
 }
 
-.activity-1-6-1 {
-    background-color:#fff;
-}
-.activity-1-6-2 {
-    background-color:#fff;
-}
-.activity-1-6-3 {
-    background-color:#fff;
-}
+

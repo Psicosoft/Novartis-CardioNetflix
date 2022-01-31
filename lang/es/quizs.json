@@ -83,8 +83,8 @@
                 "qType": "TEST_TYPE.SINGLE_OPTION",
                 "qTitle": "Indique la opción correcta respecto a la anatomía de los ventrículos del corazón: ",
                 "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto!",
-                "feedback_ko": "¡Incorrecto!",
+                "feedback_ok": "¡Correcto! El ventrículo izquierdo es más grueso (más masa) que el derecho, y se sitúa más posterior en el tórax. Los dos ventrículos tienen músculos papilares para “sujetar” las válvulas aurículo-ventriculares mediante cuerdas tendinosas. Por último, el ventrículo derecho tiene un tracto de salida (con forma tubular) anatómico para la salida de la sangre, mientras que en el ventrículo izquierdo el tracto de salida es simplemente una posición virtual por debajo de la válvula aórtica, que sale directamente del ventrículo izquierdo sin “tubo” alguno.",
+                "feedback_ko": "¡Incorrecto! El ventrículo izquierdo es más grueso (más masa) que el derecho, y se sitúa más posterior en el tórax. Los dos ventrículos tienen músculos papilares para “sujetar” las válvulas aurículo-ventriculares mediante cuerdas tendinosas. Por último, el ventrículo derecho tiene un tracto de salida (con forma tubular) anatómico para la salida de la sangre, mientras que en el ventrículo izquierdo el tracto de salida es simplemente una posición virtual por debajo de la válvula aórtica, que sale directamente del ventrículo izquierdo sin “tubo” alguno.",
                 "topic": "",
                 "points": 3,
                 "options_order_random": true,
@@ -110,6 +110,635 @@
                     {
                         "id": "4",
                         "text": "El ventrículo izquierdo tiene músculos papilares y el derecho no los tiene.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "4",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿Dónde tienen su origen las arterias coronarias, encargadas de transportar sangre oxigenada al corazón? ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Las arterias coronarias, que transportan sangre oxigenada al corazón, nacen de la aorta ascendente, en concreto de la raíz aórtica (la porción más cercana al corazón).",
+                "feedback_ko": "¡Incorrecto! Las arterias coronarias, que transportan sangre oxigenada al corazón, nacen de la aorta ascendente, en concreto de la raíz aórtica (la porción más cercana al corazón).",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "En el ventrículo izquierdo.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "En la aurícula izquierda.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "En la arteria pulmonar.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "En la raíz de la arteria aorta.",
+                        "correct": true,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "5",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿Para qué sirve la circulación portal?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! La circulación portal es un sistema de circulación venosa que recoge la sangre venosa del tubo digestivo, incluyendo todos los nutrientes absorbidos con la digestión de los alimentos, y la transporta al hígado para que este metabolice los nutrientes obtenidos. ",
+                "feedback_ko": "¡Incorrecto! La circulación portal es un sistema de circulación venosa que recoge la sangre venosa del tubo digestivo, incluyendo todos los nutrientes absorbidos con la digestión de los alimentos, y la transporta al hígado para que este metabolice los nutrientes obtenidos. ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Para transportar sangre desoxigenada desde las vísceras abdominales al corazón.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Para transportar sangre oxigenada desde los pulmones hasta el hígado.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Para transportar nutrientes desde el hígado hasta el corazón.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Para transportar nutrientes desde el tubo digestivo hasta el hígado.",
+                        "correct": true,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "6",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿A través de qué vaso llega la sangre de los brazos hasta el corazón, en último lugar (justo antes de entrar al corazón)?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! La sangre venosa del hemicuerpo superior (parte superior del tórax, por encima del diafragma, incluyendo los brazos y la cabeza) acaba drenando en la vena cava superior, que desemboca en la aurícula derecha.   ",
+                "feedback_ko": "¡Incorrecto! La sangre venosa del hemicuerpo superior (parte superior del tórax, por encima del diafragma, incluyendo los brazos y la cabeza) acaba drenando en la vena cava superior, que desemboca en la aurícula derecha.   ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Vena cava superior.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Vena cava inferior.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Arteria pulmonar.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Venas pulmonares superiores.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "7",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿Cuál de las siguientes fórmulas relaciona correctamente presión arterial (PA), gasto cardiaco (GC) y resistencias vasculares (RV)?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! La presión arterial es la fuerza que ejerce la sangre contra la pared de las arterias del organismo. Es directamente proporcional a la cantidad de sangre que fluye a su través (cuanta más sangre, más presión) y a la resistencia que las arterias ejercen frente al paso de la sangre (cuanta más resistencia ejerzan, más presión provocarán).  ",
+                "feedback_ko": "¡Incorrecto! La presión arterial es la fuerza que ejerce la sangre contra la pared de las arterias del organismo. Es directamente proporcional a la cantidad de sangre que fluye a su través (cuanta más sangre, más presión) y a la resistencia que las arterias ejercen frente al paso de la sangre (cuanta más resistencia ejerzan, más presión provocarán).   ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "PA = RV / GC.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "PA = GC / RV.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "PA = GC · RV.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "PA = GC2 · RV.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "8",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿Cuál de las siguientes relaciones entre gasto cardiaco, precarga, postcarga y contractilidad es INCORRECTA? ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! El gasto cardiaco es directamente proporcional a la precarga (volumen de sangre telediastólico que contiene un ventrículo) y a la contractilidad (fuerza contráctil de los ventrículos), y es inversamente proporcional a la postcarga (resistencia que deben vencer los ventrículos para impulsar la sangre hacia el exterior). Por otra parte, a mayor precarga, mayor postcarga (cuando el corazón contiene mucha sangre, se acumula presión en su interior, y esa presión debe ser vencida por el propio corazón para mandar la sangre hacia el exterior).  ",
+                "feedback_ko": "¡Incorrecto! El gasto cardiaco es directamente proporcional a la precarga (volumen de sangre telediastólico que contiene un ventrículo) y a la contractilidad (fuerza contráctil de los ventrículos), y es inversamente proporcional a la postcarga (resistencia que deben vencer los ventrículos para impulsar la sangre hacia el exterior). Por otra parte, a mayor precarga, mayor postcarga (cuando el corazón contiene mucha sangre, se acumula presión en su interior, y esa presión debe ser vencida por el propio corazón para mandar la sangre hacia el exterior).   ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "El gasto cardiaco es directamente proporcional a la precarga.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "El gasto cardiaco es directamente proporcional a la contractilidad.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "El gasto cardiaco es directamente proporcional a la postcarga.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "La precarga es directamente proporcional a la postcarga.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "9",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Indique cuál de las siguientes afirmaciones es correcta respecto a la postcarga. ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! La postcarga es equivalente a la presión que tiene que ejercer un ventrículo para poder enviar la sangre al exterior; por lo tanto, si hay mucha presión arterial, el ventrículo izquierdo estará sometido a una mayor postcarga (tiene que vencer esa presión para poder mandar sangre hacia la aorta). Ante una situación de postcarga mantenida en el tiempo (como la hipertensión arterial), el ventrículo izquierdo actúa hipertrofiándose (no dilatándose); al aumentar su grosor tiene más fuerza para poder vencer el exceso de presión.  ",
+                "feedback_ko": "¡Incorrecto! La postcarga es equivalente a la presión que tiene que ejercer un ventrículo para poder enviar la sangre al exterior; por lo tanto, si hay mucha presión arterial, el ventrículo izquierdo estará sometido a una mayor postcarga (tiene que vencer esa presión para poder mandar sangre hacia la aorta). Ante una situación de postcarga mantenida en el tiempo (como la hipertensión arterial), el ventrículo izquierdo actúa hipertrofiándose (no dilatándose); al aumentar su grosor tiene más fuerza para poder vencer el exceso de presión.   ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "La postcarga es equivalente al volumen de sangre que contiene un ventrículo al final de la diástole. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Un aumento de postcarga agudo ayuda a una mayor contractilidad cardiaca.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Cuando hay un aumento de postcarga mantenido en el tiempo, el ventrículo izquierdo lo soluciona dilatándose para poder contener más sangre.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "La postcarga del ventrículo izquierdo aumenta cuando aumenta la presión arterial.",
+                        "correct": true,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "10",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿Cuál es la principal causa de disminución de la contractilidad del ventrículo izquierdo en la población? ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! La principal causa de disminución de la contractilidad del ventrículo izquierdo son los infartos agudos de miocardio; al ocluirse una arteria coronaria por completo, el territorio miocárdico irrigado por esa arteria deja de recibir oxígeno y muere en pocas horas; toda la porción de ventrículo muerta ya no puede contraerse, por lo que la contractilidad global disminuye.  ",
+                "feedback_ko": "¡Incorrecto! La principal causa de disminución de la contractilidad del ventrículo izquierdo son los infartos agudos de miocardio; al ocluirse una arteria coronaria por completo, el territorio miocárdico irrigado por esa arteria deja de recibir oxígeno y muere en pocas horas; toda la porción de ventrículo muerta ya no puede contraerse, por lo que la contractilidad global disminuye.   ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "El infarto agudo de miocardio. ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "La miocarditis (inflamación del músculo cardiaco, habitualmente por virus). ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Enfermedades genéticas (miocardiopatía dilatada idiopática).",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "La miocardiopatía hipertrófica.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "11",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Respecto a las resistencias vasculares, indique la opción correcta: ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Las resistencias vasculares (dificultad que encuentra la sangre para circular por un vaso sanguíneo) dependen fundamentalmente del diámetro del vaso (a mayor diámetro, menores resistencias) y de la densidad de la sangre (a mayor densidad o viscosidad, el flujo sanguíneo es más difícil y las resistencias aumentan). Como las resistencias aumentan con el diámetro de los vasos sanguíneos, si se ponen varias arterias en paralelo, la sangre puede discurrir por todas ellas y el diámetro de todas se suma (las resistencias vasculares disminuyen); en cambio, si se ponen varias arterias en serie (una detrás de otra), el diámetro total es el de cada arteria por separado, y las resistencias vasculares aumentan (la sangre tiene que recorrer mayor longitud con un mismo diámetro).   ",
+                "feedback_ko": "¡Incorrecto! Las resistencias vasculares (dificultad que encuentra la sangre para circular por un vaso sanguíneo) dependen fundamentalmente del diámetro del vaso (a mayor diámetro, menores resistencias) y de la densidad de la sangre (a mayor densidad o viscosidad, el flujo sanguíneo es más difícil y las resistencias aumentan). Como las resistencias aumentan con el diámetro de los vasos sanguíneos, si se ponen varias arterias en paralelo, la sangre puede discurrir por todas ellas y el diámetro de todas se suma (las resistencias vasculares disminuyen); en cambio, si se ponen varias arterias en serie (una detrás de otra), el diámetro total es el de cada arteria por separado, y las resistencias vasculares aumentan (la sangre tiene que recorrer mayor longitud con un mismo diámetro).    ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Las resistencias vasculares totales aumentan cuando se colocan varias arterias en paralelo. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Las resistencias vasculares totales aumentan cuando se colocan varias arterias en serie. ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Las resistencias vasculares totales aumentan cuando la densidad de la sangre disminuye.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Si una arteria se dilata, las resistencias vasculares aumentan.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "12",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿Qué ocurre con las resistencias vasculares si se forma una placa de ateroma (una placa de colesterol) en una arteria del organismo? ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Si aparece una placa de colesterol en una arteria, la resistencia vascular a dicho nivel aumenta fundamentalmente por dos motivos: en primer lugar, el diámetro de la arteria a nivel de la placa de ateroma es más pequeño (a menor área vascular, mayores resistencias); y en segundo lugar, porque el flujo sanguíneo se vuelve turbulento (dicho flujo es menos eficiente que el flujo laminar, dado que existen zonas de aceleración y de deceleración, y el flujo deja de ser totalmente paralelo a la dirección del vaso).  ",
+                "feedback_ko": "¡Incorrecto! Si aparece una placa de colesterol en una arteria, la resistencia vascular a dicho nivel aumenta fundamentalmente por dos motivos: en primer lugar, el diámetro de la arteria a nivel de la placa de ateroma es más pequeño (a menor área vascular, mayores resistencias); y en segundo lugar, porque el flujo sanguíneo se vuelve turbulento (dicho flujo es menos eficiente que el flujo laminar, dado que existen zonas de aceleración y de deceleración, y el flujo deja de ser totalmente paralelo a la dirección del vaso).    ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Las resistencias vasculares aumentan, dado que el flujo sanguíneo se vuelve laminar a nivel del segmento en el que se localiza la placa. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Las resistencias vasculares disminuyen, dado que la sangre tiene que atravesar un orificio más estrecho. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Las resistencias vasculares aumentan, dado que la sangre tiene que atravesar un orificio más estrecho.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Las resistencias vasculares disminuyen, dado que el flujo sanguíneo se vuelve turbulento a nivel del segmento en el que se localiza la placa.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "13",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Cuando existe una placa de ateroma en una arteria que irriga el corazón (arteria coronaria), y dicha placa produce una reducción del flujo sanguíneo de forma crónica, ¿qué síntomas notará el paciente con mayor probabilidad? ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! La isquemia crónica a nivel cardiaco produce angina de pecho: dolor torácico que aparece cuando el corazón necesita mayor cantidad de oxígeno (y por tanto, de sangre), esto es, especialmente al realizar un esfuerzo o con el estrés emocional. El dolor cede típicamente al volver al reposo (los episodios suelen durar unos minutos).  ",
+                "feedback_ko": "¡Incorrecto! La isquemia crónica a nivel cardiaco produce angina de pecho: dolor torácico que aparece cuando el corazón necesita mayor cantidad de oxígeno (y por tanto, de sangre), esto es, especialmente al realizar un esfuerzo o con el estrés emocional. El dolor cede típicamente al volver al reposo (los episodios suelen durar unos minutos).    ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Angina de pecho, especialmente al realizar esfuerzos. ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Un infarto de miocardio. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Dolor en el pecho, que aparece especialmente con el reposo.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Falta de aire, especialmente en decúbito (posición de tumbado), esto es, ortopnea.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "14",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿Cómo se llama la arteria coronaria que irriga la mayoría de la porción lateral del ventrículo izquierdo en la mayoría de las personas?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! La arteria descendente anterior irriga habitualmente la porción anterior del ventrículo izquierdo y los dos tercios anteriores del septo interventricular; la arteria circunfleja irriga la cara lateral del ventrículo izquierdo; la arteria coronaria derecha irriga el ventrículo derecho, cara inferior del ventrículo izquierdo, y el tercio posterior del septo interventricular. El tronco coronario izquierdo es una arteria habitualmente muy corta que se bifurca rápidamente en la descendente anterior y la circunfleja (no irriga directamente ningún territorio).  ",
+                "feedback_ko": "¡Incorrecto! La arteria descendente anterior irriga habitualmente la porción anterior del ventrículo izquierdo y los dos tercios anteriores del septo interventricular; la arteria circunfleja irriga la cara lateral del ventrículo izquierdo; la arteria coronaria derecha irriga el ventrículo derecho, cara inferior del ventrículo izquierdo, y el tercio posterior del septo interventricular. El tronco coronario izquierdo es una arteria habitualmente muy corta que se bifurca rápidamente en la descendente anterior y la circunfleja (no irriga directamente ningún territorio).    ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Arteria descendente anterior. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Arteria circunfleja. ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Tronco coronario izquierdo.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Arteria coronaria derecha.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "15",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿Por qué suele producirse un infarto agudo de miocardio?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! La mayoría de infartos agudos de miocardio se producen por la formación de trombos dentro de una arteria coronaria; la causa de formación de dichos trombos suele ser la rotura de una placa de colesterol: el colesterol del interior entra en contacto con la sangre, y la sangre se coagula (porque detecta que existen componentes extraños). El trombo que se forma, si ocluye totalmente la luz del vaso, evita el paso de la sangre provocando la muerte del territorio cardiaco irrigado por la arteria ocluida.  ",
+                "feedback_ko": "¡Incorrecto! La mayoría de infartos agudos de miocardio se producen por la formación de trombos dentro de una arteria coronaria; la causa de formación de dichos trombos suele ser la rotura de una placa de colesterol: el colesterol del interior entra en contacto con la sangre, y la sangre se coagula (porque detecta que existen componentes extraños). El trombo que se forma, si ocluye totalmente la luz del vaso, evita el paso de la sangre provocando la muerte del territorio cardiaco irrigado por la arteria ocluida.    ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Porque una placa de ateroma crece tanto que ocluye totalmente la luz de una arteria coronaria. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Porque un trombo en otra localización del organismo desprende un fragmento (émbolo) que acaba llegando a una arteria coronaria y la ocluye. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Porque una placa de ateroma se rompe, y se forma un trombo a dicho nivel dentro de la arteria coronaria.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Porque una placa de ateroma se rompe, y se produce un sangrado desde la arteria coronaria hacia fuera de la arteria.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "16",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿Cuál de los siguientes factores de riesgo no contribuye a la formación de placas de colesterol en las arterias del organismo?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Además de tener el colesterol elevado en sangre (hipercolesterolemia), muchos otros factores de riesgo cardiovascular contribuyen a la formación de placas de colesterol en el organismo (aterosclerosis). Los más importantes son: tabaquismo, diabetes mellitus, hipertensión arterial, edad avanzada, sedentarismo y sexo masculino. El consumo de alcohol no contribuye a la aterosclerosis.  ",
+                "feedback_ko": "¡Incorrecto! Además de tener el colesterol elevado en sangre (hipercolesterolemia), muchos otros factores de riesgo cardiovascular contribuyen a la formación de placas de colesterol en el organismo (aterosclerosis). Los más importantes son: tabaquismo, diabetes mellitus, hipertensión arterial, edad avanzada, sedentarismo y sexo masculino. El consumo de alcohol no contribuye a la aterosclerosis.    ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Diabetes mellitus. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Hipertensión arterial.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Sexo masculino.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Consumo de alcohol.",
+                        "correct": true,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "17",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿Cuál de las siguientes manifestaciones clínicas es más probable que sufra una persona que tiene placas de colesterol en las arterias que irrigan las piernas, y que producen isquemia crónica a dicho nivel?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! La principal manifestación de la isquemia crónica de miembros inferiores es la claudicación de la marcha: dolor que aparece, especialmente en las pantorrillas, con el esfuerzo (tras caminar un tiempo), y que cede con el reposo.  ",
+                "feedback_ko": "¡Incorrecto! La principal manifestación de la isquemia crónica de miembros inferiores es la claudicación de la marcha: dolor que aparece, especialmente en las pantorrillas, con el esfuerzo (tras caminar un tiempo), y que cede con el reposo.    ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Amputación de una pierna ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Atrofia muscular.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Pérdida de sensibilidad, especialmente a nivel distal (pies y tobillos).",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Dolor al caminar, a nivel especialmente de las pantorrillas.",
+                        "correct": true,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "18",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Si un individuo sufre una oclusión aguda de la arteria que irriga una pierna, ¿cuál de los siguientes síntomas o signos clínicos NO notará?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Si no pasa sangre arterial a una pierna, la pierna se quedará sin flujo sanguíneo, y por tanto estará fría, pálida, sin pulso. Si la isquemia es grave, se afectará la sensibilidad y fuerza de la extremidad. No estará hinchada ni caliente (eso ocurre cuando hay trombos en las venas, no en las arterias).  ",
+                "feedback_ko": "¡Incorrecto! Si no pasa sangre arterial a una pierna, la pierna se quedará sin flujo sanguíneo, y por tanto estará fría, pálida, sin pulso. Si la isquemia es grave, se afectará la sensibilidad y fuerza de la extremidad. No estará hinchada ni caliente (eso ocurre cuando hay trombos en las venas, no en las arterias).",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Falta de fuerza en dicha pierna. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Aumento de la temperatura e hinchazón en dicha pierna.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Pérdida de sensibilidad.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Ausencia de pulsos.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "19",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿Cómo se llaman las arterias más importantes para la vascularización arterial del cerebro?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Las arterias carótidas son las arterias principales que irrigan el cerebro. Las arterias iliacas irrigan las piernas, las arterias subclavias los brazos, y las arterias mesentéricas las vísceras abdominales.  ",
+                "feedback_ko": "¡Incorrecto! Las arterias carótidas son las arterias principales que irrigan el cerebro. Las arterias iliacas irrigan las piernas, las arterias subclavias los brazos, y las arterias mesentéricas las vísceras abdominales.",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Arterias carótidas.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Arterias iliacas.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Arterias subclavias.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Arterias mesentéricas.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "20",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿Por qué suelen producirse los ictus isquémicos (debidos a isquemia aguda cerebral)?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! De manera similar a los infartos agudos de miocardio, los ictus (infartos cerebrales) isquémicos se producen habitualmente por roturas de placas de colesterol en las arterias del cuello (carótidas y vertebrales) o en las arterias intracraneales; se forma un trombo a dicho nivel que puede por sí mismo ocluir la arteria, o bien desprenderse émbolos desde dicho trombo que ocluyen una arteria cerebral más distalmente. Las hemorragias cerebrales producen otro tipo de ictus diferente, llamado ictus hemorrágico, que es mucho menos frecuente que el ictus isquémico.",
+                "feedback_ko": "¡Incorrecto! De manera similar a los infartos agudos de miocardio, los ictus (infartos cerebrales) isquémicos se producen habitualmente por roturas de placas de colesterol en las arterias del cuello (carótidas y vertebrales) o en las arterias intracraneales; se forma un trombo a dicho nivel que puede por sí mismo ocluir la arteria, o bien desprenderse émbolos desde dicho trombo que ocluyen una arteria cerebral más distalmente. Las hemorragias cerebrales producen otro tipo de ictus diferente, llamado ictus hemorrágico, que es mucho menos frecuente que el ictus isquémico.",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Porque una arteria cerebral se ocluye debido a un espasmo de la arteria (vasoespasmo).",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Porque se rompe una placa de colesterol en una arteria del cuello o intracraneal, y se forma un trombo a dicho nivel. Dicho trombo ocluye la arteria, o bien se desprenden émbolos que ocluyen una arteria cerebral más distal.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Porque una arteria cerebral se ocluye por completo debido a una placa de colesterol que crece demasiado (hasta ocluir la luz completamente).",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Por hemorragias cerebrales (se rompe una arteria cerebral y se produce un sangrado).",
                         "correct": false,
                         "feedback": ""
                     }

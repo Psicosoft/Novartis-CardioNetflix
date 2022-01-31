@@ -513,7 +513,7 @@
                             "title": "",
                             "random": false,
                             "feedback_review": true,
-                            "id_quiz": "1"
+                            "id_quiz": "2"
                         },
                         {
                             "id": "1.6.3",
@@ -526,7 +526,228 @@
                             "title": "",
                             "random": false,
                             "feedback_review": true,
-                            "id_quiz": "1"
+                            "id_quiz": "3"
+                        },
+                        {
+                            "id": "1.6.4",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "save_info": true,
+                            "status": 0,
+                            "title": "",
+                            "random": false,
+                            "feedback_review": true,
+                            "id_quiz": "4"
+                        },
+                        {
+                            "id": "1.6.5",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "save_info": true,
+                            "status": 0,
+                            "title": "",
+                            "random": false,
+                            "feedback_review": true,
+                            "id_quiz": "5"
+                        },
+                        {
+                            "id": "1.6.6",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "save_info": true,
+                            "status": 0,
+                            "title": "",
+                            "random": false,
+                            "feedback_review": true,
+                            "id_quiz": "6"
+                        },
+                        {
+                            "id": "1.6.7",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "save_info": true,
+                            "status": 0,
+                            "title": "",
+                            "random": false,
+                            "feedback_review": true,
+                            "id_quiz": "7"
+                        },
+                        {
+                            "id": "1.6.8",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "save_info": true,
+                            "status": 0,
+                            "title": "",
+                            "random": false,
+                            "feedback_review": true,
+                            "id_quiz": "8"
+                        },
+                        {
+                            "id": "1.6.9",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "save_info": true,
+                            "status": 0,
+                            "title": "",
+                            "random": false,
+                            "feedback_review": true,
+                            "id_quiz": "9"
+                        },
+                        {
+                            "id": "1.6.10",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "save_info": true,
+                            "status": 0,
+                            "title": "",
+                            "random": false,
+                            "feedback_review": true,
+                            "id_quiz": "10"
+                        },
+                        {
+                            "id": "1.6.11",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "save_info": true,
+                            "status": 0,
+                            "title": "",
+                            "random": false,
+                            "feedback_review": true,
+                            "id_quiz": "11"
+                        },
+                        {
+                            "id": "1.6.12",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "save_info": true,
+                            "status": 0,
+                            "title": "",
+                            "random": false,
+                            "feedback_review": true,
+                            "id_quiz": "12"
+                        },
+                        {
+                            "id": "1.6.13",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "save_info": true,
+                            "status": 0,
+                            "title": "",
+                            "random": false,
+                            "feedback_review": true,
+                            "id_quiz": "13"
+                        },
+                        {
+                            "id": "1.6.14",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "save_info": true,
+                            "status": 0,
+                            "title": "",
+                            "random": false,
+                            "feedback_review": true,
+                            "id_quiz": "14"
+                        },
+                        {
+                            "id": "1.6.15",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "save_info": true,
+                            "status": 0,
+                            "title": "",
+                            "random": false,
+                            "feedback_review": true,
+                            "id_quiz": "15"
+                        },
+                        {
+                            "id": "1.6.16",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "save_info": true,
+                            "status": 0,
+                            "title": "",
+                            "random": false,
+                            "feedback_review": true,
+                            "id_quiz": "16"
+                        },
+                        {
+                            "id": "1.6.17",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "save_info": true,
+                            "status": 0,
+                            "title": "",
+                            "random": false,
+                            "feedback_review": true,
+                            "id_quiz": "17"
+                        },
+                        {
+                            "id": "1.6.18",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "save_info": true,
+                            "status": 0,
+                            "title": "",
+                            "random": false,
+                            "feedback_review": true,
+                            "id_quiz": "18"
+                        },
+                        {
+                            "id": "1.6.19",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "save_info": true,
+                            "status": 0,
+                            "title": "",
+                            "random": false,
+                            "feedback_review": true,
+                            "id_quiz": "19"
+                        },
+                        {
+                            "id": "1.6.20",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "save_info": true,
+                            "status": 0,
+                            "title": "",
+                            "random": false,
+                            "feedback_review": true,
+                            "id_quiz": "20"
                         }
                     ]
                 }
@@ -590,7 +811,7 @@
                         ]
                     },
                     "status": 0,
-                    "title": "Epidemiología, carga de enfermedad y descripción general de la ECVA",
+                    "title": "Introducción al módulo 2",
                     "activities": [
                         { 
                             "id": "2.1.0",
@@ -603,7 +824,7 @@
                                 "pretitle": "Vídeo 1",
                                 "pretitle_css": "centered"
                             },
-                            "title": "Epidemiología, carga de enfermedad y descripción general de la ECVA",
+                            "title": "Introducción al módulo 2",
                             "title_css": "justify-content-center",
                             "content": {
                                 "c_block": [
@@ -636,14 +857,14 @@
                     "id": "2.2",
                     "type": "SECTION",
                     "next_content_preview": {
-                        "time": 60,
+                        "time": 55,
                         "show_caption": true
                     },
                     "menu_section": {
                         "ico": "",
-                        "img_bg": "video/2-1-cover.jpg",
+                        "img_bg": "video/2-2-cover.jpg",
                         "menu_prev": true,
-                        "time": "30 minutos",
+                        "time": "16 minutos",
                         "tags": [
                             {
                                 "name": "Vídeo"
@@ -651,7 +872,7 @@
                         ]
                     },
                     "status": 0,
-                    "title": "Factores de riesgo cardiovascular",
+                    "title": "Epidemiología, carga de enfermedad y descripción general de la ECVA",
                     "activities": [
                         { 
                             "id": "2.2.0",
@@ -664,7 +885,7 @@
                                 "pretitle": "Vídeo 2",
                                 "pretitle_css": "centered"
                             },
-                            "title": "Factores de riesgo cardiovascular",
+                            "title": "Epidemiología, carga de enfermedad y descripción general de la ECVA",
                             "title_css": "justify-content-center",
                             "content": {
                                 "c_block": [
@@ -673,7 +894,7 @@
                                         "b_video": {
                                             "duration": "",
                                             "path": "2-2-0-video.m4v",
-                                            "poster": "2-1-cover.jpg",
+                                            "poster": "2-2-cover.jpg",
                                             "is_background": false,
                                             "controls": true,
                                             "autoplay": false,
@@ -702,9 +923,9 @@
                     },
                     "menu_section": {
                         "ico": "",
-                        "img_bg": "video/2-1-cover.jpg",
+                        "img_bg": "video/2-3-cover.jpg",
                         "menu_prev": true,
-                        "time": "30 minutos",
+                        "time": "31 minutos",
                         "tags": [
                             {
                                 "name": "Vídeo"
@@ -712,7 +933,7 @@
                         ]
                     },
                     "status": 0,
-                    "title": "Complicaciones y consecuencias para la salud de la ECVA",
+                    "title": "Factores de riesgo cardiovascular",
                     "activities": [
                         { 
                             "id": "2.3.0",
@@ -725,7 +946,7 @@
                                 "pretitle": "Vídeo 3",
                                 "pretitle_css": "centered"
                             },
-                            "title": "Complicaciones y consecuencias para la salud de la ECVA",
+                            "title": "Factores de riesgo cardiovascular",
                             "title_css": "justify-content-center",
                             "content": {
                                 "c_block": [
@@ -734,7 +955,7 @@
                                         "b_video": {
                                             "duration": "",
                                             "path": "2-3-0-video.m4v",
-                                            "poster": "2-1-cover.jpg",
+                                            "poster": "2-3-cover.jpg",
                                             "is_background": false,
                                             "controls": true,
                                             "autoplay": false,
@@ -763,9 +984,9 @@
                     },
                     "menu_section": {
                         "ico": "",
-                        "img_bg": "video/2-1-cover.jpg",
+                        "img_bg": "video/2-4-cover.jpg",
                         "menu_prev": true,
-                        "time": "30 minutos",
+                        "time": "27 minutos",
                         "tags": [
                             {
                                 "name": "Vídeo"
@@ -773,7 +994,7 @@
                         ]
                     },
                     "status": 0,
-                    "title": "Diagnóstico de la ECVA",
+                    "title": "Complicaciones y consecuencias para la salud de la ECVA",
                     "activities": [
                         { 
                             "id": "2.4.0",
@@ -786,7 +1007,7 @@
                                 "pretitle": "Vídeo 4",
                                 "pretitle_css": "centered"
                             },
-                            "title": "Diagnóstico de la ECVA",
+                            "title": "Complicaciones y consecuencias para la salud de la ECVA",
                             "title_css": "justify-content-center",
                             "content": {
                                 "c_block": [
@@ -795,7 +1016,7 @@
                                         "b_video": {
                                             "duration": "",
                                             "path": "2-4-0-video.m4v",
-                                            "poster": "2-1-cover.jpg",
+                                            "poster": "2-4-cover.jpg",
                                             "is_background": false,
                                             "controls": true,
                                             "autoplay": false,
@@ -819,6 +1040,128 @@
                     "id": "2.5",
                     "type": "SECTION",
                     "next_content_preview": {
+                        "time": 60,
+                        "show_caption": true
+                    },
+                    "menu_section": {
+                        "ico": "",
+                        "img_bg": "video/2-5-cover.jpg",
+                        "menu_prev": true,
+                        "time": "14 minutos",
+                        "tags": [
+                            {
+                                "name": "Vídeo"
+                            }
+                        ]
+                    },
+                    "status": 0,
+                    "title": "Diagnóstico de la ECVA",
+                    "activities": [
+                        { 
+                            "id": "2.5.0",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_VIDEO",
+                            "video_mandatory": false,
+                            "video_firstime_fullscreen": false,
+                            "status": 0,
+                            "pretitle": {
+                                "pretitle": "Vídeo 5",
+                                "pretitle_css": "centered"
+                            },
+                            "title": "Diagnóstico de la ECVA",
+                            "title_css": "justify-content-center",
+                            "content": {
+                                "c_block": [
+                                    {
+                                        "b_type": "video",
+                                        "b_video": {
+                                            "duration": "",
+                                            "path": "2-5-0-video.m4v",
+                                            "poster": "2-5-cover.jpg",
+                                            "is_background": false,
+                                            "controls": true,
+                                            "autoplay": false,
+                                            "fullscreen": true,
+                                            "download": false,
+                                            "popover": false,
+                                            "mute": false,
+                                            "css": "br-5"
+                                        },
+                                        "css": "col-12 col-lg-8 col-xl-8 cmt-xl-5 p-0 shadow br-5"
+                                    }
+                                ],
+                                "css": "align-items-center justify-content-center text-center"
+                            },
+                            "style": "{'background': 'radial-gradient(34.51% 55.54% at 50% 59.63%, rgba(45, 204, 205, 0.8) 0%, rgba(7, 38, 83, 0) 100%), rgba(7, 38, 83, 0)', 'backdrop-filter': 'blur(4px)'}"
+                        }
+                        
+                    ]
+                },
+                {
+                    "id": "2.6",
+                    "type": "SECTION",
+                    "next_content_preview": {
+                        "time": 5,
+                        "show_caption": false
+                    },
+                    "menu_section": {
+                        "ico": "",
+                        "img_bg": "video/2-6-cover.jpg",
+                        "menu_prev": true,
+                        "time": "30 minutos",
+                        "tags": [
+                            {
+                                "name": "Vídeo"
+                            }
+                        ]
+                    },
+                    "status": 0,
+                    "title": "Descripción general del tratamiento actual de la ECVA",
+                    "activities": [
+                        { 
+                            "id": "2.6.0",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_VIDEO",
+                            "video_mandatory": false,
+                            "video_firstime_fullscreen": false,
+                            "status": 0,
+                            "pretitle": {
+                                "pretitle": "Vídeo 6",
+                                "pretitle_css": "centered"
+                            },
+                            "title": "Descripción general del tratamiento actual de la ECVA",
+                            "title_css": "justify-content-center",
+                            "content": {
+                                "c_block": [
+                                    {
+                                        "b_type": "video",
+                                        "b_video": {
+                                            "duration": "",
+                                            "path": "2-6-0-video.m4v",
+                                            "poster": "2-6-cover.jpg",
+                                            "is_background": false,
+                                            "controls": true,
+                                            "autoplay": false,
+                                            "fullscreen": true,
+                                            "download": false,
+                                            "popover": false,
+                                            "mute": false,
+                                            "css": "br-5"
+                                        },
+                                        "css": "col-12 col-lg-8 col-xl-8 cmt-xl-5 p-0 shadow br-5"
+                                    }
+                                ],
+                                "css": "align-items-center justify-content-center text-center"
+                            },
+                            "style": "{'background': 'radial-gradient(34.51% 55.54% at 50% 59.63%, rgba(45, 204, 205, 0.8) 0%, rgba(7, 38, 83, 0) 100%), rgba(7, 38, 83, 0)', 'backdrop-filter': 'blur(4px)'}"
+                        }
+                        
+                    ]
+                },
+                {
+                    "id": "2.7",
+                    "type": "SECTION",
+                    "next_content_preview": {
                         "time": 5,
                         "show_caption": false
                     },
@@ -834,20 +1177,20 @@
                         ]
                     },
                     "status": 0,
-                    "title": "Descripción general del tratamiento actual de la ECVA",
+                    "title": "Despedida Módulo 2",
                     "activities": [
                         { 
-                            "id": "2.5.0",
+                            "id": "2.7.0",
                             "type": "CONTENT",
                             "type_content": "ACTIVITY_VIDEO",
                             "video_mandatory": false,
                             "video_firstime_fullscreen": false,
                             "status": 0,
                             "pretitle": {
-                                "pretitle": "Vídeo 5",
+                                "pretitle": "Vídeo 7",
                                 "pretitle_css": "centered"
                             },
-                            "title": "Descripción general del tratamiento actual de la ECVA",
+                            "title": "Despedida Módulo 2",
                             "title_css": "justify-content-center",
                             "content": {
                                 "c_block": [
@@ -855,7 +1198,7 @@
                                         "b_type": "video",
                                         "b_video": {
                                             "duration": "",
-                                            "path": "2-5-0-video.m4v",
+                                            "path": "2-7-0-video.m4v",
                                             "poster": "2-1-cover.jpg",
                                             "is_background": false,
                                             "controls": true,
@@ -883,37 +1226,95 @@
             "id": "3",
             "status": 0,
             "mod_menu": {
-                "id_text": "Módulo 3"
+                "id_text": "Examen"
             },
-            "title": "Hipercolesterolemia",
+            "title": "Módulos 1 y 2",
             "description": "",
             "mod_navigation": {
-                "prevModule": "2",
                 "nextModule": "4"
             },
             "type": "MODULE",
             "childrens": [
+                
                 {
                     "id": "3.0",
                     "type": "SECTION",
-                    "status": 0,
+                    "next_content_preview": {
+                        "time": 5,
+                        "show_caption": false
+                    },
                     "menu_section": {
                         "ico": "",
-                        "img_bg": "3-0-cover-img.png"
+                        "img_bg": "3-0-cover.jpg",
+                        "menu_prev": true,
+                        "time": "10 minuto",
+                        "tags": [
+                            {
+                                "name": "Vídeo"
+                            }
+                        ]
                     },
+                    "status": 0,
+                    "title": "Instrucciones",
                     "activities": [
+                        
                         {
                             "id": "3.0.0",
-                            "type_content": "ACTIVITY_NETFLIX",
-                            "b_img": "3-0-0-cover.jpg",
-                            "fullscreen": true,
-                            "general": false,
-                            "cta_text_continue": "Continuar",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_MAP",
                             "status": 0,
-                            "accent_title": "Módulo 3",
-                            "title": "Hipercolesterolemia",
-                            "description": "",
-                            "css": "lay-top"
+                            "title": "Examen de los módulos 1 y 2",
+                            "content": {
+                                "c_type": "story",
+                                "c_img": "3-0-0-image.jpg",
+                                "b_subtitle": "",
+                                "b_text": [
+                                    {
+                                        "b_line": "A continuación vas a examinarte de los contenidos del módulo 1 y del módulo 2."
+                                    }
+                                ],
+                                "css":""
+                            },
+                            "css": "top left col-xl-6 offset-xl-3"
+                        },
+                        {
+                            "id": "1.6.1",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "save_info": true,
+                            "status": 0,
+                            "title": "",
+                            "random": false,
+                            "feedback_review": true,
+                            "id_quiz": ""
+                        },
+                        {
+                            "id": "1.6.2",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "save_info": true,
+                            "status": 0,
+                            "title": "",
+                            "random": false,
+                            "feedback_review": true,
+                            "id_quiz": ""
+                        },
+                        {
+                            "id": "1.6.3",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "save_info": true,
+                            "status": 0,
+                            "title": "",
+                            "random": false,
+                            "feedback_review": true,
+                            "id_quiz": ""
                         }
                     ]
                 },
@@ -921,14 +1322,14 @@
                     "id": "3.1",
                     "type": "SECTION",
                     "next_content_preview": {
-                        "time": 55,
-                        "show_caption": true
+                        "time": 5,
+                        "show_caption": false
                     },
                     "menu_section": {
                         "ico": "",
-                        "img_bg": "video/3-1-cover.jpg",
-                        "menu_prev": true,
-                        "time": "20 minuto",
+                        "img_bg": "3-1-cover.jpg",
+                        "menu_prev": false,
+                        "time": "10 minuto",
                         "tags": [
                             {
                                 "name": "Vídeo"
@@ -936,168 +1337,47 @@
                         ]
                     },
                     "status": 0,
-                    "title": "Funciones del colesterol en el organismo",
+                    "title": "Test",
                     "activities": [
-                        { 
+                        {
                             "id": "3.1.0",
                             "type": "CONTENT",
-                            "type_content": "ACTIVITY_VIDEO",
-                            "video_mandatory": false,
-                            "video_firstime_fullscreen": false,
+                            "type_content": "ACTIVITY_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "save_info": true,
                             "status": 0,
-                            "pretitle": {
-                                "pretitle": "Vídeo 1",
-                                "pretitle_css": "centered"
-                            },
-                            "title": "Funciones del colesterol en el organismo",
-                            "title_css": "justify-content-center",
-                            "content": {
-                                "c_block": [
-                                    {
-                                        "b_type": "video",
-                                        "b_video": {
-                                            "duration": "",
-                                            "path": "3-1-0-video.m4v",
-                                            "poster": "3-1-cover.jpg",
-                                            "is_background": false,
-                                            "controls": true,
-                                            "autoplay": false,
-                                            "fullscreen": true,
-                                            "download": false,
-                                            "popover": false,
-                                            "mute": false,
-                                            "css": "br-5"
-                                        },
-                                        "css": "col-12 col-lg-8 col-xl-8 cmt-xl-5 p-0 shadow br-5"
-                                    }
-                                ],
-                                "css": "align-items-center justify-content-center text-center"
-                            },
-                            "style": "{'background': 'radial-gradient(34.51% 55.54% at 50% 59.63%, rgba(45, 204, 205, 0.8) 0%, rgba(7, 38, 83, 0) 100%), rgba(7, 38, 83, 0)', 'backdrop-filter': 'blur(4px)'}"
-                        }
-                        
-                    ]
-                },
-                {
-                    "id": "3.2",
-                    "type": "SECTION",
-                    "next_content_preview": {
-                        "time": 60,
-                        "show_caption": true
-                    },
-                    "menu_section": {
-                        "ico": "",
-                        "img_bg": "video/3-1-cover.jpg",
-                        "menu_prev": true,
-                        "time": "30 minutos",
-                        "tags": [
-                            {
-                                "name": "Vídeo"
-                            }
-                        ]
-                    },
-                    "status": 0,
-                    "title": "Hipercolesterolemia: descripción, tipos, clasificaciones",
-                    "activities": [
-                        { 
-                            "id": "3.2.0",
+                            "title": "",
+                            "random": false,
+                            "feedback_review": true,
+                            "id_quiz": ""
+                        },
+                        {
+                            "id": "3.1.1",
                             "type": "CONTENT",
-                            "type_content": "ACTIVITY_VIDEO",
-                            "video_mandatory": false,
-                            "video_firstime_fullscreen": false,
+                            "type_content": "ACTIVITY_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "save_info": true,
                             "status": 0,
-                            "pretitle": {
-                                "pretitle": "Vídeo 2",
-                                "pretitle_css": "centered"
-                            },
-                            "title": "Hipercolesterolemia: descripción, tipos, clasificaciones",
-                            "title_css": "justify-content-center",
-                            "content": {
-                                "c_block": [
-                                    {
-                                        "b_type": "video",
-                                        "b_video": {
-                                            "duration": "",
-                                            "path": "3-2-0-video.m4v",
-                                            "poster": "3-1-cover.jpg",
-                                            "is_background": false,
-                                            "controls": true,
-                                            "autoplay": false,
-                                            "fullscreen": true,
-                                            "download": false,
-                                            "popover": false,
-                                            "mute": false,
-                                            "css": "br-5"
-                                        },
-                                        "css": "col-12 col-lg-8 col-xl-8 cmt-xl-5 p-0 shadow br-5"
-                                    }
-                                ],
-                                "css": "align-items-center justify-content-center text-center"
-                            },
-                            "style": "{'background': 'radial-gradient(34.51% 55.54% at 50% 59.63%, rgba(45, 204, 205, 0.8) 0%, rgba(7, 38, 83, 0) 100%), rgba(7, 38, 83, 0)', 'backdrop-filter': 'blur(4px)'}"
-                        }
-                        
-                    ]
-                },
-                {
-                    "id": "3.3",
-                    "type": "SECTION",
-                    "next_content_preview": {
-                        "time": 60,
-                        "show_caption": true
-                    },
-                    "menu_section": {
-                        "ico": "",
-                        "img_bg": "video/3-1-cover.jpg",
-                        "menu_prev": true,
-                        "time": "30 minutos",
-                        "tags": [
-                            {
-                                "name": "Vídeo"
-                            }
-                        ]
-                    },
-                    "status": 0,
-                    "title": "Complicaciones y comorbilidades asociadas a la hipercolesterolemia",
-                    "activities": [
-                        { 
-                            "id": "3.3.0",
+                            "title": "",
+                            "random": false,
+                            "feedback_review": true,
+                            "id_quiz": ""
+                        },
+                        {
+                            "id": "3.1.2",
                             "type": "CONTENT",
-                            "type_content": "ACTIVITY_VIDEO",
-                            "video_mandatory": false,
-                            "video_firstime_fullscreen": false,
+                            "type_content": "ACTIVITY_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "save_info": true,
                             "status": 0,
-                            "pretitle": {
-                                "pretitle": "Vídeo 3",
-                                "pretitle_css": "centered"
-                            },
-                            "title": "Complicaciones y comorbilidades asociadas a la hipercolesterolemia",
-                            "title_css": "justify-content-center",
-                            "content": {
-                                "c_block": [
-                                    {
-                                        "b_type": "video",
-                                        "b_video": {
-                                            "duration": "",
-                                            "path": "3-3-0-video.m4v",
-                                            "poster": "3-1-cover.jpg",
-                                            "is_background": false,
-                                            "controls": true,
-                                            "autoplay": false,
-                                            "fullscreen": true,
-                                            "download": false,
-                                            "popover": false,
-                                            "mute": false,
-                                            "css": "br-5"
-                                        },
-                                        "css": "col-12 col-lg-8 col-xl-8 cmt-xl-5 p-0 shadow br-5"
-                                    }
-                                ],
-                                "css": "align-items-center justify-content-center text-center"
-                            },
-                            "style": "{'background': 'radial-gradient(34.51% 55.54% at 50% 59.63%, rgba(45, 204, 205, 0.8) 0%, rgba(7, 38, 83, 0) 100%), rgba(7, 38, 83, 0)', 'backdrop-filter': 'blur(4px)'}"
+                            "title": "",
+                            "random": false,
+                            "feedback_review": true,
+                            "id_quiz": ""
                         }
-                        
                     ]
                 }
                 
@@ -1107,12 +1387,12 @@
             "id": "4",
             "status": 0,
             "mod_menu": {
-                "id_text": "Módulo 4"
+                "id_text": "Módulo 3"
             },
-            "title": "Tratamiento de la hipercolesterolemia",
+            "title": "Hipercolesterolemia",
             "description": "",
             "mod_navigation": {
-                "prevModule" :"3",
+                "prevModule": "3",
                 "nextModule": "5"
             },
             "type": "MODULE",
@@ -1134,8 +1414,8 @@
                             "general": false,
                             "cta_text_continue": "Continuar",
                             "status": 0,
-                            "accent_title": "Módulo 4",
-                            "title": "Tratamiento de la hipercolesterolemia",
+                            "accent_title": "Módulo 3",
+                            "title": "Hipercolesterolemia",
                             "description": "",
                             "css": "lay-top"
                         }
@@ -1160,7 +1440,7 @@
                         ]
                     },
                     "status": 0,
-                    "title": "Visión general del tratamiento actual de la hipercolesterolemia",
+                    "title": "Introducción al módulo 3",
                     "activities": [
                         { 
                             "id": "4.1.0",
@@ -1173,7 +1453,7 @@
                                 "pretitle": "Vídeo 1",
                                 "pretitle_css": "centered"
                             },
-                            "title": "Visión general del tratamiento actual de la hipercolesterolemia",
+                            "title": "Introducción al módulo 3",
                             "title_css": "justify-content-center",
                             "content": {
                                 "c_block": [
@@ -1206,14 +1486,14 @@
                     "id": "4.2",
                     "type": "SECTION",
                     "next_content_preview": {
-                        "time": 60,
+                        "time": 55,
                         "show_caption": true
                     },
                     "menu_section": {
                         "ico": "",
-                        "img_bg": "video/4-1-cover.jpg",
+                        "img_bg": "video/4-2-cover.jpg",
                         "menu_prev": true,
-                        "time": "30 minutos",
+                        "time": "20 minuto",
                         "tags": [
                             {
                                 "name": "Vídeo"
@@ -1221,7 +1501,7 @@
                         ]
                     },
                     "status": 0,
-                    "title": "Enfoque terapéutico y manejo de la hipercolesterolemia",
+                    "title": "Funciones del colesterol en el organismo",
                     "activities": [
                         { 
                             "id": "4.2.0",
@@ -1234,7 +1514,7 @@
                                 "pretitle": "Vídeo 2",
                                 "pretitle_css": "centered"
                             },
-                            "title": "Enfoque terapéutico y manejo de la hipercolesterolemia",
+                            "title": "Funciones del colesterol en el organismo",
                             "title_css": "justify-content-center",
                             "content": {
                                 "c_block": [
@@ -1243,7 +1523,7 @@
                                         "b_video": {
                                             "duration": "",
                                             "path": "4-2-0-video.m4v",
-                                            "poster": "4-1-cover.jpg",
+                                            "poster": "4-2-cover.jpg",
                                             "is_background": false,
                                             "controls": true,
                                             "autoplay": false,
@@ -1272,7 +1552,7 @@
                     },
                     "menu_section": {
                         "ico": "",
-                        "img_bg": "video/4-1-cover.jpg",
+                        "img_bg": "video/4-3-cover.jpg",
                         "menu_prev": true,
                         "time": "30 minutos",
                         "tags": [
@@ -1282,7 +1562,7 @@
                         ]
                     },
                     "status": 0,
-                    "title": "Guías de tratamiento de la hipercolesterolemia",
+                    "title": "Hipercolesterolemia: descripción, tipos, clasificaciones",
                     "activities": [
                         { 
                             "id": "4.3.0",
@@ -1295,7 +1575,7 @@
                                 "pretitle": "Vídeo 3",
                                 "pretitle_css": "centered"
                             },
-                            "title": "Guías de tratamiento de la hipercolesterolemia",
+                            "title": "Hipercolesterolemia: descripción, tipos, clasificaciones",
                             "title_css": "justify-content-center",
                             "content": {
                                 "c_block": [
@@ -1304,6 +1584,128 @@
                                         "b_video": {
                                             "duration": "",
                                             "path": "4-3-0-video.m4v",
+                                            "poster": "4-3-cover.jpg",
+                                            "is_background": false,
+                                            "controls": true,
+                                            "autoplay": false,
+                                            "fullscreen": true,
+                                            "download": false,
+                                            "popover": false,
+                                            "mute": false,
+                                            "css": "br-5"
+                                        },
+                                        "css": "col-12 col-lg-8 col-xl-8 cmt-xl-5 p-0 shadow br-5"
+                                    }
+                                ],
+                                "css": "align-items-center justify-content-center text-center"
+                            },
+                            "style": "{'background': 'radial-gradient(34.51% 55.54% at 50% 59.63%, rgba(45, 204, 205, 0.8) 0%, rgba(7, 38, 83, 0) 100%), rgba(7, 38, 83, 0)', 'backdrop-filter': 'blur(4px)'}"
+                        }
+                        
+                    ]
+                },
+                {
+                    "id": "4.4",
+                    "type": "SECTION",
+                    "next_content_preview": {
+                        "time": 60,
+                        "show_caption": true
+                    },
+                    "menu_section": {
+                        "ico": "",
+                        "img_bg": "video/4-4-cover.jpg",
+                        "menu_prev": true,
+                        "time": "30 minutos",
+                        "tags": [
+                            {
+                                "name": "Vídeo"
+                            }
+                        ]
+                    },
+                    "status": 0,
+                    "title": "Complicaciones y comorbilidades asociadas a la hipercolesterolemia",
+                    "activities": [
+                        { 
+                            "id": "4.4.0",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_VIDEO",
+                            "video_mandatory": false,
+                            "video_firstime_fullscreen": false,
+                            "status": 0,
+                            "pretitle": {
+                                "pretitle": "Vídeo 4",
+                                "pretitle_css": "centered"
+                            },
+                            "title": "Complicaciones y comorbilidades asociadas a la hipercolesterolemia",
+                            "title_css": "justify-content-center",
+                            "content": {
+                                "c_block": [
+                                    {
+                                        "b_type": "video",
+                                        "b_video": {
+                                            "duration": "",
+                                            "path": "4-4-0-video.m4v",
+                                            "poster": "4-4-cover.jpg",
+                                            "is_background": false,
+                                            "controls": true,
+                                            "autoplay": false,
+                                            "fullscreen": true,
+                                            "download": false,
+                                            "popover": false,
+                                            "mute": false,
+                                            "css": "br-5"
+                                        },
+                                        "css": "col-12 col-lg-8 col-xl-8 cmt-xl-5 p-0 shadow br-5"
+                                    }
+                                ],
+                                "css": "align-items-center justify-content-center text-center"
+                            },
+                            "style": "{'background': 'radial-gradient(34.51% 55.54% at 50% 59.63%, rgba(45, 204, 205, 0.8) 0%, rgba(7, 38, 83, 0) 100%), rgba(7, 38, 83, 0)', 'backdrop-filter': 'blur(4px)'}"
+                        }
+                        
+                    ]
+                },
+                {
+                    "id": "4.5",
+                    "type": "SECTION",
+                    "next_content_preview": {
+                        "time": 60,
+                        "show_caption": true
+                    },
+                    "menu_section": {
+                        "ico": "",
+                        "img_bg": "video/4-1-cover.jpg",
+                        "menu_prev": true,
+                        "time": "30 minutos",
+                        "tags": [
+                            {
+                                "name": "Vídeo"
+                            }
+                        ]
+                    },
+                    "status": 0,
+                    "title": "Despedida del módulo 3",
+                    "activities": [
+                        { 
+                            "id": "4.5.0",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_VIDEO",
+                            "video_mandatory": false,
+                            "video_firstime_fullscreen": false,
+                            "status": 0,
+                            "pretitle": {
+                                "pretitle": "Vídeo 5",
+                                "pretitle_css": "centered"
+                            },
+                            "title": "Despedida del módulo 3",
+                            "title_css": "justify-content-center",
+                            "content": {
+                                "c_block": [
+                                    {
+                                        "b_type": "video",
+                                        "b_video": {
+                                            "duration": "",
+                                            "path": "4-5-0-video.m4v",
                                             "poster": "4-1-cover.jpg",
                                             "is_background": false,
                                             "controls": true,
@@ -1331,12 +1733,12 @@
             "id": "5",
             "status": 0,
             "mod_menu": {
-                "id_text": "Módulo 5"
+                "id_text": "Módulo 4"
             },
-            "title": "Patient journey",
+            "title": "Tratamiento de la hipercolesterolemia",
             "description": "",
             "mod_navigation": {
-                "prevModule": "4",
+                "prevModule" :"4",
                 "nextModule": "6"
             },
             "type": "MODULE",
@@ -1347,19 +1749,19 @@
                     "status": 0,
                     "menu_section": {
                         "ico": "",
-                        "img_bg": "5-0-0-cover.jpg"
+                        "img_bg": "5-0-cover-img.png"
                     },
                     "activities": [
                         {
                             "id": "5.0.0",
                             "type_content": "ACTIVITY_NETFLIX",
-                            "b_img": "5-0-0-cover.jpg",
+                            "b_img": "4-0-0-cover.jpg",
                             "fullscreen": true,
                             "general": false,
                             "cta_text_continue": "Continuar",
                             "status": 0,
-                            "accent_title": "Módulo 5",
-                            "title": "Patient journey",
+                            "accent_title": "Módulo 4",
+                            "title": "Tratamiento de la hipercolesterolemia",
                             "description": "",
                             "css": "lay-top"
                         }
@@ -1376,7 +1778,7 @@
                         "ico": "",
                         "img_bg": "video/5-1-cover.jpg",
                         "menu_prev": true,
-                        "time": "30 minutos",
+                        "time": "20 minuto",
                         "tags": [
                             {
                                 "name": "Vídeo"
@@ -1384,7 +1786,7 @@
                         ]
                     },
                     "status": 0,
-                    "title": "Patient journey",
+                    "title": "Introducción al modulo 4",
                     "activities": [
                         { 
                             "id": "5.1.0",
@@ -1397,7 +1799,7 @@
                                 "pretitle": "Vídeo 1",
                                 "pretitle_css": "centered"
                             },
-                            "title": "Caso práctico",
+                            "title": "Introducción al modulo 4",
                             "title_css": "justify-content-center",
                             "content": {
                                 "c_block": [
@@ -1425,6 +1827,250 @@
                         }
                         
                     ]
+                },
+                {
+                    "id": "5.2",
+                    "type": "SECTION",
+                    "next_content_preview": {
+                        "time": 55,
+                        "show_caption": true
+                    },
+                    "menu_section": {
+                        "ico": "",
+                        "img_bg": "video/5-2-cover.jpg",
+                        "menu_prev": true,
+                        "time": "20 minuto",
+                        "tags": [
+                            {
+                                "name": "Vídeo"
+                            }
+                        ]
+                    },
+                    "status": 0,
+                    "title": "Visión general del tratamiento actual de la hipercolesterolemia",
+                    "activities": [
+                        { 
+                            "id": "5.2.0",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_VIDEO",
+                            "video_mandatory": false,
+                            "video_firstime_fullscreen": false,
+                            "status": 0,
+                            "pretitle": {
+                                "pretitle": "Vídeo 2",
+                                "pretitle_css": "centered"
+                            },
+                            "title": "Visión general del tratamiento actual de la hipercolesterolemia",
+                            "title_css": "justify-content-center",
+                            "content": {
+                                "c_block": [
+                                    {
+                                        "b_type": "video",
+                                        "b_video": {
+                                            "duration": "",
+                                            "path": "5-2-0-video.m4v",
+                                            "poster": "5-2-cover.jpg",
+                                            "is_background": false,
+                                            "controls": true,
+                                            "autoplay": false,
+                                            "fullscreen": true,
+                                            "download": false,
+                                            "popover": false,
+                                            "mute": false,
+                                            "css": "br-5"
+                                        },
+                                        "css": "col-12 col-lg-8 col-xl-8 cmt-xl-5 p-0 shadow br-5"
+                                    }
+                                ],
+                                "css": "align-items-center justify-content-center text-center"
+                            },
+                            "style": "{'background': 'radial-gradient(34.51% 55.54% at 50% 59.63%, rgba(45, 204, 205, 0.8) 0%, rgba(7, 38, 83, 0) 100%), rgba(7, 38, 83, 0)', 'backdrop-filter': 'blur(4px)'}"
+                        }
+                        
+                    ]
+                },
+                {
+                    "id": "5.3",
+                    "type": "SECTION",
+                    "next_content_preview": {
+                        "time": 60,
+                        "show_caption": true
+                    },
+                    "menu_section": {
+                        "ico": "",
+                        "img_bg": "video/5-3-cover.jpg",
+                        "menu_prev": true,
+                        "time": "30 minutos",
+                        "tags": [
+                            {
+                                "name": "Vídeo"
+                            }
+                        ]
+                    },
+                    "status": 0,
+                    "title": "Enfoque terapéutico y manejo de la hipercolesterolemia",
+                    "activities": [
+                        { 
+                            "id": "5.3.0",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_VIDEO",
+                            "video_mandatory": false,
+                            "video_firstime_fullscreen": false,
+                            "status": 0,
+                            "pretitle": {
+                                "pretitle": "Vídeo 3",
+                                "pretitle_css": "centered"
+                            },
+                            "title": "Enfoque terapéutico y manejo de la hipercolesterolemia",
+                            "title_css": "justify-content-center",
+                            "content": {
+                                "c_block": [
+                                    {
+                                        "b_type": "video",
+                                        "b_video": {
+                                            "duration": "",
+                                            "path": "5-2-0-video.m4v",
+                                            "poster": "5-1-cover.jpg",
+                                            "is_background": false,
+                                            "controls": true,
+                                            "autoplay": false,
+                                            "fullscreen": true,
+                                            "download": false,
+                                            "popover": false,
+                                            "mute": false,
+                                            "css": "br-5"
+                                        },
+                                        "css": "col-12 col-lg-8 col-xl-8 cmt-xl-5 p-0 shadow br-5"
+                                    }
+                                ],
+                                "css": "align-items-center justify-content-center text-center"
+                            },
+                            "style": "{'background': 'radial-gradient(34.51% 55.54% at 50% 59.63%, rgba(45, 204, 205, 0.8) 0%, rgba(7, 38, 83, 0) 100%), rgba(7, 38, 83, 0)', 'backdrop-filter': 'blur(4px)'}"
+                        }
+                        
+                    ]
+                },
+                {
+                    "id": "5.4",
+                    "type": "SECTION",
+                    "next_content_preview": {
+                        "time": 60,
+                        "show_caption": true
+                    },
+                    "menu_section": {
+                        "ico": "",
+                        "img_bg": "video/5-4-cover.jpg",
+                        "menu_prev": true,
+                        "time": "30 minutos",
+                        "tags": [
+                            {
+                                "name": "Vídeo"
+                            }
+                        ]
+                    },
+                    "status": 0,
+                    "title": "Guías de tratamiento de la hipercolesterolemia",
+                    "activities": [
+                        { 
+                            "id": "5.4.0",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_VIDEO",
+                            "video_mandatory": false,
+                            "video_firstime_fullscreen": false,
+                            "status": 0,
+                            "pretitle": {
+                                "pretitle": "Vídeo 4",
+                                "pretitle_css": "centered"
+                            },
+                            "title": "Guías de tratamiento de la hipercolesterolemia",
+                            "title_css": "justify-content-center",
+                            "content": {
+                                "c_block": [
+                                    {
+                                        "b_type": "video",
+                                        "b_video": {
+                                            "duration": "",
+                                            "path": "5-4-0-video.m4v",
+                                            "poster": "5-4-cover.jpg",
+                                            "is_background": false,
+                                            "controls": true,
+                                            "autoplay": false,
+                                            "fullscreen": true,
+                                            "download": false,
+                                            "popover": false,
+                                            "mute": false,
+                                            "css": "br-5"
+                                        },
+                                        "css": "col-12 col-lg-8 col-xl-8 cmt-xl-5 p-0 shadow br-5"
+                                    }
+                                ],
+                                "css": "align-items-center justify-content-center text-center"
+                            },
+                            "style": "{'background': 'radial-gradient(34.51% 55.54% at 50% 59.63%, rgba(45, 204, 205, 0.8) 0%, rgba(7, 38, 83, 0) 100%), rgba(7, 38, 83, 0)', 'backdrop-filter': 'blur(4px)'}"
+                        }
+                        
+                    ]
+                },
+                {
+                    "id": "5.5",
+                    "type": "SECTION",
+                    "next_content_preview": {
+                        "time": 60,
+                        "show_caption": true
+                    },
+                    "menu_section": {
+                        "ico": "",
+                        "img_bg": "video/5-1-cover.jpg",
+                        "menu_prev": true,
+                        "time": "30 minutos",
+                        "tags": [
+                            {
+                                "name": "Vídeo"
+                            }
+                        ]
+                    },
+                    "status": 0,
+                    "title": "Despedida del módulo 4",
+                    "activities": [
+                        { 
+                            "id": "5.5.0",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_VIDEO",
+                            "video_mandatory": false,
+                            "video_firstime_fullscreen": false,
+                            "status": 0,
+                            "pretitle": {
+                                "pretitle": "Vídeo 5",
+                                "pretitle_css": "centered"
+                            },
+                            "title": "Despedida del módulo 4",
+                            "title_css": "justify-content-center",
+                            "content": {
+                                "c_block": [
+                                    {
+                                        "b_type": "video",
+                                        "b_video": {
+                                            "duration": "",
+                                            "path": "5-5-0-video.m4v",
+                                            "poster": "5-1-cover.jpg",
+                                            "is_background": false,
+                                            "controls": true,
+                                            "autoplay": false,
+                                            "fullscreen": true,
+                                            "download": false,
+                                            "popover": false,
+                                            "mute": false,
+                                            "css": "br-5"
+                                        },
+                                        "css": "col-12 col-lg-8 col-xl-8 cmt-xl-5 p-0 shadow br-5"
+                                    }
+                                ],
+                                "css": "align-items-center justify-content-center text-center"
+                            },
+                            "style": "{'background': 'radial-gradient(34.51% 55.54% at 50% 59.63%, rgba(45, 204, 205, 0.8) 0%, rgba(7, 38, 83, 0) 100%), rgba(7, 38, 83, 0)', 'backdrop-filter': 'blur(4px)'}"
+                        }
+                        
+                    ]
                 }
                 
             ]
@@ -1433,12 +2079,13 @@
             "id": "6",
             "status": 0,
             "mod_menu": {
-                "id_text": "Módulo 6"
+                "id_text": "Módulo 5"
             },
-            "title": "Desarrollo del producto",
+            "title": "Patient journey",
             "description": "",
             "mod_navigation": {
-                "nextModule": "0"
+                "prevModule": "5",
+                "nextModule": "7"
             },
             "type": "MODULE",
             "childrens": [
@@ -1448,19 +2095,19 @@
                     "status": 0,
                     "menu_section": {
                         "ico": "",
-                        "img_bg": "6-0-0-cover.png"
+                        "img_bg": "5-0-0-cover.jpg"
                     },
                     "activities": [
                         {
-                            "id": "1.0.0",
+                            "id": "6.0.0",
                             "type_content": "ACTIVITY_NETFLIX",
                             "b_img": "6-0-0-cover.jpg",
                             "fullscreen": true,
                             "general": false,
                             "cta_text_continue": "Continuar",
                             "status": 0,
-                            "accent_title": "Módulo 6",
-                            "title": "Desarrollo del producto",
+                            "accent_title": "Módulo 5",
+                            "title": "Patient journey",
                             "description": "",
                             "css": "lay-top"
                         }
@@ -1485,7 +2132,7 @@
                         ]
                     },
                     "status": 0,
-                    "title": "Desarrollo del producto",
+                    "title": "Introducción al módulo 5",
                     "activities": [
                         { 
                             "id": "6.1.0",
@@ -1498,7 +2145,7 @@
                                 "pretitle": "Vídeo 1",
                                 "pretitle_css": "centered"
                             },
-                            "title": "Desarrollo del producto",
+                            "title": "Introducción al módulo 5",
                             "title_css": "justify-content-center",
                             "content": {
                                 "c_block": [
@@ -1525,6 +2172,288 @@
                             "style": "{'background': 'radial-gradient(34.51% 55.54% at 50% 59.63%, rgba(45, 204, 205, 0.8) 0%, rgba(7, 38, 83, 0) 100%), rgba(7, 38, 83, 0)', 'backdrop-filter': 'blur(4px)'}"
                         }
                         
+                    ]
+                },
+                {
+                    "id": "6.2",
+                    "type": "SECTION",
+                    "next_content_preview": {
+                        "time": 1140,
+                        "show_caption": true
+                    },
+                    "menu_section": {
+                        "ico": "",
+                        "img_bg": "video/6-2-cover.jpg",
+                        "menu_prev": true,
+                        "time": "19 minutos",
+                        "tags": [
+                            {
+                                "name": "Vídeo"
+                            }
+                        ]
+                    },
+                    "status": 0,
+                    "title": "Patient journey",
+                    "activities": [
+                        { 
+                            "id": "6.2.0",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_VIDEO",
+                            "video_mandatory": false,
+                            "video_firstime_fullscreen": false,
+                            "status": 0,
+                            "pretitle": {
+                                "pretitle": "Vídeo 2",
+                                "pretitle_css": "centered"
+                            },
+                            "title": "Caso práctico",
+                            "title_css": "justify-content-center",
+                            "content": {
+                                "c_block": [
+                                    {
+                                        "b_type": "video",
+                                        "b_video": {
+                                            "duration": "",
+                                            "path": "6-2-0-video.m4v",
+                                            "poster": "6-2-cover.jpg",
+                                            "is_background": false,
+                                            "controls": true,
+                                            "autoplay": false,
+                                            "fullscreen": true,
+                                            "download": false,
+                                            "popover": false,
+                                            "mute": false,
+                                            "css": "br-5"
+                                        },
+                                        "css": "col-12 col-lg-8 col-xl-8 cmt-xl-5 p-0 shadow br-5"
+                                    }
+                                ],
+                                "css": "align-items-center justify-content-center text-center"
+                            },
+                            "style": "{'background': 'radial-gradient(34.51% 55.54% at 50% 59.63%, rgba(45, 204, 205, 0.8) 0%, rgba(7, 38, 83, 0) 100%), rgba(7, 38, 83, 0)', 'backdrop-filter': 'blur(4px)'}"
+                        }
+                        
+                    ]
+                },{
+                    "id": "56.3",
+                    "type": "SECTION",
+                    "next_content_preview": {
+                        "time": 55,
+                        "show_caption": true
+                    },
+                    "menu_section": {
+                        "ico": "",
+                        "img_bg": "video/6-1-cover.jpg",
+                        "menu_prev": true,
+                        "time": "30 minutos",
+                        "tags": [
+                            {
+                                "name": "Vídeo"
+                            }
+                        ]
+                    },
+                    "status": 0,
+                    "title": "Despedida del módulo 5",
+                    "activities": [
+                        { 
+                            "id": "6.1.0",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_VIDEO",
+                            "video_mandatory": false,
+                            "video_firstime_fullscreen": false,
+                            "status": 0,
+                            "pretitle": {
+                                "pretitle": "Vídeo 3",
+                                "pretitle_css": "centered"
+                            },
+                            "title": "Despedida del módulo 5",
+                            "title_css": "justify-content-center",
+                            "content": {
+                                "c_block": [
+                                    {
+                                        "b_type": "video",
+                                        "b_video": {
+                                            "duration": "",
+                                            "path": "6-3-0-video.m4v",
+                                            "poster": "6-1-cover.jpg",
+                                            "is_background": false,
+                                            "controls": true,
+                                            "autoplay": false,
+                                            "fullscreen": true,
+                                            "download": false,
+                                            "popover": false,
+                                            "mute": false,
+                                            "css": "br-5"
+                                        },
+                                        "css": "col-12 col-lg-8 col-xl-8 cmt-xl-5 p-0 shadow br-5"
+                                    }
+                                ],
+                                "css": "align-items-center justify-content-center text-center"
+                            },
+                            "style": "{'background': 'radial-gradient(34.51% 55.54% at 50% 59.63%, rgba(45, 204, 205, 0.8) 0%, rgba(7, 38, 83, 0) 100%), rgba(7, 38, 83, 0)', 'backdrop-filter': 'blur(4px)'}"
+                        }
+                        
+                    ]
+                }
+                
+            ]
+        },
+        {
+            "id": "7",
+            "status": 0,
+            "mod_menu": {
+                "id_text": "Examen"
+            },
+            "title": "Módulos 4, 5 y 6",
+            "description": "",
+            "mod_navigation": {
+                "nextModule": "0"
+            },
+            "type": "MODULE",
+            "childrens": [
+                
+                {
+                    "id": "7.0",
+                    "type": "SECTION",
+                    "next_content_preview": {
+                        "time": 5,
+                        "show_caption": false
+                    },
+                    "menu_section": {
+                        "ico": "",
+                        "img_bg": "3-0-cover.jpg",
+                        "menu_prev": true,
+                        "time": "15 minutos",
+                        "tags": [
+                            {
+                                "name": "Vídeo"
+                            }
+                        ]
+                    },
+                    "status": 0,
+                    "title": "Instrucciones",
+                    "activities": [
+                        
+                        {
+                            "id": "7.0.0",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_MAP",
+                            "status": 0,
+                            "title": "Examen de los módulos 3, 4 y 5",
+                            "content": {
+                                "c_type": "story",
+                                "c_img": "3-0-0-image.jpg",
+                                "b_subtitle": "",
+                                "b_text": [
+                                    {
+                                        "b_line": "A continuación vas a examinarte de los contenidos del módulo 3, 4 y 5."
+                                    }
+                                ],
+                                "css":""
+                            },
+                            "css": "top left col-xl-6 offset-xl-3"
+                        },
+                        {
+                            "id": "7.0.1",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "save_info": true,
+                            "status": 0,
+                            "title": "",
+                            "random": false,
+                            "feedback_review": true,
+                            "id_quiz": ""
+                        },
+                        {
+                            "id": "7.0.2",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "save_info": true,
+                            "status": 0,
+                            "title": "",
+                            "random": false,
+                            "feedback_review": true,
+                            "id_quiz": ""
+                        },
+                        {
+                            "id": "1.6.3",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "save_info": true,
+                            "status": 0,
+                            "title": "",
+                            "random": false,
+                            "feedback_review": true,
+                            "id_quiz": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "3.1",
+                    "type": "SECTION",
+                    "next_content_preview": {
+                        "time": 5,
+                        "show_caption": false
+                    },
+                    "menu_section": {
+                        "ico": "",
+                        "img_bg": "3-1-cover.jpg",
+                        "menu_prev": false,
+                        "time": "10 minuto",
+                        "tags": [
+                            {
+                                "name": "Vídeo"
+                            }
+                        ]
+                    },
+                    "status": 0,
+                    "title": "Test",
+                    "activities": [
+                        {
+                            "id": "3.1.0",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "save_info": true,
+                            "status": 0,
+                            "title": "",
+                            "random": false,
+                            "feedback_review": true,
+                            "id_quiz": ""
+                        },
+                        {
+                            "id": "3.1.1",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "save_info": true,
+                            "status": 0,
+                            "title": "",
+                            "random": false,
+                            "feedback_review": true,
+                            "id_quiz": ""
+                        },
+                        {
+                            "id": "3.1.2",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "save_info": true,
+                            "status": 0,
+                            "title": "",
+                            "random": false,
+                            "feedback_review": true,
+                            "id_quiz": ""
+                        }
                     ]
                 }
                 
