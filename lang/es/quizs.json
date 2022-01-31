@@ -744,6 +744,2239 @@
                     }
                 ]
             }
+        ],
+        "4.6": [
+            {
+                "id": "1",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Los remanentes de quilomicrón son retirados de la circulación por el hígado mediante un proceso que requiere la siguiente apoproteína:",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Los lípidos son insolubles en suero, por lo que forman estructuras llamadas lipoproteínas que permiten su transporte. Para ello, se unen a distintos tipos de apoproteinas, que aparte de conformar un armazón para la lipoproteína intervienen en su metabolismo. Los Triglicéridos se transportan unidos a ApoB-48 y Apo B-100. La B-48 es producida en los enterocitos para formar los quilomicrones que transportan los triglicéridos de la dieta. También hay Apo B-48 en los quilomicrones residuales, que resultan de la hidrólisis de quilomicrones en tejidos periféricos por la enzima lipoproteinlipasa, presente en el endotelio. Recuerda que la Apo B-100 es una apolipoproteína de origen hepático y por ello aparece en las lipoproteínas de origen hepático (VLDL y sus derivadas IDL, y LDL). Los Triglicéridos endógenos se transportan unidos a ApoB-100 en las VLDL. Por acción de la LPL, las VLDL se descargan de triglicéridos y quedan como IDL, o incluso LDL, con Apo B-100 como vehículo, y Apo-E que permite la retirada por los hepatocitos. Por otro lado, sabemos que la Apo-E actúa como llave que permite la captación hepatocitaria de lipoproteínas, por lo que está presente en las que se dirigen o retornan al hígado, es decir, quilomicrones desde el intestino, e IDL y VLDL de la sangre y HDL de los tejidos (opción 2 correcta). Parte de las LDL se retiran de sangre por el receptor LDL hepático, parte persisten en la circulación, se oxidan, y son captadas por los macrófagos, favoreciendo la aterogénesis. Las ApoA 1 y 2 son componentes estructurales de las HDL. Las HDL se encargan de retirar colesterol del torrente sanguíneo y degradarlo por vía hepática. Dos enzimas colaboran a este respecto: la LCAT (lecitina colesterol aciltransferasa) transporta el colesterol de los tejidos al núcleo de las HDL, y la CETP (proteína de transferencia de los ésteres de colesterol) media el intercambio de los ésteres de colesterol de las HDL con los triglicéridos de las VLDL. La ApoE permite la retirada hepatocitaria de las HDL, siendo el colesterol sobrante eliminado por la bilis. Como resumen general, las Apo-B transportan colesterol hacia tejidos, favoreciendo la aterogénesis, mientras que las Apo-A retiran colesterol del plasma y son antiaterogénicas. El cociente ApoB/A elevado se ha revelado en algunos estudios como un factor predictor independiente de riesgo aterogénico..",
+                "feedback_ko": "¡Incorrecto! Los lípidos son insolubles en suero, por lo que forman estructuras llamadas lipoproteínas que permiten su transporte. Para ello, se unen a distintos tipos de apoproteinas, que aparte de conformar un armazón para la lipoproteína intervienen en su metabolismo. Los Triglicéridos se transportan unidos a ApoB-48 y Apo B-100. La B-48 es producida en los enterocitos para formar los quilomicrones que transportan los triglicéridos de la dieta. También hay Apo B-48 en los quilomicrones residuales, que resultan de la hidrólisis de quilomicrones en tejidos periféricos por la enzima lipoproteinlipasa, presente en el endotelio. Recuerda que la Apo B-100 es una apolipoproteína de origen hepático y por ello aparece en las lipoproteínas de origen hepático (VLDL y sus derivadas IDL, y LDL). Los Triglicéridos endógenos se transportan unidos a ApoB-100 en las VLDL. Por acción de la LPL, las VLDL se descargan de triglicéridos y quedan como IDL, o incluso LDL, con Apo B-100 como vehículo, y Apo-E que permite la retirada por los hepatocitos. Por otro lado, sabemos que la Apo-E actúa como llave que permite la captación hepatocitaria de lipoproteínas, por lo que está presente en las que se dirigen o retornan al hígado, es decir, quilomicrones desde el intestino, e IDL y VLDL de la sangre y HDL de los tejidos (opción 2 correcta). Parte de las LDL se retiran de sangre por el receptor LDL hepático, parte persisten en la circulación, se oxidan, y son captadas por los macrófagos, favoreciendo la aterogénesis. Las ApoA 1 y 2 son componentes estructurales de las HDL. Las HDL se encargan de retirar colesterol del torrente sanguíneo y degradarlo por vía hepática. Dos enzimas colaboran a este respecto: la LCAT (lecitina colesterol aciltransferasa) transporta el colesterol de los tejidos al núcleo de las HDL, y la CETP (proteína de transferencia de los ésteres de colesterol) media el intercambio de los ésteres de colesterol de las HDL con los triglicéridos de las VLDL. La ApoE permite la retirada hepatocitaria de las HDL, siendo el colesterol sobrante eliminado por la bilis. Como resumen general, las Apo-B transportan colesterol hacia tejidos, favoreciendo la aterogénesis, mientras que las Apo-A retiran colesterol del plasma y son antiaterogénicas. El cociente ApoB/A elevado se ha revelado en algunos estudios como un factor predictor independiente de riesgo aterogénico.",
+                "topic": "",
+                "countDown": false,
+                "timeCountDown": 5,
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Apo B100.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Abo B48.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Apo CII.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "ApoE.",
+                        "correct": true,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "2",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Actualmente el diagnóstico de hipercolesterolemia familiar se basa en las características clínicas del paciente. Son criterios de certeza:",
+                "instructions": "Selecciona las opciones que consideres correctas:",
+                "feedback_ok": "¡Correcto! El diagnóstico de hipercolesterolemia familiar se basa en las características clínicas del paciente. Posee una herencia autonómica dominante monogénica, que ocasiona alteración en el receptor de las LDL. Estos pacientes presentan un aumento de las cifras de colesterol total a expensas de las LDL (las cifras de colesterol en heterocigotos alcanzan niveles entre 300-550 y en homocigotos >600 mg/dl). La clínica se caracteriza por aparición en heterocigotos, hacia los 30-40 años, de aterosclerosis coronaria e IAM precoz, xantomas tendinosos (muy típico), xantelasmas y arco corneal. En los homocigotos se manifiesta la aterosclerosis coronaria antes de los 20 años. El 50% de los familiares de primer grado son hipercolesterolémicos. El resto de las opciones son fácilmente descartables.",
+                "feedback_ko": "¡Incorrecto! El diagnóstico de hipercolesterolemia familiar se basa en las características clínicas del paciente. Posee una herencia autonómica dominante monogénica, que ocasiona alteración en el receptor de las LDL. Estos pacientes presentan un aumento de las cifras de colesterol total a expensas de las LDL (las cifras de colesterol en heterocigotos alcanzan niveles entre 300-550 y en homocigotos >600 mg/dl). La clínica se caracteriza por aparición en heterocigotos, hacia los 30-40 años, de aterosclerosis coronaria e IAM precoz, xantomas tendinosos (muy típico), xantelasmas y arco corneal. En los homocigotos se manifiesta la aterosclerosis coronaria antes de los 20 años. El 50% de los familiares de primer grado son hipercolesterolémicos. El resto de las opciones son fácilmente descartables.",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Concentraciones de colesterol entre 175-250 mg/dl, a expensas de HDL, un hermano/a afecto/a de hipercolesterolemia, presencia de xantomas o el 25% de los familiares de primer grado hipercolesterolémicos.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Concentraciones de colesterol superiores a 300 mg/dl a expensas de LDL, un progenitor afecto, presencia de xantomas o el 50% de los familiares de primer grado hipercolesterolémicos.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Colesterolemia superior a 300 mg/dl y antecedentes de accidentes vasculares cerebrales en un progenitor.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Colesterolemia superior a 300 mg/dl y criterios de cardiopatía isquémica en ambos progenitores a edades de 68 y 71 años.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "3",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Hombre de 34 años con cifras de colesterol LDL superiores a 250 mg/dl, de forma persistente. El paciente se encuentra asintomático pero en la exploración se aprecia la presencia de manchas induradas blanquecinas en codos, rodillas y párpados. Su TA es de 135/85 mmHg. Su padre murió de un infarto de miocardio a la edad de 48 años. En la analítica, realizada en ayunas, destaca un colesterol total de 346 mg/dl, un LDL colesterol de 278 mg/dl, un HDL colesterol de 42 mg/dl, unos triglicéridos de 130 mg/dl y una glucosa de 93 mg/dl. Respecto a la enfermedad que padece este paciente, una de las siguientes afirmaciones es FALSA. Señale cuál: ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Paciente con hipercolesterolemia sin hipertrigliceridemia, xantomas, y antecedentes de cardiopatía isquémica precoz. Impresiona clínicamente de hipercolesterolemia familiar monogénica. Para establecer su diagnóstico se requiere la presencia de xantomas, la presencia de hipercolesterolemia en rango superior a 200 de LDL, y la existencia de transmisión autosómica dominante (al menos un progenitor afecto o al menos el 50% de descendientes afectos). En este paciente, al no haber diagnóstico de hipercolesterolemia en el padre, no se puede establecer fehacientemente el diagnóstico. Es una enfermedad autosómica codominante. Eleva el colesterol LDL por alteración del receptor LDL hepático, que impide su retirada de la sangre. No altera los niveles de triglicéridos (respuesta 3 falsa, es una hipercolesterolemia, no una hiperlipemia mixta). Aumenta enormemente el riesgo cardiovascular, siendo frecuentes los fenómenos isquémicos precoces si no se hace tratamiento. El tratamiento se inicia con estatinas, pero generalmente dados los niveles tan altos de colesterolemia se precisa tratamiento combinado con ezetimibe (inhibidor de la absorción intestinal de colesterol) para alcanzar los objetivos de control.",
+                "feedback_ko": "¡Incorrecto! Paciente con hipercolesterolemia sin hipertrigliceridemia, xantomas, y antecedentes de cardiopatía isquémica precoz. Impresiona clínicamente de hipercolesterolemia familiar monogénica. Para establecer su diagnóstico se requiere la presencia de xantomas, la presencia de hipercolesterolemia en rango superior a 200 de LDL, y la existencia de transmisión autosómica dominante (al menos un progenitor afecto o al menos el 50% de descendientes afectos). En este paciente, al no haber diagnóstico de hipercolesterolemia en el padre, no se puede establecer fehacientemente el diagnóstico. Es una enfermedad autosómica codominante. Eleva el colesterol LDL por alteración del receptor LDL hepático, que impide su retirada de la sangre. No altera los niveles de triglicéridos (respuesta 3 falsa, es una hipercolesterolemia, no una hiperlipemia mixta). Aumenta enormemente el riesgo cardiovascular, siendo frecuentes los fenómenos isquémicos precoces si no se hace tratamiento. El tratamiento se inicia con estatinas, pero generalmente dados los niveles tan altos de colesterolemia se precisa tratamiento combinado con ezetimibe (inhibidor de la absorción intestinal de colesterol) para alcanzar los objetivos de control.",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Se trata de una enfermedad hereditaria autosómica codominante, con una alta penetrancia, por lo que es frecuente que alguno de los progenitores y hermanos del individuo la padezcan también.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "El trastorno genético afecta al gen que codifica el receptor del LDL colesterol y se han descrito más de 900 mutaciones.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "El trastorno genético afecta también a la síntesis de los triglicéridos, provocando en las fases avanzadas de la enfermedad, un incremento de los mismos, que suele ser superior a los 500 mg/dl.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Los varones no tratados tienen una probabilidad cercana al 50% de sufrir un evento coronario antes de los 60 años de edad, y las mujeres con la enfermedad presentan una prevalencia de cardiopatía isquémica superior a la de la población general femenina.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "4",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Respecto del metabolismo del colesterol en el organismo señale la opción correcta: ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! La mayoría (85%) del colesterol deriva de producción endógena en el hígado, siendo una cascada multienzimática en la que el paso limitante es el catalizado por la HMG-Coa reductasa. La lipoprotein lipasa (LPL) es la enzima que se encarga de extraer triglicéridos de las lipoproteínas de producción hepática para su consumo y almacenaje en los tejidos. El colesterol es degradado en el hepatocito y excretado por vía biliar.",
+                "feedback_ko": "¡Incorrecto! La mayoría (85%) del colesterol deriva de producción endógena en el hígado, siendo una cascada multienzimática en la que el paso limitante es el catalizado por la HMG-Coa reductasa. La lipoprotein lipasa (LPL) es la enzima que se encarga de extraer triglicéridos de las lipoproteínas de producción hepática para su consumo y almacenaje en los tejidos. El colesterol es degradado en el hepatocito y excretado por vía biliar.",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "La mayoría del colesterol circulante deriva de la producción endógena.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "La enzima limitante de velocidad en la producción de colesterol es la LCAT.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "La lipoprotein lipasa es la enzima más relacionada a la hipercolesterolemia famibiliar combinada.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "La mayor parte del colesterol presenta metabolismo y excreción renal.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "5",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "En un ensayo clínico de un fármaco antineoplásico se observa un importante aumento de los niveles plasmáticos de LDL (lipoproteínas de baja densidad). Señalar de entre las siguientes afirmaciones cuál es correcta en la interpretación y consecuencias de este hecho:",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Pregunta básica sobre el metabolismo de las lipoproteínas. Las lipoproteínas LDL forman parte de la llamada vía endógena, que distribuye por los tejidos (músculo y graso) los lípidos generados en el hígado. Las LDL son moléculas formadas fundamentalmente de colesterol, procedentes de las VLDL e IDL una vez que han cedido los triglicéridos en los tejidos. Los niveles de LDL se consideran un factor de riesgo cardiovascular independiente y lineal (a mayores niveles de LDL, mayor riesgo vascular).",
+                "feedback_ko": "¡Incorrecto! Pregunta básica sobre el metabolismo de las lipoproteínas. Las lipoproteínas LDL forman parte de la llamada vía endógena, que distribuye por los tejidos (músculo y graso) los lípidos generados en el hígado. Las LDL son moléculas formadas fundamentalmente de colesterol, procedentes de las VLDL e IDL una vez que han cedido los triglicéridos en los tejidos. Los niveles de LDL se consideran un factor de riesgo cardiovascular independiente y lineal (a mayores niveles de LDL, mayor riesgo vascular). ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Las LDL están implicadas en el transporte reverso del colesterol desde los tejidos periféricos hacia el hígado. Por tanto, unos niveles elevados son beneficiosos para disminuir los niveles plasmáticos de colesterol.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Las LDL están implicadas en el transporte reverso del colesterol desde los tejidos periféricos hacia el hígado. Por tanto, unos niveles elevados son beneficiosos para disminuir los niveles plasmáticos de colesterol.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Las LDL son ricas en triglicéridos y pobres en colesterol. Un aumento de LDL en plasma refleja un aumento de síntesis de novo y/o de ingesta de triglicéridos.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Las LDL transportan colesterol desde el hígado a los tejidos periféricos, donde entran en las células mediante procesos de endocitosis.",
+                        "correct": true,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "6",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "En relación con los factores de riesgo de las enfermedades cardiovasculares, ¿cuál de las siguientes afirmaciones NO es correcta?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Como es bien sabido, el colesterol HDL bajo es un factor de riesgo cardiovascular por lo que la opción 3 es claramente falsa. Hay que recordar que, aunque tener bajo el HDL es factor de riesgo cardiovascular, la corrección farmacológica del HDL nunca ha conseguido demostrar mejoría de riesgo cardiovascular.",
+                "feedback_ko": "¡Incorrecto! Como es bien sabido, el colesterol HDL bajo es un factor de riesgo cardiovascular por lo que la opción 3 es claramente falsa. Hay que recordar que, aunque tener bajo el HDL es factor de riesgo cardiovascular, la corrección farmacológica del HDL nunca ha conseguido demostrar mejoría de riesgo cardiovascular.",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "En cuanto al colesterol LDL, el objetivo terapéutico depende del riesgo cardiovascular global.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Los pacientes diabéticos tipo 2 deben considerarse en su mayoría de alto riesgo cardiovascular y el objetivo en cuanto a colesterol LDL debe ser <70 mg/.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "No hay evidencia suficiente de que niveles bajos de colesterol HDL supongan un factor de riesgo cardiovascular.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Lo importante en el riesgo asociado a hipertensión arterial es que mejora cuando se reduce la presión arterial independientemente del tipo de fármaco utilizado.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "7",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "En relación con la composición de las lipoproteinas, indique la respuesta correcta:",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Recuerda que la Apo B-100 es una apolipoproteína de origen hepático y por ello aparece en las lipoproteínas de origen hepático (VLDL y sus derivadas IDL, y LDL) y que B-48 es producida en los enterocitos para formar los quilomicrones que contienen los triglicéridos de la dieta. Por otro lado, sabemos que la Apo-E actúa como llave que permite la captación hepatocitaria de lipoproteínas, por lo que está presente en las que se dirigen o retornan al hígado, es decir, quilomicrones desde el intestino, e IDL de la sangre y HDL de los tejidos. Las VLDL son las lipoproteínas que proporcionalmente tienen más triglicéridos y a medida que evolucionan a LDL van perdiéndolos para captar ésteres de colesterol.",
+                "feedback_ko": "¡Incorrecto! Recuerda que la Apo B-100 es una apolipoproteína de origen hepático y por ello aparece en las lipoproteínas de origen hepático (VLDL y sus derivadas IDL, y LDL) y que B-48 es producida en los enterocitos para formar los quilomicrones que contienen los triglicéridos de la dieta. Por otro lado, sabemos que la Apo-E actúa como llave que permite la captación hepatocitaria de lipoproteínas, por lo que está presente en las que se dirigen o retornan al hígado, es decir, quilomicrones desde el intestino, e IDL de la sangre y HDL de los tejidos. Las VLDL son las lipoproteínas que proporcionalmente tienen más triglicéridos y a medida que evolucionan a LDL van perdiéndolos para captar ésteres de colesterol.",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "La Apo B100 es un componente de los quilomicrones.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "La Apo A1 es componente principal de las LDL.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "La Apo E se encuentra en los quilomicrones, VLDL, IDL y HDL.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "La Apo B48 es el componente principal de las HDL.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "8",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "En relación con el metabolismo de las lipoproteínas sólo una de las siguientes afirmaciones es cierta. Indique cual: ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! La forma esterificada del colesterol carece de grupos OH (hidroxilo) libres, y dado que éstos son los que conceden polaridad a la molécula, los ésteres de alcoholes son moléculas poco hidrosolubles. Es por ello que los EC y los triglicéridos se alojan en el núcleo de las lipoproteínas. Los fosfolípidos, por ejemplo, sí son moléculas anfipáticas puesto que tienen una parte hidrosoluble (la del fósforo) y otra liposoluble (la del lípido). La lipoproteinlipasa es el enzima implicado en la liberación de los ácidos grasos de los triglicéridos (respuesta 3 correcta) y puestos que éstos viajan en plasma en VLDL y Qm, éstos son los que se acumulan. Cuando una enfermedad enzimática se hereda con carácter autosómico recesivo suele ser grave y mortal a corta edad (hipercolesterolemia familiar monogénica).",
+                "feedback_ko": "¡Incorrecto! La forma esterificada del colesterol carece de grupos OH (hidroxilo) libres, y dado que éstos son los que conceden polaridad a la molécula, los ésteres de alcoholes son moléculas poco hidrosolubles. Es por ello que los EC y los triglicéridos se alojan en el núcleo de las lipoproteínas. Los fosfolípidos, por ejemplo, sí son moléculas anfipáticas puesto que tienen una parte hidrosoluble (la del fósforo) y otra liposoluble (la del lípido). La lipoproteinlipasa es el enzima implicado en la liberación de los ácidos grasos de los triglicéridos (respuesta 3 correcta) y puestos que éstos viajan en plasma en VLDL y Qm, éstos son los que se acumulan. Cuando una enfermedad enzimática se hereda con carácter autosómico recesivo suele ser grave y mortal a corta edad (hipercolesterolemia familiar monogénica). ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "La forma esterificada del colesterol es soluble en medio acuoso (anfipático) y por ello recubre la superficie de las lipoproteínas.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Las lipoproteínas VLDL contienen fundamentalmente colesterol.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "La deficiencia familiar de lipoproteinlipasa se caracteriza por unos niveles muy elevados de triglicéridos y plasma lechoso.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "En la hipercolesterolemia poligénica es típica la existencia de xantomas.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "9",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿Cuál de los hallazgos descritos NO acompaña a la dislipemia del diabético?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! La dislipemia asociada a los estados de DM y de resistencia insulínica presenta un patrón característico que asocia hipertrigliceridemia con niveles de LDL dentro de los parámetros normales o discretamente elevados, pero estructuralmente pequeñas y densas, lo cual les confiere especial aterogenicidad. Se acompaña de niveles disminuidos de HDL. La lipoproteína a, por el contrario, no es una característica propia del paciente con DM. Se encuentra elevada en pacientes con enfermedad renal y en algunas hipercolesterolemias familiares. Se asocia a riesgo de enfermedad coronaria e ictus. Los niveles de HDL se encuentran habitualmente disminuidos. ",
+                "feedback_ko": "¡Incorrecto! La dislipemia asociada a los estados de DM y de resistencia insulínica presenta un patrón característico que asocia hipertrigliceridemia con niveles de LDL dentro de los parámetros normales o discretamente elevados, pero estructuralmente pequeñas y densas, lo cual les confiere especial aterogenicidad. Se acompaña de niveles disminuidos de HDL. La lipoproteína a, por el contrario, no es una característica propia del paciente con DM. Se encuentra elevada en pacientes con enfermedad renal y en algunas hipercolesterolemias familiares. Se asocia a riesgo de enfermedad coronaria e ictus. Los niveles de HDL se encuentran habitualmente disminuidos.  ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Niveles de LDL -colesterol en el rango normal- elevado. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Niveles altos de HDL-colesterol.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Niveles variables de Lipoproteína (a).",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Presencia de LDL pequeñas y densas.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "10",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿Cuáles de los siguientes son componentes clave de la regulación de los niveles de colesterol en sangre? ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! En la regulación de las cifras de colesterol circulante resulta fundamental la densidad de receptores LDL hepatocitarios, ya que es la unión de la ApoE a los mismos la que media la captación y eliminación de dichas moléculas.   ",
+                "feedback_ko": "¡Incorrecto! En la regulación de las cifras de colesterol circulante resulta fundamental la densidad de receptores LDL hepatocitarios, ya que es la unión de la ApoE a los mismos la que media la captación y eliminación de dichas moléculas.    ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Receptores de HDL. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Receptores de LDL. ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Receptores de VLDL.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Receptores de VHDL.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "11",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "En relación con el metabolismo de las lipoproteínas, señale cuál de las siguientes respuestas es INCORRECTA: ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! La lipoproteínlipasa es una enzima que actúa a nivel adiposo y muscular desprendiendo los triglicéridos presentes tanto en quilomicrones, VLDL e IDL y permitiendo que dichos TG se liberen a los tejidos mencionados.   ",
+                "feedback_ko": "¡Incorrecto! La lipoproteínlipasa es una enzima que actúa a nivel adiposo y muscular desprendiendo los triglicéridos presentes tanto en quilomicrones, VLDL e IDL y permitiendo que dichos TG se liberen a los tejidos mencionados.",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "La apoproteína principal de las LDL es la Apo B 100. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "La Apo E es la mediadora en la captación de las LDL por el hígado. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "La lipoproteinlipasa facilita la hidrólisis de los triglicéridos integrados en los VLDL a nivel hepático.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Los quilomicrones se forman en la mucosa intestinal.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "12",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Señale la afirmación incorrecta respecto a los lípidos:",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Las alteraciones lipídicas suponen un importante factor de riesgo cardiovascular. Las más relevantes son las alteraciones del colesterol. Suponen un aumento del riesgo cardiovascular tanto los niveles elevados de LDL como los niveles bajos de HDL (opción 4 incorrecta). Los estrógenos provocan un aumento del colesterol HDL, cardioprotector, y un aumento de las partículas VLDL, con aumento de triglicéridos, por lo que las mujeres premenopáusicas están protegidas frente a la enfermedad ateroesclerótica. Factores genéticos influyen sobre las cifras de colesterol y triglicéridos, pero en la mayoría de pacientes hay un importante factor medioambiental. Hay alimentos que favorecen la aterogénesis, como las grasas de origen animal, saturadas, que favorecen el aumento de LDL; otros, los ricos en grasas insaturadas, como algunos pescados, los frutos secos y otras grasas de origen vegetal, se consideran cardiosaludables por aumentar los niveles de HDL y disminuir los de LDL. En caso de no controlar los niveles de lípidos con dieta y modificación del estilo de vida, se puede intervenir farmacológicamente con distintos grupos de fármacos, siendo más eficaces las estatinas para el control del colesterol, y los fibratos para los trigliceridos. ",
+                "feedback_ko": "¡Incorrecto! Las alteraciones lipídicas suponen un importante factor de riesgo cardiovascular. Las más relevantes son las alteraciones del colesterol. Suponen un aumento del riesgo cardiovascular tanto los niveles elevados de LDL como los niveles bajos de HDL (opción 4 incorrecta). Los estrógenos provocan un aumento del colesterol HDL, cardioprotector, y un aumento de las partículas VLDL, con aumento de triglicéridos, por lo que las mujeres premenopáusicas están protegidas frente a la enfermedad ateroesclerótica. Factores genéticos influyen sobre las cifras de colesterol y triglicéridos, pero en la mayoría de pacientes hay un importante factor medioambiental. Hay alimentos que favorecen la aterogénesis, como las grasas de origen animal, saturadas, que favorecen el aumento de LDL; otros, los ricos en grasas insaturadas, como algunos pescados, los frutos secos y otras grasas de origen vegetal, se consideran cardiosaludables por aumentar los niveles de HDL y disminuir los de LDL. En caso de no controlar los niveles de lípidos con dieta y modificación del estilo de vida, se puede intervenir farmacológicamente con distintos grupos de fármacos, siendo más eficaces las estatinas para el control del colesterol, y los fibratos para los trigliceridos.  ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Para el cálculo del riesgo coronario influyen tanto el colesterol LDL como el colesterol HDL. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Los estrógenos provocan un aumento del colesterol HDL y un aumento de las partículas VLDL. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "El consumo elevado de grasas saturadas se asocia a cardiopatía isquémica.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Niveles altos de colesterol HDL son más perjudiciales que niveles bajos de colesterol LDL.",
+                        "correct": true,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "13",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿Cuál es la principal causa de mortalidad en España?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! La causa de fallecimientos más frecuente en España, como el resto de países desarrollados es la cardiopatía isquémica. En conjunto, las enfermedades cardiovasculares suponen un 30% de las muertes en sociedades como la nuestra. ",
+                "feedback_ko": "¡Incorrecto! La causa de fallecimientos más frecuente en España, como el resto de países desarrollados es la cardiopatía isquémica. En conjunto, las enfermedades cardiovasculares suponen un 30% de las muertes en sociedades como la nuestra. ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Cardiopatía isquémica. ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Neoplasias. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Insuficiencia renal crónica.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Tuberculosis.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "14",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "No es un factor de riesgo cardiovascular modificable:",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Pregunta muy sencilla, donde la disfunción del receptor LDL, como ocurre en la hipercolesterolemia familiar hetero/homocigota es un problema genético, y por tanto no modificable.",
+                "feedback_ko": "¡Incorrecto! Pregunta muy sencilla, donde la disfunción del receptor LDL, como ocurre en la hipercolesterolemia familiar hetero/homocigota es un problema genético, y por tanto no modificable. ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Hipertensión arterial.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Diabetes mellitus. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Disfunción del receptor LDL.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Tabaquismo.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "15",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿En cuál de las siguientes cascadas enzimáticas juegan un papel clave los ácidos biliares?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Los ácidos biliares (productos de degradación del colesterol) son sustancias que facilitan la digestión de las grasas alimentarias favoreciendo su absorción. Se considera por tanto que participan de la vía exógena del metabolismo del colesterol.  ",
+                "feedback_ko": "¡Incorrecto! Los ácidos biliares (productos de degradación del colesterol) son sustancias que facilitan la digestión de las grasas alimentarias favoreciendo su absorción. Se considera por tanto que participan de la vía exógena del metabolismo del colesterol.   ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": false,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Vía inversa",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Vía endógena. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Vía reversa.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Ninguna de las anteriores.",
+                        "correct": true,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "16",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Una de las siguientes no se relaciona a mayor riesgo de aterogénesis:",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! La PCSK9 es la enzima encargada de mediar la degradación lisosomal de los receptores de LDL hepatocitarios. Por ese motivo, una mayor actividad PCSK9 se traduce en mayores niveles circulantes de LDL y mayor riesgo aterógenico. ",
+                "feedback_ko": "¡Incorrecto! La PCSK9 es la enzima encargada de mediar la degradación lisosomal de los receptores de LDL hepatocitarios. Por ese motivo, una mayor actividad PCSK9 se traduce en mayores niveles circulantes de LDL y mayor riesgo aterógenico.  ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Mutación con pérdida del receptor LDL. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Mutación con pérdida de ApoE.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Mutación con pérdida de PCSK9.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Mutación con ganancia de PCSK9. ",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "17",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "No es un papel principal del colesterol: ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! El colesterol corporal se divide en circulante y membranoso. El segundo es un elemento fundamental para mantener la estabilidad y conformación tridimensional de las membranas plasmáticas. El colesterol circulante, entre otros, participa de la síntesis de vitamina D, testosterona, estrógenos, progesterona y cortisol. No se relaciona con la formación de cálculos renal, sí con los cálculos biliares, de ahí su nombre (kole - bilis, stereos- sólido). ",
+                "feedback_ko": "¡Incorrecto! El colesterol corporal se divide en circulante y membranoso. El segundo es un elemento fundamental para mantener la estabilidad y conformación tridimensional de las membranas plasmáticas. El colesterol circulante, entre otros, participa de la síntesis de vitamina D, testosterona, estrógenos, progesterona y cortisol. No se relaciona con la formación de cálculos renal, sí con los cálculos biliares, de ahí su nombre (kole - bilis, stereos- sólido).     ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Participar de la síntesis de vitamina D.  ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Precursor de las hormonas esteroideas.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Formación de cálculos renales.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Elemento de membrana celular.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "18",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "No es un criterio clínico de hipercolesterolemia familiar heterocigota:",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! La HF heterocigota es la enfermedad monogénica más frecuente, y se asocia a niveles elevados de LDL con repercusión cardiovascular precoz (40-50 años). Para su diagnóstico se pueden emplear test genéticos (costosos y no siempre diagnósticos) o puntuaciones basadas en criterios clínicos. En ese sentido, apoya el diagnóstico la historia familiar de primer grado, la presencia de ECV precoz, la presencia de xantomas o arco corneal así como cifras de LDL elevadas. ",
+                "feedback_ko": "¡Incorrecto! La HF heterocigota es la enfermedad monogénica más frecuente, y se asocia a niveles elevados de LDL con repercusión cardiovascular precoz (40-50 años). Para su diagnóstico se pueden emplear test genéticos (costosos y no siempre diagnósticos) o puntuaciones basadas en criterios clínicos. En ese sentido, apoya el diagnóstico la historia familiar de primer grado, la presencia de ECV precoz, la presencia de xantomas o arco corneal así como cifras de LDL elevadas.",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Niveles elevados de LDL. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Niveles bajos de HDL.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Xantomas tendinosos.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Familiar de primer grado diagnosticado. ",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "19",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Respecto de los ácidos biliares señale la opción falsa: ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Las 3 primeras opciones sintetizan la información básica de la función de las sales biliares, que son finalmente reabsorbidas en su práctica totalidad (opción 4 falsa) en el íleon.  ",
+                "feedback_ko": "¡Incorrecto! Las 3 primeras opciones sintetizan la información básica de la función de las sales biliares, que son finalmente reabsorbidas en su práctica totalidad (opción 4 falsa) en el íleon. ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Son sustancias del metabolismo hepático del colesterol.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Son liberados a tracto intestinal en respuesta al estímulo digestivo.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Facilitan la digestión y absorción de las grasas alimenticias.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "En torno al 50% son reabsorbidas a nivel del intestino delgado terminal para su reaprovechamiento. ",
+                        "correct": true,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "20",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Respecto de la epidemiología de la enfermedad cardiovascular señale la opción incorrecta:",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! La mortalidad cardiovascular explica cerca del 30% de fallecimientos en nuestro país, con unas 9.000 defunciones más en mujeres que en hombres. La principal causa es la cardiopatía isquémica, seguida de la enfermedad cerebrovascular. No obstante, durante las últimas décadas la enfermedad cardiovascular ha visto disminuida su tasa de letalidad contribuyendo de forma significativa al aumento observado de la esperanza de vida. ",
+                "feedback_ko": "¡Incorrecto! La mortalidad cardiovascular explica cerca del 30% de fallecimientos en nuestro país, con unas 9.000 defunciones más en mujeres que en hombres. La principal causa es la cardiopatía isquémica, seguida de la enfermedad cerebrovascular. No obstante, durante las últimas décadas la enfermedad cardiovascular ha visto disminuida su tasa de letalidad contribuyendo de forma significativa al aumento observado de la esperanza de vida. ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "La mortalidad cardiovascular absoluta es mayor en mujeres que en hombres.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Existe variabilidad geográfica para la tasa de mortalidad cardiovascular.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Las mortalidad de causa cardiovascular se encuentra en lento pero progresivo crecimiento durante las últimas décadas. ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "La causa más frecuente de muerte es la cardiopatía isquémica. ",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            }
+        ],
+        "5.6": [
+            {
+                "id": "1",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Los remanentes de quilomicrón son retirados de la circulación por el hígado mediante un proceso que requiere la siguiente apoproteína:",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Los lípidos son insolubles en suero, por lo que forman estructuras llamadas lipoproteínas que permiten su transporte. Para ello, se unen a distintos tipos de apoproteinas, que aparte de conformar un armazón para la lipoproteína intervienen en su metabolismo. Los Triglicéridos se transportan unidos a ApoB-48 y Apo B-100. La B-48 es producida en los enterocitos para formar los quilomicrones que transportan los triglicéridos de la dieta. También hay Apo B-48 en los quilomicrones residuales, que resultan de la hidrólisis de quilomicrones en tejidos periféricos por la enzima lipoproteinlipasa, presente en el endotelio. Recuerda que la Apo B-100 es una apolipoproteína de origen hepático y por ello aparece en las lipoproteínas de origen hepático (VLDL y sus derivadas IDL, y LDL). Los Triglicéridos endógenos se transportan unidos a ApoB-100 en las VLDL. Por acción de la LPL, las VLDL se descargan de triglicéridos y quedan como IDL, o incluso LDL, con Apo B-100 como vehículo, y Apo-E que permite la retirada por los hepatocitos. Por otro lado, sabemos que la Apo-E actúa como llave que permite la captación hepatocitaria de lipoproteínas, por lo que está presente en las que se dirigen o retornan al hígado, es decir, quilomicrones desde el intestino, e IDL y VLDL de la sangre y HDL de los tejidos (opción 2 correcta). Parte de las LDL se retiran de sangre por el receptor LDL hepático, parte persisten en la circulación, se oxidan, y son captadas por los macrófagos, favoreciendo la aterogénesis. Las ApoA 1 y 2 son componentes estructurales de las HDL. Las HDL se encargan de retirar colesterol del torrente sanguíneo y degradarlo por vía hepática. Dos enzimas colaboran a este respecto: la LCAT (lecitina colesterol aciltransferasa) transporta el colesterol de los tejidos al núcleo de las HDL, y la CETP (proteína de transferencia de los ésteres de colesterol) media el intercambio de los ésteres de colesterol de las HDL con los triglicéridos de las VLDL. La ApoE permite la retirada hepatocitaria de las HDL, siendo el colesterol sobrante eliminado por la bilis. Como resumen general, las Apo-B transportan colesterol hacia tejidos, favoreciendo la aterogénesis, mientras que las Apo-A retiran colesterol del plasma y son antiaterogénicas. El cociente ApoB/A elevado se ha revelado en algunos estudios como un factor predictor independiente de riesgo aterogénico..",
+                "feedback_ko": "¡Incorrecto! Los lípidos son insolubles en suero, por lo que forman estructuras llamadas lipoproteínas que permiten su transporte. Para ello, se unen a distintos tipos de apoproteinas, que aparte de conformar un armazón para la lipoproteína intervienen en su metabolismo. Los Triglicéridos se transportan unidos a ApoB-48 y Apo B-100. La B-48 es producida en los enterocitos para formar los quilomicrones que transportan los triglicéridos de la dieta. También hay Apo B-48 en los quilomicrones residuales, que resultan de la hidrólisis de quilomicrones en tejidos periféricos por la enzima lipoproteinlipasa, presente en el endotelio. Recuerda que la Apo B-100 es una apolipoproteína de origen hepático y por ello aparece en las lipoproteínas de origen hepático (VLDL y sus derivadas IDL, y LDL). Los Triglicéridos endógenos se transportan unidos a ApoB-100 en las VLDL. Por acción de la LPL, las VLDL se descargan de triglicéridos y quedan como IDL, o incluso LDL, con Apo B-100 como vehículo, y Apo-E que permite la retirada por los hepatocitos. Por otro lado, sabemos que la Apo-E actúa como llave que permite la captación hepatocitaria de lipoproteínas, por lo que está presente en las que se dirigen o retornan al hígado, es decir, quilomicrones desde el intestino, e IDL y VLDL de la sangre y HDL de los tejidos (opción 2 correcta). Parte de las LDL se retiran de sangre por el receptor LDL hepático, parte persisten en la circulación, se oxidan, y son captadas por los macrófagos, favoreciendo la aterogénesis. Las ApoA 1 y 2 son componentes estructurales de las HDL. Las HDL se encargan de retirar colesterol del torrente sanguíneo y degradarlo por vía hepática. Dos enzimas colaboran a este respecto: la LCAT (lecitina colesterol aciltransferasa) transporta el colesterol de los tejidos al núcleo de las HDL, y la CETP (proteína de transferencia de los ésteres de colesterol) media el intercambio de los ésteres de colesterol de las HDL con los triglicéridos de las VLDL. La ApoE permite la retirada hepatocitaria de las HDL, siendo el colesterol sobrante eliminado por la bilis. Como resumen general, las Apo-B transportan colesterol hacia tejidos, favoreciendo la aterogénesis, mientras que las Apo-A retiran colesterol del plasma y son antiaterogénicas. El cociente ApoB/A elevado se ha revelado en algunos estudios como un factor predictor independiente de riesgo aterogénico.",
+                "topic": "",
+                "countDown": false,
+                "timeCountDown": 5,
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Apo B100.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Abo B48.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Apo CII.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "ApoE.",
+                        "correct": true,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "2",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Actualmente el diagnóstico de hipercolesterolemia familiar se basa en las características clínicas del paciente. Son criterios de certeza:",
+                "instructions": "Selecciona las opciones que consideres correctas:",
+                "feedback_ok": "¡Correcto! El diagnóstico de hipercolesterolemia familiar se basa en las características clínicas del paciente. Posee una herencia autonómica dominante monogénica, que ocasiona alteración en el receptor de las LDL. Estos pacientes presentan un aumento de las cifras de colesterol total a expensas de las LDL (las cifras de colesterol en heterocigotos alcanzan niveles entre 300-550 y en homocigotos >600 mg/dl). La clínica se caracteriza por aparición en heterocigotos, hacia los 30-40 años, de aterosclerosis coronaria e IAM precoz, xantomas tendinosos (muy típico), xantelasmas y arco corneal. En los homocigotos se manifiesta la aterosclerosis coronaria antes de los 20 años. El 50% de los familiares de primer grado son hipercolesterolémicos. El resto de las opciones son fácilmente descartables.",
+                "feedback_ko": "¡Incorrecto! El diagnóstico de hipercolesterolemia familiar se basa en las características clínicas del paciente. Posee una herencia autonómica dominante monogénica, que ocasiona alteración en el receptor de las LDL. Estos pacientes presentan un aumento de las cifras de colesterol total a expensas de las LDL (las cifras de colesterol en heterocigotos alcanzan niveles entre 300-550 y en homocigotos >600 mg/dl). La clínica se caracteriza por aparición en heterocigotos, hacia los 30-40 años, de aterosclerosis coronaria e IAM precoz, xantomas tendinosos (muy típico), xantelasmas y arco corneal. En los homocigotos se manifiesta la aterosclerosis coronaria antes de los 20 años. El 50% de los familiares de primer grado son hipercolesterolémicos. El resto de las opciones son fácilmente descartables.",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Concentraciones de colesterol entre 175-250 mg/dl, a expensas de HDL, un hermano/a afecto/a de hipercolesterolemia, presencia de xantomas o el 25% de los familiares de primer grado hipercolesterolémicos.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Concentraciones de colesterol superiores a 300 mg/dl a expensas de LDL, un progenitor afecto, presencia de xantomas o el 50% de los familiares de primer grado hipercolesterolémicos.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Colesterolemia superior a 300 mg/dl y antecedentes de accidentes vasculares cerebrales en un progenitor.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Colesterolemia superior a 300 mg/dl y criterios de cardiopatía isquémica en ambos progenitores a edades de 68 y 71 años.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "3",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Hombre de 34 años con cifras de colesterol LDL superiores a 250 mg/dl, de forma persistente. El paciente se encuentra asintomático pero en la exploración se aprecia la presencia de manchas induradas blanquecinas en codos, rodillas y párpados. Su TA es de 135/85 mmHg. Su padre murió de un infarto de miocardio a la edad de 48 años. En la analítica, realizada en ayunas, destaca un colesterol total de 346 mg/dl, un LDL colesterol de 278 mg/dl, un HDL colesterol de 42 mg/dl, unos triglicéridos de 130 mg/dl y una glucosa de 93 mg/dl. Respecto a la enfermedad que padece este paciente, una de las siguientes afirmaciones es FALSA. Señale cuál: ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Paciente con hipercolesterolemia sin hipertrigliceridemia, xantomas, y antecedentes de cardiopatía isquémica precoz. Impresiona clínicamente de hipercolesterolemia familiar monogénica. Para establecer su diagnóstico se requiere la presencia de xantomas, la presencia de hipercolesterolemia en rango superior a 200 de LDL, y la existencia de transmisión autosómica dominante (al menos un progenitor afecto o al menos el 50% de descendientes afectos). En este paciente, al no haber diagnóstico de hipercolesterolemia en el padre, no se puede establecer fehacientemente el diagnóstico. Es una enfermedad autosómica codominante. Eleva el colesterol LDL por alteración del receptor LDL hepático, que impide su retirada de la sangre. No altera los niveles de triglicéridos (respuesta 3 falsa, es una hipercolesterolemia, no una hiperlipemia mixta). Aumenta enormemente el riesgo cardiovascular, siendo frecuentes los fenómenos isquémicos precoces si no se hace tratamiento. El tratamiento se inicia con estatinas, pero generalmente dados los niveles tan altos de colesterolemia se precisa tratamiento combinado con ezetimibe (inhibidor de la absorción intestinal de colesterol) para alcanzar los objetivos de control.",
+                "feedback_ko": "¡Incorrecto! Paciente con hipercolesterolemia sin hipertrigliceridemia, xantomas, y antecedentes de cardiopatía isquémica precoz. Impresiona clínicamente de hipercolesterolemia familiar monogénica. Para establecer su diagnóstico se requiere la presencia de xantomas, la presencia de hipercolesterolemia en rango superior a 200 de LDL, y la existencia de transmisión autosómica dominante (al menos un progenitor afecto o al menos el 50% de descendientes afectos). En este paciente, al no haber diagnóstico de hipercolesterolemia en el padre, no se puede establecer fehacientemente el diagnóstico. Es una enfermedad autosómica codominante. Eleva el colesterol LDL por alteración del receptor LDL hepático, que impide su retirada de la sangre. No altera los niveles de triglicéridos (respuesta 3 falsa, es una hipercolesterolemia, no una hiperlipemia mixta). Aumenta enormemente el riesgo cardiovascular, siendo frecuentes los fenómenos isquémicos precoces si no se hace tratamiento. El tratamiento se inicia con estatinas, pero generalmente dados los niveles tan altos de colesterolemia se precisa tratamiento combinado con ezetimibe (inhibidor de la absorción intestinal de colesterol) para alcanzar los objetivos de control.",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Se trata de una enfermedad hereditaria autosómica codominante, con una alta penetrancia, por lo que es frecuente que alguno de los progenitores y hermanos del individuo la padezcan también.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "El trastorno genético afecta al gen que codifica el receptor del LDL colesterol y se han descrito más de 900 mutaciones.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "El trastorno genético afecta también a la síntesis de los triglicéridos, provocando en las fases avanzadas de la enfermedad, un incremento de los mismos, que suele ser superior a los 500 mg/dl.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Los varones no tratados tienen una probabilidad cercana al 50% de sufrir un evento coronario antes de los 60 años de edad, y las mujeres con la enfermedad presentan una prevalencia de cardiopatía isquémica superior a la de la población general femenina.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "4",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Respecto del metabolismo del colesterol en el organismo señale la opción correcta: ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! La mayoría (85%) del colesterol deriva de producción endógena en el hígado, siendo una cascada multienzimática en la que el paso limitante es el catalizado por la HMG-Coa reductasa. La lipoprotein lipasa (LPL) es la enzima que se encarga de extraer triglicéridos de las lipoproteínas de producción hepática para su consumo y almacenaje en los tejidos. El colesterol es degradado en el hepatocito y excretado por vía biliar.",
+                "feedback_ko": "¡Incorrecto! La mayoría (85%) del colesterol deriva de producción endógena en el hígado, siendo una cascada multienzimática en la que el paso limitante es el catalizado por la HMG-Coa reductasa. La lipoprotein lipasa (LPL) es la enzima que se encarga de extraer triglicéridos de las lipoproteínas de producción hepática para su consumo y almacenaje en los tejidos. El colesterol es degradado en el hepatocito y excretado por vía biliar.",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "La mayoría del colesterol circulante deriva de la producción endógena.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "La enzima limitante de velocidad en la producción de colesterol es la LCAT.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "La lipoprotein lipasa es la enzima más relacionada a la hipercolesterolemia famibiliar combinada.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "La mayor parte del colesterol presenta metabolismo y excreción renal.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "5",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "En un ensayo clínico de un fármaco antineoplásico se observa un importante aumento de los niveles plasmáticos de LDL (lipoproteínas de baja densidad). Señalar de entre las siguientes afirmaciones cuál es correcta en la interpretación y consecuencias de este hecho:",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Pregunta básica sobre el metabolismo de las lipoproteínas. Las lipoproteínas LDL forman parte de la llamada vía endógena, que distribuye por los tejidos (músculo y graso) los lípidos generados en el hígado. Las LDL son moléculas formadas fundamentalmente de colesterol, procedentes de las VLDL e IDL una vez que han cedido los triglicéridos en los tejidos. Los niveles de LDL se consideran un factor de riesgo cardiovascular independiente y lineal (a mayores niveles de LDL, mayor riesgo vascular).",
+                "feedback_ko": "¡Incorrecto! Pregunta básica sobre el metabolismo de las lipoproteínas. Las lipoproteínas LDL forman parte de la llamada vía endógena, que distribuye por los tejidos (músculo y graso) los lípidos generados en el hígado. Las LDL son moléculas formadas fundamentalmente de colesterol, procedentes de las VLDL e IDL una vez que han cedido los triglicéridos en los tejidos. Los niveles de LDL se consideran un factor de riesgo cardiovascular independiente y lineal (a mayores niveles de LDL, mayor riesgo vascular). ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Las LDL están implicadas en el transporte reverso del colesterol desde los tejidos periféricos hacia el hígado. Por tanto, unos niveles elevados son beneficiosos para disminuir los niveles plasmáticos de colesterol.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Las LDL están implicadas en el transporte reverso del colesterol desde los tejidos periféricos hacia el hígado. Por tanto, unos niveles elevados son beneficiosos para disminuir los niveles plasmáticos de colesterol.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Las LDL son ricas en triglicéridos y pobres en colesterol. Un aumento de LDL en plasma refleja un aumento de síntesis de novo y/o de ingesta de triglicéridos.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Las LDL transportan colesterol desde el hígado a los tejidos periféricos, donde entran en las células mediante procesos de endocitosis.",
+                        "correct": true,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "6",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "En relación con los factores de riesgo de las enfermedades cardiovasculares, ¿cuál de las siguientes afirmaciones NO es correcta?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Como es bien sabido, el colesterol HDL bajo es un factor de riesgo cardiovascular por lo que la opción 3 es claramente falsa. Hay que recordar que, aunque tener bajo el HDL es factor de riesgo cardiovascular, la corrección farmacológica del HDL nunca ha conseguido demostrar mejoría de riesgo cardiovascular.",
+                "feedback_ko": "¡Incorrecto! Como es bien sabido, el colesterol HDL bajo es un factor de riesgo cardiovascular por lo que la opción 3 es claramente falsa. Hay que recordar que, aunque tener bajo el HDL es factor de riesgo cardiovascular, la corrección farmacológica del HDL nunca ha conseguido demostrar mejoría de riesgo cardiovascular.",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "En cuanto al colesterol LDL, el objetivo terapéutico depende del riesgo cardiovascular global.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Los pacientes diabéticos tipo 2 deben considerarse en su mayoría de alto riesgo cardiovascular y el objetivo en cuanto a colesterol LDL debe ser <70 mg/.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "No hay evidencia suficiente de que niveles bajos de colesterol HDL supongan un factor de riesgo cardiovascular.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Lo importante en el riesgo asociado a hipertensión arterial es que mejora cuando se reduce la presión arterial independientemente del tipo de fármaco utilizado.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "7",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "En relación con la composición de las lipoproteinas, indique la respuesta correcta:",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Recuerda que la Apo B-100 es una apolipoproteína de origen hepático y por ello aparece en las lipoproteínas de origen hepático (VLDL y sus derivadas IDL, y LDL) y que B-48 es producida en los enterocitos para formar los quilomicrones que contienen los triglicéridos de la dieta. Por otro lado, sabemos que la Apo-E actúa como llave que permite la captación hepatocitaria de lipoproteínas, por lo que está presente en las que se dirigen o retornan al hígado, es decir, quilomicrones desde el intestino, e IDL de la sangre y HDL de los tejidos. Las VLDL son las lipoproteínas que proporcionalmente tienen más triglicéridos y a medida que evolucionan a LDL van perdiéndolos para captar ésteres de colesterol.",
+                "feedback_ko": "¡Incorrecto! Recuerda que la Apo B-100 es una apolipoproteína de origen hepático y por ello aparece en las lipoproteínas de origen hepático (VLDL y sus derivadas IDL, y LDL) y que B-48 es producida en los enterocitos para formar los quilomicrones que contienen los triglicéridos de la dieta. Por otro lado, sabemos que la Apo-E actúa como llave que permite la captación hepatocitaria de lipoproteínas, por lo que está presente en las que se dirigen o retornan al hígado, es decir, quilomicrones desde el intestino, e IDL de la sangre y HDL de los tejidos. Las VLDL son las lipoproteínas que proporcionalmente tienen más triglicéridos y a medida que evolucionan a LDL van perdiéndolos para captar ésteres de colesterol.",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "La Apo B100 es un componente de los quilomicrones.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "La Apo A1 es componente principal de las LDL.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "La Apo E se encuentra en los quilomicrones, VLDL, IDL y HDL.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "La Apo B48 es el componente principal de las HDL.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "8",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "En relación con el metabolismo de las lipoproteínas sólo una de las siguientes afirmaciones es cierta. Indique cual: ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! La forma esterificada del colesterol carece de grupos OH (hidroxilo) libres, y dado que éstos son los que conceden polaridad a la molécula, los ésteres de alcoholes son moléculas poco hidrosolubles. Es por ello que los EC y los triglicéridos se alojan en el núcleo de las lipoproteínas. Los fosfolípidos, por ejemplo, sí son moléculas anfipáticas puesto que tienen una parte hidrosoluble (la del fósforo) y otra liposoluble (la del lípido). La lipoproteinlipasa es el enzima implicado en la liberación de los ácidos grasos de los triglicéridos (respuesta 3 correcta) y puestos que éstos viajan en plasma en VLDL y Qm, éstos son los que se acumulan. Cuando una enfermedad enzimática se hereda con carácter autosómico recesivo suele ser grave y mortal a corta edad (hipercolesterolemia familiar monogénica).",
+                "feedback_ko": "¡Incorrecto! La forma esterificada del colesterol carece de grupos OH (hidroxilo) libres, y dado que éstos son los que conceden polaridad a la molécula, los ésteres de alcoholes son moléculas poco hidrosolubles. Es por ello que los EC y los triglicéridos se alojan en el núcleo de las lipoproteínas. Los fosfolípidos, por ejemplo, sí son moléculas anfipáticas puesto que tienen una parte hidrosoluble (la del fósforo) y otra liposoluble (la del lípido). La lipoproteinlipasa es el enzima implicado en la liberación de los ácidos grasos de los triglicéridos (respuesta 3 correcta) y puestos que éstos viajan en plasma en VLDL y Qm, éstos son los que se acumulan. Cuando una enfermedad enzimática se hereda con carácter autosómico recesivo suele ser grave y mortal a corta edad (hipercolesterolemia familiar monogénica). ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "La forma esterificada del colesterol es soluble en medio acuoso (anfipático) y por ello recubre la superficie de las lipoproteínas.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Las lipoproteínas VLDL contienen fundamentalmente colesterol.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "La deficiencia familiar de lipoproteinlipasa se caracteriza por unos niveles muy elevados de triglicéridos y plasma lechoso.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "En la hipercolesterolemia poligénica es típica la existencia de xantomas.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "9",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿Cuál de los hallazgos descritos NO acompaña a la dislipemia del diabético?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! La dislipemia asociada a los estados de DM y de resistencia insulínica presenta un patrón característico que asocia hipertrigliceridemia con niveles de LDL dentro de los parámetros normales o discretamente elevados, pero estructuralmente pequeñas y densas, lo cual les confiere especial aterogenicidad. Se acompaña de niveles disminuidos de HDL. La lipoproteína a, por el contrario, no es una característica propia del paciente con DM. Se encuentra elevada en pacientes con enfermedad renal y en algunas hipercolesterolemias familiares. Se asocia a riesgo de enfermedad coronaria e ictus. Los niveles de HDL se encuentran habitualmente disminuidos. ",
+                "feedback_ko": "¡Incorrecto! La dislipemia asociada a los estados de DM y de resistencia insulínica presenta un patrón característico que asocia hipertrigliceridemia con niveles de LDL dentro de los parámetros normales o discretamente elevados, pero estructuralmente pequeñas y densas, lo cual les confiere especial aterogenicidad. Se acompaña de niveles disminuidos de HDL. La lipoproteína a, por el contrario, no es una característica propia del paciente con DM. Se encuentra elevada en pacientes con enfermedad renal y en algunas hipercolesterolemias familiares. Se asocia a riesgo de enfermedad coronaria e ictus. Los niveles de HDL se encuentran habitualmente disminuidos.  ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Niveles de LDL -colesterol en el rango normal- elevado. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Niveles altos de HDL-colesterol.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Niveles variables de Lipoproteína (a).",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Presencia de LDL pequeñas y densas.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "10",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿Cuáles de los siguientes son componentes clave de la regulación de los niveles de colesterol en sangre? ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! En la regulación de las cifras de colesterol circulante resulta fundamental la densidad de receptores LDL hepatocitarios, ya que es la unión de la ApoE a los mismos la que media la captación y eliminación de dichas moléculas.   ",
+                "feedback_ko": "¡Incorrecto! En la regulación de las cifras de colesterol circulante resulta fundamental la densidad de receptores LDL hepatocitarios, ya que es la unión de la ApoE a los mismos la que media la captación y eliminación de dichas moléculas.    ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Receptores de HDL. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Receptores de LDL. ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Receptores de VLDL.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Receptores de VHDL.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "11",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "En relación con el metabolismo de las lipoproteínas, señale cuál de las siguientes respuestas es INCORRECTA: ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! La lipoproteínlipasa es una enzima que actúa a nivel adiposo y muscular desprendiendo los triglicéridos presentes tanto en quilomicrones, VLDL e IDL y permitiendo que dichos TG se liberen a los tejidos mencionados.   ",
+                "feedback_ko": "¡Incorrecto! La lipoproteínlipasa es una enzima que actúa a nivel adiposo y muscular desprendiendo los triglicéridos presentes tanto en quilomicrones, VLDL e IDL y permitiendo que dichos TG se liberen a los tejidos mencionados.",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "La apoproteína principal de las LDL es la Apo B 100. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "La Apo E es la mediadora en la captación de las LDL por el hígado. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "La lipoproteinlipasa facilita la hidrólisis de los triglicéridos integrados en los VLDL a nivel hepático.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Los quilomicrones se forman en la mucosa intestinal.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "12",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Señale la afirmación incorrecta respecto a los lípidos:",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Las alteraciones lipídicas suponen un importante factor de riesgo cardiovascular. Las más relevantes son las alteraciones del colesterol. Suponen un aumento del riesgo cardiovascular tanto los niveles elevados de LDL como los niveles bajos de HDL (opción 4 incorrecta). Los estrógenos provocan un aumento del colesterol HDL, cardioprotector, y un aumento de las partículas VLDL, con aumento de triglicéridos, por lo que las mujeres premenopáusicas están protegidas frente a la enfermedad ateroesclerótica. Factores genéticos influyen sobre las cifras de colesterol y triglicéridos, pero en la mayoría de pacientes hay un importante factor medioambiental. Hay alimentos que favorecen la aterogénesis, como las grasas de origen animal, saturadas, que favorecen el aumento de LDL; otros, los ricos en grasas insaturadas, como algunos pescados, los frutos secos y otras grasas de origen vegetal, se consideran cardiosaludables por aumentar los niveles de HDL y disminuir los de LDL. En caso de no controlar los niveles de lípidos con dieta y modificación del estilo de vida, se puede intervenir farmacológicamente con distintos grupos de fármacos, siendo más eficaces las estatinas para el control del colesterol, y los fibratos para los trigliceridos. ",
+                "feedback_ko": "¡Incorrecto! Las alteraciones lipídicas suponen un importante factor de riesgo cardiovascular. Las más relevantes son las alteraciones del colesterol. Suponen un aumento del riesgo cardiovascular tanto los niveles elevados de LDL como los niveles bajos de HDL (opción 4 incorrecta). Los estrógenos provocan un aumento del colesterol HDL, cardioprotector, y un aumento de las partículas VLDL, con aumento de triglicéridos, por lo que las mujeres premenopáusicas están protegidas frente a la enfermedad ateroesclerótica. Factores genéticos influyen sobre las cifras de colesterol y triglicéridos, pero en la mayoría de pacientes hay un importante factor medioambiental. Hay alimentos que favorecen la aterogénesis, como las grasas de origen animal, saturadas, que favorecen el aumento de LDL; otros, los ricos en grasas insaturadas, como algunos pescados, los frutos secos y otras grasas de origen vegetal, se consideran cardiosaludables por aumentar los niveles de HDL y disminuir los de LDL. En caso de no controlar los niveles de lípidos con dieta y modificación del estilo de vida, se puede intervenir farmacológicamente con distintos grupos de fármacos, siendo más eficaces las estatinas para el control del colesterol, y los fibratos para los trigliceridos.  ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Para el cálculo del riesgo coronario influyen tanto el colesterol LDL como el colesterol HDL. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Los estrógenos provocan un aumento del colesterol HDL y un aumento de las partículas VLDL. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "El consumo elevado de grasas saturadas se asocia a cardiopatía isquémica.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Niveles altos de colesterol HDL son más perjudiciales que niveles bajos de colesterol LDL.",
+                        "correct": true,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "13",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿Cuál es la principal causa de mortalidad en España?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! La causa de fallecimientos más frecuente en España, como el resto de países desarrollados es la cardiopatía isquémica. En conjunto, las enfermedades cardiovasculares suponen un 30% de las muertes en sociedades como la nuestra. ",
+                "feedback_ko": "¡Incorrecto! La causa de fallecimientos más frecuente en España, como el resto de países desarrollados es la cardiopatía isquémica. En conjunto, las enfermedades cardiovasculares suponen un 30% de las muertes en sociedades como la nuestra. ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Cardiopatía isquémica. ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Neoplasias. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Insuficiencia renal crónica.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Tuberculosis.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "14",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "No es un factor de riesgo cardiovascular modificable:",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Pregunta muy sencilla, donde la disfunción del receptor LDL, como ocurre en la hipercolesterolemia familiar hetero/homocigota es un problema genético, y por tanto no modificable.",
+                "feedback_ko": "¡Incorrecto! Pregunta muy sencilla, donde la disfunción del receptor LDL, como ocurre en la hipercolesterolemia familiar hetero/homocigota es un problema genético, y por tanto no modificable. ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Hipertensión arterial.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Diabetes mellitus. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Disfunción del receptor LDL.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Tabaquismo.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "15",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿En cuál de las siguientes cascadas enzimáticas juegan un papel clave los ácidos biliares?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Los ácidos biliares (productos de degradación del colesterol) son sustancias que facilitan la digestión de las grasas alimentarias favoreciendo su absorción. Se considera por tanto que participan de la vía exógena del metabolismo del colesterol.  ",
+                "feedback_ko": "¡Incorrecto! Los ácidos biliares (productos de degradación del colesterol) son sustancias que facilitan la digestión de las grasas alimentarias favoreciendo su absorción. Se considera por tanto que participan de la vía exógena del metabolismo del colesterol.   ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": false,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Vía inversa",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Vía endógena. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Vía reversa.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Ninguna de las anteriores.",
+                        "correct": true,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "16",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Una de las siguientes no se relaciona a mayor riesgo de aterogénesis:",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! La PCSK9 es la enzima encargada de mediar la degradación lisosomal de los receptores de LDL hepatocitarios. Por ese motivo, una mayor actividad PCSK9 se traduce en mayores niveles circulantes de LDL y mayor riesgo aterógenico. ",
+                "feedback_ko": "¡Incorrecto! La PCSK9 es la enzima encargada de mediar la degradación lisosomal de los receptores de LDL hepatocitarios. Por ese motivo, una mayor actividad PCSK9 se traduce en mayores niveles circulantes de LDL y mayor riesgo aterógenico.  ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Mutación con pérdida del receptor LDL. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Mutación con pérdida de ApoE.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Mutación con pérdida de PCSK9.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Mutación con ganancia de PCSK9. ",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "17",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "No es un papel principal del colesterol: ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! El colesterol corporal se divide en circulante y membranoso. El segundo es un elemento fundamental para mantener la estabilidad y conformación tridimensional de las membranas plasmáticas. El colesterol circulante, entre otros, participa de la síntesis de vitamina D, testosterona, estrógenos, progesterona y cortisol. No se relaciona con la formación de cálculos renal, sí con los cálculos biliares, de ahí su nombre (kole - bilis, stereos- sólido). ",
+                "feedback_ko": "¡Incorrecto! El colesterol corporal se divide en circulante y membranoso. El segundo es un elemento fundamental para mantener la estabilidad y conformación tridimensional de las membranas plasmáticas. El colesterol circulante, entre otros, participa de la síntesis de vitamina D, testosterona, estrógenos, progesterona y cortisol. No se relaciona con la formación de cálculos renal, sí con los cálculos biliares, de ahí su nombre (kole - bilis, stereos- sólido).     ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Participar de la síntesis de vitamina D.  ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Precursor de las hormonas esteroideas.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Formación de cálculos renales.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Elemento de membrana celular.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "18",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "No es un criterio clínico de hipercolesterolemia familiar heterocigota:",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! La HF heterocigota es la enfermedad monogénica más frecuente, y se asocia a niveles elevados de LDL con repercusión cardiovascular precoz (40-50 años). Para su diagnóstico se pueden emplear test genéticos (costosos y no siempre diagnósticos) o puntuaciones basadas en criterios clínicos. En ese sentido, apoya el diagnóstico la historia familiar de primer grado, la presencia de ECV precoz, la presencia de xantomas o arco corneal así como cifras de LDL elevadas. ",
+                "feedback_ko": "¡Incorrecto! La HF heterocigota es la enfermedad monogénica más frecuente, y se asocia a niveles elevados de LDL con repercusión cardiovascular precoz (40-50 años). Para su diagnóstico se pueden emplear test genéticos (costosos y no siempre diagnósticos) o puntuaciones basadas en criterios clínicos. En ese sentido, apoya el diagnóstico la historia familiar de primer grado, la presencia de ECV precoz, la presencia de xantomas o arco corneal así como cifras de LDL elevadas.",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Niveles elevados de LDL. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Niveles bajos de HDL.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Xantomas tendinosos.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Familiar de primer grado diagnosticado. ",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "19",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Respecto de los ácidos biliares señale la opción falsa: ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Las 3 primeras opciones sintetizan la información básica de la función de las sales biliares, que son finalmente reabsorbidas en su práctica totalidad (opción 4 falsa) en el íleon.  ",
+                "feedback_ko": "¡Incorrecto! Las 3 primeras opciones sintetizan la información básica de la función de las sales biliares, que son finalmente reabsorbidas en su práctica totalidad (opción 4 falsa) en el íleon. ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Son sustancias del metabolismo hepático del colesterol.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Son liberados a tracto intestinal en respuesta al estímulo digestivo.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Facilitan la digestión y absorción de las grasas alimenticias.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "En torno al 50% son reabsorbidas a nivel del intestino delgado terminal para su reaprovechamiento. ",
+                        "correct": true,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "20",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Respecto de la epidemiología de la enfermedad cardiovascular señale la opción incorrecta:",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! La mortalidad cardiovascular explica cerca del 30% de fallecimientos en nuestro país, con unas 9.000 defunciones más en mujeres que en hombres. La principal causa es la cardiopatía isquémica, seguida de la enfermedad cerebrovascular. No obstante, durante las últimas décadas la enfermedad cardiovascular ha visto disminuida su tasa de letalidad contribuyendo de forma significativa al aumento observado de la esperanza de vida. ",
+                "feedback_ko": "¡Incorrecto! La mortalidad cardiovascular explica cerca del 30% de fallecimientos en nuestro país, con unas 9.000 defunciones más en mujeres que en hombres. La principal causa es la cardiopatía isquémica, seguida de la enfermedad cerebrovascular. No obstante, durante las últimas décadas la enfermedad cardiovascular ha visto disminuida su tasa de letalidad contribuyendo de forma significativa al aumento observado de la esperanza de vida. ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "La mortalidad cardiovascular absoluta es mayor en mujeres que en hombres.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Existe variabilidad geográfica para la tasa de mortalidad cardiovascular.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Las mortalidad de causa cardiovascular se encuentra en lento pero progresivo crecimiento durante las últimas décadas. ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "La causa más frecuente de muerte es la cardiopatía isquémica. ",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            }
+        ]
+        ,
+        "7.1": [
+            {
+                "id": "1",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Los remanentes de quilomicrón son retirados de la circulación por el hígado mediante un proceso que requiere la siguiente apoproteína:",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Los lípidos son insolubles en suero, por lo que forman estructuras llamadas lipoproteínas que permiten su transporte. Para ello, se unen a distintos tipos de apoproteinas, que aparte de conformar un armazón para la lipoproteína intervienen en su metabolismo. Los Triglicéridos se transportan unidos a ApoB-48 y Apo B-100. La B-48 es producida en los enterocitos para formar los quilomicrones que transportan los triglicéridos de la dieta. También hay Apo B-48 en los quilomicrones residuales, que resultan de la hidrólisis de quilomicrones en tejidos periféricos por la enzima lipoproteinlipasa, presente en el endotelio. Recuerda que la Apo B-100 es una apolipoproteína de origen hepático y por ello aparece en las lipoproteínas de origen hepático (VLDL y sus derivadas IDL, y LDL). Los Triglicéridos endógenos se transportan unidos a ApoB-100 en las VLDL. Por acción de la LPL, las VLDL se descargan de triglicéridos y quedan como IDL, o incluso LDL, con Apo B-100 como vehículo, y Apo-E que permite la retirada por los hepatocitos. Por otro lado, sabemos que la Apo-E actúa como llave que permite la captación hepatocitaria de lipoproteínas, por lo que está presente en las que se dirigen o retornan al hígado, es decir, quilomicrones desde el intestino, e IDL y VLDL de la sangre y HDL de los tejidos (opción 2 correcta). Parte de las LDL se retiran de sangre por el receptor LDL hepático, parte persisten en la circulación, se oxidan, y son captadas por los macrófagos, favoreciendo la aterogénesis. Las ApoA 1 y 2 son componentes estructurales de las HDL. Las HDL se encargan de retirar colesterol del torrente sanguíneo y degradarlo por vía hepática. Dos enzimas colaboran a este respecto: la LCAT (lecitina colesterol aciltransferasa) transporta el colesterol de los tejidos al núcleo de las HDL, y la CETP (proteína de transferencia de los ésteres de colesterol) media el intercambio de los ésteres de colesterol de las HDL con los triglicéridos de las VLDL. La ApoE permite la retirada hepatocitaria de las HDL, siendo el colesterol sobrante eliminado por la bilis. Como resumen general, las Apo-B transportan colesterol hacia tejidos, favoreciendo la aterogénesis, mientras que las Apo-A retiran colesterol del plasma y son antiaterogénicas. El cociente ApoB/A elevado se ha revelado en algunos estudios como un factor predictor independiente de riesgo aterogénico..",
+                "feedback_ko": "¡Incorrecto! Los lípidos son insolubles en suero, por lo que forman estructuras llamadas lipoproteínas que permiten su transporte. Para ello, se unen a distintos tipos de apoproteinas, que aparte de conformar un armazón para la lipoproteína intervienen en su metabolismo. Los Triglicéridos se transportan unidos a ApoB-48 y Apo B-100. La B-48 es producida en los enterocitos para formar los quilomicrones que transportan los triglicéridos de la dieta. También hay Apo B-48 en los quilomicrones residuales, que resultan de la hidrólisis de quilomicrones en tejidos periféricos por la enzima lipoproteinlipasa, presente en el endotelio. Recuerda que la Apo B-100 es una apolipoproteína de origen hepático y por ello aparece en las lipoproteínas de origen hepático (VLDL y sus derivadas IDL, y LDL). Los Triglicéridos endógenos se transportan unidos a ApoB-100 en las VLDL. Por acción de la LPL, las VLDL se descargan de triglicéridos y quedan como IDL, o incluso LDL, con Apo B-100 como vehículo, y Apo-E que permite la retirada por los hepatocitos. Por otro lado, sabemos que la Apo-E actúa como llave que permite la captación hepatocitaria de lipoproteínas, por lo que está presente en las que se dirigen o retornan al hígado, es decir, quilomicrones desde el intestino, e IDL y VLDL de la sangre y HDL de los tejidos (opción 2 correcta). Parte de las LDL se retiran de sangre por el receptor LDL hepático, parte persisten en la circulación, se oxidan, y son captadas por los macrófagos, favoreciendo la aterogénesis. Las ApoA 1 y 2 son componentes estructurales de las HDL. Las HDL se encargan de retirar colesterol del torrente sanguíneo y degradarlo por vía hepática. Dos enzimas colaboran a este respecto: la LCAT (lecitina colesterol aciltransferasa) transporta el colesterol de los tejidos al núcleo de las HDL, y la CETP (proteína de transferencia de los ésteres de colesterol) media el intercambio de los ésteres de colesterol de las HDL con los triglicéridos de las VLDL. La ApoE permite la retirada hepatocitaria de las HDL, siendo el colesterol sobrante eliminado por la bilis. Como resumen general, las Apo-B transportan colesterol hacia tejidos, favoreciendo la aterogénesis, mientras que las Apo-A retiran colesterol del plasma y son antiaterogénicas. El cociente ApoB/A elevado se ha revelado en algunos estudios como un factor predictor independiente de riesgo aterogénico.",
+                "topic": "",
+                "countDown": false,
+                "timeCountDown": 5,
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Apo B100.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Abo B48.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Apo CII.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "ApoE.",
+                        "correct": true,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "2",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Actualmente el diagnóstico de hipercolesterolemia familiar se basa en las características clínicas del paciente. Son criterios de certeza:",
+                "instructions": "Selecciona las opciones que consideres correctas:",
+                "feedback_ok": "¡Correcto! El diagnóstico de hipercolesterolemia familiar se basa en las características clínicas del paciente. Posee una herencia autonómica dominante monogénica, que ocasiona alteración en el receptor de las LDL. Estos pacientes presentan un aumento de las cifras de colesterol total a expensas de las LDL (las cifras de colesterol en heterocigotos alcanzan niveles entre 300-550 y en homocigotos >600 mg/dl). La clínica se caracteriza por aparición en heterocigotos, hacia los 30-40 años, de aterosclerosis coronaria e IAM precoz, xantomas tendinosos (muy típico), xantelasmas y arco corneal. En los homocigotos se manifiesta la aterosclerosis coronaria antes de los 20 años. El 50% de los familiares de primer grado son hipercolesterolémicos. El resto de las opciones son fácilmente descartables.",
+                "feedback_ko": "¡Incorrecto! El diagnóstico de hipercolesterolemia familiar se basa en las características clínicas del paciente. Posee una herencia autonómica dominante monogénica, que ocasiona alteración en el receptor de las LDL. Estos pacientes presentan un aumento de las cifras de colesterol total a expensas de las LDL (las cifras de colesterol en heterocigotos alcanzan niveles entre 300-550 y en homocigotos >600 mg/dl). La clínica se caracteriza por aparición en heterocigotos, hacia los 30-40 años, de aterosclerosis coronaria e IAM precoz, xantomas tendinosos (muy típico), xantelasmas y arco corneal. En los homocigotos se manifiesta la aterosclerosis coronaria antes de los 20 años. El 50% de los familiares de primer grado son hipercolesterolémicos. El resto de las opciones son fácilmente descartables.",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Concentraciones de colesterol entre 175-250 mg/dl, a expensas de HDL, un hermano/a afecto/a de hipercolesterolemia, presencia de xantomas o el 25% de los familiares de primer grado hipercolesterolémicos.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Concentraciones de colesterol superiores a 300 mg/dl a expensas de LDL, un progenitor afecto, presencia de xantomas o el 50% de los familiares de primer grado hipercolesterolémicos.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Colesterolemia superior a 300 mg/dl y antecedentes de accidentes vasculares cerebrales en un progenitor.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Colesterolemia superior a 300 mg/dl y criterios de cardiopatía isquémica en ambos progenitores a edades de 68 y 71 años.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "3",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Hombre de 34 años con cifras de colesterol LDL superiores a 250 mg/dl, de forma persistente. El paciente se encuentra asintomático pero en la exploración se aprecia la presencia de manchas induradas blanquecinas en codos, rodillas y párpados. Su TA es de 135/85 mmHg. Su padre murió de un infarto de miocardio a la edad de 48 años. En la analítica, realizada en ayunas, destaca un colesterol total de 346 mg/dl, un LDL colesterol de 278 mg/dl, un HDL colesterol de 42 mg/dl, unos triglicéridos de 130 mg/dl y una glucosa de 93 mg/dl. Respecto a la enfermedad que padece este paciente, una de las siguientes afirmaciones es FALSA. Señale cuál: ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Paciente con hipercolesterolemia sin hipertrigliceridemia, xantomas, y antecedentes de cardiopatía isquémica precoz. Impresiona clínicamente de hipercolesterolemia familiar monogénica. Para establecer su diagnóstico se requiere la presencia de xantomas, la presencia de hipercolesterolemia en rango superior a 200 de LDL, y la existencia de transmisión autosómica dominante (al menos un progenitor afecto o al menos el 50% de descendientes afectos). En este paciente, al no haber diagnóstico de hipercolesterolemia en el padre, no se puede establecer fehacientemente el diagnóstico. Es una enfermedad autosómica codominante. Eleva el colesterol LDL por alteración del receptor LDL hepático, que impide su retirada de la sangre. No altera los niveles de triglicéridos (respuesta 3 falsa, es una hipercolesterolemia, no una hiperlipemia mixta). Aumenta enormemente el riesgo cardiovascular, siendo frecuentes los fenómenos isquémicos precoces si no se hace tratamiento. El tratamiento se inicia con estatinas, pero generalmente dados los niveles tan altos de colesterolemia se precisa tratamiento combinado con ezetimibe (inhibidor de la absorción intestinal de colesterol) para alcanzar los objetivos de control.",
+                "feedback_ko": "¡Incorrecto! Paciente con hipercolesterolemia sin hipertrigliceridemia, xantomas, y antecedentes de cardiopatía isquémica precoz. Impresiona clínicamente de hipercolesterolemia familiar monogénica. Para establecer su diagnóstico se requiere la presencia de xantomas, la presencia de hipercolesterolemia en rango superior a 200 de LDL, y la existencia de transmisión autosómica dominante (al menos un progenitor afecto o al menos el 50% de descendientes afectos). En este paciente, al no haber diagnóstico de hipercolesterolemia en el padre, no se puede establecer fehacientemente el diagnóstico. Es una enfermedad autosómica codominante. Eleva el colesterol LDL por alteración del receptor LDL hepático, que impide su retirada de la sangre. No altera los niveles de triglicéridos (respuesta 3 falsa, es una hipercolesterolemia, no una hiperlipemia mixta). Aumenta enormemente el riesgo cardiovascular, siendo frecuentes los fenómenos isquémicos precoces si no se hace tratamiento. El tratamiento se inicia con estatinas, pero generalmente dados los niveles tan altos de colesterolemia se precisa tratamiento combinado con ezetimibe (inhibidor de la absorción intestinal de colesterol) para alcanzar los objetivos de control.",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Se trata de una enfermedad hereditaria autosómica codominante, con una alta penetrancia, por lo que es frecuente que alguno de los progenitores y hermanos del individuo la padezcan también.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "El trastorno genético afecta al gen que codifica el receptor del LDL colesterol y se han descrito más de 900 mutaciones.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "El trastorno genético afecta también a la síntesis de los triglicéridos, provocando en las fases avanzadas de la enfermedad, un incremento de los mismos, que suele ser superior a los 500 mg/dl.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Los varones no tratados tienen una probabilidad cercana al 50% de sufrir un evento coronario antes de los 60 años de edad, y las mujeres con la enfermedad presentan una prevalencia de cardiopatía isquémica superior a la de la población general femenina.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "4",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Respecto del metabolismo del colesterol en el organismo señale la opción correcta: ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! La mayoría (85%) del colesterol deriva de producción endógena en el hígado, siendo una cascada multienzimática en la que el paso limitante es el catalizado por la HMG-Coa reductasa. La lipoprotein lipasa (LPL) es la enzima que se encarga de extraer triglicéridos de las lipoproteínas de producción hepática para su consumo y almacenaje en los tejidos. El colesterol es degradado en el hepatocito y excretado por vía biliar.",
+                "feedback_ko": "¡Incorrecto! La mayoría (85%) del colesterol deriva de producción endógena en el hígado, siendo una cascada multienzimática en la que el paso limitante es el catalizado por la HMG-Coa reductasa. La lipoprotein lipasa (LPL) es la enzima que se encarga de extraer triglicéridos de las lipoproteínas de producción hepática para su consumo y almacenaje en los tejidos. El colesterol es degradado en el hepatocito y excretado por vía biliar.",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "La mayoría del colesterol circulante deriva de la producción endógena.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "La enzima limitante de velocidad en la producción de colesterol es la LCAT.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "La lipoprotein lipasa es la enzima más relacionada a la hipercolesterolemia famibiliar combinada.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "La mayor parte del colesterol presenta metabolismo y excreción renal.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "5",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "En un ensayo clínico de un fármaco antineoplásico se observa un importante aumento de los niveles plasmáticos de LDL (lipoproteínas de baja densidad). Señalar de entre las siguientes afirmaciones cuál es correcta en la interpretación y consecuencias de este hecho:",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Pregunta básica sobre el metabolismo de las lipoproteínas. Las lipoproteínas LDL forman parte de la llamada vía endógena, que distribuye por los tejidos (músculo y graso) los lípidos generados en el hígado. Las LDL son moléculas formadas fundamentalmente de colesterol, procedentes de las VLDL e IDL una vez que han cedido los triglicéridos en los tejidos. Los niveles de LDL se consideran un factor de riesgo cardiovascular independiente y lineal (a mayores niveles de LDL, mayor riesgo vascular).",
+                "feedback_ko": "¡Incorrecto! Pregunta básica sobre el metabolismo de las lipoproteínas. Las lipoproteínas LDL forman parte de la llamada vía endógena, que distribuye por los tejidos (músculo y graso) los lípidos generados en el hígado. Las LDL son moléculas formadas fundamentalmente de colesterol, procedentes de las VLDL e IDL una vez que han cedido los triglicéridos en los tejidos. Los niveles de LDL se consideran un factor de riesgo cardiovascular independiente y lineal (a mayores niveles de LDL, mayor riesgo vascular). ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Las LDL están implicadas en el transporte reverso del colesterol desde los tejidos periféricos hacia el hígado. Por tanto, unos niveles elevados son beneficiosos para disminuir los niveles plasmáticos de colesterol.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Las LDL están implicadas en el transporte reverso del colesterol desde los tejidos periféricos hacia el hígado. Por tanto, unos niveles elevados son beneficiosos para disminuir los niveles plasmáticos de colesterol.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Las LDL son ricas en triglicéridos y pobres en colesterol. Un aumento de LDL en plasma refleja un aumento de síntesis de novo y/o de ingesta de triglicéridos.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Las LDL transportan colesterol desde el hígado a los tejidos periféricos, donde entran en las células mediante procesos de endocitosis.",
+                        "correct": true,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "6",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "En relación con los factores de riesgo de las enfermedades cardiovasculares, ¿cuál de las siguientes afirmaciones NO es correcta?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Como es bien sabido, el colesterol HDL bajo es un factor de riesgo cardiovascular por lo que la opción 3 es claramente falsa. Hay que recordar que, aunque tener bajo el HDL es factor de riesgo cardiovascular, la corrección farmacológica del HDL nunca ha conseguido demostrar mejoría de riesgo cardiovascular.",
+                "feedback_ko": "¡Incorrecto! Como es bien sabido, el colesterol HDL bajo es un factor de riesgo cardiovascular por lo que la opción 3 es claramente falsa. Hay que recordar que, aunque tener bajo el HDL es factor de riesgo cardiovascular, la corrección farmacológica del HDL nunca ha conseguido demostrar mejoría de riesgo cardiovascular.",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "En cuanto al colesterol LDL, el objetivo terapéutico depende del riesgo cardiovascular global.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Los pacientes diabéticos tipo 2 deben considerarse en su mayoría de alto riesgo cardiovascular y el objetivo en cuanto a colesterol LDL debe ser <70 mg/.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "No hay evidencia suficiente de que niveles bajos de colesterol HDL supongan un factor de riesgo cardiovascular.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Lo importante en el riesgo asociado a hipertensión arterial es que mejora cuando se reduce la presión arterial independientemente del tipo de fármaco utilizado.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "7",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "En relación con la composición de las lipoproteinas, indique la respuesta correcta:",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Recuerda que la Apo B-100 es una apolipoproteína de origen hepático y por ello aparece en las lipoproteínas de origen hepático (VLDL y sus derivadas IDL, y LDL) y que B-48 es producida en los enterocitos para formar los quilomicrones que contienen los triglicéridos de la dieta. Por otro lado, sabemos que la Apo-E actúa como llave que permite la captación hepatocitaria de lipoproteínas, por lo que está presente en las que se dirigen o retornan al hígado, es decir, quilomicrones desde el intestino, e IDL de la sangre y HDL de los tejidos. Las VLDL son las lipoproteínas que proporcionalmente tienen más triglicéridos y a medida que evolucionan a LDL van perdiéndolos para captar ésteres de colesterol.",
+                "feedback_ko": "¡Incorrecto! Recuerda que la Apo B-100 es una apolipoproteína de origen hepático y por ello aparece en las lipoproteínas de origen hepático (VLDL y sus derivadas IDL, y LDL) y que B-48 es producida en los enterocitos para formar los quilomicrones que contienen los triglicéridos de la dieta. Por otro lado, sabemos que la Apo-E actúa como llave que permite la captación hepatocitaria de lipoproteínas, por lo que está presente en las que se dirigen o retornan al hígado, es decir, quilomicrones desde el intestino, e IDL de la sangre y HDL de los tejidos. Las VLDL son las lipoproteínas que proporcionalmente tienen más triglicéridos y a medida que evolucionan a LDL van perdiéndolos para captar ésteres de colesterol.",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "La Apo B100 es un componente de los quilomicrones.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "La Apo A1 es componente principal de las LDL.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "La Apo E se encuentra en los quilomicrones, VLDL, IDL y HDL.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "La Apo B48 es el componente principal de las HDL.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "8",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "En relación con el metabolismo de las lipoproteínas sólo una de las siguientes afirmaciones es cierta. Indique cual: ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! La forma esterificada del colesterol carece de grupos OH (hidroxilo) libres, y dado que éstos son los que conceden polaridad a la molécula, los ésteres de alcoholes son moléculas poco hidrosolubles. Es por ello que los EC y los triglicéridos se alojan en el núcleo de las lipoproteínas. Los fosfolípidos, por ejemplo, sí son moléculas anfipáticas puesto que tienen una parte hidrosoluble (la del fósforo) y otra liposoluble (la del lípido). La lipoproteinlipasa es el enzima implicado en la liberación de los ácidos grasos de los triglicéridos (respuesta 3 correcta) y puestos que éstos viajan en plasma en VLDL y Qm, éstos son los que se acumulan. Cuando una enfermedad enzimática se hereda con carácter autosómico recesivo suele ser grave y mortal a corta edad (hipercolesterolemia familiar monogénica).",
+                "feedback_ko": "¡Incorrecto! La forma esterificada del colesterol carece de grupos OH (hidroxilo) libres, y dado que éstos son los que conceden polaridad a la molécula, los ésteres de alcoholes son moléculas poco hidrosolubles. Es por ello que los EC y los triglicéridos se alojan en el núcleo de las lipoproteínas. Los fosfolípidos, por ejemplo, sí son moléculas anfipáticas puesto que tienen una parte hidrosoluble (la del fósforo) y otra liposoluble (la del lípido). La lipoproteinlipasa es el enzima implicado en la liberación de los ácidos grasos de los triglicéridos (respuesta 3 correcta) y puestos que éstos viajan en plasma en VLDL y Qm, éstos son los que se acumulan. Cuando una enfermedad enzimática se hereda con carácter autosómico recesivo suele ser grave y mortal a corta edad (hipercolesterolemia familiar monogénica). ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "La forma esterificada del colesterol es soluble en medio acuoso (anfipático) y por ello recubre la superficie de las lipoproteínas.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Las lipoproteínas VLDL contienen fundamentalmente colesterol.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "La deficiencia familiar de lipoproteinlipasa se caracteriza por unos niveles muy elevados de triglicéridos y plasma lechoso.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "En la hipercolesterolemia poligénica es típica la existencia de xantomas.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "9",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿Cuál de los hallazgos descritos NO acompaña a la dislipemia del diabético?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! La dislipemia asociada a los estados de DM y de resistencia insulínica presenta un patrón característico que asocia hipertrigliceridemia con niveles de LDL dentro de los parámetros normales o discretamente elevados, pero estructuralmente pequeñas y densas, lo cual les confiere especial aterogenicidad. Se acompaña de niveles disminuidos de HDL. La lipoproteína a, por el contrario, no es una característica propia del paciente con DM. Se encuentra elevada en pacientes con enfermedad renal y en algunas hipercolesterolemias familiares. Se asocia a riesgo de enfermedad coronaria e ictus. Los niveles de HDL se encuentran habitualmente disminuidos. ",
+                "feedback_ko": "¡Incorrecto! La dislipemia asociada a los estados de DM y de resistencia insulínica presenta un patrón característico que asocia hipertrigliceridemia con niveles de LDL dentro de los parámetros normales o discretamente elevados, pero estructuralmente pequeñas y densas, lo cual les confiere especial aterogenicidad. Se acompaña de niveles disminuidos de HDL. La lipoproteína a, por el contrario, no es una característica propia del paciente con DM. Se encuentra elevada en pacientes con enfermedad renal y en algunas hipercolesterolemias familiares. Se asocia a riesgo de enfermedad coronaria e ictus. Los niveles de HDL se encuentran habitualmente disminuidos.  ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Niveles de LDL -colesterol en el rango normal- elevado. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Niveles altos de HDL-colesterol.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Niveles variables de Lipoproteína (a).",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Presencia de LDL pequeñas y densas.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "10",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿Cuáles de los siguientes son componentes clave de la regulación de los niveles de colesterol en sangre? ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! En la regulación de las cifras de colesterol circulante resulta fundamental la densidad de receptores LDL hepatocitarios, ya que es la unión de la ApoE a los mismos la que media la captación y eliminación de dichas moléculas.   ",
+                "feedback_ko": "¡Incorrecto! En la regulación de las cifras de colesterol circulante resulta fundamental la densidad de receptores LDL hepatocitarios, ya que es la unión de la ApoE a los mismos la que media la captación y eliminación de dichas moléculas.    ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Receptores de HDL. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Receptores de LDL. ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Receptores de VLDL.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Receptores de VHDL.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "11",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "En relación con el metabolismo de las lipoproteínas, señale cuál de las siguientes respuestas es INCORRECTA: ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! La lipoproteínlipasa es una enzima que actúa a nivel adiposo y muscular desprendiendo los triglicéridos presentes tanto en quilomicrones, VLDL e IDL y permitiendo que dichos TG se liberen a los tejidos mencionados.   ",
+                "feedback_ko": "¡Incorrecto! La lipoproteínlipasa es una enzima que actúa a nivel adiposo y muscular desprendiendo los triglicéridos presentes tanto en quilomicrones, VLDL e IDL y permitiendo que dichos TG se liberen a los tejidos mencionados.",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "La apoproteína principal de las LDL es la Apo B 100. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "La Apo E es la mediadora en la captación de las LDL por el hígado. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "La lipoproteinlipasa facilita la hidrólisis de los triglicéridos integrados en los VLDL a nivel hepático.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Los quilomicrones se forman en la mucosa intestinal.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "12",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Señale la afirmación incorrecta respecto a los lípidos:",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Las alteraciones lipídicas suponen un importante factor de riesgo cardiovascular. Las más relevantes son las alteraciones del colesterol. Suponen un aumento del riesgo cardiovascular tanto los niveles elevados de LDL como los niveles bajos de HDL (opción 4 incorrecta). Los estrógenos provocan un aumento del colesterol HDL, cardioprotector, y un aumento de las partículas VLDL, con aumento de triglicéridos, por lo que las mujeres premenopáusicas están protegidas frente a la enfermedad ateroesclerótica. Factores genéticos influyen sobre las cifras de colesterol y triglicéridos, pero en la mayoría de pacientes hay un importante factor medioambiental. Hay alimentos que favorecen la aterogénesis, como las grasas de origen animal, saturadas, que favorecen el aumento de LDL; otros, los ricos en grasas insaturadas, como algunos pescados, los frutos secos y otras grasas de origen vegetal, se consideran cardiosaludables por aumentar los niveles de HDL y disminuir los de LDL. En caso de no controlar los niveles de lípidos con dieta y modificación del estilo de vida, se puede intervenir farmacológicamente con distintos grupos de fármacos, siendo más eficaces las estatinas para el control del colesterol, y los fibratos para los trigliceridos. ",
+                "feedback_ko": "¡Incorrecto! Las alteraciones lipídicas suponen un importante factor de riesgo cardiovascular. Las más relevantes son las alteraciones del colesterol. Suponen un aumento del riesgo cardiovascular tanto los niveles elevados de LDL como los niveles bajos de HDL (opción 4 incorrecta). Los estrógenos provocan un aumento del colesterol HDL, cardioprotector, y un aumento de las partículas VLDL, con aumento de triglicéridos, por lo que las mujeres premenopáusicas están protegidas frente a la enfermedad ateroesclerótica. Factores genéticos influyen sobre las cifras de colesterol y triglicéridos, pero en la mayoría de pacientes hay un importante factor medioambiental. Hay alimentos que favorecen la aterogénesis, como las grasas de origen animal, saturadas, que favorecen el aumento de LDL; otros, los ricos en grasas insaturadas, como algunos pescados, los frutos secos y otras grasas de origen vegetal, se consideran cardiosaludables por aumentar los niveles de HDL y disminuir los de LDL. En caso de no controlar los niveles de lípidos con dieta y modificación del estilo de vida, se puede intervenir farmacológicamente con distintos grupos de fármacos, siendo más eficaces las estatinas para el control del colesterol, y los fibratos para los trigliceridos.  ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Para el cálculo del riesgo coronario influyen tanto el colesterol LDL como el colesterol HDL. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Los estrógenos provocan un aumento del colesterol HDL y un aumento de las partículas VLDL. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "El consumo elevado de grasas saturadas se asocia a cardiopatía isquémica.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Niveles altos de colesterol HDL son más perjudiciales que niveles bajos de colesterol LDL.",
+                        "correct": true,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "13",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿Cuál es la principal causa de mortalidad en España?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! La causa de fallecimientos más frecuente en España, como el resto de países desarrollados es la cardiopatía isquémica. En conjunto, las enfermedades cardiovasculares suponen un 30% de las muertes en sociedades como la nuestra. ",
+                "feedback_ko": "¡Incorrecto! La causa de fallecimientos más frecuente en España, como el resto de países desarrollados es la cardiopatía isquémica. En conjunto, las enfermedades cardiovasculares suponen un 30% de las muertes en sociedades como la nuestra. ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Cardiopatía isquémica. ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Neoplasias. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Insuficiencia renal crónica.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Tuberculosis.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "14",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "No es un factor de riesgo cardiovascular modificable:",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Pregunta muy sencilla, donde la disfunción del receptor LDL, como ocurre en la hipercolesterolemia familiar hetero/homocigota es un problema genético, y por tanto no modificable.",
+                "feedback_ko": "¡Incorrecto! Pregunta muy sencilla, donde la disfunción del receptor LDL, como ocurre en la hipercolesterolemia familiar hetero/homocigota es un problema genético, y por tanto no modificable. ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Hipertensión arterial.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Diabetes mellitus. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Disfunción del receptor LDL.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Tabaquismo.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "15",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿En cuál de las siguientes cascadas enzimáticas juegan un papel clave los ácidos biliares?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Los ácidos biliares (productos de degradación del colesterol) son sustancias que facilitan la digestión de las grasas alimentarias favoreciendo su absorción. Se considera por tanto que participan de la vía exógena del metabolismo del colesterol.  ",
+                "feedback_ko": "¡Incorrecto! Los ácidos biliares (productos de degradación del colesterol) son sustancias que facilitan la digestión de las grasas alimentarias favoreciendo su absorción. Se considera por tanto que participan de la vía exógena del metabolismo del colesterol.   ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": false,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Vía inversa",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Vía endógena. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Vía reversa.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Ninguna de las anteriores.",
+                        "correct": true,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "16",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Una de las siguientes no se relaciona a mayor riesgo de aterogénesis:",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! La PCSK9 es la enzima encargada de mediar la degradación lisosomal de los receptores de LDL hepatocitarios. Por ese motivo, una mayor actividad PCSK9 se traduce en mayores niveles circulantes de LDL y mayor riesgo aterógenico. ",
+                "feedback_ko": "¡Incorrecto! La PCSK9 es la enzima encargada de mediar la degradación lisosomal de los receptores de LDL hepatocitarios. Por ese motivo, una mayor actividad PCSK9 se traduce en mayores niveles circulantes de LDL y mayor riesgo aterógenico.  ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Mutación con pérdida del receptor LDL. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Mutación con pérdida de ApoE.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Mutación con pérdida de PCSK9.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Mutación con ganancia de PCSK9. ",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "17",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "No es un papel principal del colesterol: ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! El colesterol corporal se divide en circulante y membranoso. El segundo es un elemento fundamental para mantener la estabilidad y conformación tridimensional de las membranas plasmáticas. El colesterol circulante, entre otros, participa de la síntesis de vitamina D, testosterona, estrógenos, progesterona y cortisol. No se relaciona con la formación de cálculos renal, sí con los cálculos biliares, de ahí su nombre (kole - bilis, stereos- sólido). ",
+                "feedback_ko": "¡Incorrecto! El colesterol corporal se divide en circulante y membranoso. El segundo es un elemento fundamental para mantener la estabilidad y conformación tridimensional de las membranas plasmáticas. El colesterol circulante, entre otros, participa de la síntesis de vitamina D, testosterona, estrógenos, progesterona y cortisol. No se relaciona con la formación de cálculos renal, sí con los cálculos biliares, de ahí su nombre (kole - bilis, stereos- sólido).     ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Participar de la síntesis de vitamina D.  ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Precursor de las hormonas esteroideas.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Formación de cálculos renales.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Elemento de membrana celular.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "18",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "No es un criterio clínico de hipercolesterolemia familiar heterocigota:",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! La HF heterocigota es la enfermedad monogénica más frecuente, y se asocia a niveles elevados de LDL con repercusión cardiovascular precoz (40-50 años). Para su diagnóstico se pueden emplear test genéticos (costosos y no siempre diagnósticos) o puntuaciones basadas en criterios clínicos. En ese sentido, apoya el diagnóstico la historia familiar de primer grado, la presencia de ECV precoz, la presencia de xantomas o arco corneal así como cifras de LDL elevadas. ",
+                "feedback_ko": "¡Incorrecto! La HF heterocigota es la enfermedad monogénica más frecuente, y se asocia a niveles elevados de LDL con repercusión cardiovascular precoz (40-50 años). Para su diagnóstico se pueden emplear test genéticos (costosos y no siempre diagnósticos) o puntuaciones basadas en criterios clínicos. En ese sentido, apoya el diagnóstico la historia familiar de primer grado, la presencia de ECV precoz, la presencia de xantomas o arco corneal así como cifras de LDL elevadas.",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Niveles elevados de LDL. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Niveles bajos de HDL.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Xantomas tendinosos.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Familiar de primer grado diagnosticado. ",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "19",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Respecto de los ácidos biliares señale la opción falsa: ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Las 3 primeras opciones sintetizan la información básica de la función de las sales biliares, que son finalmente reabsorbidas en su práctica totalidad (opción 4 falsa) en el íleon.  ",
+                "feedback_ko": "¡Incorrecto! Las 3 primeras opciones sintetizan la información básica de la función de las sales biliares, que son finalmente reabsorbidas en su práctica totalidad (opción 4 falsa) en el íleon. ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Son sustancias del metabolismo hepático del colesterol.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Son liberados a tracto intestinal en respuesta al estímulo digestivo.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Facilitan la digestión y absorción de las grasas alimenticias.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "En torno al 50% son reabsorbidas a nivel del intestino delgado terminal para su reaprovechamiento. ",
+                        "correct": true,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "20",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Respecto de la epidemiología de la enfermedad cardiovascular señale la opción incorrecta:",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! La mortalidad cardiovascular explica cerca del 30% de fallecimientos en nuestro país, con unas 9.000 defunciones más en mujeres que en hombres. La principal causa es la cardiopatía isquémica, seguida de la enfermedad cerebrovascular. No obstante, durante las últimas décadas la enfermedad cardiovascular ha visto disminuida su tasa de letalidad contribuyendo de forma significativa al aumento observado de la esperanza de vida. ",
+                "feedback_ko": "¡Incorrecto! La mortalidad cardiovascular explica cerca del 30% de fallecimientos en nuestro país, con unas 9.000 defunciones más en mujeres que en hombres. La principal causa es la cardiopatía isquémica, seguida de la enfermedad cerebrovascular. No obstante, durante las últimas décadas la enfermedad cardiovascular ha visto disminuida su tasa de letalidad contribuyendo de forma significativa al aumento observado de la esperanza de vida. ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "La mortalidad cardiovascular absoluta es mayor en mujeres que en hombres.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Existe variabilidad geográfica para la tasa de mortalidad cardiovascular.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Las mortalidad de causa cardiovascular se encuentra en lento pero progresivo crecimiento durante las últimas décadas. ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "La causa más frecuente de muerte es la cardiopatía isquémica. ",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            }
         ]
     }
 }
