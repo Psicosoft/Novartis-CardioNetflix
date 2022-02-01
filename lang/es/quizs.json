@@ -2630,36 +2630,36 @@
             {
                 "id": "31",
                 "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "¿Cuál de las siguientes fórmulas relaciona correctamente presión arterial (PA), gasto cardiaco (GC) y resistencias vasculares (RV)? ",
+                "qTitle": "La molécula proproteína subtilisina kexina 9 es un mecanismo de regulación del colesterol recientemente descrito. Señale la falsa: ",
                 "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto! La presión arterial es la fuerza que ejerce la sangre contra la pared de las arterias del organismo. Es directamente proporcional a la cantidad de sangre que fluye a su través (cuanta más sangre, más presión) y a la resistencia que las arterias ejercen frente al paso de la sangre (cuanta más resistencia ejerzan, más presión provocarán).",
-                "feedback_ko": "¡Incorrecto! La presión arterial es la fuerza que ejerce la sangre contra la pared de las arterias del organismo. Es directamente proporcional a la cantidad de sangre que fluye a su través (cuanta más sangre, más presión) y a la resistencia que las arterias ejercen frente al paso de la sangre (cuanta más resistencia ejerzan, más presión provocarán). ",
+                "feedback_ok": "¡Correcto! El inclisiran actúa a este nivel pero no es un anticuerpo monoclonal. Es un ARNm de interferencia cuya función es “interceptar” el ARNm producido por la célula que va a sintetizar PCSK9. La menor disponibilidad de PCSK 9 aumenta la expresión de receptores de LDL en la membrana del hepatocito, captándose más LDL del torrente. ",
+                "feedback_ko": "¡Incorrecto! El inclisiran actúa a este nivel pero no es un anticuerpo monoclonal. Es un ARNm de interferencia cuya función es “interceptar” el ARNm producido por la célula que va a sintetizar PCSK9. La menor disponibilidad de PCSK 9 aumenta la expresión de receptores de LDL en la membrana del hepatocito, captándose más LDL del torrente.  ",
                 "topic": "",
                 "points": 3,
                 "options_order_random": true,
                 "options": [
                     {
                         "id": "1",
-                        "text": "PA = RV / GC.   ",
-                        "correct": true,
+                        "text": "Un disminución en la disponibilidad de PCSK9 disminuirá el colesterol LDL plasmático.",
+                        "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "2",
-                        "text": "PA = GC / RV.   ",
+                        "text": "Inclisiran es un anticuerpo monoclonal contra PCSK9 de reciente aparición.  ",
                         "correct": true,
                         "feedback": ""
                     },
                     {
                         "id": "3",
-                        "text": "PA = GC · RV.  ",
-                        "correct": true,
+                        "text": "En la hipercolesterolemia familiar heterocigota la ruta de PCSK9 puede ser una ruta a explorar ya que conservan la expresión de esta molécula aunque en menor grado. ",
+                        "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "4",
-                        "text": "PA = GC2 · RV.  ",
-                        "correct": true,
+                        "text": "Evolocumab y alirocumab pueden producir molestias en el punto de punción. ",
+                        "correct": false,
                         "feedback": ""
                     }
                 ]
@@ -2667,36 +2667,36 @@
             {
                 "id": "32",
                 "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "Las estatinas son fármacos de primera línea para el control de los niveles de colesterol. Señale la respuesta falsa sobre ellas: ",
+                "qTitle": "En un paciente en el que no conseguimos controlar los niveles de LDL con estatina de alta potencia, ¿cuál sería el siguiente fármaco que añadiría? ",
                 "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto! La respuesta A es falsa porque son fármacos generalmente bien tolerados. El principal efecto adverso atribuible son las mialgias aunque en estudios cegados y controlados con placebo las diferencias no fueron significativas. La rabdomiolisis y la toxicidad hepática que obligue a la suspensión del fármaco son muy raras. La opción D es falsa porque no reducen la absorción del colesterol en la luz intestinal sino que reducen su síntesis al inhibir la HMG-CoA reductasa.   ",
-                "feedback_ko": "¡Incorrecto! La respuesta A es falsa porque son fármacos generalmente bien tolerados. El principal efecto adverso atribuible son las mialgias aunque en estudios cegados y controlados con placebo las diferencias no fueron significativas. La rabdomiolisis y la toxicidad hepática que obligue a la suspensión del fármaco son muy raras. La opción D es falsa porque no reducen la absorción del colesterol en la luz intestinal sino que reducen su síntesis al inhibir la HMG-CoA reductasa.   ",
+                "feedback_ok": "¡Correcto! Si con una estatina de alta potencia no se consigue control de los niveles de colesterol debe asociarse ezetimibe que añade un 20% adicional de reducción. En caso de ser insuficiente se añadiría iPCSK9. ",
+                "feedback_ko": "¡Incorrecto! Si con una estatina de alta potencia no se consigue control de los niveles de colesterol debe asociarse ezetimibe que añade un 20% adicional de reducción. En caso de ser insuficiente se añadiría iPCSK9. ",
                 "topic": "",
                 "points": 3,
                 "options_order_random": true,
                 "options": [
                     {
                         "id": "1",
-                        "text": "Son fármacos no muy bien tolerados y cuyos efectos adversos (rabdomiolisis y hepatotoxicidad) limitan en muchas ocasiones su uso. ",
-                        "correct": true,
+                        "text": "Asociación de dos estatinas. ",
+                        "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "2",
-                        "text": "Existen estatinas de distinta potencia que debemos elegir en función del LDL objetivo de nuestro paciente. La reducción estimada de colesterol varía entre el 20 y 50% de colesterol LDL.  ",
+                        "text": "Ácido nicotínico.  ",
                         "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "3",
-                        "text": "Son de primera línea para el tratamiento de la hipertrigliceridemia. ",
-                        "correct": false,
+                        "text": "Ezetimibe.  ",
+                        "correct": true,
                         "feedback": ""
                     },
                     {
                         "id": "4",
-                        "text": "Actúan mediante la inhibición de la enzima HMG-CoA reductasa reduciendo la absorción de colesterol en la luz intestinal. ",
-                        "correct": true,
+                        "text": "Alirocumab. ",
+                        "correct": false,
                         "feedback": ""
                     }
                 ]
@@ -2704,198 +2704,50 @@
             {
                 "id": "33",
                 "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "Para establecer correctamente el riesgo cardiovascular de nuestros pacientes podemos utilizar ciertas pruebas o exploraciones para modificar su riesgo, ¿cuál de las siguientes son aceptadas?",
+                "qTitle": "Los factores de riesgo cardiovascular clásicos se encuentran relativamente bien establecidos (diabetes, tabaquismo, hipercolesteromia, etc) no obstante hay otros que, aunque sin tanta evidencia, también se consideran factores de riesgo. ¿Cuál de los siguientes NO se considera factor de riesgo cardiovascular?",
                 "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto! El índice de Yao o índice tobillo-brazo es el cociente de la tensión arterial medida en el tobillo y en el brazo. Si este cociente es < a 0.9 (o > 1.4 indicando rigidez arterial) existe un riesgo aumentado de sufrir un evento cardiovascular. Dentro de las pruebas de imagen también son de utilidad el score de calcio coronario que es equiparable a tener placas de ateroesclerosis en las carótidas o en las femorales medidas por ecografía. No debemos exponer a nuestros paciente simplemente para evaluar el riesgo cardiovascular a la radiación generado por un TC de tórax pero, en caso de realizarse por otras causas, si disponemos de la cuantificación de calcio puede ser de utilidad para afinar el riesgo cardiovascular. El fondo de ojo como marcador de lesión de órgano diana reclasifica a nuestros pacientes diabéticos e hipertensos como de muy alto riesgo cardiovascular. El grosor íntima-media no se aconseja ya para reclasificar a los pacientes por la variabilidad en su medición.    ",
-                "feedback_ko": "¡Incorrecto! El índice de Yao o índice tobillo-brazo es el cociente de la tensión arterial medida en el tobillo y en el brazo. Si este cociente es < a 0.9 (o > 1.4 indicando rigidez arterial) existe un riesgo aumentado de sufrir un evento cardiovascular. Dentro de las pruebas de imagen también son de utilidad el score de calcio coronario que es equiparable a tener placas de ateroesclerosis en las carótidas o en las femorales medidas por ecografía. No debemos exponer a nuestros paciente simplemente para evaluar el riesgo cardiovascular a la radiación generado por un TC de tórax pero, en caso de realizarse por otras causas, si disponemos de la cuantificación de calcio puede ser de utilidad para afinar el riesgo cardiovascular. El fondo de ojo como marcador de lesión de órgano diana reclasifica a nuestros pacientes diabéticos e hipertensos como de muy alto riesgo cardiovascular. El grosor íntima-media no se aconseja ya para reclasificar a los pacientes por la variabilidad en su medición.     ",
+                "feedback_ok": "¡Correcto! El ácido úrico elevado no se considera predisponente para desarrollar ECVAS. El resto de los enunciados sí.  ",
+                "feedback_ko": "¡Incorrecto!El ácido úrico elevado no se considera predisponente para desarrollar ECVAS. El resto de los enunciados sí.  ",
                 "topic": "",
                 "points": 3,
                 "options_order_random": true,
                 "options": [
                     {
                         "id": "1",
-                        "text": "Índice de Yao.  ",
+                        "text": "Hiperuricemia.",
                         "correct": true,
                         "feedback": ""
                     },
                     {
                         "id": "2",
-                        "text": "Grosor íntima-media ",
+                        "text": "Lipoproteina a elevada.",
                         "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "3",
-                        "text": "Calcio score medido por TC coronario. ",
-                        "correct": true,
+                        "text": "Hiperhomocisteinemia. ",
+                        "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "4",
-                        "text": "Fondo de ojo. ",
-                        "correct": true,
+                        "text": "Elevación de marcadores de inflamación (PCR,…). ",
+                        "correct": false,
                         "feedback": ""
                     }
                 ]
             },
             {
-                "id": "14",
+                "id": "34",
                 "qType": "TEST_TYPE.MULTIPLE_OPTION",
-                "qTitle": "De las siguientes asociaciones fármaco – efecto adverso señale las respuestas correctas:",
+                "qTitle": "Aunque las guías de práctica clínica no recogen la última evidencia por la rápida evolución y desarrollo de nuevos ensayos clínicos, podemos anticipar que en los próximos años alguno o varios de los siguientes se verán reflejados en ellas. ¿Cuáles?",
                 "instructions": "Selecciona las opciones que consideres correctas:",
-                "feedback_ok": "¡Correcto! El efecto adverso más frecuentemente asociado a los iPCSK9 son las molestias en el punto de punción porque solo se disponen de forma subcutánea. Los fibratos son muy bien tolerados y por lo general no presentan efectos adversos, que en caso de presentarse, se verían potenciados por el uso concomitante con estatinas y se trataría de miopatía. Aunque no se ha establecido correctamente el efecto en los fetos se desaconseja el uso de estatinas en mujeres en edad fértil si no se utiliza un método anticonceptivo eficaz. En caso de embarazo si la paciente está tomando estatinas, se aconseja su suspensión inmediata. Las resinas de intercambio, también conocidas como quelantes de sales biliares, son fármacos que no se absorben y ejercen su efecto a nivel de la luz intestinal disminuyendo la absorció de grasas y provocando molestias abdominales.  ",
-                "feedback_ko": "¡Incorrecto! El efecto adverso más frecuentemente asociado a los iPCSK9 son las molestias en el punto de punción porque solo se disponen de forma subcutánea. Los fibratos son muy bien tolerados y por lo general no presentan efectos adversos, que en caso de presentarse, se verían potenciados por el uso concomitante con estatinas y se trataría de miopatía. Aunque no se ha establecido correctamente el efecto en los fetos se desaconseja el uso de estatinas en mujeres en edad fértil si no se utiliza un método anticonceptivo eficaz. En caso de embarazo si la paciente está tomando estatinas, se aconseja su suspensión inmediata. Las resinas de intercambio, también conocidas como quelantes de sales biliares, son fármacos que no se absorben y ejercen su efecto a nivel de la luz intestinal disminuyendo la absorció de grasas y provocando molestias abdominales. ",
+                "feedback_ok": "¡Correcto! Las opciones recogen algunas de las recomendaciones de las últimas guías de prevención cardiovascular y algunos ensayos clínicos. Todas son correctas. ",
+                "feedback_ko": "¡Incorrecto! Las opciones recogen algunas de las recomendaciones de las últimas guías de prevención cardiovascular y algunos ensayos clínicos. Todas son correctas.  ",
                 "topic": "",
                 "points": 3,
-                "number_of_answers":2,
-                "options_order_random": true,
-                "options": [
-                    {
-                        "id": "1",
-                        "text": "Inhibidores PCSK9  - fototoxicidad. ",
-                        "correct": false,
-                        "feedback": ""
-                    },
-                    {
-                        "id": "2",
-                        "text": "Fibratos – esteatorrea.  ",
-                        "correct": false,
-                        "feedback": ""
-                    },
-                    {
-                        "id": "3",
-                        "text": "Estatinas – teratogenicidad",
-                        "correct": true,
-                        "feedback": ""
-                    },
-                    {
-                        "id": "4",
-                        "text": "Resinas de intercambio – flatulencia y molestias abdominales.",
-                        "correct": true,
-                        "feedback": ""
-                    }
-                ]
-            },
-            {
-                "id": "35",
-                "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "Indica la asociación correcta entre fármaco y mecanismo de acción:",
-                "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto! Alirocumab y evolocumab son anticuerpos monoclonales dirigidos contra la molécula PCSK9. El otro fármaco que actúa en este punto para disminuir la síntesis de colesterol es el Inclisirán, que es un ARNm de interferencia contra el ARNm sintetizado por el núcleo celular que codifica para PCSK9. Las estatinas actúan inhibiendo HMG-CoA reductasa. El ácido bempedoico inhibe la ATP citrato liasa. Los fármacos análogos de PPAR-alfa son los fibratos. El ezetimibe actúa a nivel del enterocito disminuyendo la absorción de colesterol por interacción con la proteína similar a Niemann-Pick.   ",
-                "feedback_ko": "¡Incorrecto! Alirocumab y evolocumab son anticuerpos monoclonales dirigidos contra la molécula PCSK9. El otro fármaco que actúa en este punto para disminuir la síntesis de colesterol es el Inclisirán, que es un ARNm de interferencia contra el ARNm sintetizado por el núcleo celular que codifica para PCSK9. Las estatinas actúan inhibiendo HMG-CoA reductasa. El ácido bempedoico inhibe la ATP citrato liasa. Los fármacos análogos de PPAR-alfa son los fibratos. El ezetimibe actúa a nivel del enterocito disminuyendo la absorción de colesterol por interacción con la proteína similar a Niemann-Pick.     ",
-                "topic": "",
-                "points": 3,
-                "options_order_random": true,
-                "options": [
-                    {
-                        "id": "1",
-                        "text": "Alirocumab – inhibición PCSK9.  ",
-                        "correct": true,
-                        "feedback": ""
-                    },
-                    {
-                        "id": "2",
-                        "text": "Atorvastatina - inhibidor citrato liasa.  ",
-                        "correct": false,
-                        "feedback": ""
-                    },
-                    {
-                        "id": "3",
-                        "text": "Ácido bempedoico – agonista PPAR-alfa.",
-                        "correct": false,
-                        "feedback": ""
-                    },
-                    {
-                        "id": "4",
-                        "text": "Ezetimibe – ARNm interferencia contra PCSK9.",
-                        "correct": false,
-                        "feedback": ""
-                    }
-                ]
-            },
-            {
-                "id": "36",
-                "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "¿Qué grupo farmacológico deberíamos elegir para iniciar el tratamiento de la hipercolesterolemia?",
-                "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto! El esquema de tratamiento recomendado en las guías inicia con estatinas. En caso de no controlarse los niveles de LDL debería adicionarse ezetimibe y si tras ello, no conseguimos niveles objetivo debería adicionarse iPCSK9. El poder de reducción de LDL estimado al combinarlos está en torno al 85%, por lo que la mayoría de pacientes alcanzarán niveles objetivo. ",
-                "feedback_ko": "¡Incorrecto!El esquema de tratamiento recomendado en las guías inicia con estatinas. En caso de no controlarse los niveles de LDL debería adicionarse ezetimibe y si tras ello, no conseguimos niveles objetivo debería adicionarse iPCSK9. El poder de reducción de LDL estimado al combinarlos está en torno al 85%, por lo que la mayoría de pacientes alcanzarán niveles objetivo.    ",
-                "topic": "",
-                "points": 3,
-                "options_order_random": true,
-                "options": [
-                    {
-                        "id": "1",
-                        "text": "Fibratos",
-                        "correct": false,
-                        "feedback": ""
-                    },
-                    {
-                        "id": "2",
-                        "text": "Estatinas",
-                        "correct": true,
-                        "feedback": ""
-                    },
-                    {
-                        "id": "3",
-                        "text": "iPCSK9. ",
-                        "correct": false,
-                        "feedback": ""
-                    },
-                    {
-                        "id": "4",
-                        "text": "Ezetimibe. ",
-                        "correct": false,
-                        "feedback": ""
-                    }
-                ]
-            },
-            {
-                "id": "37",
-                "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "Señale cuál de los siguientes pacientes cual tiene un riesgo cardiovascular muy alto:",
-                "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto! En la opción a nos presentan un ictus que no es de causa ateroesclerótica, sino hemorrágica por lo que no computa. La paciente de la opción b es diabética, aunque de reciente diagnóstico, pero su infarto no ha sido por una placa de colesterol, sino por un trombo formado dentro del corazón y que ha migrado a una arteria coronaria (infarto embólico), esto ha sido precipitado por la arritmia predisponente, conocida como fibrilación auricular. La opción c es de territorio venoso, en un paciente con una condición que aumenta las trombosis en territorios venosos. En la opción d nos están describiendo una hipercolesterolemia familiar, LDL muy elevado (ya solamente por este criterio diagnosticaríamos la enfermedad) con xantomas tendinosos y con un factor de riesgo cardiovascular. Además es muy joven y la probabilidad de sufrir un evento es altísima a lo largo de la vida.   ",
-                "feedback_ko": "¡Incorrecto! En la opción a nos presentan un ictus que no es de causa ateroesclerótica, sino hemorrágica por lo que no computa. La paciente de la opción b es diabética, aunque de reciente diagnóstico, pero su infarto no ha sido por una placa de colesterol, sino por un trombo formado dentro del corazón y que ha migrado a una arteria coronaria (infarto embólico), esto ha sido precipitado por la arritmia predisponente, conocida como fibrilación auricular. La opción c es de territorio venoso, en un paciente con una condición que aumenta las trombosis en territorios venosos. En la opción d nos están describiendo una hipercolesterolemia familiar, LDL muy elevado (ya solamente por este criterio diagnosticaríamos la enfermedad) con xantomas tendinosos y con un factor de riesgo cardiovascular. Además es muy joven y la probabilidad de sufrir un evento es altísima a lo largo de la vida.     ",
-                "topic": "",
-                "points": 3,
-                "options_order_random": true,
-                "options": [
-                    {
-                        "id": "1",
-                        "text": "Varón de 76 años con ictus hemorrágico e hipertensión arterial con TAS 160 mmHg.  ",
-                        "correct": false,
-                        "feedback": ""
-                    },
-                    {
-                        "id": "2",
-                        "text": "Mujer de 66 años diabética tipo II de reciente diagnóstico que sufre un infarto agudo de miocardio embólico siendo diagnosticada de fibrilación auricular. ",
-                        "correct": false,
-                        "feedback": ""
-                    },
-                    {
-                        "id": "3",
-                        "text": "Trombosis venosa profunda de la ilíaca derecha en mujer con síndrome antifosfolípido. ",
-                        "correct": false,
-                        "feedback": ""
-                    },
-                    {
-                        "id": "4",
-                        "text": "Varón de 16 años con LDL colesterol de 363 mg/dL, hipertenso y con depósitos amarillentos en ambas regiones de los tendones de Aquiles. ",
-                        "correct": true,
-                        "feedback": ""
-                    }
-                ]
-            },
-            {
-                "id": "38",
-                "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "En ocasiones, las guías de práctica clínica no alcanzan a recoger la evidencia científica más actual reflejada en ensayos clínica debido a la rápida evolución en este campo. De las siguientes cuál es cierta?",
-                "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto! Las opciones recogen algunas de las recomendaciones de las últimas guías de prevención cardiovascular y algunos ensayos clínicos. Todas son correctas.  ",
-                "feedback_ko": "¡Incorrecto! Las opciones recogen algunas de las recomendaciones de las últimas guías de prevención cardiovascular y algunos ensayos clínicos. Todas son correctas. ",
-                "topic": "",
-                "points": 3,
+                "number_of_answers":4,
                 "options_order_random": true,
                 "options": [
                     {
@@ -2906,7 +2758,7 @@
                     },
                     {
                         "id": "2",
-                        "text": "Debe considerarse un objetivo de LDL < 40 mg/dL en los pacientes que sufren dos eventos cardiovasculares en 2 años, aunque sean de distintos territorios. ",
+                        "text": "Debe considerarse un objetivo de LDL < 40 mg/dL en los pacientes que sufren dos eventos cardiovasculares en 2 años, aunque sean de distintos territorios.  ",
                         "correct": true,
                         "feedback": ""
                     },
@@ -2925,38 +2777,186 @@
                 ]
             },
             {
-                "id": "39",
+                "id": "35",
                 "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "Una de las manifestaciones de la enfermedad cardiovascular ateroesclerótica es la cardiopatía isquémica en su forma angina estable o síndrome coronario agudo (infarto agudo de miocardio). ¿Cuál de las siguientes no corresponde al siguiente espectro?",
+                "qTitle": "La hipercolesterolemia familiar es una enfermedad genética caracterizada por disminución o ausencia de receptores de LDL en el hepatocito que conduce a defecto en su captación y enfermedad cardiovascular ateroesclerótica acelerada. De los siguientes hallazgos en la exploración física que pueden aparecer cuál no esperaría encontrar?",
                 "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto! Las tres primeras son las manifestaciones típicas de la cardiopatía isquémica. La A nos relata una angina estable. La opción B es sugestivo de infarto agudo de miocardio así como la C; esta última cursa con parada cardiorrespiratoria. La D nos relata una pericarditis aguda, varón joven tras cuadro catarral y con el patrón de dolor característico; los cambios en el ECG son frecuentes, aunque en la opción no especifica el tipo de cambios.   ",
-                "feedback_ko": "¡Incorrecto! Las tres primeras son las manifestaciones típicas de la cardiopatía isquémica. La A nos relata una angina estable. La opción B es sugestivo de infarto agudo de miocardio así como la C; esta última cursa con parada cardiorrespiratoria. La D nos relata una pericarditis aguda, varón joven tras cuadro catarral y con el patrón de dolor característico; los cambios en el ECG son frecuentes, aunque en la opción no especifica el tipo de cambios. ",
+                "feedback_ok": "¡Correcto! Los xantomas y xantelasmas son depósitos de colesterol en piel, sobre todo en tendones (típicamente el tendón de Aquiles) y en la parte interna de la órbita. El arco corneal es un depósito de colesterol que se forma alrededor del iris que se presenta en edades tempranas en esta entidad. La opción c describe una ictericia, hallazgo no esperable en la hipercolesterolemia familiar.   ",
+                "feedback_ko": "¡Incorrecto! Los xantomas y xantelasmas son depósitos de colesterol en piel, sobre todo en tendones (típicamente el tendón de Aquiles) y en la parte interna de la órbita. El arco corneal es un depósito de colesterol que se forma alrededor del iris que se presenta en edades tempranas en esta entidad. La opción c describe una ictericia, hallazgo no esperable en la hipercolesterolemia familiar.  ",
                 "topic": "",
                 "points": 3,
                 "options_order_random": true,
                 "options": [
                     {
                         "id": "1",
-                        "text": "Varón de 68 años, fumador e hipertenso que desde hace 8 meses cuando camina en pendiente tiene presión en el centro del tórax que le obliga a pararse. ",
+                        "text": "Xantoma",
                         "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "2",
-                        "text": "Mujer de 53 años, diabético y dislipémica que, estando en reposo presenta dolor en el centro del tórax que se irradia hacia el cuello, hombro izquierdo y espalda que no cede con el tratamiento analgésico que ha tomado. ",
+                        "text": "Arco corneal.",
                         "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "3",
-                        "text": "Hombre de 77 años que se encontraba deambulando por la calle con dificultad respiratoria y opresión en la “boca del estómago”. Súbitamente se desvanece y los testigos inician maniobras de RCP. ",
+                        "text": "Coloración amarillo-verdosa de piel y paladar.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Xantelasma.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "36",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Presentar un evento clínico debido a enfermedad cardiovascular clasifica a nuestros pacientes directamente como muy alto riesgo cardiovascular y debemos buscar el objetivo de LDL < 55. De los siguientes, ¿cuál no consideraría una de estas situaciones de muy alto riesgo?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto!  La insuficiencia cardíaca no es criterio para el inicio de estatinas y no establece por ello un objetivo de LDL. En la opción no nos especifican cuál es el motivo de la disfunción ventricular, podría ser valvular, enólica, idiopática, y en estas situaciones no precisaría inicio de estatinas. Sí que sería necesario si la disfunción ventricular se hubiese visto propiciada por enfermedad coronaria isquémica.  ",
+                "feedback_ko": "¡Incorrecto! La insuficiencia cardíaca no es criterio para el inicio de estatinas y no establece por ello un objetivo de LDL. En la opción no nos especifican cuál es el motivo de la disfunción ventricular, podría ser valvular, enólica, idiopática, y en estas situaciones no precisaría inicio de estatinas. Sí que sería necesario si la disfunción ventricular se hubiese visto propiciada por enfermedad coronaria isquémica.    ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Insuficiencia cardíaca crónica con disfunción ventricular severa.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Diabético con disfunción eréctil, fumador y con microalbuminuria. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Ictus de repetición, isquémico en el que no se objetiva en ECG arritmia cardíaca y con ecocardiograma normal.  ",
                         "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "4",
-                        "text": "Varón de 27 años que tiene dolor en el centro del tórax que aumenta al inspirar y tumbarse en la cama. Mejora al inclinarse hacia delante. En los días previos ha tenido un catarro y ahora presenta alteraciones en el electrocardiograma. ",
+                        "text": "Angina de pecho estable.  ",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "37",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "El colesterol HDL y sus implicaciones en el riesgo cardiovascular se han estudiado en numerosas ocasiones. Existe un fármaco que, aunque no ha demostrado reducir el riesgo cardiovascular, sí ha demostrado ser único en su grupo por aumentar el colesterol HDL, señale cual:",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! El fármaco que más ha demostrado aumentar el HDL es el ácido nicotínico, aunque esto no se ha traducido en disminución de la mortalidad.  ",
+                "feedback_ko": "¡Incorrecto! El fármaco que más ha demostrado aumentar el HDL es el ácido nicotínico, aunque esto no se ha traducido en disminución de la mortalidad.   ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Ácido bempedoico. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Colesevelam. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Ácido nicotínico.  ",
                         "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "PUFA. ",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "38",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "En el seguimiento del paciente en tratamiento con estatinas cual es la falsa.",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Las enzimas musculares o hepáticas deben monitorizarse si existen síntomas o cuando se realizan ajustes en la dosis de estatinas. En caso de embarazo durante la toma de estatinas debe suspenderse de inmediato el tratamiento.  ",
+                "feedback_ko": "¡Incorrecto! Las enzimas musculares o hepáticas deben monitorizarse si existen síntomas o cuando se realizan ajustes en la dosis de estatinas. En caso de embarazo durante la toma de estatinas debe suspenderse de inmediato el tratamiento.  ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Las enzimas hepáticas deben solicitarse de forma periódica para monitorizar la hepatotoxicidad aunque no se realicen ajustes posológicos. ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "En caso de elevación marcada de transaminasas debe suspenderse el tratamiento. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "La miopatía debe controlarse con determinación de CPK en caso de síntomas o modificación de la dosis. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "En caso de embarazo debe suspenderse el tratamiento con estatinas de inmediato. ",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "39",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Existe una proteína cardíaca que se determina en sangre en la enfermedad coronaria isquémica como marcador de daño cardíaco. ¿Cuál es?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto!  La troponina es una proteína presente en el músculo cardíaco que se eleva cuando existe  isquemia. El BNP es una proteína cardíaca cuyo principal interés lo encontramos en la insuficiencia cardíaca, no en la cardiopatía isquémica. AST y GGT son enzimas de función hepática.   ",
+                "feedback_ko": "¡Incorrecto!  La troponina es una proteína presente en el músculo cardíaco que se eleva cuando existe  isquemia. El BNP es una proteína cardíaca cuyo principal interés lo encontramos en la insuficiencia cardíaca, no en la cardiopatía isquémica. AST y GGT son enzimas de función hepática. ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Aspartato transferasa (AST).  ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Gamma-glutamil trasnferasa (GGT).  ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Troponina I (TnI). ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Péptido natriurético tipo B (BNP",
+                        "correct": false,
                         "feedback": ""
                     }
                 ]
@@ -2964,35 +2964,35 @@
             {
                 "id": "40",
                 "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "¿Cuál de los siguientes no se consideraría enfermedad cardiovascular de causa ateroesclerótica?",
+                "qTitle": "De entre las siguientes recomendaciones de estilo de vida para el tratamiento de las dislipemias, señale la opción incorrecta: ",
                 "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto! Aunque la enfermedad clínica y por imagen de la aorta se considera enfermedad cardiovascular ateroesclerótica en esta opción nuestro paciente padece enfermedad de Marfan. Se trata de una enfermedad del tejido conectivo que debilita la pared de la aorta SIN que exista ateroesclerosis. La opción 3 hace referencia a enfermedad de arterias coronarias pero no por placas de colesterol, sino por disección espontánea de la arteria. Esto es una condición que suele ocurrir en mujeres y en edad peri y post-menopausia.  ",
-                "feedback_ko": "¡Incorrecto! Aunque la enfermedad clínica y por imagen de la aorta se considera enfermedad cardiovascular ateroesclerótica en esta opción nuestro paciente padece enfermedad de Marfan. Se trata de una enfermedad del tejido conectivo que debilita la pared de la aorta SIN que exista ateroesclerosis. La opción 3 hace referencia a enfermedad de arterias coronarias pero no por placas de colesterol, sino por disección espontánea de la arteria. Esto es una condición que suele ocurrir en mujeres y en edad peri y post-menopausia.  ",
+                "feedback_ok": "¡Correcto! Dejar de fumar tiene claros beneficios en el riesgo CV total y especialmente el cHDL. Sin embargo, el consumo moderado de alcohol (hasta 10 g/día —1 unidad— para varones y mujeres) es aceptable para personas que consumen bebidas alcohólicas siempre que las concentraciones de TG no sean altas. ",
+                "feedback_ko": "¡Incorrecto! Dejar de fumar tiene claros beneficios en el riesgo CV total y especialmente el cHDL. Sin embargo, el consumo moderado de alcohol (hasta 10 g/día —1 unidad— para varones y mujeres) es aceptable para personas que consumen bebidas alcohólicas siempre que las concentraciones de TG no sean altas.  ",
                 "topic": "",
                 "points": 3,
                 "options_order_random": true,
                 "options": [
                     {
                         "id": "1",
-                        "text": "Aneurisma de aorta en paciente con enfermedad de Marfan.",
+                        "text": "Se debe eliminar el consumo de alcohol y tabaco.",
                         "correct": true,
                         "feedback": ""
                     },
                     {
                         "id": "2",
-                        "text": "Insuficiencia cardíaca con función ventricular severamente deprimida por oclusión crónica de arteria descendente anterior. ",
+                        "text": "Se recomienda mantener un buen control del peso manteniendo idealmente un IMC <25 kg/m2. ",
                         "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "3",
-                        "text": "Mujer de 43 años con disección de arteria coronaria derecha. ",
-                        "correct": true,
+                        "text": "La pérdida de peso incluso moderada mejora el perfil lipídico. ",
+                        "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "4",
-                        "text": "Ictus de arteria cerebral media con placas en la carótida. ",
+                        "text": "La ingesta de azúcares debe ser inferior al 10% de las calorías diarias. ",
                         "correct": false,
                         "feedback": ""
                     }
@@ -5306,43 +5306,6 @@
                 ]
             },
             {
-                "id": "22",
-                "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "No es cierto respecto de la enfermedad cardiovascular: ",
-                "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto! la ECV representa la primera causa de muerte en nuestro país, contando cerca del 30% de defunciones. Existe variabilidad entre países (España es considerado un país de bajo riesgo cardiovascular) así como entre comunidades autónomas. En ese sentido, Castilla y León, Madrid y Castilla la Mancha muestran menores tasas de mortalidad cardiovascular que las zonas costeras en general y archipiélagos.  ",
-                "feedback_ko": "¡Incorrecto! la ECV representa la primera causa de muerte en nuestro país, contando cerca del 30% de defunciones. Existe variabilidad entre países (España es considerado un país de bajo riesgo cardiovascular) así como entre comunidades autónomas. En ese sentido, Castilla y León, Madrid y Castilla la Mancha muestran menores tasas de mortalidad cardiovascular que las zonas costeras en general y archipiélagos. ",
-                "topic": "",
-                "points": 3,
-                "options_order_random": true,
-                "options": [
-                    {
-                        "id": "1",
-                        "text": "Se estima que más de 4 millones de personas la sufren en España ",
-                        "correct": false,
-                        "feedback": ""
-                    },
-                    {
-                        "id": "2",
-                        "text": "Es la principal causa de muerte en los países desarrollados",
-                        "correct": true,
-                        "feedback": ""
-                    },
-                    {
-                        "id": "3",
-                        "text": "Existen diferencias geográficas en la tasa de mortalidad cardiovascular, siendo esta más marcada en la España interior. ",
-                        "correct": false,
-                        "feedback": ""
-                    },
-                    {
-                        "id": "4",
-                        "text": "La mortalidad cardiovascular se encuentra en retroceso durante las últimas décadas.  ",
-                        "correct": false,
-                        "feedback": ""
-                    }
-                ]
-            },
-            {
                 "id": "23",
                 "qType": "TEST_TYPE.SINGLE_OPTION",
                 "qTitle": "Respecto de los quelantes de ácidos biliares:  ",
@@ -5972,7 +5935,7 @@
                 ]
             },
             {
-                "id": "39",
+                "id": "40",
                 "qType": "TEST_TYPE.SINGLE_OPTION",
                 "qTitle": "Una de las siguientes lipoproteínas no es de síntesis hepática: ",
                 "instructions": "Selecciona una opción:",
