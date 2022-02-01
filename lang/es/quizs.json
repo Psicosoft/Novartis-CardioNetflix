@@ -1615,36 +1615,36 @@
             {
                 "id": "4",
                 "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "De los siguientes, ¿cuál no es una manifestación de la enfermedad cardiovascular ateroesclerótica? ",
+                "qTitle": "4. ¿Cuál de las siguientes relaciones entre gasto cardiaco, precarga, postcarga y contractilidad es INCORRECTA? ",
                 "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto! Es muy importante diferenciar las causas de la enfermedad de los “vasos”. Las tres primeras opciones son debidas a enfermedad cardiovascular ateroesclerótica. Los factores de riesgo cardiovascular han precipitado la formación de placas de colesterol en el territorio ARTERIAL en los distintos territorios (arterias coronarias, arterias cerebrales, arterias de los miembros inferiores). El tromboembolismo pulmonar, así como la trombosis venosa profunda es una enfermedad del territorio VENOSO. Trombos formados generalmente en las venas poplíteas, femorales o ilíacas, migran al corazón y de ahí a las ramas pulmonares. Estas patologías se tratan con anticoagulación y nada tienen que ver con la ateroesclerosis. <br> Cabe recalcar que en las opciones a y c no se especifica que la patología sea debida estrictamente a enfermedad ateroesclerótica, aunque bien es cierto que, por mucho, es la causa más frecuente. Existen infartos de miocardio por vasoespasmo, inflamación, embolias, etc, así como enfermedad de las arterias de miembros inferiores, aunque mucho menos frecuente. Encontrándose entre las respuestas el tromboembolismo pulmonar, no hay opción a dudas.  ",
-                "feedback_ko": "¡Incorrecto!Es muy importante diferenciar las causas de la enfermedad de los “vasos”. Las tres primeras opciones son debidas a enfermedad cardiovascular ateroesclerótica. Los factores de riesgo cardiovascular han precipitado la formación de placas de colesterol en el territorio ARTERIAL en los distintos territorios (arterias coronarias, arterias cerebrales, arterias de los miembros inferiores). El tromboembolismo pulmonar, así como la trombosis venosa profunda es una enfermedad del territorio VENOSO. Trombos formados generalmente en las venas poplíteas, femorales o ilíacas, migran al corazón y de ahí a las ramas pulmonares. Estas patologías se tratan con anticoagulación y nada tienen que ver con la ateroesclerosis. <br> Cabe recalcar que en las opciones a y c no se especifica que la patología sea debida estrictamente a enfermedad ateroesclerótica, aunque bien es cierto que, por mucho, es la causa más frecuente. Existen infartos de miocardio por vasoespasmo, inflamación, embolias, etc, así como enfermedad de las arterias de miembros inferiores, aunque mucho menos frecuente. Encontrándose entre las respuestas el tromboembolismo pulmonar, no hay opción a dudas.",
+                "feedback_ok": "¡Correcto! El gasto cardiaco es directamente proporcional a la precarga (volumen de sangre telediastólico que contiene un ventrículo) y a la contractilidad (fuerza contráctil de los ventrículos), y es inversamente proporcional a la postcarga (resistencia que deben vencer los ventrículos para impulsar la sangre hacia el exterior). Por otra parte, a mayor precarga, mayor postcarga (cuando el corazón contiene mucha sangre, se acumula presión en su interior, y esa presión debe ser vencida por el propio corazón para mandar la sangre hacia el exterior). ",
+                "feedback_ko": "¡Incorrecto! El gasto cardiaco es directamente proporcional a la precarga (volumen de sangre telediastólico que contiene un ventrículo) y a la contractilidad (fuerza contráctil de los ventrículos), y es inversamente proporcional a la postcarga (resistencia que deben vencer los ventrículos para impulsar la sangre hacia el exterior). Por otra parte, a mayor precarga, mayor postcarga (cuando el corazón contiene mucha sangre, se acumula presión en su interior, y esa presión debe ser vencida por el propio corazón para mandar la sangre hacia el exterior).",
                 "topic": "",
                 "points": 3,
                 "options_order_random": true,
                 "options": [
                     {
                         "id": "1",
-                        "text": "Infarto agudo de miocardio.",
+                        "text": "El gasto cardiaco es directamente proporcional a la precarga. ",
                         "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "2",
-                        "text": "Ictus aterotrombótico. ",
+                        "text": "El gasto cardiaco es directamente proporcional a la contractilidad.  ",
                         "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "3",
-                        "text": "Enfermedad arterial periférica de miembros inferiores.",
-                        "correct": false,
+                        "text": "El gasto cardiaco es directamente proporcional a la postcarga. ",
+                        "correct": true,
                         "feedback": ""
                     },
                     {
                         "id": "4",
-                        "text": "Tromboembolismo pulmonar. ",
-                        "correct": true,
+                        "text": "La precarga es directamente proporcional a la postcarga.  ",
+                        "correct": false,
                         "feedback": ""
                     }
                 ]
@@ -1652,35 +1652,35 @@
             {
                 "id": "5",
                 "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "De las siguiente opciones que describen las fases evolutivas en la formación de la placa de ateroma, ¿cuál es la correcta?",
+                "qTitle": "¿Cuál es cierta sobre las enfermedades que afectan al músculo del corazón?",
                 "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto! La respuesta 2 describe el proceso habitual de la formación de placas de ateroesclerosis. El colesterol elevado en el torrente se oxida y es reconocido por macrófagos (células espumosas) que se “incluyen” en la íntima de las arterias. A medida que prolifera se acaba formando el necrotic core. Posteriormente las placas se pueden estabilizar y volverse más fibrosas y calcificadas o inestabilizarse y romperse dando lugar a un evento aterotrombótico agudo. La opción d es una forma de enfermedad vascular arterial pero que no necesariamente se relaciona con el depósito de placas de colesterol.  ",
-                "feedback_ko": "¡Incorrecto! La respuesta 2 describe el proceso habitual de la formación de placas de ateroesclerosis. El colesterol elevado en el torrente se oxida y es reconocido por macrófagos (células espumosas) que se “incluyen” en la íntima de las arterias. A medida que prolifera se acaba formando el necrotic core. Posteriormente las placas se pueden estabilizar y volverse más fibrosas y calcificadas o inestabilizarse y romperse dando lugar a un evento aterotrombótico agudo. La opción d es una forma de enfermedad vascular arterial pero que no necesariamente se relaciona con el depósito de placas de colesterol.  ",
+                "feedback_ok": "¡Correcto!La miocardiopatía dilatada se caracteriza por un aumento en el volumen de ventrículo izquierdo o de ambos y pérdida de su contractilidad. Si esto se produce sin causa aparente se conoce como dilatada idiopática. La principal causa de pérdida de contractilidad no es ésta, sino que es la cardiopatía isquémica. No obstante, al hecho de perder fuerza de contracción por cardiopatía isquémica no es correcto llamarlo miocardiopatía dilatada isquémica, ya que el concepto miocardiopatía hace referencia a alteración primaria, sin otra causa que lo justifique. En cualquier caso en el enunciado no hace referencia a miocardiopatía en concreto sino a afectación del músculo cardíaco. En la restrictiva el miocardio se sustituye por otro material distinto que acaba endureciendo el miocardio y comprometiendo su relajación (y también contracción). La hipertrófica inicialmente cursa con aumento de contractilidad aunque en fases finales puede dilatarse.  ",
+                "feedback_ko": "¡Incorrecto! La miocardiopatía dilatada se caracteriza por un aumento en el volumen de ventrículo izquierdo o de ambos y pérdida de su contractilidad. Si esto se produce sin causa aparente se conoce como dilatada idiopática. La principal causa de pérdida de contractilidad no es ésta, sino que es la cardiopatía isquémica. No obstante, al hecho de perder fuerza de contracción por cardiopatía isquémica no es correcto llamarlo miocardiopatía dilatada isquémica, ya que el concepto miocardiopatía hace referencia a alteración primaria, sin otra causa que lo justifique. En cualquier caso en el enunciado no hace referencia a miocardiopatía en concreto sino a afectación del músculo cardíaco. En la restrictiva el miocardio se sustituye por otro material distinto que acaba endureciendo el miocardio y comprometiendo su relajación (y también contracción). La hipertrófica inicialmente cursa con aumento de contractilidad aunque en fases finales puede dilatarse. ",
                 "topic": "",
                 "points": 3,
                 "options_order_random": true,
                 "options": [
                     {
                         "id": "1",
-                        "text": "Calcificación de la íntima, formación del  “necrotic core”, hiperplasia fibrosa. ",
+                        "text": "La miocardiopatía dilatada cursa con ganancia de contractilidad ventricular.",
                         "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "2",
-                        "text": "Formación de estría grasa, infiltración de macrófagos, “necrotic core”.",
+                        "text": "La miocardiopatía restrictiva se produce por procesos que infiltran o sustituyen el miocardio y pueden dificultar su relajación produciendo insuficiencia cardíaca.",
                         "correct": true,
                         "feedback": ""
                     },
                     {
                         "id": "3",
-                        "text": "Proliferación de la media, estría grasa, calcificación. ",
+                        "text": "La miocardiopatía hipertrófica genera inicialmente una pérdida de la fuerza contráctil del miocardio. ",
                         "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "4",
-                        "text": "Disección íntima-media, trombosis de la luz verdadera. ",
+                        "text": "La principal causa de pérdida de la contracción ventricular es la miocardiopatía dilatada idiopática.  ",
                         "correct": false,
                         "feedback": ""
                     }
@@ -1689,35 +1689,35 @@
             {
                 "id": "6",
                 "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "De los siguientes, ¿cuál no es considerado un factor de riesgo cardiovascular?",
+                "qTitle": "¿Por qué suele producirse un infarto agudo de miocardio? ",
                 "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto!Los antecedentes familiares de cardiopatía isquémica se consideran como factor de riesgo para enfermedad cardiovascular aterosclerótica si se producen a una edad temprana (independientemente de que cursen de forma fatal o no). Para varones se considera precoz haber sufrido eventos antes de los 55 años y para las mujeres antes de los 60 años.   ",
-                "feedback_ko": "¡Incorrecto! Los antecedentes familiares de cardiopatía isquémica se consideran como factor de riesgo para enfermedad cardiovascular aterosclerótica si se producen a una edad temprana (independientemente de que cursen de forma fatal o no). Para varones se considera precoz haber sufrido eventos antes de los 55 años y para las mujeres antes de los 60 años.  ",
+                "feedback_ok": "¡Correcto!La mayoría de infartos agudos de miocardio se producen por la formación de trombos dentro de una arteria coronaria; la causa de formación de dichos trombos suele ser la rotura de una placa de colesterol: el colesterol del interior entra en contacto con la sangre, y la sangre se coagula (porque detecta que existen componentes extraños). El trombo que se forma, si ocluye totalmente la luz del vaso, evita el paso de la sangre provocando la muerte del territorio cardiaco irrigado por la arteria ocluida.   ",
+                "feedback_ko": "¡Incorrecto! La mayoría de infartos agudos de miocardio se producen por la formación de trombos dentro de una arteria coronaria; la causa de formación de dichos trombos suele ser la rotura de una placa de colesterol: el colesterol del interior entra en contacto con la sangre, y la sangre se coagula (porque detecta que existen componentes extraños). El trombo que se forma, si ocluye totalmente la luz del vaso, evita el paso de la sangre provocando la muerte del territorio cardiaco irrigado por la arteria ocluida.  ",
                 "topic": "",
                 "points": 3,
                 "options_order_random": true,
                 "options": [
                     {
                         "id": "1",
-                        "text": "Diabetes",
+                        "text": "Porque una placa de ateroma crece tanto que ocluye totalmente la luz de una arteria coronaria. ",
                         "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "2",
-                        "text": "Hipercolesterolemia familiar heterocigota. ",
+                        "text": "Porque un trombo en otra localización del organismo desprende un fragmento (émbolo) que acaba llegando a una arteria coronaria y la ocluye.  ",
                         "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "3",
-                        "text": "Antecedente familiar de infarto de miocardio fatal paterno a los 62 años. ",
+                        "text": "Porque una placa de ateroma se rompe, y se forma un trombo a dicho nivel dentro de la arteria coronaria.  ",
                         "correct": true,
                         "feedback": ""
                     },
                     {
                         "id": "4",
-                        "text": "Hiperhomocisteinemia",
+                        "text": "Porque una placa de ateroma se rompe, y se produce un sangrado desde la arteria coronaria hacia fuera de la arteria. ",
                         "correct": false,
                         "feedback": ""
                     }
@@ -1726,36 +1726,36 @@
             {
                 "id": "7",
                 "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "No exclusivamente los factores de riesgo cardiovascular clásicos deberían ser considerados a la hora de establecer el riesgo cardiovascular de un paciente. Hay otras situaciones que modifican el riesgo que ofrecen las tablas SCORE y que deberían considerarse a la hora de hacer un abordaje integral y más acertado del riesgo de los pacientes. ¿Cuáles de los siguientes deberíamos considerar?",
+                "qTitle": "¿Qué es cierto sobre los músculos papilares?",
                 "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto! Aunque las escalas de valoración del riesgo cardiovascular son muy útiles, no solamente debemos tener en cuenta las condiciones que se recogen en éstas. Todos las opciones expuestas deben ser consideradas por aumentar el riesgo cardiovascular. Especialmente resulta importante en sujetos jóvenes en quienes el riesgo cardiovascular a lo largo de la vida es mucho mayor y el potencial de reducir eventos cardiovascular es mayor.   ",
-                "feedback_ko": "¡Incorrecto! Aunque las escalas de valoración del riesgo cardiovascular son muy útiles, no solamente debemos tener en cuenta las condiciones que se recogen en éstas. Todos las opciones expuestas deben ser consideradas por aumentar el riesgo cardiovascular. Especialmente resulta importante en sujetos jóvenes en quienes el riesgo cardiovascular a lo largo de la vida es mucho mayor y el potencial de reducir eventos cardiovascular es mayor.   ",
+                "feedback_ok": "¡Correcto! Los músculos papilares son estructuras que se hallan en los ventrículos (tanto derecho como izquierdo). Un extremo se inserta en el miocardio ventricular mientras que el otro, a través de unas prolongaciones conocidas como cuerdas tendinosas se ancha a la porción libre de los velos de las válvulas aurículo-ventriculares. Hay varios músculos papilares por ventrículo pero no necesariamente uno por cada velo, de hecho lo más frecuente es que de cada músculo papilar surjan cuerdas tendinosas a varios velos. No contribuyen a la eyección de sangre de los ventrículos. Su misión es sostener las válvulas mitral y tricúspide cuando se contraen los ventrículos para que la sangre no retorne a las aurículas y solamente puede salir hacia la aorta y pulmonar; por lo tanto su función no es abrir las válvulas, sino mantenerlas cerradas contra la presión que ejercen los ventrículos. Las válvulas mitral y tricúspide se abren por diferencia de presión de forma pasiva.     ",
+                "feedback_ko": "¡Incorrecto! Los músculos papilares son estructuras que se hallan en los ventrículos (tanto derecho como izquierdo). Un extremo se inserta en el miocardio ventricular mientras que el otro, a través de unas prolongaciones conocidas como cuerdas tendinosas se ancha a la porción libre de los velos de las válvulas aurículo-ventriculares. Hay varios músculos papilares por ventrículo pero no necesariamente uno por cada velo, de hecho lo más frecuente es que de cada músculo papilar surjan cuerdas tendinosas a varios velos. No contribuyen a la eyección de sangre de los ventrículos. Su misión es sostener las válvulas mitral y tricúspide cuando se contraen los ventrículos para que la sangre no retorne a las aurículas y solamente puede salir hacia la aorta y pulmonar; por lo tanto su función no es abrir las válvulas, sino mantenerlas cerradas contra la presión que ejercen los ventrículos. Las válvulas mitral y tricúspide se abren por diferencia de presión de forma pasiva.    ",
                 "topic": "",
                 "points": 3,
                 "options_order_random": true,
                 "options": [
                     {
                         "id": "1",
-                        "text": "Bajo nivel socioeconómico. ",
+                        "text": "Se anclan mediante las cuerdas tendinosas a los extremos libres de los velos de las válvulas aurículo-ventriculares. ",
                         "correct": true,
                         "feedback": ""
                     },
                     {
                         "id": "2",
-                        "text": "Infección por el virus de la inmunodeficiencia humana. ",
-                        "correct": true,
+                        "text": "Su utilidad es abrir las válvulas mitral y tricúspide para permitir el paso de sangre de las aurículas a los ventrículos.  ",
+                        "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "3",
-                        "text": "Enfermedades inflamatorias crónicas. ",
-                        "correct": true,
+                        "text": "Hay un músculo papilar para cada velo de las válvulas mitral y tricúspide.  ",
+                        "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "4",
-                        "text": "Hígado graso no alcohólico. ",
-                        "correct": true,
+                        "text": "Los músculos papilares son parte fundamental para la contribución en eyección de sangre de los ventrículos. ",
+                        "correct": false,
                         "feedback": ""
                     }
                 ]
@@ -1763,35 +1763,35 @@
             {
                 "id": "8",
                 "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "Respecto a las escalas de cálculo de riesgo cardiovascular señale TODAS las respuestas correctas: ",
+                "qTitle": "¿Qué nombre reciben los vasos que recogen la sangre oxigenada de los pulmones y la retornan al corazón?",
                 "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto! El SCORE es la escala de riesgo más utilizada, sobre todo en el ámbito europeo, y sirva para estimar el riesgo de tener cualquier evento cardiovascular que curse con la muerte en los próximos 10 años (respuesta D falsa,  no es solamente infarto, sino cualquier evento cardiovascular y debe ser mortal). Para evaluarlo considera las variables edad, el sexo, hábito tabáquico, colesterol total y cifras de presión arterial sistólica (respuesta C falsa por no ser solamente el colesterol LDL, sino el total).   ",
-                "feedback_ko": "¡Incorrecto! El SCORE es la escala de riesgo más utilizada, sobre todo en el ámbito europeo, y sirva para estimar el riesgo de tener cualquier evento cardiovascular que curse con la muerte en los próximos 10 años (respuesta D falsa,  no es solamente infarto, sino cualquier evento cardiovascular y debe ser mortal). Para evaluarlo considera las variables edad, el sexo, hábito tabáquico, colesterol total y cifras de presión arterial sistólica (respuesta C falsa por no ser solamente el colesterol LDL, sino el total).    ",
+                "feedback_ok": "¡Correcto! La sangre no oxigenada de todo el cuerpo llega a la aurícula derecha por las venas cavas. Pasa al ventrículo derecho y de allí sale por la arteria pulmonar hacia los pulmones donde se oxigenará. Esta sangre, ya oxigenada, es recogida por las venas pulmonares (hay 4 de ellas generalmente) y  retorna a la aurícula izquierda, donde atravesará la válvula mitral hasta el ventrículo izquierdo y se expulsará por la válvula aórtica para irrigar todo el organismo. Las arterias y venas bronquiales son las que irrigan el propio tejido del pulmón, no las encargadas de realizar el intercambio gaseoso. Hay que destacar que el concepto de arteria y vena no hace referencia a si la sangre que lleva en su interior es oxigenada o no oxigenada, sino a las características de su pared y al sentido en el que lleva la sangre. Los vasos que se dirigen hacia el corazón son venas, los que salen del él son arterias. La arteria pulmonar es la única del organismo que lleva sangre no oxigenada y las venas pulmonares son las únicas que llevan sangre oxigenada. ",
+                "feedback_ko": "¡Incorrecto! La sangre no oxigenada de todo el cuerpo llega a la aurícula derecha por las venas cavas. Pasa al ventrículo derecho y de allí sale por la arteria pulmonar hacia los pulmones donde se oxigenará. Esta sangre, ya oxigenada, es recogida por las venas pulmonares (hay 4 de ellas generalmente) y  retorna a la aurícula izquierda, donde atravesará la válvula mitral hasta el ventrículo izquierdo y se expulsará por la válvula aórtica para irrigar todo el organismo. Las arterias y venas bronquiales son las que irrigan el propio tejido del pulmón, no las encargadas de realizar el intercambio gaseoso. Hay que destacar que el concepto de arteria y vena no hace referencia a si la sangre que lleva en su interior es oxigenada o no oxigenada, sino a las características de su pared y al sentido en el que lleva la sangre. Los vasos que se dirigen hacia el corazón son venas, los que salen del él son arterias. La arteria pulmonar es la única del organismo que lleva sangre no oxigenada y las venas pulmonares son las únicas que llevan sangre oxigenada.     ",
                 "topic": "",
                 "points": 3,
                 "options_order_random": true,
                 "options": [
                     {
                         "id": "1",
-                        "text": "La escala más utilizada es la SCORE (Systematic Coronary Risk Estimation)",
-                        "correct": true,
-                        "feedback": ""
-                    },
-                    {
-                        "id": "2",
-                        "text": "Establece la probabilidad de tener un evento cardiovascular fatal en los próximos 10 años. ",
-                        "correct": true,
-                        "feedback": ""
-                    },
-                    {
-                        "id": "3",
-                        "text": "Las variables que considera son la edad, el sexo, hábito tabáquico, colesterol LDL y cifras de presión arterial sistólica. ",
+                        "text": "Arterias pulmonares.",
                         "correct": false,
                         "feedback": ""
                     },
                     {
+                        "id": "2",
+                        "text": "Arterias bronquiales.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Venas pulmonares.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
                         "id": "4",
-                        "text": "Estima el riesgo de tener un infarto a los 10 años. ",
+                        "text": "Venas bronquiales. ",
                         "correct": false,
                         "feedback": ""
                     }
@@ -1799,37 +1799,38 @@
             },
             {
                 "id": "9",
-                "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "Señale la opción correcta sobre las escalas de evaluación del riesgo cardiovascular: ",
+                "qType": "TEST_TYPE.MULTIPLE_OPTION",
+                "qTitle": "¿Cuál es correcta sobre la circulación cerebral? ",
                 "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto!El estimador SCORE sobreestima el riesgo cardiovascular en mayores de 70 años, clasificándolos directamente como de alto o muy alto riesgo cardiovascular. Es por ello que recientemente se ha publicado el SCORE 2-OP (SCORE 2 for old people) en el que se hace una estimación más precisa en los pacientes ancianos. En el SCORE 2 se considera el colesterol no HDL, no el LDL (a diferencia del SCORE en el que se considera el colesterol total). A diferencia del SCORE en el que se estima el riesgo de muerte por evento cardiovascular en los próximos 10 años, el SCORE 2 estima el riesgo de sufrir un evento cardiovascular, independientemente de las consecuencias. Ninguno de los SCORE considera la diabetes para estimar el riesgo de tener un evento; este hecho no supone que no debamos considerarla ya que es un factor de riesgo que incrementa notablemente las probabilidades de sufrir un evento.  ",
-                "feedback_ko": "¡Incorrecto! El estimador SCORE sobreestima el riesgo cardiovascular en mayores de 70 años, clasificándolos directamente como de alto o muy alto riesgo cardiovascular. Es por ello que recientemente se ha publicado el SCORE 2-OP (SCORE 2 for old people) en el que se hace una estimación más precisa en los pacientes ancianos. En el SCORE 2 se considera el colesterol no HDL, no el LDL (a diferencia del SCORE en el que se considera el colesterol total). A diferencia del SCORE en el que se estima el riesgo de muerte por evento cardiovascular en los próximos 10 años, el SCORE 2 estima el riesgo de sufrir un evento cardiovascular, independientemente de las consecuencias. Ninguno de los SCORE considera la diabetes para estimar el riesgo de tener un evento; este hecho no supone que no debamos considerarla ya que es un factor de riesgo que incrementa notablemente las probabilidades de sufrir un evento.  ",
+                "feedback_ok": "¡Correcto!El polígono de Willis es una estructura de seguridad que comunica la circulación arterial de ambos hemisferios cerebrales. De esta forma, si una carótida se ocluye, la otra podría suplir la irrigación del otro hemisferio cerebral. Por lo general no se ocluye una carótida por completo, sino sus ramas y el polígono no es capaz de salvar el problema. Existen generalmente tres troncos supra-aórticos (tres ramas que da la aorta en el cayado antes de convertirse en aorta torácica descendente): tronco braquicefálico derecho (que después se bifurca en carótida derecha y subclavia derecha), carótida izquierda y subclavia izquierda.   ",
+                "feedback_ko": "¡Incorrecto! El polígono de Willis es una estructura de seguridad que comunica la circulación arterial de ambos hemisferios cerebrales. De esta forma, si una carótida se ocluye, la otra podría suplir la irrigación del otro hemisferio cerebral. Por lo general no se ocluye una carótida por completo, sino sus ramas y el polígono no es capaz de salvar el problema. Existen generalmente tres troncos supra-aórticos (tres ramas que da la aorta en el cayado antes de convertirse en aorta torácica descendente): tronco braquicefálico derecho (que después se bifurca en carótida derecha y subclavia derecha), carótida izquierda y subclavia izquierda.  ",
+                "number_of_answers": 4,
                 "topic": "",
                 "points": 3,
                 "options_order_random": true,
                 "options": [
                     {
                         "id": "1",
-                        "text": "Actualmente la escala SCORE es el estimador de riesgo cardiovascular más aceptado para pacientes ancianos.  ",
-                        "correct": false,
+                        "text": "El principal vaso que lleva sangre al cerebro es la arteria carótida interna.   ",
+                        "correct": true,
                         "feedback": ""
                     },
                     {
                         "id": "2",
-                        "text": "Uno de los parámetros a considerar en la escala SCORE 2 es el colesterol LDL. ",
-                        "correct": false,
+                        "text": "Gracias al polígono de Willis se conecta la circulación arterial de los lados derecho e izquierdo.  ",
+                        "correct": true,
                         "feedback": ""
                     },
                     {
                         "id": "3",
-                        "text": "El SCORE 2 considera el riesgo de sufrir un eventos cardiovascular, que curse con la muerte o no, en los próximos 10 años. ",
+                        "text": "La principal vena que drena la sangre del encéfalo es la yugular. ",
                         "correct": true,
                         "feedback": ""
                     },
                     {
                         "id": "4",
-                        "text": "En la escala SCORE 2 se ha incluido la diabetes como factor de riesgo para considerar el riesgo cardiovascular. ",
-                        "correct": false,
+                        "text": "Por lo general la arteria carótida derecha sale de la aorta mediante un tronco común que comparte con la subclavia de ese mismo lado (tronco braquicefálico derecho), mientras que la carótida izquierda suele tener un origen independiente y directo desde el cayado aórtico.  ",
+                        "correct": true,
                         "feedback": ""
                     }
                 ]
@@ -1837,36 +1838,36 @@
             {
                 "id": "10",
                 "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "De las siguientes situaciones, ¿cuál confiere muy alto riesgo cardiovascular? ",
+                "qTitle": "¿Qué es la circulación portal? ",
                 "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto! En la opción b nos describen un síndrome de Leriche que se caracteriza por lesiones ateroescleróticas en región ilíaca y que cursa con dolor glúteo y disfunción eréctil. Esto se considera enfermedad cardiovascular establecida clínica y debe ser tratado como muy alto riesgo cardiovascular con objetivo de LDL < 55 mg/dL. Al igual que la opción d en la que nos describen a un diabético con lesión de órgano diana. La respuesta a y c per se no condicionan un riesgo cardiovascular muy elevado, por lo que ambas deben tratarse como prevención primaria en un sujeto con alto riesgo cardiovascular, objetivo de LDL < 70 mg/dL.   ",
-                "feedback_ko": "¡Incorrecto! En la opción b nos describen un síndrome de Leriche que se caracteriza por lesiones ateroescleróticas en región ilíaca y que cursa con dolor glúteo y disfunción eréctil. Esto se considera enfermedad cardiovascular establecida clínica y debe ser tratado como muy alto riesgo cardiovascular con objetivo de LDL < 55 mg/dL. Al igual que la opción d en la que nos describen a un diabético con lesión de órgano diana. La respuesta a y c per se no condicionan un riesgo cardiovascular muy elevado, por lo que ambas deben tratarse como prevención primaria en un sujeto con alto riesgo cardiovascular, objetivo de LDL < 70 mg/dL.    ",
+                "feedback_ok": "¡Correcto! La circulación portal es un sistema de circulación venosa que recoge la sangre venosa del tubo digestivo, incluyendo todos los nutrientes absorbidos con la digestión de los alimentos, y la transporta al hígado para que este metabolice los nutrientes obtenidos.  ",
+                "feedback_ko": "¡Incorrecto!La circulación portal es un sistema de circulación venosa que recoge la sangre venosa del tubo digestivo, incluyendo todos los nutrientes absorbidos con la digestión de los alimentos, y la transporta al hígado para que este metabolice los nutrientes obtenidos.  ",
                 "topic": "",
                 "points": 3,
                 "options_order_random": true,
                 "options": [
                     {
                         "id": "1",
-                        "text": "El infarto agudo de miocardio. ",
+                        "text": "Es la gran arteria que aporta sangre oxigenada al hígado.  ",
                         "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "2",
-                        "text": "La miocarditis (inflamación del músculo cardiaco, habitualmente por virus). ",
-                        "correct": true,
-                        "feedback": ""
-                    },
-                    {
-                        "id": "3",
-                        "text": "Enfermedades genéticas (miocardiopatía dilatada idiopática).",
+                        "text": "Es la vena que lleva la sangre venosa del hígado hacia la aurícula derecha.  ",
                         "correct": false,
                         "feedback": ""
                     },
                     {
-                        "id": "4",
-                        "text": "La miocardiopatía hipertrófica.",
+                        "id": "3",
+                        "text": "Es la vena que lleva los nutrientes absorbidos en el intestino hacia el hígado para ser procesados. ",
                         "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Es una arteria que lleva nutrientes del hígado al resto de vísceras abdominales. ",
+                        "correct": false,
                         "feedback": ""
                     }
                 ]
