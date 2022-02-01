@@ -2150,20 +2150,20 @@
                     },
                     {
                         "id": "2",
-                        "text": "Debe considerarse un objetivo de LDL < 40 mg/dL en los pacientes que sufren dos eventos cardiovasculares en 2 años, aunque sean de distintos territorios. ",
+                        "text": "SCORE 2 ",
                         "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "3",
-                        "text": "En los ensayos clínicos los niveles bajos de colesterol se relacionaron con menor tasa de eventos cardiovasculares sin efectos adversos relevantes por lo que en los próximos años podría considerarse un objetivo de LDL < 40 mg/dL directamente. ",
-                        "correct": false,
+                        "text": "SCORE 2-OP ",
+                        "correct": true,
                         "feedback": ""
                     },
                     {
                         "id": "4",
-                        "text": "La tensión arterial objetivo debe ser 130/80  mmHg siempre y cuando no genere efectos adversos. En cualquier caso y para cualquier grupo de edad debe ser inferior a 140/90 mmHg. ",
-                        "correct": true,
+                        "text": "Test de fagerström. ",
+                        "correct": false,
                         "feedback": ""
                     }
                 ]
@@ -2171,36 +2171,36 @@
             {
                 "id": "19",
                 "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "Una de las manifestaciones de la enfermedad cardiovascular ateroesclerótica es la cardiopatía isquémica en su forma angina estable o síndrome coronario agudo (infarto agudo de miocardio). ¿Cuál de las siguientes no corresponde al siguiente espectro?",
+                "qTitle": "¿Cuál es el principal tipo celular que inicia el proceso ateroesclerótico?",
                 "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto! Las tres primeras son las manifestaciones típicas de la cardiopatía isquémica. La A nos relata una angina estable. La opción B es sugestivo de infarto agudo de miocardio así como la C; esta última cursa con parada cardiorrespiratoria. La D nos relata una pericarditis aguda, varón joven tras cuadro catarral y con el patrón de dolor característico; los cambios en el ECG son frecuentes, aunque en la opción no especifica el tipo de cambios.   ",
-                "feedback_ko": "¡Incorrecto! Las tres primeras son las manifestaciones típicas de la cardiopatía isquémica. La A nos relata una angina estable. La opción B es sugestivo de infarto agudo de miocardio así como la C; esta última cursa con parada cardiorrespiratoria. La D nos relata una pericarditis aguda, varón joven tras cuadro catarral y con el patrón de dolor característico; los cambios en el ECG son frecuentes, aunque en la opción no especifica el tipo de cambios. ",
+                "feedback_ok": "¡Correcto! Los macrófagos son los que inician la placa de ateroesclerosis. Reconocen el colesterol y lo interiorizan. Esto les confiere el aspecto “lleno de burbujas”, en este punto se conocen como células espumosas. Posteriormente se forma la estría grasa, centro necrótico y eventual calcificación/rotura/estabilización.    ",
+                "feedback_ko": "¡Incorrecto! Los macrófagos son los que inician la placa de ateroesclerosis. Reconocen el colesterol y lo interiorizan. Esto les confiere el aspecto “lleno de burbujas”, en este punto se conocen como células espumosas. Posteriormente se forma la estría grasa, centro necrótico y eventual calcificación/rotura/estabilización.  ",
                 "topic": "",
                 "points": 3,
                 "options_order_random": true,
                 "options": [
                     {
                         "id": "1",
-                        "text": "Varón de 68 años, fumador e hipertenso que desde hace 8 meses cuando camina en pendiente tiene presión en el centro del tórax que le obliga a pararse. ",
+                        "text": "Linfocito ",
                         "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "2",
-                        "text": "Mujer de 53 años, diabético y dislipémica que, estando en reposo presenta dolor en el centro del tórax que se irradia hacia el cuello, hombro izquierdo y espalda que no cede con el tratamiento analgésico que ha tomado. ",
-                        "correct": false,
+                        "text": "Macrófago",
+                        "correct": true,
                         "feedback": ""
                     },
                     {
                         "id": "3",
-                        "text": "Hombre de 77 años que se encontraba deambulando por la calle con dificultad respiratoria y opresión en la “boca del estómago”. Súbitamente se desvanece y los testigos inician maniobras de RCP. ",
+                        "text": "Hematíe ",
                         "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "4",
-                        "text": "Varón de 27 años que tiene dolor en el centro del tórax que aumenta al inspirar y tumbarse en la cama. Mejora al inclinarse hacia delante. En los días previos ha tenido un catarro y ahora presenta alteraciones en el electrocardiograma. ",
-                        "correct": true,
+                        "text": "Plaqueta ",
+                        "correct": false,
                         "feedback": ""
                     }
                 ]
@@ -2208,35 +2208,35 @@
             {
                 "id": "20",
                 "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "¿Cuál de los siguientes no se consideraría enfermedad cardiovascular de causa ateroesclerótica?",
+                "qTitle": "De los siguientes factores de riesgo cuál se incluye en el SCORE2-OP",
                 "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto! Aunque la enfermedad clínica y por imagen de la aorta se considera enfermedad cardiovascular ateroesclerótica en esta opción nuestro paciente padece enfermedad de Marfan. Se trata de una enfermedad del tejido conectivo que debilita la pared de la aorta SIN que exista ateroesclerosis. La opción 3 hace referencia a enfermedad de arterias coronarias pero no por placas de colesterol, sino por disección espontánea de la arteria. Esto es una condición que suele ocurrir en mujeres y en edad peri y post-menopausia.  ",
-                "feedback_ko": "¡Incorrecto! Aunque la enfermedad clínica y por imagen de la aorta se considera enfermedad cardiovascular ateroesclerótica en esta opción nuestro paciente padece enfermedad de Marfan. Se trata de una enfermedad del tejido conectivo que debilita la pared de la aorta SIN que exista ateroesclerosis. La opción 3 hace referencia a enfermedad de arterias coronarias pero no por placas de colesterol, sino por disección espontánea de la arteria. Esto es una condición que suele ocurrir en mujeres y en edad peri y post-menopausia.  ",
+                "feedback_ok": "¡Correcto! Todos los presentados son factores de riesgo cardiovascular. Sin embargo, solo el colesterol No-HDL se considera para el cálculo del riesgo cardiovascular en el SCORE 2 y SCORE 2-OP. El colesterol total se utilizad en la escala SCORE.  ",
+                "feedback_ko": "¡Incorrecto! Todos los presentados son factores de riesgo cardiovascular. Sin embargo, solo el colesterol No-HDL se considera para el cálculo del riesgo cardiovascular en el SCORE 2 y SCORE 2-OP. El colesterol total se utilizad en la escala SCORE.   ",
                 "topic": "",
                 "points": 3,
                 "options_order_random": true,
                 "options": [
                     {
                         "id": "1",
-                        "text": "Aneurisma de aorta en paciente con enfermedad de Marfan.",
-                        "correct": true,
+                        "text": "Diabetes mellitus",
+                        "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "2",
-                        "text": "Insuficiencia cardíaca con función ventricular severamente deprimida por oclusión crónica de arteria descendente anterior. ",
+                        "text": "Colesterol total.",
                         "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "3",
-                        "text": "Mujer de 43 años con disección de arteria coronaria derecha. ",
+                        "text": "Colesterol No-HDL",
                         "correct": true,
                         "feedback": ""
                     },
                     {
                         "id": "4",
-                        "text": "Ictus de arteria cerebral media con placas en la carótida. ",
+                        "text": "Colesterol LDL ",
                         "correct": false,
                         "feedback": ""
                     }
@@ -2245,10 +2245,10 @@
             {
                 "id": "21",
                 "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "¿Cuáles son las válvulas aurículo-ventriculares?",
+                "qTitle": "Marque la respuesta correcta:",
                 "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto! Las válvulas aurículo-ventriculares separan las aurículas de los ventrículos, permitiendo el paso de sangre desde aurículas a ventrículos e impidiendo su retroceso en sentido inverso. La válvula mitral separa la aurícula izquierda del ventrículo izquierdo y la válvula tricúspide la aurícula y ventrículo derechos. Las válvulas aórtica y pulmonar son las válvulas sigmoides. La aórtica separa el ventrículo izquierdo de la arteria aorta y la válvula pulmonar separa el ventrículo derecho de la arteria pulmonar. Aunque existe cierta variabilidad, por lo general las válvulas aórtica y pulmonar y la tricúspide tienen tres velos, mientras que la mitral tienen dos.  ",
-                "feedback_ko": "¡Incorrecto! Las válvulas aurículo-ventriculares separan las aurículas de los ventrículos, permitiendo el paso de sangre desde aurículas a ventrículos e impidiendo su retroceso en sentido inverso. La válvula mitral separa la aurícula izquierda del ventrículo izquierdo y la válvula tricúspide la aurícula y ventrículo derechos. Las válvulas aórtica y pulmonar son las válvulas sigmoides. La aórtica separa el ventrículo izquierdo de la arteria aorta y la válvula pulmonar separa el ventrículo derecho de la arteria pulmonar. Aunque existe cierta variabilidad, por lo general las válvulas aórtica y pulmonar y la tricúspide tienen tres velos, mientras que la mitral tienen dos.  ",
+                "feedback_ok": "¡Correcto!Las tres primeras repuestas son falsas porque nos hablan de un paciente con similar riesgo cardiovascular que debemos encasillar como muy alto riesgo cardiovascular. Para todos estos pacientes debemos saber que el objetivo de colesterol LDL debe ser < 55 mg/dL. Debemos recordar que el paciente que ya ha sufrido un evento cardiovascular (infarto, ictus, enfermedad arterial periférica, etc) entra dentro de lo que conocemos prevención secundaria y su riesgo es muy alto. La Apo B es un marcador de riesgo cardiovascular que podríamos considerar similar al colesterol LDL aunque las cifras objetivo difieren respecto a este. Hay determinadas situaciones donde el uso del colesterol LDL podría infraestimar el riesgo cardiovascular y el uso de Apo B permite hacer una mejor valoración.  ",
+                "feedback_ko": "¡Incorrecto! Las tres primeras repuestas son falsas porque nos hablan de un paciente con similar riesgo cardiovascular que debemos encasillar como muy alto riesgo cardiovascular. Para todos estos pacientes debemos saber que el objetivo de colesterol LDL debe ser < 55 mg/dL. Debemos recordar que el paciente que ya ha sufrido un evento cardiovascular (infarto, ictus, enfermedad arterial periférica, etc) entra dentro de lo que conocemos prevención secundaria y su riesgo es muy alto. La Apo B es un marcador de riesgo cardiovascular que podríamos considerar similar al colesterol LDL aunque las cifras objetivo difieren respecto a este. Hay determinadas situaciones donde el uso del colesterol LDL podría infraestimar el riesgo cardiovascular y el uso de Apo B permite hacer una mejor valoración.   ",
                 "topic": "",
                 "countDown": false,
                 "timeCountDown": 5,
@@ -2257,26 +2257,26 @@
                 "options": [
                     {
                         "id": "1",
-                        "text": "Aórtica y pulmonar.",
+                        "text": "El nivel de colesterol LDL objetivo para los pacientes con muy alto riesgo cardiovascular es < 70 mg/dL. ",
                         "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "2",
-                        "text": "Mitral y tricúspide. ",
-                        "correct": true,
+                        "text": "El nivel de colesterol LDL objetivo para los pacientes en prevención secundaria es de < 70 mg/dL.  ",
+                        "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "3",
-                        "text": "Ambas tienen tres velos.",
+                        "text": "Un paciente con enfermedad renal crónica con filtrado de 23 ml/min tiene un objetivo de colesterol LDL < 100 mg/dL.",
                         "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "4",
-                        "text": "Ambas tienen dos velos.",
-                        "correct": false,
+                        "text": "La apolipoproteina Apo B puede ser mejor parámetro para establecer el riesgo cardiovascular que el colesterol LDL, especialmente en pacientes diabéticos, con hipertrigliceridemia importante, obesos o LDL muy bajos. ",
+                        "correct": true,
                         "feedback": ""
                     }
                 ]
@@ -2284,36 +2284,36 @@
             {
                 "id": "22",
                 "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "¿Cuál es la falsa respecto al seno coronario?",
+                "qTitle": "¿Cuál es correcta sobre las cámaras cardíacas?",
                 "instructions": "Selecciona las opciones que consideres correctas:",
-                "feedback_ok": "¡Correcto! La respuesta a hace referencia a los senos de Valsalva que son los espacios que quedan por encima de las coronarias. Hay tres senos de Valsalva (coronariano derecho e izquierdo y el no coronariano). El seno coronario es una estructura que drena toda la sangre venosa desoxigenada después de nutrir el músculo cardíaco y la redirige a la aurícula derecha para ser expulada nuevamente a los pulmones. A su través se puede acceder a las proximidades del lado izquierdo del corazón y se utiliza para la colocación de terapia de resincronización. ",
-                "feedback_ko": "¡Incorrecto! La respuesta a hace referencia a los senos de Valsalva que son los espacios que quedan por encima de las coronarias. Hay tres senos de Valsalva (coronariano derecho e izquierdo y el no coronariano). El seno coronario es una estructura que drena toda la sangre venosa desoxigenada después de nutrir el músculo cardíaco y la redirige a la aurícula derecha para ser expulada nuevamente a los pulmones. A su través se puede acceder a las proximidades del lado izquierdo del corazón y se utiliza para la colocación de terapia de resincronización. ",
+                "feedback_ok": "¡Correcto! Las cavidades derechas están separadas por la válvula tricúspide. El ventrículo derecho se encuentra más anterior en el tórax, justo detrás del esternón, mientras que el izquierdo es posterior y más inferior o basal. El ventrículo con forma de proyectil es el izquierdo. ",
+                "feedback_ko": "¡Incorrecto! Las cavidades derechas están separadas por la válvula tricúspide. El ventrículo derecho se encuentra más anterior en el tórax, justo detrás del esternón, mientras que el izquierdo es posterior y más inferior o basal. El ventrículo con forma de proyectil es el izquierdo. ",
                 "topic": "",
                 "points": 3,
                 "options_order_random": true,
                 "options": [
                     {
                         "id": "1",
-                        "text": "El nivel de colesterol LDL objetivo para los pacientes con muy alto riesgo cardiovascular es < 70 mg/dL",
-                        "correct": true,
+                        "text": "La aurícula derecha está separada del ventrículo derecho por la válvula mitral",
+                        "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "2",
-                        "text": "El nivel de colesterol LDL objetivo para los pacientes en prevención secundaria es de < 70 mg/dL. ",
+                        "text": "El ventrículo izquierdo es anterior en el tórax respecto al derecho.  ",
                         "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "3",
-                        "text": "Un paciente con enfermedad renal crónica con filtrado de 23 ml/min tiene un objetivo de colesterol LDL < 100 mg/dL. ",
+                        "text": "El ventrículo derecho tiene forma de “proyectil”, hecho que permite estudiarlo con cortes como un cilindro.  ",
                         "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "4",
-                        "text": "La apolipoproteina Apo B puede ser mejor parámetro para establecer el riesgo cardiovascular que el colesterol LDL, especialmente en pacientes diabéticos, con hipertrigliceridemia importante, obesos o LDL muy bajos. ",
-                        "correct": false,
+                        "text": "La aurícula izquierda es la cámara más posterior del corazón. ",
+                        "correct": true,
                         "feedback": ""
                     }
                 ]
@@ -2321,35 +2321,35 @@
             {
                 "id": "23",
                 "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "¿Cuál de las siguientes es correcta sobre la circulación coronaria? ",
+                "qTitle": "¿Cuál de las siguientes dietas se encuentra más avalada por mejorar el perfil cardiovascular y es la más recomendada en estos pacientes?",
                 "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto!Se presta a interpretación ya que existen dos arterias coronarias (la izquierda y la derecha) aunque la izquierda rápidamente se bifurca en dos ramas (la descendente anterior y la circumfleja) que parten del tronco coronario izquierdo; este es solamente un vaso de “conducción” y no irriga per se al músculo cardíaco sino que lo hace a través de sus ramas. Las arterias coronarias reciben sangre en diástole. En cada latido la sangre sale del ventrículo izquierdo a través de la válvula aórtica. Cuando la presión cae una parte de la sangre retrocede por la arteria aorta y cierra la válvula aórtica, ahí inicia la diástole. En ese momento, con los velos de la válvula aórtica cerrados, la sangre fluye a través de las coronarias. La arteria que irriga más masa ventricular es la descendente anterior. La responsable de irrigar el ventrículo derecho y en la mayor parte de las personas también la cara inferior del septo es la coronaria derecha. ",
-                "feedback_ko": "¡Incorrecto! Se presta a interpretación ya que existen dos arterias coronarias (la izquierda y la derecha) aunque la izquierda rápidamente se bifurca en dos ramas (la descendente anterior y la circumfleja) que parten del tronco coronario izquierdo; este es solamente un vaso de “conducción” y no irriga per se al músculo cardíaco sino que lo hace a través de sus ramas. Las arterias coronarias reciben sangre en diástole. En cada latido la sangre sale del ventrículo izquierdo a través de la válvula aórtica. Cuando la presión cae una parte de la sangre retrocede por la arteria aorta y cierra la válvula aórtica, ahí inicia la diástole. En ese momento, con los velos de la válvula aórtica cerrados, la sangre fluye a través de las coronarias. La arteria que irriga más masa ventricular es la descendente anterior. La responsable de irrigar el ventrículo derecho y en la mayor parte de las personas también la cara inferior del septo es la coronaria derecha. ",
+                "feedback_ok": "¡Correcto!Tanto la dieta mediterránea como la dieta DASH (Dietary Approaches to Stop Hipertension) han sido evaluadas para mejorar los factores de riesgo cardiovascular. La dieta DASH se centra específicamente en medidas dirigidas a reducir la hipertensión arterial. La dieta mediterránea, avalada por el ensayo PREDIMED, es la que más evidencia la respalda. Su principal diferencia respecto a la dieta DASH es que la mediterránea está enriquecida con aceite de oliva virgen extra o nueces, hecho que reduce hasta en un 30% los eventos cardiovasculares mayores con respecto a la dieta baja en grasas. ",
+                "feedback_ko": "¡Incorrecto! Tanto la dieta mediterránea como la dieta DASH (Dietary Approaches to Stop Hipertension) han sido evaluadas para mejorar los factores de riesgo cardiovascular. La dieta DASH se centra específicamente en medidas dirigidas a reducir la hipertensión arterial. La dieta mediterránea, avalada por el ensayo PREDIMED, es la que más evidencia la respalda. Su principal diferencia respecto a la dieta DASH es que la mediterránea está enriquecida con aceite de oliva virgen extra o nueces, hecho que reduce hasta en un 30% los eventos cardiovasculares mayores con respecto a la dieta baja en grasas.  ",
                 "topic": "",
                 "points": 3,
                 "options_order_random": true,
                 "options": [
                     {
                         "id": "1",
-                        "text": "Hay tres arterias coronarias principales. ",
-                        "correct": true,
+                        "text": "Dieta DASH. ",
+                        "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "2",
-                        "text": "Las arterias coronarias se perfunden en sístole. ",
+                        "text": "Dieta baja en grasas.",
                         "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "3",
-                        "text": "La arteria coronaria derecha es la que irriga la mayor parte del miocardio.",
-                        "correct": false,
+                        "text": "Dieta mediterránea.",
+                        "correct": true,
                         "feedback": ""
                     },
                     {
                         "id": "4",
-                        "text": "La arteria circumfleja da ramas para irrigar el ventrículo derecho y la cara inferior del ventrículo izquierdo.  ",
+                        "text": "Dieta paleo. ",
                         "correct": false,
                         "feedback": ""
                     }
