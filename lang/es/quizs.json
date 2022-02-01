@@ -2358,36 +2358,36 @@
             {
                 "id": "24",
                 "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "4. ¿Cuál de las siguientes relaciones entre gasto cardiaco, precarga, postcarga y contractilidad es INCORRECTA? ",
+                "qTitle": "¿Cuál de las siguientes características no es propia de la dieta mediterránea? ",
                 "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto! El gasto cardiaco es directamente proporcional a la precarga (volumen de sangre telediastólico que contiene un ventrículo) y a la contractilidad (fuerza contráctil de los ventrículos), y es inversamente proporcional a la postcarga (resistencia que deben vencer los ventrículos para impulsar la sangre hacia el exterior). Por otra parte, a mayor precarga, mayor postcarga (cuando el corazón contiene mucha sangre, se acumula presión en su interior, y esa presión debe ser vencida por el propio corazón para mandar la sangre hacia el exterior). ",
-                "feedback_ko": "¡Incorrecto! El gasto cardiaco es directamente proporcional a la precarga (volumen de sangre telediastólico que contiene un ventrículo) y a la contractilidad (fuerza contráctil de los ventrículos), y es inversamente proporcional a la postcarga (resistencia que deben vencer los ventrículos para impulsar la sangre hacia el exterior). Por otra parte, a mayor precarga, mayor postcarga (cuando el corazón contiene mucha sangre, se acumula presión en su interior, y esa presión debe ser vencida por el propio corazón para mandar la sangre hacia el exterior).",
+                "feedback_ok": "¡Correcto! Todas son características de la dieta mediterránea salvo la opción d. Debe predominar la ingesta proteica mediante legumbres, pescado blanco y azul y consumo de huevos reducido así como el de carne. Dentro de la carne hay que reducir al máximo el consumo de carne roja 0-1 vez por semana y priorizar las carnes blancas (pollo y pavo principalmente). ",
+                "feedback_ko": "¡Incorrecto! Todas son características de la dieta mediterránea salvo la opción d. Debe predominar la ingesta proteica mediante legumbres, pescado blanco y azul y consumo de huevos reducido así como el de carne. Dentro de la carne hay que reducir al máximo el consumo de carne roja 0-1 vez por semana y priorizar las carnes blancas (pollo y pavo principalmente). ",
                 "topic": "",
                 "points": 3,
                 "options_order_random": true,
                 "options": [
                     {
                         "id": "1",
-                        "text": "El gasto cardiaco es directamente proporcional a la precarga. ",
+                        "text": "Consumir fruta y verdura de temporada, 5 raciones al día. ",
                         "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "2",
-                        "text": "El gasto cardiaco es directamente proporcional a la contractilidad.  ",
+                        "text": "Consumir legumbres 3 veces por semana.  ",
                         "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "3",
-                        "text": "El gasto cardiaco es directamente proporcional a la postcarga. ",
-                        "correct": true,
+                        "text": "Utilizar aceite de oliva virgen extra o nueces como fuente de grasas. ",
+                        "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "4",
-                        "text": "La precarga es directamente proporcional a la postcarga.  ",
-                        "correct": false,
+                        "text": "Reducir el consumo de carne y priorizar la carne roja sobre la blanca.   ",
+                        "correct": true,
                         "feedback": ""
                     }
                 ]
@@ -2395,35 +2395,35 @@
             {
                 "id": "25",
                 "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "¿Cuál es cierta sobre las enfermedades que afectan al músculo del corazón?",
+                "qTitle": "Respecto a las escalas de valoración del riesgo cardiovascular SCORE y sus versiones más novedosas, ¿cual es falsa?",
                 "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto!La miocardiopatía dilatada se caracteriza por un aumento en el volumen de ventrículo izquierdo o de ambos y pérdida de su contractilidad. Si esto se produce sin causa aparente se conoce como dilatada idiopática. La principal causa de pérdida de contractilidad no es ésta, sino que es la cardiopatía isquémica. No obstante, al hecho de perder fuerza de contracción por cardiopatía isquémica no es correcto llamarlo miocardiopatía dilatada isquémica, ya que el concepto miocardiopatía hace referencia a alteración primaria, sin otra causa que lo justifique. En cualquier caso en el enunciado no hace referencia a miocardiopatía en concreto sino a afectación del músculo cardíaco. En la restrictiva el miocardio se sustituye por otro material distinto que acaba endureciendo el miocardio y comprometiendo su relajación (y también contracción). La hipertrófica inicialmente cursa con aumento de contractilidad aunque en fases finales puede dilatarse.  ",
-                "feedback_ko": "¡Incorrecto! La miocardiopatía dilatada se caracteriza por un aumento en el volumen de ventrículo izquierdo o de ambos y pérdida de su contractilidad. Si esto se produce sin causa aparente se conoce como dilatada idiopática. La principal causa de pérdida de contractilidad no es ésta, sino que es la cardiopatía isquémica. No obstante, al hecho de perder fuerza de contracción por cardiopatía isquémica no es correcto llamarlo miocardiopatía dilatada isquémica, ya que el concepto miocardiopatía hace referencia a alteración primaria, sin otra causa que lo justifique. En cualquier caso en el enunciado no hace referencia a miocardiopatía en concreto sino a afectación del músculo cardíaco. En la restrictiva el miocardio se sustituye por otro material distinto que acaba endureciendo el miocardio y comprometiendo su relajación (y también contracción). La hipertrófica inicialmente cursa con aumento de contractilidad aunque en fases finales puede dilatarse. ",
+                "feedback_ok": "¡Correcto!De las escalas SCORE ninguna utiliza el colesterol LDL. La SCORE usa el colesterol total,  y la SCORE 2 y la SCORE 2-OP el colesterol No-HDL. Aunque son útiles para estimar el riesgo de sufrir un evento cardiovascular según los factores de riesgo no consideran condiciones que añaden mucho riesgo como la diabetes, el sedentarismo o el haber sufrido ya un evento cardiovascular. La opción d es correcta. En el SCORE 2 se clasifica distinto el hecho de tener un riesgo cardiovascular del 5% si el paciente tiene 50 años a si tiene 75 años. En el primer caso el riesgo el alto y en el segundo bajo/moderado. Esta aproximación es muy comprensible, ya que los pacientes jóvenes tienen más probabilidad de progresión a lo largo de la vida expuestos a factores de riesgo similares, por ello debemos ser más enérgicos a la hora de controlarlos.  ",
+                "feedback_ko": "¡Incorrecto! De las escalas SCORE ninguna utiliza el colesterol LDL. La SCORE usa el colesterol total,  y la SCORE 2 y la SCORE 2-OP el colesterol No-HDL. Aunque son útiles para estimar el riesgo de sufrir un evento cardiovascular según los factores de riesgo no consideran condiciones que añaden mucho riesgo como la diabetes, el sedentarismo o el haber sufrido ya un evento cardiovascular. La opción d es correcta. En el SCORE 2 se clasifica distinto el hecho de tener un riesgo cardiovascular del 5% si el paciente tiene 50 años a si tiene 75 años. En el primer caso el riesgo el alto y en el segundo bajo/moderado. Esta aproximación es muy comprensible, ya que los pacientes jóvenes tienen más probabilidad de progresión a lo largo de la vida expuestos a factores de riesgo similares, por ello debemos ser más enérgicos a la hora de controlarlos. ",
                 "topic": "",
                 "points": 3,
                 "options_order_random": true,
                 "options": [
                     {
                         "id": "1",
-                        "text": "La miocardiopatía dilatada cursa con ganancia de contractilidad ventricular.",
+                        "text": "Aunque estas escalas son útiles para evaluar el riesgo cardiovascular existen otros factores que éstas no consideran y también influyen decisivamente para hacer una valoración más precisa.",
                         "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "2",
-                        "text": "La miocardiopatía restrictiva se produce por procesos que infiltran o sustituyen el miocardio y pueden dificultar su relajación produciendo insuficiencia cardíaca.",
-                        "correct": true,
-                        "feedback": ""
-                    },
-                    {
-                        "id": "3",
-                        "text": "La miocardiopatía hipertrófica genera inicialmente una pérdida de la fuerza contráctil del miocardio. ",
+                        "text": "Existen tablas distintas según el país de procedencia y el riesgo cardiovascular atribuido a este. ",
                         "correct": false,
                         "feedback": ""
                     },
                     {
+                        "id": "3",
+                        "text": "El colesterol LDL es necesario para realizar el cálculo.  ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
                         "id": "4",
-                        "text": "La principal causa de pérdida de la contracción ventricular es la miocardiopatía dilatada idiopática.  ",
+                        "text": "En las versiones más modernas el porcentaje de eventos para considerar al paciente de riesgo bajo-moderado /alto /muy alto difiere según los grupos de edad.  ",
                         "correct": false,
                         "feedback": ""
                     }
@@ -2432,36 +2432,36 @@
             {
                 "id": "26",
                 "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "¿Por qué suele producirse un infarto agudo de miocardio? ",
+                "qTitle": "¿Qué asociación de fármacos tiene riesgo especialmente alto de miopatía?",
                 "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto!La mayoría de infartos agudos de miocardio se producen por la formación de trombos dentro de una arteria coronaria; la causa de formación de dichos trombos suele ser la rotura de una placa de colesterol: el colesterol del interior entra en contacto con la sangre, y la sangre se coagula (porque detecta que existen componentes extraños). El trombo que se forma, si ocluye totalmente la luz del vaso, evita el paso de la sangre provocando la muerte del territorio cardiaco irrigado por la arteria ocluida.   ",
-                "feedback_ko": "¡Incorrecto! La mayoría de infartos agudos de miocardio se producen por la formación de trombos dentro de una arteria coronaria; la causa de formación de dichos trombos suele ser la rotura de una placa de colesterol: el colesterol del interior entra en contacto con la sangre, y la sangre se coagula (porque detecta que existen componentes extraños). El trombo que se forma, si ocluye totalmente la luz del vaso, evita el paso de la sangre provocando la muerte del territorio cardiaco irrigado por la arteria ocluida.  ",
+                "feedback_ok": "¡Correcto!A las estatinas se les atribuye como principal efecto adverso la miopatía pudiendo llegar en su máxima expresión a rabdomiolisis. En ensayos clínicos ciegos controlados con placebo no se ha visto diferencias en este sentido. No obstante, la asociación de estatinas con fibratos aumenta la probabilidad de que esto ocurra (especialmente con gemfibrozilo, con el resto de fibratos la incidencia es mucho menor).    ",
+                "feedback_ko": "¡Incorrecto!A las estatinas se les atribuye como principal efecto adverso la miopatía pudiendo llegar en su máxima expresión a rabdomiolisis. En ensayos clínicos ciegos controlados con placebo no se ha visto diferencias en este sentido. No obstante, la asociación de estatinas con fibratos aumenta la probabilidad de que esto ocurra (especialmente con gemfibrozilo, con el resto de fibratos la incidencia es mucho menor).   ",
                 "topic": "",
                 "points": 3,
                 "options_order_random": true,
                 "options": [
                     {
                         "id": "1",
-                        "text": "Porque una placa de ateroma crece tanto que ocluye totalmente la luz de una arteria coronaria. ",
+                        "text": "Atorvastatina y ezetimibe. ",
                         "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "2",
-                        "text": "Porque un trombo en otra localización del organismo desprende un fragmento (émbolo) que acaba llegando a una arteria coronaria y la ocluye.  ",
+                        "text": "Atorvastatina y evolocumab. ",
                         "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "3",
-                        "text": "Porque una placa de ateroma se rompe, y se forma un trombo a dicho nivel dentro de la arteria coronaria.  ",
-                        "correct": true,
+                        "text": "Fenofibrato y Colestiramina.   ",
+                        "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "4",
-                        "text": "Porque una placa de ateroma se rompe, y se produce un sangrado desde la arteria coronaria hacia fuera de la arteria. ",
-                        "correct": false,
+                        "text": "Pravastatina y gemfibrozilo.",
+                        "correct": true,
                         "feedback": ""
                     }
                 ]
@@ -2469,35 +2469,35 @@
             {
                 "id": "27",
                 "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "¿Qué es cierto sobre los músculos papilares?",
+                "qTitle": "¿Cuál de los siguientes no es un efecto colateral de las estatinas?",
                 "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto! Los músculos papilares son estructuras que se hallan en los ventrículos (tanto derecho como izquierdo). Un extremo se inserta en el miocardio ventricular mientras que el otro, a través de unas prolongaciones conocidas como cuerdas tendinosas se ancha a la porción libre de los velos de las válvulas aurículo-ventriculares. Hay varios músculos papilares por ventrículo pero no necesariamente uno por cada velo, de hecho lo más frecuente es que de cada músculo papilar surjan cuerdas tendinosas a varios velos. No contribuyen a la eyección de sangre de los ventrículos. Su misión es sostener las válvulas mitral y tricúspide cuando se contraen los ventrículos para que la sangre no retorne a las aurículas y solamente puede salir hacia la aorta y pulmonar; por lo tanto su función no es abrir las válvulas, sino mantenerlas cerradas contra la presión que ejercen los ventrículos. Las válvulas mitral y tricúspide se abren por diferencia de presión de forma pasiva.     ",
-                "feedback_ko": "¡Incorrecto! Los músculos papilares son estructuras que se hallan en los ventrículos (tanto derecho como izquierdo). Un extremo se inserta en el miocardio ventricular mientras que el otro, a través de unas prolongaciones conocidas como cuerdas tendinosas se ancha a la porción libre de los velos de las válvulas aurículo-ventriculares. Hay varios músculos papilares por ventrículo pero no necesariamente uno por cada velo, de hecho lo más frecuente es que de cada músculo papilar surjan cuerdas tendinosas a varios velos. No contribuyen a la eyección de sangre de los ventrículos. Su misión es sostener las válvulas mitral y tricúspide cuando se contraen los ventrículos para que la sangre no retorne a las aurículas y solamente puede salir hacia la aorta y pulmonar; por lo tanto su función no es abrir las válvulas, sino mantenerlas cerradas contra la presión que ejercen los ventrículos. Las válvulas mitral y tricúspide se abren por diferencia de presión de forma pasiva.    ",
+                "feedback_ok": "¡Correcto! Paradójicamente las estatinas pueden aumentar las calcificaciones coronarias. Esto debe tenerse en cuenta a la hora de realizar el calcio score en TC de coronarias. La hepatotoxicidad debe controlarse con las transaminasas y la miopatía con CPK.     ",
+                "feedback_ko": "¡Incorrecto! Paradójicamente las estatinas pueden aumentar las calcificaciones coronarias. Esto debe tenerse en cuenta a la hora de realizar el calcio score en TC de coronarias. La hepatotoxicidad debe controlarse con las transaminasas y la miopatía con CPK.   ",
                 "topic": "",
                 "points": 3,
                 "options_order_random": true,
                 "options": [
                     {
                         "id": "1",
-                        "text": "Se anclan mediante las cuerdas tendinosas a los extremos libres de los velos de las válvulas aurículo-ventriculares. ",
-                        "correct": true,
+                        "text": "Hepatotoxicidad ",
+                        "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "2",
-                        "text": "Su utilidad es abrir las válvulas mitral y tricúspide para permitir el paso de sangre de las aurículas a los ventrículos.  ",
+                        "text": "Fototoxicidad ",
                         "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "3",
-                        "text": "Hay un músculo papilar para cada velo de las válvulas mitral y tricúspide.  ",
-                        "correct": false,
+                        "text": "Aumento del calcio coronario. ",
+                        "correct": true,
                         "feedback": ""
                     },
                     {
                         "id": "4",
-                        "text": "Los músculos papilares son parte fundamental para la contribución en eyección de sangre de los ventrículos. ",
+                        "text": "Miopatía",
                         "correct": false,
                         "feedback": ""
                     }
@@ -2506,35 +2506,35 @@
             {
                 "id": "28",
                 "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "¿Qué nombre reciben los vasos que recogen la sangre oxigenada de los pulmones y la retornan al corazón?",
+                "qTitle": "¿De los siguientes cuál no reclasificaría al alza el riesgo cardiovascular de un paciente?",
                 "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto! La sangre no oxigenada de todo el cuerpo llega a la aurícula derecha por las venas cavas. Pasa al ventrículo derecho y de allí sale por la arteria pulmonar hacia los pulmones donde se oxigenará. Esta sangre, ya oxigenada, es recogida por las venas pulmonares (hay 4 de ellas generalmente) y  retorna a la aurícula izquierda, donde atravesará la válvula mitral hasta el ventrículo izquierdo y se expulsará por la válvula aórtica para irrigar todo el organismo. Las arterias y venas bronquiales son las que irrigan el propio tejido del pulmón, no las encargadas de realizar el intercambio gaseoso. Hay que destacar que el concepto de arteria y vena no hace referencia a si la sangre que lleva en su interior es oxigenada o no oxigenada, sino a las características de su pared y al sentido en el que lleva la sangre. Los vasos que se dirigen hacia el corazón son venas, los que salen del él son arterias. La arteria pulmonar es la única del organismo que lleva sangre no oxigenada y las venas pulmonares son las únicas que llevan sangre oxigenada. ",
-                "feedback_ko": "¡Incorrecto! La sangre no oxigenada de todo el cuerpo llega a la aurícula derecha por las venas cavas. Pasa al ventrículo derecho y de allí sale por la arteria pulmonar hacia los pulmones donde se oxigenará. Esta sangre, ya oxigenada, es recogida por las venas pulmonares (hay 4 de ellas generalmente) y  retorna a la aurícula izquierda, donde atravesará la válvula mitral hasta el ventrículo izquierdo y se expulsará por la válvula aórtica para irrigar todo el organismo. Las arterias y venas bronquiales son las que irrigan el propio tejido del pulmón, no las encargadas de realizar el intercambio gaseoso. Hay que destacar que el concepto de arteria y vena no hace referencia a si la sangre que lleva en su interior es oxigenada o no oxigenada, sino a las características de su pared y al sentido en el que lleva la sangre. Los vasos que se dirigen hacia el corazón son venas, los que salen del él son arterias. La arteria pulmonar es la única del organismo que lleva sangre no oxigenada y las venas pulmonares son las únicas que llevan sangre oxigenada.     ",
+                "feedback_ok": "¡Correcto! El grosor íntima-media ya no debe considerarse a tal efecto por su baja reproducibilidad. A destacar el índice tobillo-brazo (índice de Yao) por el fácil acceso a estas mediciones.  ",
+                "feedback_ko": "¡Incorrecto!El grosor íntima-media ya no debe considerarse a tal efecto por su baja reproducibilidad. A destacar el índice tobillo-brazo (índice de Yao) por el fácil acceso a estas mediciones.    ",
                 "topic": "",
                 "points": 3,
                 "options_order_random": true,
                 "options": [
                     {
                         "id": "1",
-                        "text": "Arterias pulmonares.",
-                        "correct": false,
+                        "text": "Grosor íntima-media aumentado.",
+                        "correct": true,
                         "feedback": ""
                     },
                     {
                         "id": "2",
-                        "text": "Arterias bronquiales.",
+                        "text": "Índice de Yao disminuido. ",
                         "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "3",
-                        "text": "Venas pulmonares.",
-                        "correct": true,
+                        "text": "Presencia de calcio score elevado en coronarias. ",
+                        "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "4",
-                        "text": "Venas bronquiales. ",
+                        "text": "Trastorno ansioso-depresivo de la personalidad.",
                         "correct": false,
                         "feedback": ""
                     }
@@ -2543,10 +2543,10 @@
             {
                 "id": "29",
                 "qType": "TEST_TYPE.MULTIPLE_OPTION",
-                "qTitle": "¿Cuál es correcta sobre la circulación cerebral? ",
+                "qTitle": "¿Cuál de los siguientes pacientes se considera de alto riesgo cardiovascular? ",
                 "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto!El polígono de Willis es una estructura de seguridad que comunica la circulación arterial de ambos hemisferios cerebrales. De esta forma, si una carótida se ocluye, la otra podría suplir la irrigación del otro hemisferio cerebral. Por lo general no se ocluye una carótida por completo, sino sus ramas y el polígono no es capaz de salvar el problema. Existen generalmente tres troncos supra-aórticos (tres ramas que da la aorta en el cayado antes de convertirse en aorta torácica descendente): tronco braquicefálico derecho (que después se bifurca en carótida derecha y subclavia derecha), carótida izquierda y subclavia izquierda.   ",
-                "feedback_ko": "¡Incorrecto! El polígono de Willis es una estructura de seguridad que comunica la circulación arterial de ambos hemisferios cerebrales. De esta forma, si una carótida se ocluye, la otra podría suplir la irrigación del otro hemisferio cerebral. Por lo general no se ocluye una carótida por completo, sino sus ramas y el polígono no es capaz de salvar el problema. Existen generalmente tres troncos supra-aórticos (tres ramas que da la aorta en el cayado antes de convertirse en aorta torácica descendente): tronco braquicefálico derecho (que después se bifurca en carótida derecha y subclavia derecha), carótida izquierda y subclavia izquierda.  ",
+                "feedback_ok": "¡Correcto!El primero es un paciente con 3 factores de riesgo cardiovascular mayores y que precisan mucha medicación, muy alto riesgo. La opción b tiene claudicación de la marcha, directamente pasa a muy alto riesgo cardiovascular. Opción c, diabético con lesiones retinianas típicas de diabético, lesión en órgano diana, muy alto riesgo. La paciente de la opción d es diabética de 3 fármacos pero no se alude a daño órgano diana, clínica o larga evolución, alto riesgo cardiovascular.   ",
+                "feedback_ko": "¡Incorrecto! El primero es un paciente con 3 factores de riesgo cardiovascular mayores y que precisan mucha medicación, muy alto riesgo. La opción b tiene claudicación de la marcha, directamente pasa a muy alto riesgo cardiovascular. Opción c, diabético con lesiones retinianas típicas de diabético, lesión en órgano diana, muy alto riesgo. La paciente de la opción d es diabética de 3 fármacos pero no se alude a daño órgano diana, clínica o larga evolución, alto riesgo cardiovascular. ",
                 "number_of_answers": 4,
                 "topic": "",
                 "points": 3,
@@ -2554,25 +2554,25 @@
                 "options": [
                     {
                         "id": "1",
-                        "text": "El principal vaso que lleva sangre al cerebro es la arteria carótida interna.   ",
-                        "correct": true,
+                        "text": "Varón de 43 años, fumador, hipertenso en tratamiento con 3 fármacos, diabético de diagnóstico reciente con HbA1c de 13%.   ",
+                        "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "2",
-                        "text": "Gracias al polígono de Willis se conecta la circulación arterial de los lados derecho e izquierdo.  ",
-                        "correct": true,
+                        "text": "Mujer de 78 años, obesa con claudicación de la marcha. Índice tobillo-brazo izquierdo de 1.6.  ",
+                        "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "3",
-                        "text": "La principal vena que drena la sangre del encéfalo es la yugular. ",
-                        "correct": true,
+                        "text": "Varón de 53 años, diabético con inyecciones mensuales de antiangiogénicos por retinopatía diabética. ",
+                        "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "4",
-                        "text": "Por lo general la arteria carótida derecha sale de la aorta mediante un tronco común que comparte con la subclavia de ese mismo lado (tronco braquicefálico derecho), mientras que la carótida izquierda suele tener un origen independiente y directo desde el cayado aórtico.  ",
+                        "text": "Mujer de 57 años, diabética tipo II desde hace 6 en tratamiento con metformina, empagliflozina y análogo de GLP-1.  ",
                         "correct": true,
                         "feedback": ""
                     }
@@ -2581,35 +2581,35 @@
             {
                 "id": "30",
                 "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "¿Qué es la circulación portal? ",
+                "qTitle": "Los quelantes de sales biliares son fármacos utilizados para el tratamiento de la hipercolesterolemia, ¿qué efectos adversos podemos encontrar más frecuentemente?",
                 "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto! La circulación portal es un sistema de circulación venosa que recoge la sangre venosa del tubo digestivo, incluyendo todos los nutrientes absorbidos con la digestión de los alimentos, y la transporta al hígado para que este metabolice los nutrientes obtenidos.  ",
-                "feedback_ko": "¡Incorrecto!La circulación portal es un sistema de circulación venosa que recoge la sangre venosa del tubo digestivo, incluyendo todos los nutrientes absorbidos con la digestión de los alimentos, y la transporta al hígado para que este metabolice los nutrientes obtenidos.  ",
+                "feedback_ok": "¡Correcto! Las resinas de intercambio o quelantes de sales biliares son hipocolesterolemiantes que actúan atrapando las sales biliares en el tubo digestivo y aumentando el consumo hepático de colesterol para sintetizar nuevas. Son fármacos que no se absorben y que producen por ello importantes molestias abdominales.  ",
+                "feedback_ko": "¡Incorrecto! Las resinas de intercambio o quelantes de sales biliares son hipocolesterolemiantes que actúan atrapando las sales biliares en el tubo digestivo y aumentando el consumo hepático de colesterol para sintetizar nuevas. Son fármacos que no se absorben y que producen por ello importantes molestias abdominales.  ",
                 "topic": "",
                 "points": 3,
                 "options_order_random": true,
                 "options": [
                     {
                         "id": "1",
-                        "text": "Es la gran arteria que aporta sangre oxigenada al hígado.  ",
+                        "text": "Elevación de TSH.  ",
                         "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "2",
-                        "text": "Es la vena que lleva la sangre venosa del hígado hacia la aurícula derecha.  ",
-                        "correct": false,
-                        "feedback": ""
-                    },
-                    {
-                        "id": "3",
-                        "text": "Es la vena que lleva los nutrientes absorbidos en el intestino hacia el hígado para ser procesados. ",
+                        "text": "Molestias abdominales como flatulencia y dispepsia. ",
                         "correct": true,
                         "feedback": ""
                     },
                     {
+                        "id": "3",
+                        "text": "Miopatía ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
                         "id": "4",
-                        "text": "Es una arteria que lleva nutrientes del hígado al resto de vísceras abdominales. ",
+                        "text": "Hiponatremia ",
                         "correct": false,
                         "feedback": ""
                     }
