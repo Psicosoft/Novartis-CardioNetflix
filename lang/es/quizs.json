@@ -745,6 +745,1503 @@
                 ]
             }
         ],
+        "2.6": [
+            {
+                "id": "1",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿Cúal de los siguientes no es una de las variables a considerar para calcular el SCORE",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! La diabetes no entra dentro de las variables para calcular el riesgo SCORE, cosa que no significa que no debamos tener en cuenta a la hora de calcular el riesgo cardiovascular de nuestro paciente, puesto que es sabido que la diabetes es un factor de riesgo determinante. Respuesta a es correcta directamente, así como la respuesta d (recordad que son cifras de colesterol total, no colesterol LDL). Respecto a la zona geográfica hay que saber que existen diversas tablas para estimar el riesgo en función del país de procedencia del paciente. Así pues, dos pacientes que tengan los mismos valores para los de factores de riesgo cardiovascular que se consideran en el SCORE, dependiendo de su zona de procedencia tendrán riesgos distintos y deberemos utilizar la tabla para su zona geográfica. ",
+                "feedback_ko": "¡Incorrecto! La diabetes no entra dentro de las variables para calcular el riesgo SCORE, cosa que no significa que no debamos tener en cuenta a la hora de calcular el riesgo cardiovascular de nuestro paciente, puesto que es sabido que la diabetes es un factor de riesgo determinante. Respuesta a es correcta directamente, así como la respuesta d (recordad que son cifras de colesterol total, no colesterol LDL). Respecto a la zona geográfica hay que saber que existen diversas tablas para estimar el riesgo en función del país de procedencia del paciente. Así pues, dos pacientes que tengan los mismos valores para los de factores de riesgo cardiovascular que se consideran en el SCORE, dependiendo de su zona de procedencia tendrán riesgos distintos y deberemos utilizar la tabla para su zona geográfica. ",
+                "topic": "",
+                "countDown": false,
+                "timeCountDown": 5,
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Tensión arterial sistólica",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Zona geográfica de procedencia",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Diabetes",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Cifras de colesterol",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "2",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Marque la respuesta correcta:",
+                "instructions": "Selecciona las opciones que consideres correctas:",
+                "feedback_ok": "¡Correcto! Las tres primeras repuestas son falsas porque nos hablan de un paciente con similar riesgo cardiovascular que debemos encasillar como muy alto riesgo cardiovascular. Para todos estos pacientes debemos saber que el objetivo de colesterol LDL debe ser < 55 mg/dL. Debemos recordar que el paciente que ya ha sufrido un evento cardiovascular (infarto, ictus, enfermedad arterial periférica, etc) entra dentro de lo que conocemos prevención secundaria y su riesgo es muy alto. La Apo B es un marcador de riesgo cardiovascular que podríamos considerar similar al colesterol LDL aunque las cifras objetivo difieren respecto a este. Hay determinadas situaciones donde el uso del colesterol LDL podría infraestimar el riesgo cardiovascular y el uso de Apo B permite hacer una mejor valoración. ",
+                "feedback_ko": "¡Incorrecto! Las tres primeras repuestas son falsas porque nos hablan de un paciente con similar riesgo cardiovascular que debemos encasillar como muy alto riesgo cardiovascular. Para todos estos pacientes debemos saber que el objetivo de colesterol LDL debe ser < 55 mg/dL. Debemos recordar que el paciente que ya ha sufrido un evento cardiovascular (infarto, ictus, enfermedad arterial periférica, etc) entra dentro de lo que conocemos prevención secundaria y su riesgo es muy alto. La Apo B es un marcador de riesgo cardiovascular que podríamos considerar similar al colesterol LDL aunque las cifras objetivo difieren respecto a este. Hay determinadas situaciones donde el uso del colesterol LDL podría infraestimar el riesgo cardiovascular y el uso de Apo B permite hacer una mejor valoración. ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "El nivel de colesterol LDL objetivo para los pacientes con muy alto riesgo cardiovascular es < 70 mg/dL",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "El nivel de colesterol LDL objetivo para los pacientes en prevención secundaria es de < 70 mg/dL. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Un paciente con enfermedad renal crónica con filtrado de 23 ml/min tiene un objetivo de colesterol LDL < 100 mg/dL. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "La apolipoproteina Apo B puede ser mejor parámetro para establecer el riesgo cardiovascular que el colesterol LDL, especialmente en pacientes diabéticos, con hipertrigliceridemia importante, obesos o LDL muy bajos. ",
+                        "correct": true,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "3",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Indique la opción correcta respecto a la anatomía de los ventrículos del corazón: ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto!Tanto la dieta mediterránea como la dieta DASH (Dietary Approaches to Stop Hipertension) han sido evaluadas para mejorar los factores de riesgo cardiovascular. La dieta DASH se centra específicamente en medidas dirigidas a reducir la hipertensión arterial. La dieta mediterránea, avalada por el ensayo PREDIMED, es la que más evidencia la respalda. Su principal diferencia respecto a la dieta DASH es que la mediterránea está enriquecida con aceite de oliva virgen extra o nueces, hecho que reduce hasta en un 30% los eventos cardiovasculares mayores con respecto a la dieta baja en grasas. ",
+                "feedback_ko": "¡Incorrecto! Tanto la dieta mediterránea como la dieta DASH (Dietary Approaches to Stop Hipertension) han sido evaluadas para mejorar los factores de riesgo cardiovascular. La dieta DASH se centra específicamente en medidas dirigidas a reducir la hipertensión arterial. La dieta mediterránea, avalada por el ensayo PREDIMED, es la que más evidencia la respalda. Su principal diferencia respecto a la dieta DASH es que la mediterránea está enriquecida con aceite de oliva virgen extra o nueces, hecho que reduce hasta en un 30% los eventos cardiovasculares mayores con respecto a la dieta baja en grasas. ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Dieta DASH.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Dieta baja en grasas.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Dieta mediterránea.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Dieta paleo. ",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "4",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "De los siguientes, ¿cuál no es una manifestación de la enfermedad cardiovascular ateroesclerótica? ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Es muy importante diferenciar las causas de la enfermedad de los “vasos”. Las tres primeras opciones son debidas a enfermedad cardiovascular ateroesclerótica. Los factores de riesgo cardiovascular han precipitado la formación de placas de colesterol en el territorio ARTERIAL en los distintos territorios (arterias coronarias, arterias cerebrales, arterias de los miembros inferiores). El tromboembolismo pulmonar, así como la trombosis venosa profunda es una enfermedad del territorio VENOSO. Trombos formados generalmente en las venas poplíteas, femorales o ilíacas, migran al corazón y de ahí a las ramas pulmonares. Estas patologías se tratan con anticoagulación y nada tienen que ver con la ateroesclerosis. <br> Cabe recalcar que en las opciones a y c no se especifica que la patología sea debida estrictamente a enfermedad ateroesclerótica, aunque bien es cierto que, por mucho, es la causa más frecuente. Existen infartos de miocardio por vasoespasmo, inflamación, embolias, etc, así como enfermedad de las arterias de miembros inferiores, aunque mucho menos frecuente. Encontrándose entre las respuestas el tromboembolismo pulmonar, no hay opción a dudas.  ",
+                "feedback_ko": "¡Incorrecto!Es muy importante diferenciar las causas de la enfermedad de los “vasos”. Las tres primeras opciones son debidas a enfermedad cardiovascular ateroesclerótica. Los factores de riesgo cardiovascular han precipitado la formación de placas de colesterol en el territorio ARTERIAL en los distintos territorios (arterias coronarias, arterias cerebrales, arterias de los miembros inferiores). El tromboembolismo pulmonar, así como la trombosis venosa profunda es una enfermedad del territorio VENOSO. Trombos formados generalmente en las venas poplíteas, femorales o ilíacas, migran al corazón y de ahí a las ramas pulmonares. Estas patologías se tratan con anticoagulación y nada tienen que ver con la ateroesclerosis. <br> Cabe recalcar que en las opciones a y c no se especifica que la patología sea debida estrictamente a enfermedad ateroesclerótica, aunque bien es cierto que, por mucho, es la causa más frecuente. Existen infartos de miocardio por vasoespasmo, inflamación, embolias, etc, así como enfermedad de las arterias de miembros inferiores, aunque mucho menos frecuente. Encontrándose entre las respuestas el tromboembolismo pulmonar, no hay opción a dudas.",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Infarto agudo de miocardio.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Ictus aterotrombótico. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Enfermedad arterial periférica de miembros inferiores.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Tromboembolismo pulmonar. ",
+                        "correct": true,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "5",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "De las siguiente opciones que describen las fases evolutivas en la formación de la placa de ateroma, ¿cuál es la correcta?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! La respuesta 2 describe el proceso habitual de la formación de placas de ateroesclerosis. El colesterol elevado en el torrente se oxida y es reconocido por macrófagos (células espumosas) que se “incluyen” en la íntima de las arterias. A medida que prolifera se acaba formando el necrotic core. Posteriormente las placas se pueden estabilizar y volverse más fibrosas y calcificadas o inestabilizarse y romperse dando lugar a un evento aterotrombótico agudo. La opción d es una forma de enfermedad vascular arterial pero que no necesariamente se relaciona con el depósito de placas de colesterol.  ",
+                "feedback_ko": "¡Incorrecto! La respuesta 2 describe el proceso habitual de la formación de placas de ateroesclerosis. El colesterol elevado en el torrente se oxida y es reconocido por macrófagos (células espumosas) que se “incluyen” en la íntima de las arterias. A medida que prolifera se acaba formando el necrotic core. Posteriormente las placas se pueden estabilizar y volverse más fibrosas y calcificadas o inestabilizarse y romperse dando lugar a un evento aterotrombótico agudo. La opción d es una forma de enfermedad vascular arterial pero que no necesariamente se relaciona con el depósito de placas de colesterol.  ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Calcificación de la íntima, formación del  “necrotic core”, hiperplasia fibrosa. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Formación de estría grasa, infiltración de macrófagos, “necrotic core”.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Proliferación de la media, estría grasa, calcificación. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Disección íntima-media, trombosis de la luz verdadera. ",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "6",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "De los siguientes, ¿cuál no es considerado un factor de riesgo cardiovascular?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto!Los antecedentes familiares de cardiopatía isquémica se consideran como factor de riesgo para enfermedad cardiovascular aterosclerótica si se producen a una edad temprana (independientemente de que cursen de forma fatal o no). Para varones se considera precoz haber sufrido eventos antes de los 55 años y para las mujeres antes de los 60 años.   ",
+                "feedback_ko": "¡Incorrecto! Los antecedentes familiares de cardiopatía isquémica se consideran como factor de riesgo para enfermedad cardiovascular aterosclerótica si se producen a una edad temprana (independientemente de que cursen de forma fatal o no). Para varones se considera precoz haber sufrido eventos antes de los 55 años y para las mujeres antes de los 60 años.  ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Diabetes",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Hipercolesterolemia familiar heterocigota. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Antecedente familiar de infarto de miocardio fatal paterno a los 62 años. ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Hiperhomocisteinemia",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "7",
+                "qType": "TEST_TYPE.MULTIPLE_OPTION",
+                "qTitle": "No exclusivamente los factores de riesgo cardiovascular clásicos deberían ser considerados a la hora de establecer el riesgo cardiovascular de un paciente. Hay otras situaciones que modifican el riesgo que ofrecen las tablas SCORE y que deberían considerarse a la hora de hacer un abordaje integral y más acertado del riesgo de los pacientes. ¿Cuáles de los siguientes deberíamos considerar?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Aunque las escalas de valoración del riesgo cardiovascular son muy útiles, no solamente debemos tener en cuenta las condiciones que se recogen en éstas. Todos las opciones expuestas deben ser consideradas por aumentar el riesgo cardiovascular. Especialmente resulta importante en sujetos jóvenes en quienes el riesgo cardiovascular a lo largo de la vida es mucho mayor y el potencial de reducir eventos cardiovascular es mayor.   ",
+                "feedback_ko": "¡Incorrecto! Aunque las escalas de valoración del riesgo cardiovascular son muy útiles, no solamente debemos tener en cuenta las condiciones que se recogen en éstas. Todos las opciones expuestas deben ser consideradas por aumentar el riesgo cardiovascular. Especialmente resulta importante en sujetos jóvenes en quienes el riesgo cardiovascular a lo largo de la vida es mucho mayor y el potencial de reducir eventos cardiovascular es mayor.   ",
+                "number_of_answers": 4,
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Bajo nivel socioeconómico. ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Infección por el virus de la inmunodeficiencia humana. ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Enfermedades inflamatorias crónicas. ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Hígado graso no alcohólico. ",
+                        "correct": true,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "8",
+                "qType": "TEST_TYPE.MULTIPLE_OPTION",
+                "qTitle": "Respecto a las escalas de cálculo de riesgo cardiovascular señale TODAS las respuestas correctas: ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! El SCORE es la escala de riesgo más utilizada, sobre todo en el ámbito europeo, y sirva para estimar el riesgo de tener cualquier evento cardiovascular que curse con la muerte en los próximos 10 años (respuesta D falsa,  no es solamente infarto, sino cualquier evento cardiovascular y debe ser mortal). Para evaluarlo considera las variables edad, el sexo, hábito tabáquico, colesterol total y cifras de presión arterial sistólica (respuesta C falsa por no ser solamente el colesterol LDL, sino el total).   ",
+                "feedback_ko": "¡Incorrecto! El SCORE es la escala de riesgo más utilizada, sobre todo en el ámbito europeo, y sirva para estimar el riesgo de tener cualquier evento cardiovascular que curse con la muerte en los próximos 10 años (respuesta D falsa,  no es solamente infarto, sino cualquier evento cardiovascular y debe ser mortal). Para evaluarlo considera las variables edad, el sexo, hábito tabáquico, colesterol total y cifras de presión arterial sistólica (respuesta C falsa por no ser solamente el colesterol LDL, sino el total).    ",
+                "number_of_answers": 2,
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "La escala más utilizada es la SCORE (Systematic Coronary Risk Estimation)",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Establece la probabilidad de tener un evento cardiovascular fatal en los próximos 10 años. ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Las variables que considera son la edad, el sexo, hábito tabáquico, colesterol LDL y cifras de presión arterial sistólica. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Estima el riesgo de tener un infarto a los 10 años. ",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "9",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Señale la opción correcta sobre las escalas de evaluación del riesgo cardiovascular: ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto!El estimador SCORE sobreestima el riesgo cardiovascular en mayores de 70 años, clasificándolos directamente como de alto o muy alto riesgo cardiovascular. Es por ello que recientemente se ha publicado el SCORE 2-OP (SCORE 2 for old people) en el que se hace una estimación más precisa en los pacientes ancianos. En el SCORE 2 se considera el colesterol no HDL, no el LDL (a diferencia del SCORE en el que se considera el colesterol total). A diferencia del SCORE en el que se estima el riesgo de muerte por evento cardiovascular en los próximos 10 años, el SCORE 2 estima el riesgo de sufrir un evento cardiovascular, independientemente de las consecuencias. Ninguno de los SCORE considera la diabetes para estimar el riesgo de tener un evento; este hecho no supone que no debamos considerarla ya que es un factor de riesgo que incrementa notablemente las probabilidades de sufrir un evento.  ",
+                "feedback_ko": "¡Incorrecto! El estimador SCORE sobreestima el riesgo cardiovascular en mayores de 70 años, clasificándolos directamente como de alto o muy alto riesgo cardiovascular. Es por ello que recientemente se ha publicado el SCORE 2-OP (SCORE 2 for old people) en el que se hace una estimación más precisa en los pacientes ancianos. En el SCORE 2 se considera el colesterol no HDL, no el LDL (a diferencia del SCORE en el que se considera el colesterol total). A diferencia del SCORE en el que se estima el riesgo de muerte por evento cardiovascular en los próximos 10 años, el SCORE 2 estima el riesgo de sufrir un evento cardiovascular, independientemente de las consecuencias. Ninguno de los SCORE considera la diabetes para estimar el riesgo de tener un evento; este hecho no supone que no debamos considerarla ya que es un factor de riesgo que incrementa notablemente las probabilidades de sufrir un evento.  ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Actualmente la escala SCORE es el estimador de riesgo cardiovascular más aceptado para pacientes ancianos.  ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Uno de los parámetros a considerar en la escala SCORE 2 es el colesterol LDL. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "El SCORE 2 considera el riesgo de sufrir un eventos cardiovascular, que curse con la muerte o no, en los próximos 10 años. ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "En la escala SCORE 2 se ha incluido la diabetes como factor de riesgo para considerar el riesgo cardiovascular. ",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "10",
+                "qType": "TEST_TYPE.MULTIPLE_OPTION",
+                "qTitle": "De las siguientes situaciones, ¿cuál confiere muy alto riesgo cardiovascular? ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! En la opción b nos describen un síndrome de Leriche que se caracteriza por lesiones ateroescleróticas en región ilíaca y que cursa con dolor glúteo y disfunción eréctil. Esto se considera enfermedad cardiovascular establecida clínica y debe ser tratado como muy alto riesgo cardiovascular con objetivo de LDL < 55 mg/dL. Al igual que la opción d en la que nos describen a un diabético con lesión de órgano diana. La respuesta a y c per se no condicionan un riesgo cardiovascular muy elevado, por lo que ambas deben tratarse como prevención primaria en un sujeto con alto riesgo cardiovascular, objetivo de LDL < 70 mg/dL.   ",
+                "feedback_ko": "¡Incorrecto! En la opción b nos describen un síndrome de Leriche que se caracteriza por lesiones ateroescleróticas en región ilíaca y que cursa con dolor glúteo y disfunción eréctil. Esto se considera enfermedad cardiovascular establecida clínica y debe ser tratado como muy alto riesgo cardiovascular con objetivo de LDL < 55 mg/dL. Al igual que la opción d en la que nos describen a un diabético con lesión de órgano diana. La respuesta a y c per se no condicionan un riesgo cardiovascular muy elevado, por lo que ambas deben tratarse como prevención primaria en un sujeto con alto riesgo cardiovascular, objetivo de LDL < 70 mg/dL.    ",
+                "number_of_answers": 2,
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "El infarto agudo de miocardio. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "La miocarditis (inflamación del músculo cardiaco, habitualmente por virus). ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Enfermedades genéticas (miocardiopatía dilatada idiopática).",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "La miocardiopatía hipertrófica.",
+                        "correct": true,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "11",
+                "qType": "TEST_TYPE.MULTIPLE_OPTION",
+                "qTitle": "Sobre los objetivos de control de los distintos factores de riesgo cardiovascular, ¿cuál es la correcta? ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! La pregunta expone cuál el objetivo de control para estos factores de riesgo cardiovascular. Por supuesto, evitar cualquier exposición al humo del tabaco, realizar ejercicio físico de intensidad moderada 30-60 minutos al día, IMC 20-25, son otros de los objetivos a considerar. Mención especial a los objetivos de tensión arterial que se han endurecido en las últimas guías de prevención cardiovascular recomendando una TA < 130/80 mmHg para todas las edades y grupos siempre y cuando no ocasione síntomas. Se puede ser algo más laxo con los ancianos y la enfermedad renal crónica si esto condiciona empeoramiento de la función renal. ",
+                "feedback_ko": "¡Incorrecto! La pregunta expone cuál el objetivo de control para estos factores de riesgo cardiovascular. Por supuesto, evitar cualquier exposición al humo del tabaco, realizar ejercicio físico de intensidad moderada 30-60 minutos al día, IMC 20-25, son otros de los objetivos a considerar. Mención especial a los objetivos de tensión arterial que se han endurecido en las últimas guías de prevención cardiovascular recomendando una TA < 130/80 mmHg para todas las edades y grupos siempre y cuando no ocasione síntomas. Se puede ser algo más laxo con los ancianos y la enfermedad renal crónica si esto condiciona empeoramiento de la función renal.  ",
+                "number_of_answers": 4,
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Perímetro abdominal < 94 cm en varones y < 80 cm en mujeres.  ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Tensión arterial < 130/80 mmHg.  ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "HbA1c < 7%. ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "LDL 116/ 100/  70/  55 ajustado según riesgo cardiovascular bajo/ moderado/ alto/ muy alto. ",
+                        "correct": true,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "12",
+                "qType": "TEST_TYPE.MULTIPLE_OPTION",
+                "qTitle": "Las estatinas son fármacos de primera línea para el control de los niveles de colesterol. Señale la respuesta falsa sobre ellas: ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! La respuesta A es falsa porque son fármacos generalmente bien tolerados. El principal efecto adverso atribuible son las mialgias aunque en estudios cegados y controlados con placebo las diferencias no fueron significativas. La rabdomiolisis y la toxicidad hepática que obligue a la suspensión del fármaco son muy raras. La opción D es falsa porque no reducen la absorción del colesterol en la luz intestinal sino que reducen su síntesis al inhibir la HMG-CoA reductasa.   ",
+                "feedback_ko": "¡Incorrecto! La respuesta A es falsa porque son fármacos generalmente bien tolerados. El principal efecto adverso atribuible son las mialgias aunque en estudios cegados y controlados con placebo las diferencias no fueron significativas. La rabdomiolisis y la toxicidad hepática que obligue a la suspensión del fármaco son muy raras. La opción D es falsa porque no reducen la absorción del colesterol en la luz intestinal sino que reducen su síntesis al inhibir la HMG-CoA reductasa.   ",
+                "number_of_answers": 2,
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Son fármacos no muy bien tolerados y cuyos efectos adversos (rabdomiolisis y hepatotoxicidad) limitan en muchas ocasiones su uso. ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Existen estatinas de distinta potencia que debemos elegir en función del LDL objetivo de nuestro paciente. La reducción estimada de colesterol varía entre el 20 y 50% de colesterol LDL.  ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Son de primera línea para el tratamiento de la hipertrigliceridemia. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Actúan mediante la inhibición de la enzima HMG-CoA reductasa reduciendo la absorción de colesterol en la luz intestinal. ",
+                        "correct": true,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "13",
+                "qType": "TEST_TYPE.MULTIPLE_OPTION",
+                "qTitle": "Para establecer correctamente el riesgo cardiovascular de nuestros pacientes podemos utilizar ciertas pruebas o exploraciones para modificar su riesgo, ¿cuál de las siguientes son aceptadas?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! El índice de Yao o índice tobillo-brazo es el cociente de la tensión arterial medida en el tobillo y en el brazo. Si este cociente es < a 0.9 (o > 1.4 indicando rigidez arterial) existe un riesgo aumentado de sufrir un evento cardiovascular. Dentro de las pruebas de imagen también son de utilidad el score de calcio coronario que es equiparable a tener placas de ateroesclerosis en las carótidas o en las femorales medidas por ecografía. No debemos exponer a nuestros paciente simplemente para evaluar el riesgo cardiovascular a la radiación generado por un TC de tórax pero, en caso de realizarse por otras causas, si disponemos de la cuantificación de calcio puede ser de utilidad para afinar el riesgo cardiovascular. El fondo de ojo como marcador de lesión de órgano diana reclasifica a nuestros pacientes diabéticos e hipertensos como de muy alto riesgo cardiovascular. El grosor íntima-media no se aconseja ya para reclasificar a los pacientes por la variabilidad en su medición.    ",
+                "feedback_ko": "¡Incorrecto! El índice de Yao o índice tobillo-brazo es el cociente de la tensión arterial medida en el tobillo y en el brazo. Si este cociente es < a 0.9 (o > 1.4 indicando rigidez arterial) existe un riesgo aumentado de sufrir un evento cardiovascular. Dentro de las pruebas de imagen también son de utilidad el score de calcio coronario que es equiparable a tener placas de ateroesclerosis en las carótidas o en las femorales medidas por ecografía. No debemos exponer a nuestros paciente simplemente para evaluar el riesgo cardiovascular a la radiación generado por un TC de tórax pero, en caso de realizarse por otras causas, si disponemos de la cuantificación de calcio puede ser de utilidad para afinar el riesgo cardiovascular. El fondo de ojo como marcador de lesión de órgano diana reclasifica a nuestros pacientes diabéticos e hipertensos como de muy alto riesgo cardiovascular. El grosor íntima-media no se aconseja ya para reclasificar a los pacientes por la variabilidad en su medición.     ",
+                "number_of_answers": 3,
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Índice de Yao.  ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Grosor íntima-media ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Calcio score medido por TC coronario. ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Fondo de ojo. ",
+                        "correct": true,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "14",
+                "qType": "TEST_TYPE.MULTIPLE_OPTION",
+                "qTitle": "De las siguientes asociaciones fármaco – efecto adverso señale la respuesta correcta:",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! El efecto adverso más frecuentemente asociado a los iPCSK9 son las molestias en el punto de punción porque solo se disponen de forma subcutánea. Los fibratos son muy bien tolerados y por lo general no presentan efectos adversos, que en caso de presentarse, se verían potenciados por el uso concomitante con estatinas y se trataría de miopatía. Aunque no se ha establecido correctamente el efecto en los fetos se desaconseja el uso de estatinas en mujeres en edad fértil si no se utiliza un método anticonceptivo eficaz. En caso de embarazo si la paciente está tomando estatinas, se aconseja su suspensión inmediata. Las resinas de intercambio, también conocidas como quelantes de sales biliares, son fármacos que no se absorben y ejercen su efecto a nivel de la luz intestinal disminuyendo la absorció de grasas y provocando molestias abdominales.  ",
+                "feedback_ko": "¡Incorrecto! El efecto adverso más frecuentemente asociado a los iPCSK9 son las molestias en el punto de punción porque solo se disponen de forma subcutánea. Los fibratos son muy bien tolerados y por lo general no presentan efectos adversos, que en caso de presentarse, se verían potenciados por el uso concomitante con estatinas y se trataría de miopatía. Aunque no se ha establecido correctamente el efecto en los fetos se desaconseja el uso de estatinas en mujeres en edad fértil si no se utiliza un método anticonceptivo eficaz. En caso de embarazo si la paciente está tomando estatinas, se aconseja su suspensión inmediata. Las resinas de intercambio, también conocidas como quelantes de sales biliares, son fármacos que no se absorben y ejercen su efecto a nivel de la luz intestinal disminuyendo la absorció de grasas y provocando molestias abdominales. ",
+                "number_of_answers": 2,
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Inhibidores PCSK9  - fototoxicidad. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Fibratos – esteatorrea.  ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Estatinas – teratogenicidad",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Resinas de intercambio – flatulencia y molestias abdominales.",
+                        "correct": true,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "15",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Indica la asociación correcta entre fármaco y mecanismo de acción:",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Alirocumab y evolocumab son anticuerpos monoclonales dirigidos contra la molécula PCSK9. El otro fármaco que actúa en este punto para disminuir la síntesis de colesterol es el Inclisirán, que es un ARNm de interferencia contra el ARNm sintetizado por el núcleo celular que codifica para PCSK9. Las estatinas actúan inhibiendo HMG-CoA reductasa. El ácido bempedoico inhibe la ATP citrato liasa. Los fármacos análogos de PPAR-alfa son los fibratos. El ezetimibe actúa a nivel del enterocito disminuyendo la absorción de colesterol por interacción con la proteína similar a Niemann-Pick.   ",
+                "feedback_ko": "¡Incorrecto! Alirocumab y evolocumab son anticuerpos monoclonales dirigidos contra la molécula PCSK9. El otro fármaco que actúa en este punto para disminuir la síntesis de colesterol es el Inclisirán, que es un ARNm de interferencia contra el ARNm sintetizado por el núcleo celular que codifica para PCSK9. Las estatinas actúan inhibiendo HMG-CoA reductasa. El ácido bempedoico inhibe la ATP citrato liasa. Los fármacos análogos de PPAR-alfa son los fibratos. El ezetimibe actúa a nivel del enterocito disminuyendo la absorción de colesterol por interacción con la proteína similar a Niemann-Pick.     ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Alirocumab – inhibición PCSK9.  ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Atorvastatina - inhibidor citrato liasa.  ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Ácido bempedoico – agonista PPAR-alfa.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Ezetimibe – ARNm interferencia contra PCSK9.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "16",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿Qué grupo farmacológico deberíamos elegir para iniciar el tratamiento de la hipercolesterolemia?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! El esquema de tratamiento recomendado en las guías inicia con estatinas. En caso de no controlarse los niveles de LDL debería adicionarse ezetimibe y si tras ello, no conseguimos niveles objetivo debería adicionarse iPCSK9. El poder de reducción de LDL estimado al combinarlos está en torno al 85%, por lo que la mayoría de pacientes alcanzarán niveles objetivo. ",
+                "feedback_ko": "¡Incorrecto!El esquema de tratamiento recomendado en las guías inicia con estatinas. En caso de no controlarse los niveles de LDL debería adicionarse ezetimibe y si tras ello, no conseguimos niveles objetivo debería adicionarse iPCSK9. El poder de reducción de LDL estimado al combinarlos está en torno al 85%, por lo que la mayoría de pacientes alcanzarán niveles objetivo.    ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Fibratos",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Estatinas",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "iPCSK9. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Ezetimibe. ",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "17",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Señale cuál de los siguientes pacientes cual tiene un riesgo cardiovascular muy alto:",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! En la opción a nos presentan un ictus que no es de causa ateroesclerótica, sino hemorrágica por lo que no computa. La paciente de la opción b es diabética, aunque de reciente diagnóstico, pero su infarto no ha sido por una placa de colesterol, sino por un trombo formado dentro del corazón y que ha migrado a una arteria coronaria (infarto embólico), esto ha sido precipitado por la arritmia predisponente, conocida como fibrilación auricular. La opción c es de territorio venoso, en un paciente con una condición que aumenta las trombosis en territorios venosos. En la opción d nos están describiendo una hipercolesterolemia familiar, LDL muy elevado (ya solamente por este criterio diagnosticaríamos la enfermedad) con xantomas tendinosos y con un factor de riesgo cardiovascular. Además es muy joven y la probabilidad de sufrir un evento es altísima a lo largo de la vida.   ",
+                "feedback_ko": "¡Incorrecto! En la opción a nos presentan un ictus que no es de causa ateroesclerótica, sino hemorrágica por lo que no computa. La paciente de la opción b es diabética, aunque de reciente diagnóstico, pero su infarto no ha sido por una placa de colesterol, sino por un trombo formado dentro del corazón y que ha migrado a una arteria coronaria (infarto embólico), esto ha sido precipitado por la arritmia predisponente, conocida como fibrilación auricular. La opción c es de territorio venoso, en un paciente con una condición que aumenta las trombosis en territorios venosos. En la opción d nos están describiendo una hipercolesterolemia familiar, LDL muy elevado (ya solamente por este criterio diagnosticaríamos la enfermedad) con xantomas tendinosos y con un factor de riesgo cardiovascular. Además es muy joven y la probabilidad de sufrir un evento es altísima a lo largo de la vida.     ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Varón de 76 años con ictus hemorrágico e hipertensión arterial con TAS 160 mmHg.  ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Mujer de 66 años diabética tipo II de reciente diagnóstico que sufre un infarto agudo de miocardio embólico siendo diagnosticada de fibrilación auricular. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Trombosis venosa profunda de la ilíaca derecha en mujer con síndrome antifosfolípido. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Varón de 16 años con LDL colesterol de 363 mg/dL, hipertenso y con depósitos amarillentos en ambas regiones de los tendones de Aquiles. ",
+                        "correct": true,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "18",
+                "qType": "TEST_TYPE.MULTIPLE_OPTION",
+                "qTitle": "En ocasiones, las guías de práctica clínica no alcanzan a recoger la evidencia científica más actual reflejada en ensayos clínica debido a la rápida evolución en este campo. De las siguientes cuál es cierta?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Las opciones recogen algunas de las recomendaciones de las últimas guías de prevención cardiovascular y algunos ensayos clínicos. Todas son correctas.  ",
+                "feedback_ko": "¡Incorrecto! Las opciones recogen algunas de las recomendaciones de las últimas guías de prevención cardiovascular y algunos ensayos clínicos. Todas son correctas. ",
+                "number_of_answers": 4,
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Se debe considerar una reducción cuánto más precoz e intensiva mejor en los pacientes que presentan un infarto agudo de miocardio. ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Debe considerarse un objetivo de LDL < 40 mg/dL en los pacientes que sufren dos eventos cardiovasculares en 2 años, aunque sean de distintos territorios. ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "En los ensayos clínicos los niveles bajos de colesterol se relacionaron con menor tasa de eventos cardiovasculares sin efectos adversos relevantes por lo que en los próximos años podría considerarse un objetivo de LDL < 40 mg/dL directamente. ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "La tensión arterial objetivo debe ser 130/80  mmHg siempre y cuando no genere efectos adversos. En cualquier caso y para cualquier grupo de edad debe ser inferior a 140/90 mmHg. ",
+                        "correct": true,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "19",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Una de las manifestaciones de la enfermedad cardiovascular ateroesclerótica es la cardiopatía isquémica en su forma angina estable o síndrome coronario agudo (infarto agudo de miocardio). ¿Cuál de las siguientes no corresponde al siguiente espectro?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Las tres primeras son las manifestaciones típicas de la cardiopatía isquémica. La A nos relata una angina estable. La opción B es sugestivo de infarto agudo de miocardio así como la C; esta última cursa con parada cardiorrespiratoria. La D nos relata una pericarditis aguda, varón joven tras cuadro catarral y con el patrón de dolor característico; los cambios en el ECG son frecuentes, aunque en la opción no especifica el tipo de cambios.   ",
+                "feedback_ko": "¡Incorrecto! Las tres primeras son las manifestaciones típicas de la cardiopatía isquémica. La A nos relata una angina estable. La opción B es sugestivo de infarto agudo de miocardio así como la C; esta última cursa con parada cardiorrespiratoria. La D nos relata una pericarditis aguda, varón joven tras cuadro catarral y con el patrón de dolor característico; los cambios en el ECG son frecuentes, aunque en la opción no especifica el tipo de cambios. ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Varón de 68 años, fumador e hipertenso que desde hace 8 meses cuando camina en pendiente tiene presión en el centro del tórax que le obliga a pararse. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Mujer de 53 años, diabético y dislipémica que, estando en reposo presenta dolor en el centro del tórax que se irradia hacia el cuello, hombro izquierdo y espalda que no cede con el tratamiento analgésico que ha tomado. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Hombre de 77 años que se encontraba deambulando por la calle con dificultad respiratoria y opresión en la “boca del estómago”. Súbitamente se desvanece y los testigos inician maniobras de RCP. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Varón de 27 años que tiene dolor en el centro del tórax que aumenta al inspirar y tumbarse en la cama. Mejora al inclinarse hacia delante. En los días previos ha tenido un catarro y ahora presenta alteraciones en el electrocardiograma. ",
+                        "correct": true,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "20",
+                "qType": "TEST_TYPE.MULTIPLE_OPTION",
+                "qTitle": "¿Cuál de los siguientes no se consideraría enfermedad cardiovascular de causa ateroesclerótica?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Aunque la enfermedad clínica y por imagen de la aorta se considera enfermedad cardiovascular ateroesclerótica en esta opción nuestro paciente padece enfermedad de Marfan. Se trata de una enfermedad del tejido conectivo que debilita la pared de la aorta SIN que exista ateroesclerosis. La opción 3 hace referencia a enfermedad de arterias coronarias pero no por placas de colesterol, sino por disección espontánea de la arteria. Esto es una condición que suele ocurrir en mujeres y en edad peri y post-menopausia.  ",
+                "feedback_ko": "¡Incorrecto! Aunque la enfermedad clínica y por imagen de la aorta se considera enfermedad cardiovascular ateroesclerótica en esta opción nuestro paciente padece enfermedad de Marfan. Se trata de una enfermedad del tejido conectivo que debilita la pared de la aorta SIN que exista ateroesclerosis. La opción 3 hace referencia a enfermedad de arterias coronarias pero no por placas de colesterol, sino por disección espontánea de la arteria. Esto es una condición que suele ocurrir en mujeres y en edad peri y post-menopausia.  ",
+                "number_of_answers": 2,
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Aneurisma de aorta en paciente con enfermedad de Marfan.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Insuficiencia cardíaca con función ventricular severamente deprimida por oclusión crónica de arteria descendente anterior. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Mujer de 43 años con disección de arteria coronaria derecha. ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Ictus de arteria cerebral media con placas en la carótida. ",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            }
+        ],
+        "3.1": [
+            {
+                "id": "1",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿Cuáles son las válvulas aurículo-ventriculares?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Las válvulas aurículo-ventriculares separan las aurículas de los ventrículos, permitiendo el paso de sangre desde aurículas a ventrículos e impidiendo su retroceso en sentido inverso. La válvula mitral separa la aurícula izquierda del ventrículo izquierdo y la válvula tricúspide la aurícula y ventrículo derechos. Las válvulas aórtica y pulmonar son las válvulas sigmoides. La aórtica separa el ventrículo izquierdo de la arteria aorta y la válvula pulmonar separa el ventrículo derecho de la arteria pulmonar. Aunque existe cierta variabilidad, por lo general las válvulas aórtica y pulmonar y la tricúspide tienen tres velos, mientras que la mitral tienen dos.  ",
+                "feedback_ko": "¡Incorrecto! Las válvulas aurículo-ventriculares separan las aurículas de los ventrículos, permitiendo el paso de sangre desde aurículas a ventrículos e impidiendo su retroceso en sentido inverso. La válvula mitral separa la aurícula izquierda del ventrículo izquierdo y la válvula tricúspide la aurícula y ventrículo derechos. Las válvulas aórtica y pulmonar son las válvulas sigmoides. La aórtica separa el ventrículo izquierdo de la arteria aorta y la válvula pulmonar separa el ventrículo derecho de la arteria pulmonar. Aunque existe cierta variabilidad, por lo general las válvulas aórtica y pulmonar y la tricúspide tienen tres velos, mientras que la mitral tienen dos.  ",
+                "topic": "",
+                "countDown": false,
+                "timeCountDown": 5,
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Aórtica y pulmonar.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Mitral y tricúspide. ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Ambas tienen tres velos.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Ambas tienen dos velos.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "2",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿Cuál es la falsa respecto al seno coronario?",
+                "instructions": "Selecciona las opciones que consideres correctas:",
+                "feedback_ok": "¡Correcto! La respuesta a hace referencia a los senos de Valsalva que son los espacios que quedan por encima de las coronarias. Hay tres senos de Valsalva (coronariano derecho e izquierdo y el no coronariano). El seno coronario es una estructura que drena toda la sangre venosa desoxigenada después de nutrir el músculo cardíaco y la redirige a la aurícula derecha para ser expulada nuevamente a los pulmones. A su través se puede acceder a las proximidades del lado izquierdo del corazón y se utiliza para la colocación de terapia de resincronización. ",
+                "feedback_ko": "¡Incorrecto! La respuesta a hace referencia a los senos de Valsalva que son los espacios que quedan por encima de las coronarias. Hay tres senos de Valsalva (coronariano derecho e izquierdo y el no coronariano). El seno coronario es una estructura que drena toda la sangre venosa desoxigenada después de nutrir el músculo cardíaco y la redirige a la aurícula derecha para ser expulada nuevamente a los pulmones. A su través se puede acceder a las proximidades del lado izquierdo del corazón y se utiliza para la colocación de terapia de resincronización. ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "El nivel de colesterol LDL objetivo para los pacientes con muy alto riesgo cardiovascular es < 70 mg/dL",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "El nivel de colesterol LDL objetivo para los pacientes en prevención secundaria es de < 70 mg/dL. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Un paciente con enfermedad renal crónica con filtrado de 23 ml/min tiene un objetivo de colesterol LDL < 100 mg/dL. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "La apolipoproteina Apo B puede ser mejor parámetro para establecer el riesgo cardiovascular que el colesterol LDL, especialmente en pacientes diabéticos, con hipertrigliceridemia importante, obesos o LDL muy bajos. ",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "3",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿Cuál de las siguientes es correcta sobre la circulación coronaria? ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto!Se presta a interpretación ya que existen dos arterias coronarias (la izquierda y la derecha) aunque la izquierda rápidamente se bifurca en dos ramas (la descendente anterior y la circumfleja) que parten del tronco coronario izquierdo; este es solamente un vaso de “conducción” y no irriga per se al músculo cardíaco sino que lo hace a través de sus ramas. Las arterias coronarias reciben sangre en diástole. En cada latido la sangre sale del ventrículo izquierdo a través de la válvula aórtica. Cuando la presión cae una parte de la sangre retrocede por la arteria aorta y cierra la válvula aórtica, ahí inicia la diástole. En ese momento, con los velos de la válvula aórtica cerrados, la sangre fluye a través de las coronarias. La arteria que irriga más masa ventricular es la descendente anterior. La responsable de irrigar el ventrículo derecho y en la mayor parte de las personas también la cara inferior del septo es la coronaria derecha. ",
+                "feedback_ko": "¡Incorrecto! Se presta a interpretación ya que existen dos arterias coronarias (la izquierda y la derecha) aunque la izquierda rápidamente se bifurca en dos ramas (la descendente anterior y la circumfleja) que parten del tronco coronario izquierdo; este es solamente un vaso de “conducción” y no irriga per se al músculo cardíaco sino que lo hace a través de sus ramas. Las arterias coronarias reciben sangre en diástole. En cada latido la sangre sale del ventrículo izquierdo a través de la válvula aórtica. Cuando la presión cae una parte de la sangre retrocede por la arteria aorta y cierra la válvula aórtica, ahí inicia la diástole. En ese momento, con los velos de la válvula aórtica cerrados, la sangre fluye a través de las coronarias. La arteria que irriga más masa ventricular es la descendente anterior. La responsable de irrigar el ventrículo derecho y en la mayor parte de las personas también la cara inferior del septo es la coronaria derecha. ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Hay tres arterias coronarias principales. ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Las arterias coronarias se perfunden en sístole. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "La arteria coronaria derecha es la que irriga la mayor parte del miocardio.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "La arteria circumfleja da ramas para irrigar el ventrículo derecho y la cara inferior del ventrículo izquierdo.  ",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "4",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "De los siguientes, ¿cuál no es una manifestación de la enfermedad cardiovascular ateroesclerótica? ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Es muy importante diferenciar las causas de la enfermedad de los “vasos”. Las tres primeras opciones son debidas a enfermedad cardiovascular ateroesclerótica. Los factores de riesgo cardiovascular han precipitado la formación de placas de colesterol en el territorio ARTERIAL en los distintos territorios (arterias coronarias, arterias cerebrales, arterias de los miembros inferiores). El tromboembolismo pulmonar, así como la trombosis venosa profunda es una enfermedad del territorio VENOSO. Trombos formados generalmente en las venas poplíteas, femorales o ilíacas, migran al corazón y de ahí a las ramas pulmonares. Estas patologías se tratan con anticoagulación y nada tienen que ver con la ateroesclerosis. <br> Cabe recalcar que en las opciones a y c no se especifica que la patología sea debida estrictamente a enfermedad ateroesclerótica, aunque bien es cierto que, por mucho, es la causa más frecuente. Existen infartos de miocardio por vasoespasmo, inflamación, embolias, etc, así como enfermedad de las arterias de miembros inferiores, aunque mucho menos frecuente. Encontrándose entre las respuestas el tromboembolismo pulmonar, no hay opción a dudas.  ",
+                "feedback_ko": "¡Incorrecto!Es muy importante diferenciar las causas de la enfermedad de los “vasos”. Las tres primeras opciones son debidas a enfermedad cardiovascular ateroesclerótica. Los factores de riesgo cardiovascular han precipitado la formación de placas de colesterol en el territorio ARTERIAL en los distintos territorios (arterias coronarias, arterias cerebrales, arterias de los miembros inferiores). El tromboembolismo pulmonar, así como la trombosis venosa profunda es una enfermedad del territorio VENOSO. Trombos formados generalmente en las venas poplíteas, femorales o ilíacas, migran al corazón y de ahí a las ramas pulmonares. Estas patologías se tratan con anticoagulación y nada tienen que ver con la ateroesclerosis. <br> Cabe recalcar que en las opciones a y c no se especifica que la patología sea debida estrictamente a enfermedad ateroesclerótica, aunque bien es cierto que, por mucho, es la causa más frecuente. Existen infartos de miocardio por vasoespasmo, inflamación, embolias, etc, así como enfermedad de las arterias de miembros inferiores, aunque mucho menos frecuente. Encontrándose entre las respuestas el tromboembolismo pulmonar, no hay opción a dudas.",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Infarto agudo de miocardio.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Ictus aterotrombótico. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Enfermedad arterial periférica de miembros inferiores.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Tromboembolismo pulmonar. ",
+                        "correct": true,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "5",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "De las siguiente opciones que describen las fases evolutivas en la formación de la placa de ateroma, ¿cuál es la correcta?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! La respuesta 2 describe el proceso habitual de la formación de placas de ateroesclerosis. El colesterol elevado en el torrente se oxida y es reconocido por macrófagos (células espumosas) que se “incluyen” en la íntima de las arterias. A medida que prolifera se acaba formando el necrotic core. Posteriormente las placas se pueden estabilizar y volverse más fibrosas y calcificadas o inestabilizarse y romperse dando lugar a un evento aterotrombótico agudo. La opción d es una forma de enfermedad vascular arterial pero que no necesariamente se relaciona con el depósito de placas de colesterol.  ",
+                "feedback_ko": "¡Incorrecto! La respuesta 2 describe el proceso habitual de la formación de placas de ateroesclerosis. El colesterol elevado en el torrente se oxida y es reconocido por macrófagos (células espumosas) que se “incluyen” en la íntima de las arterias. A medida que prolifera se acaba formando el necrotic core. Posteriormente las placas se pueden estabilizar y volverse más fibrosas y calcificadas o inestabilizarse y romperse dando lugar a un evento aterotrombótico agudo. La opción d es una forma de enfermedad vascular arterial pero que no necesariamente se relaciona con el depósito de placas de colesterol.  ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Calcificación de la íntima, formación del  “necrotic core”, hiperplasia fibrosa. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Formación de estría grasa, infiltración de macrófagos, “necrotic core”.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Proliferación de la media, estría grasa, calcificación. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Disección íntima-media, trombosis de la luz verdadera. ",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "6",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "De los siguientes, ¿cuál no es considerado un factor de riesgo cardiovascular?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto!Los antecedentes familiares de cardiopatía isquémica se consideran como factor de riesgo para enfermedad cardiovascular aterosclerótica si se producen a una edad temprana (independientemente de que cursen de forma fatal o no). Para varones se considera precoz haber sufrido eventos antes de los 55 años y para las mujeres antes de los 60 años.   ",
+                "feedback_ko": "¡Incorrecto! Los antecedentes familiares de cardiopatía isquémica se consideran como factor de riesgo para enfermedad cardiovascular aterosclerótica si se producen a una edad temprana (independientemente de que cursen de forma fatal o no). Para varones se considera precoz haber sufrido eventos antes de los 55 años y para las mujeres antes de los 60 años.  ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Diabetes",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Hipercolesterolemia familiar heterocigota. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Antecedente familiar de infarto de miocardio fatal paterno a los 62 años. ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Hiperhomocisteinemia",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "7",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "No exclusivamente los factores de riesgo cardiovascular clásicos deberían ser considerados a la hora de establecer el riesgo cardiovascular de un paciente. Hay otras situaciones que modifican el riesgo que ofrecen las tablas SCORE y que deberían considerarse a la hora de hacer un abordaje integral y más acertado del riesgo de los pacientes. ¿Cuáles de los siguientes deberíamos considerar?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Aunque las escalas de valoración del riesgo cardiovascular son muy útiles, no solamente debemos tener en cuenta las condiciones que se recogen en éstas. Todos las opciones expuestas deben ser consideradas por aumentar el riesgo cardiovascular. Especialmente resulta importante en sujetos jóvenes en quienes el riesgo cardiovascular a lo largo de la vida es mucho mayor y el potencial de reducir eventos cardiovascular es mayor.   ",
+                "feedback_ko": "¡Incorrecto! Aunque las escalas de valoración del riesgo cardiovascular son muy útiles, no solamente debemos tener en cuenta las condiciones que se recogen en éstas. Todos las opciones expuestas deben ser consideradas por aumentar el riesgo cardiovascular. Especialmente resulta importante en sujetos jóvenes en quienes el riesgo cardiovascular a lo largo de la vida es mucho mayor y el potencial de reducir eventos cardiovascular es mayor.   ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Bajo nivel socioeconómico. ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Infección por el virus de la inmunodeficiencia humana. ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Enfermedades inflamatorias crónicas. ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Hígado graso no alcohólico. ",
+                        "correct": true,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "8",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Respecto a las escalas de cálculo de riesgo cardiovascular señale TODAS las respuestas correctas: ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! El SCORE es la escala de riesgo más utilizada, sobre todo en el ámbito europeo, y sirva para estimar el riesgo de tener cualquier evento cardiovascular que curse con la muerte en los próximos 10 años (respuesta D falsa,  no es solamente infarto, sino cualquier evento cardiovascular y debe ser mortal). Para evaluarlo considera las variables edad, el sexo, hábito tabáquico, colesterol total y cifras de presión arterial sistólica (respuesta C falsa por no ser solamente el colesterol LDL, sino el total).   ",
+                "feedback_ko": "¡Incorrecto! El SCORE es la escala de riesgo más utilizada, sobre todo en el ámbito europeo, y sirva para estimar el riesgo de tener cualquier evento cardiovascular que curse con la muerte en los próximos 10 años (respuesta D falsa,  no es solamente infarto, sino cualquier evento cardiovascular y debe ser mortal). Para evaluarlo considera las variables edad, el sexo, hábito tabáquico, colesterol total y cifras de presión arterial sistólica (respuesta C falsa por no ser solamente el colesterol LDL, sino el total).    ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "La escala más utilizada es la SCORE (Systematic Coronary Risk Estimation)",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Establece la probabilidad de tener un evento cardiovascular fatal en los próximos 10 años. ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Las variables que considera son la edad, el sexo, hábito tabáquico, colesterol LDL y cifras de presión arterial sistólica. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Estima el riesgo de tener un infarto a los 10 años. ",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "9",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Señale la opción correcta sobre las escalas de evaluación del riesgo cardiovascular: ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto!El estimador SCORE sobreestima el riesgo cardiovascular en mayores de 70 años, clasificándolos directamente como de alto o muy alto riesgo cardiovascular. Es por ello que recientemente se ha publicado el SCORE 2-OP (SCORE 2 for old people) en el que se hace una estimación más precisa en los pacientes ancianos. En el SCORE 2 se considera el colesterol no HDL, no el LDL (a diferencia del SCORE en el que se considera el colesterol total). A diferencia del SCORE en el que se estima el riesgo de muerte por evento cardiovascular en los próximos 10 años, el SCORE 2 estima el riesgo de sufrir un evento cardiovascular, independientemente de las consecuencias. Ninguno de los SCORE considera la diabetes para estimar el riesgo de tener un evento; este hecho no supone que no debamos considerarla ya que es un factor de riesgo que incrementa notablemente las probabilidades de sufrir un evento.  ",
+                "feedback_ko": "¡Incorrecto! El estimador SCORE sobreestima el riesgo cardiovascular en mayores de 70 años, clasificándolos directamente como de alto o muy alto riesgo cardiovascular. Es por ello que recientemente se ha publicado el SCORE 2-OP (SCORE 2 for old people) en el que se hace una estimación más precisa en los pacientes ancianos. En el SCORE 2 se considera el colesterol no HDL, no el LDL (a diferencia del SCORE en el que se considera el colesterol total). A diferencia del SCORE en el que se estima el riesgo de muerte por evento cardiovascular en los próximos 10 años, el SCORE 2 estima el riesgo de sufrir un evento cardiovascular, independientemente de las consecuencias. Ninguno de los SCORE considera la diabetes para estimar el riesgo de tener un evento; este hecho no supone que no debamos considerarla ya que es un factor de riesgo que incrementa notablemente las probabilidades de sufrir un evento.  ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Actualmente la escala SCORE es el estimador de riesgo cardiovascular más aceptado para pacientes ancianos.  ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Uno de los parámetros a considerar en la escala SCORE 2 es el colesterol LDL. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "El SCORE 2 considera el riesgo de sufrir un eventos cardiovascular, que curse con la muerte o no, en los próximos 10 años. ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "En la escala SCORE 2 se ha incluido la diabetes como factor de riesgo para considerar el riesgo cardiovascular. ",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "10",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "De las siguientes situaciones, ¿cuál confiere muy alto riesgo cardiovascular? ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! En la opción b nos describen un síndrome de Leriche que se caracteriza por lesiones ateroescleróticas en región ilíaca y que cursa con dolor glúteo y disfunción eréctil. Esto se considera enfermedad cardiovascular establecida clínica y debe ser tratado como muy alto riesgo cardiovascular con objetivo de LDL < 55 mg/dL. Al igual que la opción d en la que nos describen a un diabético con lesión de órgano diana. La respuesta a y c per se no condicionan un riesgo cardiovascular muy elevado, por lo que ambas deben tratarse como prevención primaria en un sujeto con alto riesgo cardiovascular, objetivo de LDL < 70 mg/dL.   ",
+                "feedback_ko": "¡Incorrecto! En la opción b nos describen un síndrome de Leriche que se caracteriza por lesiones ateroescleróticas en región ilíaca y que cursa con dolor glúteo y disfunción eréctil. Esto se considera enfermedad cardiovascular establecida clínica y debe ser tratado como muy alto riesgo cardiovascular con objetivo de LDL < 55 mg/dL. Al igual que la opción d en la que nos describen a un diabético con lesión de órgano diana. La respuesta a y c per se no condicionan un riesgo cardiovascular muy elevado, por lo que ambas deben tratarse como prevención primaria en un sujeto con alto riesgo cardiovascular, objetivo de LDL < 70 mg/dL.    ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "El infarto agudo de miocardio. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "La miocarditis (inflamación del músculo cardiaco, habitualmente por virus). ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Enfermedades genéticas (miocardiopatía dilatada idiopática).",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "La miocardiopatía hipertrófica.",
+                        "correct": true,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "11",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Sobre los objetivos de control de los distintos factores de riesgo cardiovascular, ¿cuál es la correcta? ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! La pregunta expone cuál el objetivo de control para estos factores de riesgo cardiovascular. Por supuesto, evitar cualquier exposición al humo del tabaco, realizar ejercicio físico de intensidad moderada 30-60 minutos al día, IMC 20-25, son otros de los objetivos a considerar. Mención especial a los objetivos de tensión arterial que se han endurecido en las últimas guías de prevención cardiovascular recomendando una TA < 130/80 mmHg para todas las edades y grupos siempre y cuando no ocasione síntomas. Se puede ser algo más laxo con los ancianos y la enfermedad renal crónica si esto condiciona empeoramiento de la función renal. ",
+                "feedback_ko": "¡Incorrecto! La pregunta expone cuál el objetivo de control para estos factores de riesgo cardiovascular. Por supuesto, evitar cualquier exposición al humo del tabaco, realizar ejercicio físico de intensidad moderada 30-60 minutos al día, IMC 20-25, son otros de los objetivos a considerar. Mención especial a los objetivos de tensión arterial que se han endurecido en las últimas guías de prevención cardiovascular recomendando una TA < 130/80 mmHg para todas las edades y grupos siempre y cuando no ocasione síntomas. Se puede ser algo más laxo con los ancianos y la enfermedad renal crónica si esto condiciona empeoramiento de la función renal.  ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Perímetro abdominal < 94 cm en varones y < 80 cm en mujeres.  ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Tensión arterial < 130/80 mmHg.  ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "HbA1c < 7%. ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "LDL 116/ 100/  70/  55 ajustado según riesgo cardiovascular bajo/ moderado/ alto/ muy alto. ",
+                        "correct": true,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "12",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Las estatinas son fármacos de primera línea para el control de los niveles de colesterol. Señale la respuesta falsa sobre ellas: ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! La respuesta A es falsa porque son fármacos generalmente bien tolerados. El principal efecto adverso atribuible son las mialgias aunque en estudios cegados y controlados con placebo las diferencias no fueron significativas. La rabdomiolisis y la toxicidad hepática que obligue a la suspensión del fármaco son muy raras. La opción D es falsa porque no reducen la absorción del colesterol en la luz intestinal sino que reducen su síntesis al inhibir la HMG-CoA reductasa.   ",
+                "feedback_ko": "¡Incorrecto! La respuesta A es falsa porque son fármacos generalmente bien tolerados. El principal efecto adverso atribuible son las mialgias aunque en estudios cegados y controlados con placebo las diferencias no fueron significativas. La rabdomiolisis y la toxicidad hepática que obligue a la suspensión del fármaco son muy raras. La opción D es falsa porque no reducen la absorción del colesterol en la luz intestinal sino que reducen su síntesis al inhibir la HMG-CoA reductasa.   ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Son fármacos no muy bien tolerados y cuyos efectos adversos (rabdomiolisis y hepatotoxicidad) limitan en muchas ocasiones su uso. ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Existen estatinas de distinta potencia que debemos elegir en función del LDL objetivo de nuestro paciente. La reducción estimada de colesterol varía entre el 20 y 50% de colesterol LDL.  ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Son de primera línea para el tratamiento de la hipertrigliceridemia. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Actúan mediante la inhibición de la enzima HMG-CoA reductasa reduciendo la absorción de colesterol en la luz intestinal. ",
+                        "correct": true,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "13",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Para establecer correctamente el riesgo cardiovascular de nuestros pacientes podemos utilizar ciertas pruebas o exploraciones para modificar su riesgo, ¿cuál de las siguientes son aceptadas?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! El índice de Yao o índice tobillo-brazo es el cociente de la tensión arterial medida en el tobillo y en el brazo. Si este cociente es < a 0.9 (o > 1.4 indicando rigidez arterial) existe un riesgo aumentado de sufrir un evento cardiovascular. Dentro de las pruebas de imagen también son de utilidad el score de calcio coronario que es equiparable a tener placas de ateroesclerosis en las carótidas o en las femorales medidas por ecografía. No debemos exponer a nuestros paciente simplemente para evaluar el riesgo cardiovascular a la radiación generado por un TC de tórax pero, en caso de realizarse por otras causas, si disponemos de la cuantificación de calcio puede ser de utilidad para afinar el riesgo cardiovascular. El fondo de ojo como marcador de lesión de órgano diana reclasifica a nuestros pacientes diabéticos e hipertensos como de muy alto riesgo cardiovascular. El grosor íntima-media no se aconseja ya para reclasificar a los pacientes por la variabilidad en su medición.    ",
+                "feedback_ko": "¡Incorrecto! El índice de Yao o índice tobillo-brazo es el cociente de la tensión arterial medida en el tobillo y en el brazo. Si este cociente es < a 0.9 (o > 1.4 indicando rigidez arterial) existe un riesgo aumentado de sufrir un evento cardiovascular. Dentro de las pruebas de imagen también son de utilidad el score de calcio coronario que es equiparable a tener placas de ateroesclerosis en las carótidas o en las femorales medidas por ecografía. No debemos exponer a nuestros paciente simplemente para evaluar el riesgo cardiovascular a la radiación generado por un TC de tórax pero, en caso de realizarse por otras causas, si disponemos de la cuantificación de calcio puede ser de utilidad para afinar el riesgo cardiovascular. El fondo de ojo como marcador de lesión de órgano diana reclasifica a nuestros pacientes diabéticos e hipertensos como de muy alto riesgo cardiovascular. El grosor íntima-media no se aconseja ya para reclasificar a los pacientes por la variabilidad en su medición.     ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Índice de Yao.  ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Grosor íntima-media ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Calcio score medido por TC coronario. ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Fondo de ojo. ",
+                        "correct": true,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "14",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "De las siguientes asociaciones fármaco – efecto adverso señale la respuesta correcta:",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! El efecto adverso más frecuentemente asociado a los iPCSK9 son las molestias en el punto de punción porque solo se disponen de forma subcutánea. Los fibratos son muy bien tolerados y por lo general no presentan efectos adversos, que en caso de presentarse, se verían potenciados por el uso concomitante con estatinas y se trataría de miopatía. Aunque no se ha establecido correctamente el efecto en los fetos se desaconseja el uso de estatinas en mujeres en edad fértil si no se utiliza un método anticonceptivo eficaz. En caso de embarazo si la paciente está tomando estatinas, se aconseja su suspensión inmediata. Las resinas de intercambio, también conocidas como quelantes de sales biliares, son fármacos que no se absorben y ejercen su efecto a nivel de la luz intestinal disminuyendo la absorció de grasas y provocando molestias abdominales.  ",
+                "feedback_ko": "¡Incorrecto! El efecto adverso más frecuentemente asociado a los iPCSK9 son las molestias en el punto de punción porque solo se disponen de forma subcutánea. Los fibratos son muy bien tolerados y por lo general no presentan efectos adversos, que en caso de presentarse, se verían potenciados por el uso concomitante con estatinas y se trataría de miopatía. Aunque no se ha establecido correctamente el efecto en los fetos se desaconseja el uso de estatinas en mujeres en edad fértil si no se utiliza un método anticonceptivo eficaz. En caso de embarazo si la paciente está tomando estatinas, se aconseja su suspensión inmediata. Las resinas de intercambio, también conocidas como quelantes de sales biliares, son fármacos que no se absorben y ejercen su efecto a nivel de la luz intestinal disminuyendo la absorció de grasas y provocando molestias abdominales. ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Inhibidores PCSK9  - fototoxicidad. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Fibratos – esteatorrea.  ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Estatinas – teratogenicidad",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Resinas de intercambio – flatulencia y molestias abdominales.",
+                        "correct": true,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "15",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Indica la asociación correcta entre fármaco y mecanismo de acción:",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Alirocumab y evolocumab son anticuerpos monoclonales dirigidos contra la molécula PCSK9. El otro fármaco que actúa en este punto para disminuir la síntesis de colesterol es el Inclisirán, que es un ARNm de interferencia contra el ARNm sintetizado por el núcleo celular que codifica para PCSK9. Las estatinas actúan inhibiendo HMG-CoA reductasa. El ácido bempedoico inhibe la ATP citrato liasa. Los fármacos análogos de PPAR-alfa son los fibratos. El ezetimibe actúa a nivel del enterocito disminuyendo la absorción de colesterol por interacción con la proteína similar a Niemann-Pick.   ",
+                "feedback_ko": "¡Incorrecto! Alirocumab y evolocumab son anticuerpos monoclonales dirigidos contra la molécula PCSK9. El otro fármaco que actúa en este punto para disminuir la síntesis de colesterol es el Inclisirán, que es un ARNm de interferencia contra el ARNm sintetizado por el núcleo celular que codifica para PCSK9. Las estatinas actúan inhibiendo HMG-CoA reductasa. El ácido bempedoico inhibe la ATP citrato liasa. Los fármacos análogos de PPAR-alfa son los fibratos. El ezetimibe actúa a nivel del enterocito disminuyendo la absorción de colesterol por interacción con la proteína similar a Niemann-Pick.     ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Alirocumab – inhibición PCSK9.  ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Atorvastatina - inhibidor citrato liasa.  ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Ácido bempedoico – agonista PPAR-alfa.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Ezetimibe – ARNm interferencia contra PCSK9.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "16",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿Qué grupo farmacológico deberíamos elegir para iniciar el tratamiento de la hipercolesterolemia?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! El esquema de tratamiento recomendado en las guías inicia con estatinas. En caso de no controlarse los niveles de LDL debería adicionarse ezetimibe y si tras ello, no conseguimos niveles objetivo debería adicionarse iPCSK9. El poder de reducción de LDL estimado al combinarlos está en torno al 85%, por lo que la mayoría de pacientes alcanzarán niveles objetivo. ",
+                "feedback_ko": "¡Incorrecto!El esquema de tratamiento recomendado en las guías inicia con estatinas. En caso de no controlarse los niveles de LDL debería adicionarse ezetimibe y si tras ello, no conseguimos niveles objetivo debería adicionarse iPCSK9. El poder de reducción de LDL estimado al combinarlos está en torno al 85%, por lo que la mayoría de pacientes alcanzarán niveles objetivo.    ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Fibratos",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Estatinas",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "iPCSK9. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Ezetimibe. ",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "17",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Señale cuál de los siguientes pacientes cual tiene un riesgo cardiovascular muy alto:",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! En la opción a nos presentan un ictus que no es de causa ateroesclerótica, sino hemorrágica por lo que no computa. La paciente de la opción b es diabética, aunque de reciente diagnóstico, pero su infarto no ha sido por una placa de colesterol, sino por un trombo formado dentro del corazón y que ha migrado a una arteria coronaria (infarto embólico), esto ha sido precipitado por la arritmia predisponente, conocida como fibrilación auricular. La opción c es de territorio venoso, en un paciente con una condición que aumenta las trombosis en territorios venosos. En la opción d nos están describiendo una hipercolesterolemia familiar, LDL muy elevado (ya solamente por este criterio diagnosticaríamos la enfermedad) con xantomas tendinosos y con un factor de riesgo cardiovascular. Además es muy joven y la probabilidad de sufrir un evento es altísima a lo largo de la vida.   ",
+                "feedback_ko": "¡Incorrecto! En la opción a nos presentan un ictus que no es de causa ateroesclerótica, sino hemorrágica por lo que no computa. La paciente de la opción b es diabética, aunque de reciente diagnóstico, pero su infarto no ha sido por una placa de colesterol, sino por un trombo formado dentro del corazón y que ha migrado a una arteria coronaria (infarto embólico), esto ha sido precipitado por la arritmia predisponente, conocida como fibrilación auricular. La opción c es de territorio venoso, en un paciente con una condición que aumenta las trombosis en territorios venosos. En la opción d nos están describiendo una hipercolesterolemia familiar, LDL muy elevado (ya solamente por este criterio diagnosticaríamos la enfermedad) con xantomas tendinosos y con un factor de riesgo cardiovascular. Además es muy joven y la probabilidad de sufrir un evento es altísima a lo largo de la vida.     ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Varón de 76 años con ictus hemorrágico e hipertensión arterial con TAS 160 mmHg.  ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Mujer de 66 años diabética tipo II de reciente diagnóstico que sufre un infarto agudo de miocardio embólico siendo diagnosticada de fibrilación auricular. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Trombosis venosa profunda de la ilíaca derecha en mujer con síndrome antifosfolípido. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Varón de 16 años con LDL colesterol de 363 mg/dL, hipertenso y con depósitos amarillentos en ambas regiones de los tendones de Aquiles. ",
+                        "correct": true,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "18",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "En ocasiones, las guías de práctica clínica no alcanzan a recoger la evidencia científica más actual reflejada en ensayos clínica debido a la rápida evolución en este campo. De las siguientes cuál es cierta?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Las opciones recogen algunas de las recomendaciones de las últimas guías de prevención cardiovascular y algunos ensayos clínicos. Todas son correctas.  ",
+                "feedback_ko": "¡Incorrecto! Las opciones recogen algunas de las recomendaciones de las últimas guías de prevención cardiovascular y algunos ensayos clínicos. Todas son correctas. ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Se debe considerar una reducción cuánto más precoz e intensiva mejor en los pacientes que presentan un infarto agudo de miocardio. ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Debe considerarse un objetivo de LDL < 40 mg/dL en los pacientes que sufren dos eventos cardiovasculares en 2 años, aunque sean de distintos territorios. ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "En los ensayos clínicos los niveles bajos de colesterol se relacionaron con menor tasa de eventos cardiovasculares sin efectos adversos relevantes por lo que en los próximos años podría considerarse un objetivo de LDL < 40 mg/dL directamente. ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "La tensión arterial objetivo debe ser 130/80  mmHg siempre y cuando no genere efectos adversos. En cualquier caso y para cualquier grupo de edad debe ser inferior a 140/90 mmHg. ",
+                        "correct": true,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "19",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Una de las manifestaciones de la enfermedad cardiovascular ateroesclerótica es la cardiopatía isquémica en su forma angina estable o síndrome coronario agudo (infarto agudo de miocardio). ¿Cuál de las siguientes no corresponde al siguiente espectro?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Las tres primeras son las manifestaciones típicas de la cardiopatía isquémica. La A nos relata una angina estable. La opción B es sugestivo de infarto agudo de miocardio así como la C; esta última cursa con parada cardiorrespiratoria. La D nos relata una pericarditis aguda, varón joven tras cuadro catarral y con el patrón de dolor característico; los cambios en el ECG son frecuentes, aunque en la opción no especifica el tipo de cambios.   ",
+                "feedback_ko": "¡Incorrecto! Las tres primeras son las manifestaciones típicas de la cardiopatía isquémica. La A nos relata una angina estable. La opción B es sugestivo de infarto agudo de miocardio así como la C; esta última cursa con parada cardiorrespiratoria. La D nos relata una pericarditis aguda, varón joven tras cuadro catarral y con el patrón de dolor característico; los cambios en el ECG son frecuentes, aunque en la opción no especifica el tipo de cambios. ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Varón de 68 años, fumador e hipertenso que desde hace 8 meses cuando camina en pendiente tiene presión en el centro del tórax que le obliga a pararse. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Mujer de 53 años, diabético y dislipémica que, estando en reposo presenta dolor en el centro del tórax que se irradia hacia el cuello, hombro izquierdo y espalda que no cede con el tratamiento analgésico que ha tomado. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Hombre de 77 años que se encontraba deambulando por la calle con dificultad respiratoria y opresión en la “boca del estómago”. Súbitamente se desvanece y los testigos inician maniobras de RCP. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Varón de 27 años que tiene dolor en el centro del tórax que aumenta al inspirar y tumbarse en la cama. Mejora al inclinarse hacia delante. En los días previos ha tenido un catarro y ahora presenta alteraciones en el electrocardiograma. ",
+                        "correct": true,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "20",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿Cuál de los siguientes no se consideraría enfermedad cardiovascular de causa ateroesclerótica?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Aunque la enfermedad clínica y por imagen de la aorta se considera enfermedad cardiovascular ateroesclerótica en esta opción nuestro paciente padece enfermedad de Marfan. Se trata de una enfermedad del tejido conectivo que debilita la pared de la aorta SIN que exista ateroesclerosis. La opción 3 hace referencia a enfermedad de arterias coronarias pero no por placas de colesterol, sino por disección espontánea de la arteria. Esto es una condición que suele ocurrir en mujeres y en edad peri y post-menopausia.  ",
+                "feedback_ko": "¡Incorrecto! Aunque la enfermedad clínica y por imagen de la aorta se considera enfermedad cardiovascular ateroesclerótica en esta opción nuestro paciente padece enfermedad de Marfan. Se trata de una enfermedad del tejido conectivo que debilita la pared de la aorta SIN que exista ateroesclerosis. La opción 3 hace referencia a enfermedad de arterias coronarias pero no por placas de colesterol, sino por disección espontánea de la arteria. Esto es una condición que suele ocurrir en mujeres y en edad peri y post-menopausia.  ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Aneurisma de aorta en paciente con enfermedad de Marfan.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Insuficiencia cardíaca con función ventricular severamente deprimida por oclusión crónica de arteria descendente anterior. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Mujer de 43 años con disección de arteria coronaria derecha. ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Ictus de arteria cerebral media con placas en la carótida. ",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            }
+        ],
         "4.6": [
             {
                 "id": "1",
