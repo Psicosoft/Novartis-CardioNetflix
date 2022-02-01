@@ -1875,36 +1875,36 @@
             {
                 "id": "11",
                 "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "Sobre los objetivos de control de los distintos factores de riesgo cardiovascular, ¿cuál es la correcta? ",
+                "qTitle": "¿Cuál de las siguientes fórmulas relaciona correctamente presión arterial (PA), gasto cardiaco (GC) y resistencias vasculares (RV)? ",
                 "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto! La pregunta expone cuál el objetivo de control para estos factores de riesgo cardiovascular. Por supuesto, evitar cualquier exposición al humo del tabaco, realizar ejercicio físico de intensidad moderada 30-60 minutos al día, IMC 20-25, son otros de los objetivos a considerar. Mención especial a los objetivos de tensión arterial que se han endurecido en las últimas guías de prevención cardiovascular recomendando una TA < 130/80 mmHg para todas las edades y grupos siempre y cuando no ocasione síntomas. Se puede ser algo más laxo con los ancianos y la enfermedad renal crónica si esto condiciona empeoramiento de la función renal. ",
-                "feedback_ko": "¡Incorrecto! La pregunta expone cuál el objetivo de control para estos factores de riesgo cardiovascular. Por supuesto, evitar cualquier exposición al humo del tabaco, realizar ejercicio físico de intensidad moderada 30-60 minutos al día, IMC 20-25, son otros de los objetivos a considerar. Mención especial a los objetivos de tensión arterial que se han endurecido en las últimas guías de prevención cardiovascular recomendando una TA < 130/80 mmHg para todas las edades y grupos siempre y cuando no ocasione síntomas. Se puede ser algo más laxo con los ancianos y la enfermedad renal crónica si esto condiciona empeoramiento de la función renal.  ",
+                "feedback_ok": "¡Correcto! La presión arterial es la fuerza que ejerce la sangre contra la pared de las arterias del organismo. Es directamente proporcional a la cantidad de sangre que fluye a su través (cuanta más sangre, más presión) y a la resistencia que las arterias ejercen frente al paso de la sangre (cuanta más resistencia ejerzan, más presión provocarán).",
+                "feedback_ko": "¡Incorrecto! La presión arterial es la fuerza que ejerce la sangre contra la pared de las arterias del organismo. Es directamente proporcional a la cantidad de sangre que fluye a su través (cuanta más sangre, más presión) y a la resistencia que las arterias ejercen frente al paso de la sangre (cuanta más resistencia ejerzan, más presión provocarán). ",
                 "topic": "",
                 "points": 3,
                 "options_order_random": true,
                 "options": [
                     {
                         "id": "1",
-                        "text": "Perímetro abdominal < 94 cm en varones y < 80 cm en mujeres.  ",
-                        "correct": true,
+                        "text": "PA = RV / GC.   ",
+                        "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "2",
-                        "text": "Tensión arterial < 130/80 mmHg.  ",
-                        "correct": true,
+                        "text": "PA = GC / RV.   ",
+                        "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "3",
-                        "text": "HbA1c < 7%. ",
+                        "text": "PA = GC · RV.  ",
                         "correct": true,
                         "feedback": ""
                     },
                     {
                         "id": "4",
-                        "text": "LDL 116/ 100/  70/  55 ajustado según riesgo cardiovascular bajo/ moderado/ alto/ muy alto. ",
-                        "correct": true,
+                        "text": "PA = GC2 · RV.  ",
+                        "correct": false,
                         "feedback": ""
                     }
                 ]
@@ -1912,36 +1912,36 @@
             {
                 "id": "12",
                 "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "Las estatinas son fármacos de primera línea para el control de los niveles de colesterol. Señale la respuesta falsa sobre ellas: ",
+                "qTitle": "Un aumento brusco de la tensión arterial afectará a qué determinante del gasto cardíaco?",
                 "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto! La respuesta A es falsa porque son fármacos generalmente bien tolerados. El principal efecto adverso atribuible son las mialgias aunque en estudios cegados y controlados con placebo las diferencias no fueron significativas. La rabdomiolisis y la toxicidad hepática que obligue a la suspensión del fármaco son muy raras. La opción D es falsa porque no reducen la absorción del colesterol en la luz intestinal sino que reducen su síntesis al inhibir la HMG-CoA reductasa.   ",
-                "feedback_ko": "¡Incorrecto! La respuesta A es falsa porque son fármacos generalmente bien tolerados. El principal efecto adverso atribuible son las mialgias aunque en estudios cegados y controlados con placebo las diferencias no fueron significativas. La rabdomiolisis y la toxicidad hepática que obligue a la suspensión del fármaco son muy raras. La opción D es falsa porque no reducen la absorción del colesterol en la luz intestinal sino que reducen su síntesis al inhibir la HMG-CoA reductasa.   ",
+                "feedback_ok": "¡Correcto! La postcarga es equivalente a la presión que tiene que ejercer el ventrículo para poder enviar la sangre al exterior; por lo tanto, si hay mucha presión arterial, el ventrículo izquierdo estará sometido a una mayor postcarga (tiene que vencer esa presión para poder mandar sangre hacia la aorta). Ante una situación de postcarga mantenida en el tiempo (como la hipertensión arterial), el ventrículo izquierdo actúa hipertrofiándose (esto es, aumentando su masa muscular); al aumentar su grosor tiene más fuerza para poder vencer el exceso de presión.  ",
+                "feedback_ko": "¡Incorrecto! La postcarga es equivalente a la presión que tiene que ejercer el ventrículo para poder enviar la sangre al exterior; por lo tanto, si hay mucha presión arterial, el ventrículo izquierdo estará sometido a una mayor postcarga (tiene que vencer esa presión para poder mandar sangre hacia la aorta). Ante una situación de postcarga mantenida en el tiempo (como la hipertensión arterial), el ventrículo izquierdo actúa hipertrofiándose (esto es, aumentando su masa muscular); al aumentar su grosor tiene más fuerza para poder vencer el exceso de presión.   ",
                 "topic": "",
                 "points": 3,
                 "options_order_random": true,
                 "options": [
                     {
                         "id": "1",
-                        "text": "Son fármacos no muy bien tolerados y cuyos efectos adversos (rabdomiolisis y hepatotoxicidad) limitan en muchas ocasiones su uso. ",
-                        "correct": true,
+                        "text": "Precarga. ",
+                        "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "2",
-                        "text": "Existen estatinas de distinta potencia que debemos elegir en función del LDL objetivo de nuestro paciente. La reducción estimada de colesterol varía entre el 20 y 50% de colesterol LDL.  ",
+                        "text": "Contractilidad.",
                         "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "3",
-                        "text": "Son de primera línea para el tratamiento de la hipertrigliceridemia. ",
-                        "correct": false,
+                        "text": "Postcarga.",
+                        "correct": true,
                         "feedback": ""
                     },
                     {
                         "id": "4",
-                        "text": "Actúan mediante la inhibición de la enzima HMG-CoA reductasa reduciendo la absorción de colesterol en la luz intestinal. ",
-                        "correct": true,
+                        "text": "Ninguno. ",
+                        "correct": false,
                         "feedback": ""
                     }
                 ]
@@ -1949,35 +1949,35 @@
             {
                 "id": "13",
                 "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "Para establecer correctamente el riesgo cardiovascular de nuestros pacientes podemos utilizar ciertas pruebas o exploraciones para modificar su riesgo, ¿cuál de las siguientes son aceptadas?",
+                "qTitle": "¿A través de qué vaso drena la sangre procedente de los miembros inferiores en el corazón?",
                 "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto! El índice de Yao o índice tobillo-brazo es el cociente de la tensión arterial medida en el tobillo y en el brazo. Si este cociente es < a 0.9 (o > 1.4 indicando rigidez arterial) existe un riesgo aumentado de sufrir un evento cardiovascular. Dentro de las pruebas de imagen también son de utilidad el score de calcio coronario que es equiparable a tener placas de ateroesclerosis en las carótidas o en las femorales medidas por ecografía. No debemos exponer a nuestros paciente simplemente para evaluar el riesgo cardiovascular a la radiación generado por un TC de tórax pero, en caso de realizarse por otras causas, si disponemos de la cuantificación de calcio puede ser de utilidad para afinar el riesgo cardiovascular. El fondo de ojo como marcador de lesión de órgano diana reclasifica a nuestros pacientes diabéticos e hipertensos como de muy alto riesgo cardiovascular. El grosor íntima-media no se aconseja ya para reclasificar a los pacientes por la variabilidad en su medición.    ",
-                "feedback_ko": "¡Incorrecto! El índice de Yao o índice tobillo-brazo es el cociente de la tensión arterial medida en el tobillo y en el brazo. Si este cociente es < a 0.9 (o > 1.4 indicando rigidez arterial) existe un riesgo aumentado de sufrir un evento cardiovascular. Dentro de las pruebas de imagen también son de utilidad el score de calcio coronario que es equiparable a tener placas de ateroesclerosis en las carótidas o en las femorales medidas por ecografía. No debemos exponer a nuestros paciente simplemente para evaluar el riesgo cardiovascular a la radiación generado por un TC de tórax pero, en caso de realizarse por otras causas, si disponemos de la cuantificación de calcio puede ser de utilidad para afinar el riesgo cardiovascular. El fondo de ojo como marcador de lesión de órgano diana reclasifica a nuestros pacientes diabéticos e hipertensos como de muy alto riesgo cardiovascular. El grosor íntima-media no se aconseja ya para reclasificar a los pacientes por la variabilidad en su medición.     ",
+                "feedback_ok": "¡Correcto! La sangre desoxigenada es recogida por distintas estructuras venosas y redirigida a la aurícula derecha para después oxigenarse en el pulmón. Las yugulares drenan el encéfalo y desembocan en la vena cava superior hacia la aurícula derecha. La vena cava inferior recoge el drenaje de todo el hemicuerpo inferior (incluidos los miembros inferiores). La vena porta recoge los nutrientes absorbidos en el intestino y dirige al hígado. La vena mesentérica inferior drena una parte del intestino y es una de las tributarias de la vena porta donde confluyen otros vasos que colectan nutrientes para transportarlos al hígado.     ",
+                "feedback_ko": "¡Incorrecto!La sangre desoxigenada es recogida por distintas estructuras venosas y redirigida a la aurícula derecha para después oxigenarse en el pulmón. Las yugulares drenan el encéfalo y desembocan en la vena cava superior hacia la aurícula derecha. La vena cava inferior recoge el drenaje de todo el hemicuerpo inferior (incluidos los miembros inferiores). La vena porta recoge los nutrientes absorbidos en el intestino y dirige al hígado. La vena mesentérica inferior drena una parte del intestino y es una de las tributarias de la vena porta donde confluyen otros vasos que colectan nutrientes para transportarlos al hígado.    ",
                 "topic": "",
                 "points": 3,
                 "options_order_random": true,
                 "options": [
                     {
                         "id": "1",
-                        "text": "Índice de Yao.  ",
-                        "correct": true,
+                        "text": "Vena porta.  ",
+                        "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "2",
-                        "text": "Grosor íntima-media ",
+                        "text": "Vena mesentérica inferior ",
                         "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "3",
-                        "text": "Calcio score medido por TC coronario. ",
-                        "correct": true,
+                        "text": "Vena yugular. ",
+                        "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "4",
-                        "text": "Fondo de ojo. ",
+                        "text": "Vena cava inferior ",
                         "correct": true,
                         "feedback": ""
                     }
@@ -1986,36 +1986,36 @@
             {
                 "id": "14",
                 "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "De las siguientes asociaciones fármaco – efecto adverso señale la respuesta correcta:",
+                "qTitle": "¿Cuál de los siguientes no es un factor de riesgo cardiovascular para enfermedad ateroesclerótica?  ",
                 "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto! El efecto adverso más frecuentemente asociado a los iPCSK9 son las molestias en el punto de punción porque solo se disponen de forma subcutánea. Los fibratos son muy bien tolerados y por lo general no presentan efectos adversos, que en caso de presentarse, se verían potenciados por el uso concomitante con estatinas y se trataría de miopatía. Aunque no se ha establecido correctamente el efecto en los fetos se desaconseja el uso de estatinas en mujeres en edad fértil si no se utiliza un método anticonceptivo eficaz. En caso de embarazo si la paciente está tomando estatinas, se aconseja su suspensión inmediata. Las resinas de intercambio, también conocidas como quelantes de sales biliares, son fármacos que no se absorben y ejercen su efecto a nivel de la luz intestinal disminuyendo la absorció de grasas y provocando molestias abdominales.  ",
-                "feedback_ko": "¡Incorrecto! El efecto adverso más frecuentemente asociado a los iPCSK9 son las molestias en el punto de punción porque solo se disponen de forma subcutánea. Los fibratos son muy bien tolerados y por lo general no presentan efectos adversos, que en caso de presentarse, se verían potenciados por el uso concomitante con estatinas y se trataría de miopatía. Aunque no se ha establecido correctamente el efecto en los fetos se desaconseja el uso de estatinas en mujeres en edad fértil si no se utiliza un método anticonceptivo eficaz. En caso de embarazo si la paciente está tomando estatinas, se aconseja su suspensión inmediata. Las resinas de intercambio, también conocidas como quelantes de sales biliares, son fármacos que no se absorben y ejercen su efecto a nivel de la luz intestinal disminuyendo la absorció de grasas y provocando molestias abdominales. ",
+                "feedback_ok": "¡Correcto!El alcohol no contribuye a la ateroesclerosis. El resto de factores expuestos contribuyen al desarrollo de placas ateroescleróticas que podrán provocar infartos de miocardio, ictus, enfermedad arterial periférica, etc. ",
+                "feedback_ko": "¡Incorrecto! El alcohol no contribuye a la ateroesclerosis. El resto de factores expuestos contribuyen al desarrollo de placas ateroescleróticas que podrán provocar infartos de miocardio, ictus, enfermedad arterial periférica, etc.  ",
                 "topic": "",
                 "points": 3,
                 "options_order_random": true,
                 "options": [
                     {
                         "id": "1",
-                        "text": "Inhibidores PCSK9  - fototoxicidad. ",
+                        "text": "Infección por VIH.  ",
                         "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "2",
-                        "text": "Fibratos – esteatorrea.  ",
-                        "correct": false,
+                        "text": "Consumo de alcohol  ",
+                        "correct": true,
                         "feedback": ""
                     },
                     {
                         "id": "3",
-                        "text": "Estatinas – teratogenicidad",
-                        "correct": true,
+                        "text": "Marginación social",
+                        "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "4",
-                        "text": "Resinas de intercambio – flatulencia y molestias abdominales.",
-                        "correct": true,
+                        "text": "Hígado graso no alcohólico",
+                        "correct": false,
                         "feedback": ""
                     }
                 ]
@@ -2023,36 +2023,36 @@
             {
                 "id": "15",
                 "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "Indica la asociación correcta entre fármaco y mecanismo de acción:",
+                "qTitle": "¿Qué característica no es propia de la angina de pecho?",
                 "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto! Alirocumab y evolocumab son anticuerpos monoclonales dirigidos contra la molécula PCSK9. El otro fármaco que actúa en este punto para disminuir la síntesis de colesterol es el Inclisirán, que es un ARNm de interferencia contra el ARNm sintetizado por el núcleo celular que codifica para PCSK9. Las estatinas actúan inhibiendo HMG-CoA reductasa. El ácido bempedoico inhibe la ATP citrato liasa. Los fármacos análogos de PPAR-alfa son los fibratos. El ezetimibe actúa a nivel del enterocito disminuyendo la absorción de colesterol por interacción con la proteína similar a Niemann-Pick.   ",
-                "feedback_ko": "¡Incorrecto! Alirocumab y evolocumab son anticuerpos monoclonales dirigidos contra la molécula PCSK9. El otro fármaco que actúa en este punto para disminuir la síntesis de colesterol es el Inclisirán, que es un ARNm de interferencia contra el ARNm sintetizado por el núcleo celular que codifica para PCSK9. Las estatinas actúan inhibiendo HMG-CoA reductasa. El ácido bempedoico inhibe la ATP citrato liasa. Los fármacos análogos de PPAR-alfa son los fibratos. El ezetimibe actúa a nivel del enterocito disminuyendo la absorción de colesterol por interacción con la proteína similar a Niemann-Pick.     ",
+                "feedback_ok": "¡Correcto!Las tres primeras son definitorias del dolor torácico típico de isquemia (angina de pecho). La respuesta d hace referencia al color característico de la pericarditis, inflamación de la membrana que envuelve el corazón.  ",
+                "feedback_ko": "¡Incorrecto! Las tres primeras son definitorias del dolor torácico típico de isquemia (angina de pecho). La respuesta d hace referencia al color característico de la pericarditis, inflamación de la membrana que envuelve el corazón.  ",
                 "topic": "",
                 "points": 3,
                 "options_order_random": true,
                 "options": [
                     {
                         "id": "1",
-                        "text": "Alirocumab – inhibición PCSK9.  ",
-                        "correct": true,
+                        "text": "Se localiza en el centro del tórax.  ",
+                        "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "2",
-                        "text": "Atorvastatina - inhibidor citrato liasa.  ",
+                        "text": "Aparece con los esfuerzos, generalmente al caminar en pendiente  ",
                         "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "3",
-                        "text": "Ácido bempedoico – agonista PPAR-alfa.",
+                        "text": "Puede irradiar hacia cuello, muelas, muñecas, hombro izquierdo, “boca del estómago”, espalda. ",
                         "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "4",
-                        "text": "Ezetimibe – ARNm interferencia contra PCSK9.",
-                        "correct": false,
+                        "text": "Típicamente se alivia con la inclinación hacia delante y se agrava con la inspiración profunda.",
+                        "correct": true,
                         "feedback": ""
                     }
                 ]
@@ -2060,35 +2060,35 @@
             {
                 "id": "16",
                 "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "¿Qué grupo farmacológico deberíamos elegir para iniciar el tratamiento de la hipercolesterolemia?",
+                "qTitle": "¿Qué es falso sobre el pericardio?",
                 "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto! El esquema de tratamiento recomendado en las guías inicia con estatinas. En caso de no controlarse los niveles de LDL debería adicionarse ezetimibe y si tras ello, no conseguimos niveles objetivo debería adicionarse iPCSK9. El poder de reducción de LDL estimado al combinarlos está en torno al 85%, por lo que la mayoría de pacientes alcanzarán niveles objetivo. ",
-                "feedback_ko": "¡Incorrecto!El esquema de tratamiento recomendado en las guías inicia con estatinas. En caso de no controlarse los niveles de LDL debería adicionarse ezetimibe y si tras ello, no conseguimos niveles objetivo debería adicionarse iPCSK9. El poder de reducción de LDL estimado al combinarlos está en torno al 85%, por lo que la mayoría de pacientes alcanzarán niveles objetivo.    ",
+                "feedback_ok": "¡Correcto! En condiciones normales el pericardio puede contener una ligera capa de líquido que facilita la función cardíaca. En ocasiones, tras infecciones el pericardio puede endurecerse o adherirse en algunas zonas al corazón y dificultar, generalmente, su llenado. Si en el seno de una pericarditis aguda existe mucho derrame puede llegar a comprometerse su llenado provocando un taponamiento cardíaco. ",
+                "feedback_ko": "¡Incorrecto!En condiciones normales el pericardio puede contener una ligera capa de líquido que facilita la función cardíaca. En ocasiones, tras infecciones el pericardio puede endurecerse o adherirse en algunas zonas al corazón y dificultar, generalmente, su llenado. Si en el seno de una pericarditis aguda existe mucho derrame puede llegar a comprometerse su llenado provocando un taponamiento cardíaco.   ",
                 "topic": "",
                 "points": 3,
                 "options_order_random": true,
                 "options": [
                     {
                         "id": "1",
-                        "text": "Fibratos",
+                        "text": "Es la membrana que envuelve el corazón, compuesta por dos hojas.",
                         "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "2",
-                        "text": "Estatinas",
+                        "text": "En condiciones normales no debe contener líquido en su interior. ",
                         "correct": true,
                         "feedback": ""
                     },
                     {
                         "id": "3",
-                        "text": "iPCSK9. ",
+                        "text": "Su inflamación, pericarditis, puede producir dolor torácico y cambios en el electrocardiograma que pueden llegar a confundirse con un infarto de miocardio. ",
                         "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "4",
-                        "text": "Ezetimibe. ",
+                        "text": "Si la cantidad de derrame pericárdico es muy importante puede producirse un taponamiento cardíaco. ",
                         "correct": false,
                         "feedback": ""
                     }
@@ -2097,35 +2097,35 @@
             {
                 "id": "17",
                 "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "Señale cuál de los siguientes pacientes cual tiene un riesgo cardiovascular muy alto:",
+                "qTitle": "¿Cuál de los siguientes forma parte de la enfermedad cardiovascular ateroesclerótica?",
                 "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto! En la opción a nos presentan un ictus que no es de causa ateroesclerótica, sino hemorrágica por lo que no computa. La paciente de la opción b es diabética, aunque de reciente diagnóstico, pero su infarto no ha sido por una placa de colesterol, sino por un trombo formado dentro del corazón y que ha migrado a una arteria coronaria (infarto embólico), esto ha sido precipitado por la arritmia predisponente, conocida como fibrilación auricular. La opción c es de territorio venoso, en un paciente con una condición que aumenta las trombosis en territorios venosos. En la opción d nos están describiendo una hipercolesterolemia familiar, LDL muy elevado (ya solamente por este criterio diagnosticaríamos la enfermedad) con xantomas tendinosos y con un factor de riesgo cardiovascular. Además es muy joven y la probabilidad de sufrir un evento es altísima a lo largo de la vida.   ",
-                "feedback_ko": "¡Incorrecto! En la opción a nos presentan un ictus que no es de causa ateroesclerótica, sino hemorrágica por lo que no computa. La paciente de la opción b es diabética, aunque de reciente diagnóstico, pero su infarto no ha sido por una placa de colesterol, sino por un trombo formado dentro del corazón y que ha migrado a una arteria coronaria (infarto embólico), esto ha sido precipitado por la arritmia predisponente, conocida como fibrilación auricular. La opción c es de territorio venoso, en un paciente con una condición que aumenta las trombosis en territorios venosos. En la opción d nos están describiendo una hipercolesterolemia familiar, LDL muy elevado (ya solamente por este criterio diagnosticaríamos la enfermedad) con xantomas tendinosos y con un factor de riesgo cardiovascular. Además es muy joven y la probabilidad de sufrir un evento es altísima a lo largo de la vida.     ",
+                "feedback_ok": "¡Correcto! Las tres primeras opciones en ningún caso son por placas de ateroesclerosis,  por lo que no forman parte de la ECVAS. En el caso del ictus isquémico no nos dicen el mecanismo que suponen. No sabemos si es por un trombo que se ha generado en alguna cavidad cardíaca consecuencia de una arritmia y posteriormente ha migrado (ictus cardio-embólico) o por una placa de ateroesclerosis in situ en la circulación cerebral que se ha trombosado (ictus aterotrombótico). No obstante, las 3 primeras opciones son incompatibles con ECVAS. ",
+                "feedback_ko": "¡Incorrecto! Las tres primeras opciones en ningún caso son por placas de ateroesclerosis,  por lo que no forman parte de la ECVAS. En el caso del ictus isquémico no nos dicen el mecanismo que suponen. No sabemos si es por un trombo que se ha generado en alguna cavidad cardíaca consecuencia de una arritmia y posteriormente ha migrado (ictus cardio-embólico) o por una placa de ateroesclerosis in situ en la circulación cerebral que se ha trombosado (ictus aterotrombótico). No obstante, las 3 primeras opciones son incompatibles con ECVAS.     ",
                 "topic": "",
                 "points": 3,
                 "options_order_random": true,
                 "options": [
                     {
                         "id": "1",
-                        "text": "Varón de 76 años con ictus hemorrágico e hipertensión arterial con TAS 160 mmHg.  ",
+                        "text": "Vasoespasmo coronario",
                         "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "2",
-                        "text": "Mujer de 66 años diabética tipo II de reciente diagnóstico que sufre un infarto agudo de miocardio embólico siendo diagnosticada de fibrilación auricular. ",
+                        "text": "Tromboembolismo pulmonar agudo.  ",
                         "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "3",
-                        "text": "Trombosis venosa profunda de la ilíaca derecha en mujer con síndrome antifosfolípido. ",
+                        "text": "Miocarditis aguda ",
                         "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "4",
-                        "text": "Varón de 16 años con LDL colesterol de 363 mg/dL, hipertenso y con depósitos amarillentos en ambas regiones de los tendones de Aquiles. ",
+                        "text": "Ictus isquémico de arteria cerebral media",
                         "correct": true,
                         "feedback": ""
                     }
@@ -2134,30 +2134,30 @@
             {
                 "id": "18",
                 "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "En ocasiones, las guías de práctica clínica no alcanzan a recoger la evidencia científica más actual reflejada en ensayos clínica debido a la rápida evolución en este campo. De las siguientes cuál es cierta?",
+                "qTitle": "¿Qué escala utilizaría para evaluar de la mejor forma posible el riesgo cardiovascular de un varón de 86 años?",
                 "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto! Las opciones recogen algunas de las recomendaciones de las últimas guías de prevención cardiovascular y algunos ensayos clínicos. Todas son correctas.  ",
-                "feedback_ko": "¡Incorrecto! Las opciones recogen algunas de las recomendaciones de las últimas guías de prevención cardiovascular y algunos ensayos clínicos. Todas son correctas. ",
+                "feedback_ok": "¡Correcto! La escala que mejor estima el riesgo cardiovascular en mayores de 70 años es el SCORE2-OP. En la escala SCORE, este grupo etario no estaba incluido. El test de Fagerström es un cuestionario utilizado para evaluar la dependencia al tabaco.  ",
+                "feedback_ko": "¡Incorrecto! La escala que mejor estima el riesgo cardiovascular en mayores de 70 años es el SCORE2-OP. En la escala SCORE, este grupo etario no estaba incluido. El test de Fagerström es un cuestionario utilizado para evaluar la dependencia al tabaco.  ",
                 "topic": "",
                 "points": 3,
                 "options_order_random": true,
                 "options": [
                     {
                         "id": "1",
-                        "text": "Se debe considerar una reducción cuánto más precoz e intensiva mejor en los pacientes que presentan un infarto agudo de miocardio. ",
-                        "correct": true,
+                        "text": "SCORE. ",
+                        "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "2",
                         "text": "Debe considerarse un objetivo de LDL < 40 mg/dL en los pacientes que sufren dos eventos cardiovasculares en 2 años, aunque sean de distintos territorios. ",
-                        "correct": true,
+                        "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "3",
                         "text": "En los ensayos clínicos los niveles bajos de colesterol se relacionaron con menor tasa de eventos cardiovasculares sin efectos adversos relevantes por lo que en los próximos años podría considerarse un objetivo de LDL < 40 mg/dL directamente. ",
-                        "correct": true,
+                        "correct": false,
                         "feedback": ""
                     },
                     {
@@ -2207,6 +2207,749 @@
             },
             {
                 "id": "20",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿Cuál de los siguientes no se consideraría enfermedad cardiovascular de causa ateroesclerótica?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Aunque la enfermedad clínica y por imagen de la aorta se considera enfermedad cardiovascular ateroesclerótica en esta opción nuestro paciente padece enfermedad de Marfan. Se trata de una enfermedad del tejido conectivo que debilita la pared de la aorta SIN que exista ateroesclerosis. La opción 3 hace referencia a enfermedad de arterias coronarias pero no por placas de colesterol, sino por disección espontánea de la arteria. Esto es una condición que suele ocurrir en mujeres y en edad peri y post-menopausia.  ",
+                "feedback_ko": "¡Incorrecto! Aunque la enfermedad clínica y por imagen de la aorta se considera enfermedad cardiovascular ateroesclerótica en esta opción nuestro paciente padece enfermedad de Marfan. Se trata de una enfermedad del tejido conectivo que debilita la pared de la aorta SIN que exista ateroesclerosis. La opción 3 hace referencia a enfermedad de arterias coronarias pero no por placas de colesterol, sino por disección espontánea de la arteria. Esto es una condición que suele ocurrir en mujeres y en edad peri y post-menopausia.  ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Aneurisma de aorta en paciente con enfermedad de Marfan.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Insuficiencia cardíaca con función ventricular severamente deprimida por oclusión crónica de arteria descendente anterior. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Mujer de 43 años con disección de arteria coronaria derecha. ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Ictus de arteria cerebral media con placas en la carótida. ",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "21",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿Cuáles son las válvulas aurículo-ventriculares?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Las válvulas aurículo-ventriculares separan las aurículas de los ventrículos, permitiendo el paso de sangre desde aurículas a ventrículos e impidiendo su retroceso en sentido inverso. La válvula mitral separa la aurícula izquierda del ventrículo izquierdo y la válvula tricúspide la aurícula y ventrículo derechos. Las válvulas aórtica y pulmonar son las válvulas sigmoides. La aórtica separa el ventrículo izquierdo de la arteria aorta y la válvula pulmonar separa el ventrículo derecho de la arteria pulmonar. Aunque existe cierta variabilidad, por lo general las válvulas aórtica y pulmonar y la tricúspide tienen tres velos, mientras que la mitral tienen dos.  ",
+                "feedback_ko": "¡Incorrecto! Las válvulas aurículo-ventriculares separan las aurículas de los ventrículos, permitiendo el paso de sangre desde aurículas a ventrículos e impidiendo su retroceso en sentido inverso. La válvula mitral separa la aurícula izquierda del ventrículo izquierdo y la válvula tricúspide la aurícula y ventrículo derechos. Las válvulas aórtica y pulmonar son las válvulas sigmoides. La aórtica separa el ventrículo izquierdo de la arteria aorta y la válvula pulmonar separa el ventrículo derecho de la arteria pulmonar. Aunque existe cierta variabilidad, por lo general las válvulas aórtica y pulmonar y la tricúspide tienen tres velos, mientras que la mitral tienen dos.  ",
+                "topic": "",
+                "countDown": false,
+                "timeCountDown": 5,
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Aórtica y pulmonar.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Mitral y tricúspide. ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Ambas tienen tres velos.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Ambas tienen dos velos.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "22",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿Cuál es la falsa respecto al seno coronario?",
+                "instructions": "Selecciona las opciones que consideres correctas:",
+                "feedback_ok": "¡Correcto! La respuesta a hace referencia a los senos de Valsalva que son los espacios que quedan por encima de las coronarias. Hay tres senos de Valsalva (coronariano derecho e izquierdo y el no coronariano). El seno coronario es una estructura que drena toda la sangre venosa desoxigenada después de nutrir el músculo cardíaco y la redirige a la aurícula derecha para ser expulada nuevamente a los pulmones. A su través se puede acceder a las proximidades del lado izquierdo del corazón y se utiliza para la colocación de terapia de resincronización. ",
+                "feedback_ko": "¡Incorrecto! La respuesta a hace referencia a los senos de Valsalva que son los espacios que quedan por encima de las coronarias. Hay tres senos de Valsalva (coronariano derecho e izquierdo y el no coronariano). El seno coronario es una estructura que drena toda la sangre venosa desoxigenada después de nutrir el músculo cardíaco y la redirige a la aurícula derecha para ser expulada nuevamente a los pulmones. A su través se puede acceder a las proximidades del lado izquierdo del corazón y se utiliza para la colocación de terapia de resincronización. ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "El nivel de colesterol LDL objetivo para los pacientes con muy alto riesgo cardiovascular es < 70 mg/dL",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "El nivel de colesterol LDL objetivo para los pacientes en prevención secundaria es de < 70 mg/dL. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Un paciente con enfermedad renal crónica con filtrado de 23 ml/min tiene un objetivo de colesterol LDL < 100 mg/dL. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "La apolipoproteina Apo B puede ser mejor parámetro para establecer el riesgo cardiovascular que el colesterol LDL, especialmente en pacientes diabéticos, con hipertrigliceridemia importante, obesos o LDL muy bajos. ",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "23",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿Cuál de las siguientes es correcta sobre la circulación coronaria? ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto!Se presta a interpretación ya que existen dos arterias coronarias (la izquierda y la derecha) aunque la izquierda rápidamente se bifurca en dos ramas (la descendente anterior y la circumfleja) que parten del tronco coronario izquierdo; este es solamente un vaso de “conducción” y no irriga per se al músculo cardíaco sino que lo hace a través de sus ramas. Las arterias coronarias reciben sangre en diástole. En cada latido la sangre sale del ventrículo izquierdo a través de la válvula aórtica. Cuando la presión cae una parte de la sangre retrocede por la arteria aorta y cierra la válvula aórtica, ahí inicia la diástole. En ese momento, con los velos de la válvula aórtica cerrados, la sangre fluye a través de las coronarias. La arteria que irriga más masa ventricular es la descendente anterior. La responsable de irrigar el ventrículo derecho y en la mayor parte de las personas también la cara inferior del septo es la coronaria derecha. ",
+                "feedback_ko": "¡Incorrecto! Se presta a interpretación ya que existen dos arterias coronarias (la izquierda y la derecha) aunque la izquierda rápidamente se bifurca en dos ramas (la descendente anterior y la circumfleja) que parten del tronco coronario izquierdo; este es solamente un vaso de “conducción” y no irriga per se al músculo cardíaco sino que lo hace a través de sus ramas. Las arterias coronarias reciben sangre en diástole. En cada latido la sangre sale del ventrículo izquierdo a través de la válvula aórtica. Cuando la presión cae una parte de la sangre retrocede por la arteria aorta y cierra la válvula aórtica, ahí inicia la diástole. En ese momento, con los velos de la válvula aórtica cerrados, la sangre fluye a través de las coronarias. La arteria que irriga más masa ventricular es la descendente anterior. La responsable de irrigar el ventrículo derecho y en la mayor parte de las personas también la cara inferior del septo es la coronaria derecha. ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Hay tres arterias coronarias principales. ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Las arterias coronarias se perfunden en sístole. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "La arteria coronaria derecha es la que irriga la mayor parte del miocardio.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "La arteria circumfleja da ramas para irrigar el ventrículo derecho y la cara inferior del ventrículo izquierdo.  ",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "24",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "4. ¿Cuál de las siguientes relaciones entre gasto cardiaco, precarga, postcarga y contractilidad es INCORRECTA? ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! El gasto cardiaco es directamente proporcional a la precarga (volumen de sangre telediastólico que contiene un ventrículo) y a la contractilidad (fuerza contráctil de los ventrículos), y es inversamente proporcional a la postcarga (resistencia que deben vencer los ventrículos para impulsar la sangre hacia el exterior). Por otra parte, a mayor precarga, mayor postcarga (cuando el corazón contiene mucha sangre, se acumula presión en su interior, y esa presión debe ser vencida por el propio corazón para mandar la sangre hacia el exterior). ",
+                "feedback_ko": "¡Incorrecto! El gasto cardiaco es directamente proporcional a la precarga (volumen de sangre telediastólico que contiene un ventrículo) y a la contractilidad (fuerza contráctil de los ventrículos), y es inversamente proporcional a la postcarga (resistencia que deben vencer los ventrículos para impulsar la sangre hacia el exterior). Por otra parte, a mayor precarga, mayor postcarga (cuando el corazón contiene mucha sangre, se acumula presión en su interior, y esa presión debe ser vencida por el propio corazón para mandar la sangre hacia el exterior).",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "El gasto cardiaco es directamente proporcional a la precarga. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "El gasto cardiaco es directamente proporcional a la contractilidad.  ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "El gasto cardiaco es directamente proporcional a la postcarga. ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "La precarga es directamente proporcional a la postcarga.  ",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "25",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿Cuál es cierta sobre las enfermedades que afectan al músculo del corazón?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto!La miocardiopatía dilatada se caracteriza por un aumento en el volumen de ventrículo izquierdo o de ambos y pérdida de su contractilidad. Si esto se produce sin causa aparente se conoce como dilatada idiopática. La principal causa de pérdida de contractilidad no es ésta, sino que es la cardiopatía isquémica. No obstante, al hecho de perder fuerza de contracción por cardiopatía isquémica no es correcto llamarlo miocardiopatía dilatada isquémica, ya que el concepto miocardiopatía hace referencia a alteración primaria, sin otra causa que lo justifique. En cualquier caso en el enunciado no hace referencia a miocardiopatía en concreto sino a afectación del músculo cardíaco. En la restrictiva el miocardio se sustituye por otro material distinto que acaba endureciendo el miocardio y comprometiendo su relajación (y también contracción). La hipertrófica inicialmente cursa con aumento de contractilidad aunque en fases finales puede dilatarse.  ",
+                "feedback_ko": "¡Incorrecto! La miocardiopatía dilatada se caracteriza por un aumento en el volumen de ventrículo izquierdo o de ambos y pérdida de su contractilidad. Si esto se produce sin causa aparente se conoce como dilatada idiopática. La principal causa de pérdida de contractilidad no es ésta, sino que es la cardiopatía isquémica. No obstante, al hecho de perder fuerza de contracción por cardiopatía isquémica no es correcto llamarlo miocardiopatía dilatada isquémica, ya que el concepto miocardiopatía hace referencia a alteración primaria, sin otra causa que lo justifique. En cualquier caso en el enunciado no hace referencia a miocardiopatía en concreto sino a afectación del músculo cardíaco. En la restrictiva el miocardio se sustituye por otro material distinto que acaba endureciendo el miocardio y comprometiendo su relajación (y también contracción). La hipertrófica inicialmente cursa con aumento de contractilidad aunque en fases finales puede dilatarse. ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "La miocardiopatía dilatada cursa con ganancia de contractilidad ventricular.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "La miocardiopatía restrictiva se produce por procesos que infiltran o sustituyen el miocardio y pueden dificultar su relajación produciendo insuficiencia cardíaca.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "La miocardiopatía hipertrófica genera inicialmente una pérdida de la fuerza contráctil del miocardio. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "La principal causa de pérdida de la contracción ventricular es la miocardiopatía dilatada idiopática.  ",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "26",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿Por qué suele producirse un infarto agudo de miocardio? ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto!La mayoría de infartos agudos de miocardio se producen por la formación de trombos dentro de una arteria coronaria; la causa de formación de dichos trombos suele ser la rotura de una placa de colesterol: el colesterol del interior entra en contacto con la sangre, y la sangre se coagula (porque detecta que existen componentes extraños). El trombo que se forma, si ocluye totalmente la luz del vaso, evita el paso de la sangre provocando la muerte del territorio cardiaco irrigado por la arteria ocluida.   ",
+                "feedback_ko": "¡Incorrecto! La mayoría de infartos agudos de miocardio se producen por la formación de trombos dentro de una arteria coronaria; la causa de formación de dichos trombos suele ser la rotura de una placa de colesterol: el colesterol del interior entra en contacto con la sangre, y la sangre se coagula (porque detecta que existen componentes extraños). El trombo que se forma, si ocluye totalmente la luz del vaso, evita el paso de la sangre provocando la muerte del territorio cardiaco irrigado por la arteria ocluida.  ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Porque una placa de ateroma crece tanto que ocluye totalmente la luz de una arteria coronaria. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Porque un trombo en otra localización del organismo desprende un fragmento (émbolo) que acaba llegando a una arteria coronaria y la ocluye.  ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Porque una placa de ateroma se rompe, y se forma un trombo a dicho nivel dentro de la arteria coronaria.  ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Porque una placa de ateroma se rompe, y se produce un sangrado desde la arteria coronaria hacia fuera de la arteria. ",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "27",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿Qué es cierto sobre los músculos papilares?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Los músculos papilares son estructuras que se hallan en los ventrículos (tanto derecho como izquierdo). Un extremo se inserta en el miocardio ventricular mientras que el otro, a través de unas prolongaciones conocidas como cuerdas tendinosas se ancha a la porción libre de los velos de las válvulas aurículo-ventriculares. Hay varios músculos papilares por ventrículo pero no necesariamente uno por cada velo, de hecho lo más frecuente es que de cada músculo papilar surjan cuerdas tendinosas a varios velos. No contribuyen a la eyección de sangre de los ventrículos. Su misión es sostener las válvulas mitral y tricúspide cuando se contraen los ventrículos para que la sangre no retorne a las aurículas y solamente puede salir hacia la aorta y pulmonar; por lo tanto su función no es abrir las válvulas, sino mantenerlas cerradas contra la presión que ejercen los ventrículos. Las válvulas mitral y tricúspide se abren por diferencia de presión de forma pasiva.     ",
+                "feedback_ko": "¡Incorrecto! Los músculos papilares son estructuras que se hallan en los ventrículos (tanto derecho como izquierdo). Un extremo se inserta en el miocardio ventricular mientras que el otro, a través de unas prolongaciones conocidas como cuerdas tendinosas se ancha a la porción libre de los velos de las válvulas aurículo-ventriculares. Hay varios músculos papilares por ventrículo pero no necesariamente uno por cada velo, de hecho lo más frecuente es que de cada músculo papilar surjan cuerdas tendinosas a varios velos. No contribuyen a la eyección de sangre de los ventrículos. Su misión es sostener las válvulas mitral y tricúspide cuando se contraen los ventrículos para que la sangre no retorne a las aurículas y solamente puede salir hacia la aorta y pulmonar; por lo tanto su función no es abrir las válvulas, sino mantenerlas cerradas contra la presión que ejercen los ventrículos. Las válvulas mitral y tricúspide se abren por diferencia de presión de forma pasiva.    ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Se anclan mediante las cuerdas tendinosas a los extremos libres de los velos de las válvulas aurículo-ventriculares. ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Su utilidad es abrir las válvulas mitral y tricúspide para permitir el paso de sangre de las aurículas a los ventrículos.  ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Hay un músculo papilar para cada velo de las válvulas mitral y tricúspide.  ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Los músculos papilares son parte fundamental para la contribución en eyección de sangre de los ventrículos. ",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "28",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿Qué nombre reciben los vasos que recogen la sangre oxigenada de los pulmones y la retornan al corazón?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! La sangre no oxigenada de todo el cuerpo llega a la aurícula derecha por las venas cavas. Pasa al ventrículo derecho y de allí sale por la arteria pulmonar hacia los pulmones donde se oxigenará. Esta sangre, ya oxigenada, es recogida por las venas pulmonares (hay 4 de ellas generalmente) y  retorna a la aurícula izquierda, donde atravesará la válvula mitral hasta el ventrículo izquierdo y se expulsará por la válvula aórtica para irrigar todo el organismo. Las arterias y venas bronquiales son las que irrigan el propio tejido del pulmón, no las encargadas de realizar el intercambio gaseoso. Hay que destacar que el concepto de arteria y vena no hace referencia a si la sangre que lleva en su interior es oxigenada o no oxigenada, sino a las características de su pared y al sentido en el que lleva la sangre. Los vasos que se dirigen hacia el corazón son venas, los que salen del él son arterias. La arteria pulmonar es la única del organismo que lleva sangre no oxigenada y las venas pulmonares son las únicas que llevan sangre oxigenada. ",
+                "feedback_ko": "¡Incorrecto! La sangre no oxigenada de todo el cuerpo llega a la aurícula derecha por las venas cavas. Pasa al ventrículo derecho y de allí sale por la arteria pulmonar hacia los pulmones donde se oxigenará. Esta sangre, ya oxigenada, es recogida por las venas pulmonares (hay 4 de ellas generalmente) y  retorna a la aurícula izquierda, donde atravesará la válvula mitral hasta el ventrículo izquierdo y se expulsará por la válvula aórtica para irrigar todo el organismo. Las arterias y venas bronquiales son las que irrigan el propio tejido del pulmón, no las encargadas de realizar el intercambio gaseoso. Hay que destacar que el concepto de arteria y vena no hace referencia a si la sangre que lleva en su interior es oxigenada o no oxigenada, sino a las características de su pared y al sentido en el que lleva la sangre. Los vasos que se dirigen hacia el corazón son venas, los que salen del él son arterias. La arteria pulmonar es la única del organismo que lleva sangre no oxigenada y las venas pulmonares son las únicas que llevan sangre oxigenada.     ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Arterias pulmonares.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Arterias bronquiales.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Venas pulmonares.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Venas bronquiales. ",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "29",
+                "qType": "TEST_TYPE.MULTIPLE_OPTION",
+                "qTitle": "¿Cuál es correcta sobre la circulación cerebral? ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto!El polígono de Willis es una estructura de seguridad que comunica la circulación arterial de ambos hemisferios cerebrales. De esta forma, si una carótida se ocluye, la otra podría suplir la irrigación del otro hemisferio cerebral. Por lo general no se ocluye una carótida por completo, sino sus ramas y el polígono no es capaz de salvar el problema. Existen generalmente tres troncos supra-aórticos (tres ramas que da la aorta en el cayado antes de convertirse en aorta torácica descendente): tronco braquicefálico derecho (que después se bifurca en carótida derecha y subclavia derecha), carótida izquierda y subclavia izquierda.   ",
+                "feedback_ko": "¡Incorrecto! El polígono de Willis es una estructura de seguridad que comunica la circulación arterial de ambos hemisferios cerebrales. De esta forma, si una carótida se ocluye, la otra podría suplir la irrigación del otro hemisferio cerebral. Por lo general no se ocluye una carótida por completo, sino sus ramas y el polígono no es capaz de salvar el problema. Existen generalmente tres troncos supra-aórticos (tres ramas que da la aorta en el cayado antes de convertirse en aorta torácica descendente): tronco braquicefálico derecho (que después se bifurca en carótida derecha y subclavia derecha), carótida izquierda y subclavia izquierda.  ",
+                "number_of_answers": 4,
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "El principal vaso que lleva sangre al cerebro es la arteria carótida interna.   ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Gracias al polígono de Willis se conecta la circulación arterial de los lados derecho e izquierdo.  ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "La principal vena que drena la sangre del encéfalo es la yugular. ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Por lo general la arteria carótida derecha sale de la aorta mediante un tronco común que comparte con la subclavia de ese mismo lado (tronco braquicefálico derecho), mientras que la carótida izquierda suele tener un origen independiente y directo desde el cayado aórtico.  ",
+                        "correct": true,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "30",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿Qué es la circulación portal? ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! La circulación portal es un sistema de circulación venosa que recoge la sangre venosa del tubo digestivo, incluyendo todos los nutrientes absorbidos con la digestión de los alimentos, y la transporta al hígado para que este metabolice los nutrientes obtenidos.  ",
+                "feedback_ko": "¡Incorrecto!La circulación portal es un sistema de circulación venosa que recoge la sangre venosa del tubo digestivo, incluyendo todos los nutrientes absorbidos con la digestión de los alimentos, y la transporta al hígado para que este metabolice los nutrientes obtenidos.  ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Es la gran arteria que aporta sangre oxigenada al hígado.  ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Es la vena que lleva la sangre venosa del hígado hacia la aurícula derecha.  ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Es la vena que lleva los nutrientes absorbidos en el intestino hacia el hígado para ser procesados. ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Es una arteria que lleva nutrientes del hígado al resto de vísceras abdominales. ",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "31",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿Cuál de las siguientes fórmulas relaciona correctamente presión arterial (PA), gasto cardiaco (GC) y resistencias vasculares (RV)? ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! La presión arterial es la fuerza que ejerce la sangre contra la pared de las arterias del organismo. Es directamente proporcional a la cantidad de sangre que fluye a su través (cuanta más sangre, más presión) y a la resistencia que las arterias ejercen frente al paso de la sangre (cuanta más resistencia ejerzan, más presión provocarán).",
+                "feedback_ko": "¡Incorrecto! La presión arterial es la fuerza que ejerce la sangre contra la pared de las arterias del organismo. Es directamente proporcional a la cantidad de sangre que fluye a su través (cuanta más sangre, más presión) y a la resistencia que las arterias ejercen frente al paso de la sangre (cuanta más resistencia ejerzan, más presión provocarán). ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "PA = RV / GC.   ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "PA = GC / RV.   ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "PA = GC · RV.  ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "PA = GC2 · RV.  ",
+                        "correct": true,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "32",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Las estatinas son fármacos de primera línea para el control de los niveles de colesterol. Señale la respuesta falsa sobre ellas: ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! La respuesta A es falsa porque son fármacos generalmente bien tolerados. El principal efecto adverso atribuible son las mialgias aunque en estudios cegados y controlados con placebo las diferencias no fueron significativas. La rabdomiolisis y la toxicidad hepática que obligue a la suspensión del fármaco son muy raras. La opción D es falsa porque no reducen la absorción del colesterol en la luz intestinal sino que reducen su síntesis al inhibir la HMG-CoA reductasa.   ",
+                "feedback_ko": "¡Incorrecto! La respuesta A es falsa porque son fármacos generalmente bien tolerados. El principal efecto adverso atribuible son las mialgias aunque en estudios cegados y controlados con placebo las diferencias no fueron significativas. La rabdomiolisis y la toxicidad hepática que obligue a la suspensión del fármaco son muy raras. La opción D es falsa porque no reducen la absorción del colesterol en la luz intestinal sino que reducen su síntesis al inhibir la HMG-CoA reductasa.   ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Son fármacos no muy bien tolerados y cuyos efectos adversos (rabdomiolisis y hepatotoxicidad) limitan en muchas ocasiones su uso. ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Existen estatinas de distinta potencia que debemos elegir en función del LDL objetivo de nuestro paciente. La reducción estimada de colesterol varía entre el 20 y 50% de colesterol LDL.  ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Son de primera línea para el tratamiento de la hipertrigliceridemia. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Actúan mediante la inhibición de la enzima HMG-CoA reductasa reduciendo la absorción de colesterol en la luz intestinal. ",
+                        "correct": true,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "33",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Para establecer correctamente el riesgo cardiovascular de nuestros pacientes podemos utilizar ciertas pruebas o exploraciones para modificar su riesgo, ¿cuál de las siguientes son aceptadas?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! El índice de Yao o índice tobillo-brazo es el cociente de la tensión arterial medida en el tobillo y en el brazo. Si este cociente es < a 0.9 (o > 1.4 indicando rigidez arterial) existe un riesgo aumentado de sufrir un evento cardiovascular. Dentro de las pruebas de imagen también son de utilidad el score de calcio coronario que es equiparable a tener placas de ateroesclerosis en las carótidas o en las femorales medidas por ecografía. No debemos exponer a nuestros paciente simplemente para evaluar el riesgo cardiovascular a la radiación generado por un TC de tórax pero, en caso de realizarse por otras causas, si disponemos de la cuantificación de calcio puede ser de utilidad para afinar el riesgo cardiovascular. El fondo de ojo como marcador de lesión de órgano diana reclasifica a nuestros pacientes diabéticos e hipertensos como de muy alto riesgo cardiovascular. El grosor íntima-media no se aconseja ya para reclasificar a los pacientes por la variabilidad en su medición.    ",
+                "feedback_ko": "¡Incorrecto! El índice de Yao o índice tobillo-brazo es el cociente de la tensión arterial medida en el tobillo y en el brazo. Si este cociente es < a 0.9 (o > 1.4 indicando rigidez arterial) existe un riesgo aumentado de sufrir un evento cardiovascular. Dentro de las pruebas de imagen también son de utilidad el score de calcio coronario que es equiparable a tener placas de ateroesclerosis en las carótidas o en las femorales medidas por ecografía. No debemos exponer a nuestros paciente simplemente para evaluar el riesgo cardiovascular a la radiación generado por un TC de tórax pero, en caso de realizarse por otras causas, si disponemos de la cuantificación de calcio puede ser de utilidad para afinar el riesgo cardiovascular. El fondo de ojo como marcador de lesión de órgano diana reclasifica a nuestros pacientes diabéticos e hipertensos como de muy alto riesgo cardiovascular. El grosor íntima-media no se aconseja ya para reclasificar a los pacientes por la variabilidad en su medición.     ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Índice de Yao.  ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Grosor íntima-media ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Calcio score medido por TC coronario. ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Fondo de ojo. ",
+                        "correct": true,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "34",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "De las siguientes asociaciones fármaco – efecto adverso señale la respuesta correcta:",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! El efecto adverso más frecuentemente asociado a los iPCSK9 son las molestias en el punto de punción porque solo se disponen de forma subcutánea. Los fibratos son muy bien tolerados y por lo general no presentan efectos adversos, que en caso de presentarse, se verían potenciados por el uso concomitante con estatinas y se trataría de miopatía. Aunque no se ha establecido correctamente el efecto en los fetos se desaconseja el uso de estatinas en mujeres en edad fértil si no se utiliza un método anticonceptivo eficaz. En caso de embarazo si la paciente está tomando estatinas, se aconseja su suspensión inmediata. Las resinas de intercambio, también conocidas como quelantes de sales biliares, son fármacos que no se absorben y ejercen su efecto a nivel de la luz intestinal disminuyendo la absorció de grasas y provocando molestias abdominales.  ",
+                "feedback_ko": "¡Incorrecto! El efecto adverso más frecuentemente asociado a los iPCSK9 son las molestias en el punto de punción porque solo se disponen de forma subcutánea. Los fibratos son muy bien tolerados y por lo general no presentan efectos adversos, que en caso de presentarse, se verían potenciados por el uso concomitante con estatinas y se trataría de miopatía. Aunque no se ha establecido correctamente el efecto en los fetos se desaconseja el uso de estatinas en mujeres en edad fértil si no se utiliza un método anticonceptivo eficaz. En caso de embarazo si la paciente está tomando estatinas, se aconseja su suspensión inmediata. Las resinas de intercambio, también conocidas como quelantes de sales biliares, son fármacos que no se absorben y ejercen su efecto a nivel de la luz intestinal disminuyendo la absorció de grasas y provocando molestias abdominales. ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Inhibidores PCSK9  - fototoxicidad. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Fibratos – esteatorrea.  ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Estatinas – teratogenicidad",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Resinas de intercambio – flatulencia y molestias abdominales.",
+                        "correct": true,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "35",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Indica la asociación correcta entre fármaco y mecanismo de acción:",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Alirocumab y evolocumab son anticuerpos monoclonales dirigidos contra la molécula PCSK9. El otro fármaco que actúa en este punto para disminuir la síntesis de colesterol es el Inclisirán, que es un ARNm de interferencia contra el ARNm sintetizado por el núcleo celular que codifica para PCSK9. Las estatinas actúan inhibiendo HMG-CoA reductasa. El ácido bempedoico inhibe la ATP citrato liasa. Los fármacos análogos de PPAR-alfa son los fibratos. El ezetimibe actúa a nivel del enterocito disminuyendo la absorción de colesterol por interacción con la proteína similar a Niemann-Pick.   ",
+                "feedback_ko": "¡Incorrecto! Alirocumab y evolocumab son anticuerpos monoclonales dirigidos contra la molécula PCSK9. El otro fármaco que actúa en este punto para disminuir la síntesis de colesterol es el Inclisirán, que es un ARNm de interferencia contra el ARNm sintetizado por el núcleo celular que codifica para PCSK9. Las estatinas actúan inhibiendo HMG-CoA reductasa. El ácido bempedoico inhibe la ATP citrato liasa. Los fármacos análogos de PPAR-alfa son los fibratos. El ezetimibe actúa a nivel del enterocito disminuyendo la absorción de colesterol por interacción con la proteína similar a Niemann-Pick.     ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Alirocumab – inhibición PCSK9.  ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Atorvastatina - inhibidor citrato liasa.  ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Ácido bempedoico – agonista PPAR-alfa.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Ezetimibe – ARNm interferencia contra PCSK9.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "36",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿Qué grupo farmacológico deberíamos elegir para iniciar el tratamiento de la hipercolesterolemia?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! El esquema de tratamiento recomendado en las guías inicia con estatinas. En caso de no controlarse los niveles de LDL debería adicionarse ezetimibe y si tras ello, no conseguimos niveles objetivo debería adicionarse iPCSK9. El poder de reducción de LDL estimado al combinarlos está en torno al 85%, por lo que la mayoría de pacientes alcanzarán niveles objetivo. ",
+                "feedback_ko": "¡Incorrecto!El esquema de tratamiento recomendado en las guías inicia con estatinas. En caso de no controlarse los niveles de LDL debería adicionarse ezetimibe y si tras ello, no conseguimos niveles objetivo debería adicionarse iPCSK9. El poder de reducción de LDL estimado al combinarlos está en torno al 85%, por lo que la mayoría de pacientes alcanzarán niveles objetivo.    ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Fibratos",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Estatinas",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "iPCSK9. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Ezetimibe. ",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "37",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Señale cuál de los siguientes pacientes cual tiene un riesgo cardiovascular muy alto:",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! En la opción a nos presentan un ictus que no es de causa ateroesclerótica, sino hemorrágica por lo que no computa. La paciente de la opción b es diabética, aunque de reciente diagnóstico, pero su infarto no ha sido por una placa de colesterol, sino por un trombo formado dentro del corazón y que ha migrado a una arteria coronaria (infarto embólico), esto ha sido precipitado por la arritmia predisponente, conocida como fibrilación auricular. La opción c es de territorio venoso, en un paciente con una condición que aumenta las trombosis en territorios venosos. En la opción d nos están describiendo una hipercolesterolemia familiar, LDL muy elevado (ya solamente por este criterio diagnosticaríamos la enfermedad) con xantomas tendinosos y con un factor de riesgo cardiovascular. Además es muy joven y la probabilidad de sufrir un evento es altísima a lo largo de la vida.   ",
+                "feedback_ko": "¡Incorrecto! En la opción a nos presentan un ictus que no es de causa ateroesclerótica, sino hemorrágica por lo que no computa. La paciente de la opción b es diabética, aunque de reciente diagnóstico, pero su infarto no ha sido por una placa de colesterol, sino por un trombo formado dentro del corazón y que ha migrado a una arteria coronaria (infarto embólico), esto ha sido precipitado por la arritmia predisponente, conocida como fibrilación auricular. La opción c es de territorio venoso, en un paciente con una condición que aumenta las trombosis en territorios venosos. En la opción d nos están describiendo una hipercolesterolemia familiar, LDL muy elevado (ya solamente por este criterio diagnosticaríamos la enfermedad) con xantomas tendinosos y con un factor de riesgo cardiovascular. Además es muy joven y la probabilidad de sufrir un evento es altísima a lo largo de la vida.     ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Varón de 76 años con ictus hemorrágico e hipertensión arterial con TAS 160 mmHg.  ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Mujer de 66 años diabética tipo II de reciente diagnóstico que sufre un infarto agudo de miocardio embólico siendo diagnosticada de fibrilación auricular. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Trombosis venosa profunda de la ilíaca derecha en mujer con síndrome antifosfolípido. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Varón de 16 años con LDL colesterol de 363 mg/dL, hipertenso y con depósitos amarillentos en ambas regiones de los tendones de Aquiles. ",
+                        "correct": true,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "38",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "En ocasiones, las guías de práctica clínica no alcanzan a recoger la evidencia científica más actual reflejada en ensayos clínica debido a la rápida evolución en este campo. De las siguientes cuál es cierta?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Las opciones recogen algunas de las recomendaciones de las últimas guías de prevención cardiovascular y algunos ensayos clínicos. Todas son correctas.  ",
+                "feedback_ko": "¡Incorrecto! Las opciones recogen algunas de las recomendaciones de las últimas guías de prevención cardiovascular y algunos ensayos clínicos. Todas son correctas. ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Se debe considerar una reducción cuánto más precoz e intensiva mejor en los pacientes que presentan un infarto agudo de miocardio. ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Debe considerarse un objetivo de LDL < 40 mg/dL en los pacientes que sufren dos eventos cardiovasculares en 2 años, aunque sean de distintos territorios. ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "En los ensayos clínicos los niveles bajos de colesterol se relacionaron con menor tasa de eventos cardiovasculares sin efectos adversos relevantes por lo que en los próximos años podría considerarse un objetivo de LDL < 40 mg/dL directamente. ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "La tensión arterial objetivo debe ser 130/80  mmHg siempre y cuando no genere efectos adversos. En cualquier caso y para cualquier grupo de edad debe ser inferior a 140/90 mmHg. ",
+                        "correct": true,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "39",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Una de las manifestaciones de la enfermedad cardiovascular ateroesclerótica es la cardiopatía isquémica en su forma angina estable o síndrome coronario agudo (infarto agudo de miocardio). ¿Cuál de las siguientes no corresponde al siguiente espectro?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Las tres primeras son las manifestaciones típicas de la cardiopatía isquémica. La A nos relata una angina estable. La opción B es sugestivo de infarto agudo de miocardio así como la C; esta última cursa con parada cardiorrespiratoria. La D nos relata una pericarditis aguda, varón joven tras cuadro catarral y con el patrón de dolor característico; los cambios en el ECG son frecuentes, aunque en la opción no especifica el tipo de cambios.   ",
+                "feedback_ko": "¡Incorrecto! Las tres primeras son las manifestaciones típicas de la cardiopatía isquémica. La A nos relata una angina estable. La opción B es sugestivo de infarto agudo de miocardio así como la C; esta última cursa con parada cardiorrespiratoria. La D nos relata una pericarditis aguda, varón joven tras cuadro catarral y con el patrón de dolor característico; los cambios en el ECG son frecuentes, aunque en la opción no especifica el tipo de cambios. ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Varón de 68 años, fumador e hipertenso que desde hace 8 meses cuando camina en pendiente tiene presión en el centro del tórax que le obliga a pararse. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Mujer de 53 años, diabético y dislipémica que, estando en reposo presenta dolor en el centro del tórax que se irradia hacia el cuello, hombro izquierdo y espalda que no cede con el tratamiento analgésico que ha tomado. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Hombre de 77 años que se encontraba deambulando por la calle con dificultad respiratoria y opresión en la “boca del estómago”. Súbitamente se desvanece y los testigos inician maniobras de RCP. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Varón de 27 años que tiene dolor en el centro del tórax que aumenta al inspirar y tumbarse en la cama. Mejora al inclinarse hacia delante. En los días previos ha tenido un catarro y ahora presenta alteraciones en el electrocardiograma. ",
+                        "correct": true,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "40",
                 "qType": "TEST_TYPE.SINGLE_OPTION",
                 "qTitle": "¿Cuál de los siguientes no se consideraría enfermedad cardiovascular de causa ateroesclerótica?",
                 "instructions": "Selecciona una opción:",
