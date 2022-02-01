@@ -35,7 +35,7 @@ background-color: #0460A9 !important;
 }
 
 .activity activity-test .testcontent .page-indicator, .activity mines-weeper-test .testcontent .page-indicator {
-    display: none !important;
+    display: display-inside !important ;
 }
 .activity activity-test .testcontent, .activity mines-weeper-test .testcontent {
     background: #ffffff !important;

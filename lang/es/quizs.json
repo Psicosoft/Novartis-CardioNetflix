@@ -745,7 +745,7 @@
                 ]
             }
         ],
-        "2.6": [
+        "2.8": [
             {
                 "id": "1",
                 "qType": "TEST_TYPE.SINGLE_OPTION",
@@ -974,7 +974,7 @@
                 "id": "7",
                 "qType": "TEST_TYPE.MULTIPLE_OPTION",
                 "qTitle": "No exclusivamente los factores de riesgo cardiovascular clásicos deberían ser considerados a la hora de establecer el riesgo cardiovascular de un paciente. Hay otras situaciones que modifican el riesgo que ofrecen las tablas SCORE y que deberían considerarse a la hora de hacer un abordaje integral y más acertado del riesgo de los pacientes. ¿Cuáles de los siguientes deberíamos considerar?",
-                "instructions": "Selecciona una opción:",
+                "instructions": "Selecciona las opciones que consideres correctas:",
                 "feedback_ok": "¡Correcto! Aunque las escalas de valoración del riesgo cardiovascular son muy útiles, no solamente debemos tener en cuenta las condiciones que se recogen en éstas. Todos las opciones expuestas deben ser consideradas por aumentar el riesgo cardiovascular. Especialmente resulta importante en sujetos jóvenes en quienes el riesgo cardiovascular a lo largo de la vida es mucho mayor y el potencial de reducir eventos cardiovascular es mayor.   ",
                 "feedback_ko": "¡Incorrecto! Aunque las escalas de valoración del riesgo cardiovascular son muy útiles, no solamente debemos tener en cuenta las condiciones que se recogen en éstas. Todos las opciones expuestas deben ser consideradas por aumentar el riesgo cardiovascular. Especialmente resulta importante en sujetos jóvenes en quienes el riesgo cardiovascular a lo largo de la vida es mucho mayor y el potencial de reducir eventos cardiovascular es mayor.   ",
                 "number_of_answers": 4,
@@ -1012,7 +1012,7 @@
                 "id": "8",
                 "qType": "TEST_TYPE.MULTIPLE_OPTION",
                 "qTitle": "Respecto a las escalas de cálculo de riesgo cardiovascular señale TODAS las respuestas correctas: ",
-                "instructions": "Selecciona una opción:",
+                "instructions": "Selecciona las opciones que consideres correctas:",
                 "feedback_ok": "¡Correcto! El SCORE es la escala de riesgo más utilizada, sobre todo en el ámbito europeo, y sirva para estimar el riesgo de tener cualquier evento cardiovascular que curse con la muerte en los próximos 10 años (respuesta D falsa,  no es solamente infarto, sino cualquier evento cardiovascular y debe ser mortal). Para evaluarlo considera las variables edad, el sexo, hábito tabáquico, colesterol total y cifras de presión arterial sistólica (respuesta C falsa por no ser solamente el colesterol LDL, sino el total).   ",
                 "feedback_ko": "¡Incorrecto! El SCORE es la escala de riesgo más utilizada, sobre todo en el ámbito europeo, y sirva para estimar el riesgo de tener cualquier evento cardiovascular que curse con la muerte en los próximos 10 años (respuesta D falsa,  no es solamente infarto, sino cualquier evento cardiovascular y debe ser mortal). Para evaluarlo considera las variables edad, el sexo, hábito tabáquico, colesterol total y cifras de presión arterial sistólica (respuesta C falsa por no ser solamente el colesterol LDL, sino el total).    ",
                 "number_of_answers": 2,
@@ -1086,8 +1086,8 @@
             {
                 "id": "10",
                 "qType": "TEST_TYPE.MULTIPLE_OPTION",
-                "qTitle": "De las siguientes situaciones, ¿cuál confiere muy alto riesgo cardiovascular? ",
-                "instructions": "Selecciona una opción:",
+                "qTitle": "De las siguientes situaciones, ¿cuáles confieren muy alto riesgo cardiovascular? ",
+                "instructions": "Selecciona las opciones que consideres correctas:",
                 "feedback_ok": "¡Correcto! En la opción b nos describen un síndrome de Leriche que se caracteriza por lesiones ateroescleróticas en región ilíaca y que cursa con dolor glúteo y disfunción eréctil. Esto se considera enfermedad cardiovascular establecida clínica y debe ser tratado como muy alto riesgo cardiovascular con objetivo de LDL < 55 mg/dL. Al igual que la opción d en la que nos describen a un diabético con lesión de órgano diana. La respuesta a y c per se no condicionan un riesgo cardiovascular muy elevado, por lo que ambas deben tratarse como prevención primaria en un sujeto con alto riesgo cardiovascular, objetivo de LDL < 70 mg/dL.   ",
                 "feedback_ko": "¡Incorrecto! En la opción b nos describen un síndrome de Leriche que se caracteriza por lesiones ateroescleróticas en región ilíaca y que cursa con dolor glúteo y disfunción eréctil. Esto se considera enfermedad cardiovascular establecida clínica y debe ser tratado como muy alto riesgo cardiovascular con objetivo de LDL < 55 mg/dL. Al igual que la opción d en la que nos describen a un diabético con lesión de órgano diana. La respuesta a y c per se no condicionan un riesgo cardiovascular muy elevado, por lo que ambas deben tratarse como prevención primaria en un sujeto con alto riesgo cardiovascular, objetivo de LDL < 70 mg/dL.    ",
                 "number_of_answers": 2,
@@ -1123,37 +1123,43 @@
             },
             {
                 "id": "11",
-                "qType": "TEST_TYPE.MULTIPLE_OPTION",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
                 "qTitle": "Sobre los objetivos de control de los distintos factores de riesgo cardiovascular, ¿cuál es la correcta? ",
                 "instructions": "Selecciona una opción:",
                 "feedback_ok": "¡Correcto! La pregunta expone cuál el objetivo de control para estos factores de riesgo cardiovascular. Por supuesto, evitar cualquier exposición al humo del tabaco, realizar ejercicio físico de intensidad moderada 30-60 minutos al día, IMC 20-25, son otros de los objetivos a considerar. Mención especial a los objetivos de tensión arterial que se han endurecido en las últimas guías de prevención cardiovascular recomendando una TA < 130/80 mmHg para todas las edades y grupos siempre y cuando no ocasione síntomas. Se puede ser algo más laxo con los ancianos y la enfermedad renal crónica si esto condiciona empeoramiento de la función renal. ",
                 "feedback_ko": "¡Incorrecto! La pregunta expone cuál el objetivo de control para estos factores de riesgo cardiovascular. Por supuesto, evitar cualquier exposición al humo del tabaco, realizar ejercicio físico de intensidad moderada 30-60 minutos al día, IMC 20-25, son otros de los objetivos a considerar. Mención especial a los objetivos de tensión arterial que se han endurecido en las últimas guías de prevención cardiovascular recomendando una TA < 130/80 mmHg para todas las edades y grupos siempre y cuando no ocasione síntomas. Se puede ser algo más laxo con los ancianos y la enfermedad renal crónica si esto condiciona empeoramiento de la función renal.  ",
-                "number_of_answers": 4,
+              
                 "topic": "",
                 "points": 3,
-                "options_order_random": true,
+                "options_order_random": false,
                 "options": [
                     {
                         "id": "1",
                         "text": "Perímetro abdominal < 94 cm en varones y < 80 cm en mujeres.  ",
-                        "correct": true,
+                        "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "2",
                         "text": "Tensión arterial < 130/80 mmHg.  ",
-                        "correct": true,
+                        "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "3",
                         "text": "HbA1c < 7%. ",
-                        "correct": true,
+                        "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "4",
                         "text": "LDL 116/ 100/  70/  55 ajustado según riesgo cardiovascular bajo/ moderado/ alto/ muy alto. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "5",
+                        "text": "Todas las opciones son correctas",
                         "correct": true,
                         "feedback": ""
                     }
@@ -1162,8 +1168,8 @@
             {
                 "id": "12",
                 "qType": "TEST_TYPE.MULTIPLE_OPTION",
-                "qTitle": "Las estatinas son fármacos de primera línea para el control de los niveles de colesterol. Señale la respuesta falsa sobre ellas: ",
-                "instructions": "Selecciona una opción:",
+                "qTitle": "Las estatinas son fármacos de primera línea para el control de los niveles de colesterol. Señala las afirmaciones falsas sobre ellas: ",
+                "instructions": "Selecciona las opciones FALSAS:",
                 "feedback_ok": "¡Correcto! La respuesta A es falsa porque son fármacos generalmente bien tolerados. El principal efecto adverso atribuible son las mialgias aunque en estudios cegados y controlados con placebo las diferencias no fueron significativas. La rabdomiolisis y la toxicidad hepática que obligue a la suspensión del fármaco son muy raras. La opción D es falsa porque no reducen la absorción del colesterol en la luz intestinal sino que reducen su síntesis al inhibir la HMG-CoA reductasa.   ",
                 "feedback_ko": "¡Incorrecto! La respuesta A es falsa porque son fármacos generalmente bien tolerados. El principal efecto adverso atribuible son las mialgias aunque en estudios cegados y controlados con placebo las diferencias no fueron significativas. La rabdomiolisis y la toxicidad hepática que obligue a la suspensión del fármaco son muy raras. La opción D es falsa porque no reducen la absorción del colesterol en la luz intestinal sino que reducen su síntesis al inhibir la HMG-CoA reductasa.   ",
                 "number_of_answers": 2,
@@ -1201,7 +1207,7 @@
                 "id": "13",
                 "qType": "TEST_TYPE.MULTIPLE_OPTION",
                 "qTitle": "Para establecer correctamente el riesgo cardiovascular de nuestros pacientes podemos utilizar ciertas pruebas o exploraciones para modificar su riesgo, ¿cuál de las siguientes son aceptadas?",
-                "instructions": "Selecciona una opción:",
+                "instructions": "Selecciona las opciones que consideres correctas:",
                 "feedback_ok": "¡Correcto! El índice de Yao o índice tobillo-brazo es el cociente de la tensión arterial medida en el tobillo y en el brazo. Si este cociente es < a 0.9 (o > 1.4 indicando rigidez arterial) existe un riesgo aumentado de sufrir un evento cardiovascular. Dentro de las pruebas de imagen también son de utilidad el score de calcio coronario que es equiparable a tener placas de ateroesclerosis en las carótidas o en las femorales medidas por ecografía. No debemos exponer a nuestros paciente simplemente para evaluar el riesgo cardiovascular a la radiación generado por un TC de tórax pero, en caso de realizarse por otras causas, si disponemos de la cuantificación de calcio puede ser de utilidad para afinar el riesgo cardiovascular. El fondo de ojo como marcador de lesión de órgano diana reclasifica a nuestros pacientes diabéticos e hipertensos como de muy alto riesgo cardiovascular. El grosor íntima-media no se aconseja ya para reclasificar a los pacientes por la variabilidad en su medición.    ",
                 "feedback_ko": "¡Incorrecto! El índice de Yao o índice tobillo-brazo es el cociente de la tensión arterial medida en el tobillo y en el brazo. Si este cociente es < a 0.9 (o > 1.4 indicando rigidez arterial) existe un riesgo aumentado de sufrir un evento cardiovascular. Dentro de las pruebas de imagen también son de utilidad el score de calcio coronario que es equiparable a tener placas de ateroesclerosis en las carótidas o en las femorales medidas por ecografía. No debemos exponer a nuestros paciente simplemente para evaluar el riesgo cardiovascular a la radiación generado por un TC de tórax pero, en caso de realizarse por otras causas, si disponemos de la cuantificación de calcio puede ser de utilidad para afinar el riesgo cardiovascular. El fondo de ojo como marcador de lesión de órgano diana reclasifica a nuestros pacientes diabéticos e hipertensos como de muy alto riesgo cardiovascular. El grosor íntima-media no se aconseja ya para reclasificar a los pacientes por la variabilidad en su medición.     ",
                 "number_of_answers": 3,
@@ -1238,8 +1244,8 @@
             {
                 "id": "14",
                 "qType": "TEST_TYPE.MULTIPLE_OPTION",
-                "qTitle": "De las siguientes asociaciones fármaco – efecto adverso señale la respuesta correcta:",
-                "instructions": "Selecciona una opción:",
+                "qTitle": "De las siguientes asociaciones fármaco – efecto adverso señale las respuestas correctas:",
+                "instructions": "Selecciona las opciones correctas:",
                 "feedback_ok": "¡Correcto! El efecto adverso más frecuentemente asociado a los iPCSK9 son las molestias en el punto de punción porque solo se disponen de forma subcutánea. Los fibratos son muy bien tolerados y por lo general no presentan efectos adversos, que en caso de presentarse, se verían potenciados por el uso concomitante con estatinas y se trataría de miopatía. Aunque no se ha establecido correctamente el efecto en los fetos se desaconseja el uso de estatinas en mujeres en edad fértil si no se utiliza un método anticonceptivo eficaz. En caso de embarazo si la paciente está tomando estatinas, se aconseja su suspensión inmediata. Las resinas de intercambio, también conocidas como quelantes de sales biliares, son fármacos que no se absorben y ejercen su efecto a nivel de la luz intestinal disminuyendo la absorció de grasas y provocando molestias abdominales.  ",
                 "feedback_ko": "¡Incorrecto! El efecto adverso más frecuentemente asociado a los iPCSK9 son las molestias en el punto de punción porque solo se disponen de forma subcutánea. Los fibratos son muy bien tolerados y por lo general no presentan efectos adversos, que en caso de presentarse, se verían potenciados por el uso concomitante con estatinas y se trataría de miopatía. Aunque no se ha establecido correctamente el efecto en los fetos se desaconseja el uso de estatinas en mujeres en edad fértil si no se utiliza un método anticonceptivo eficaz. En caso de embarazo si la paciente está tomando estatinas, se aconseja su suspensión inmediata. Las resinas de intercambio, también conocidas como quelantes de sales biliares, son fármacos que no se absorben y ejercen su efecto a nivel de la luz intestinal disminuyendo la absorció de grasas y provocando molestias abdominales. ",
                 "number_of_answers": 2,
@@ -1386,37 +1392,43 @@
             },
             {
                 "id": "18",
-                "qType": "TEST_TYPE.MULTIPLE_OPTION",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
                 "qTitle": "En ocasiones, las guías de práctica clínica no alcanzan a recoger la evidencia científica más actual reflejada en ensayos clínica debido a la rápida evolución en este campo. De las siguientes cuál es cierta?",
                 "instructions": "Selecciona una opción:",
                 "feedback_ok": "¡Correcto! Las opciones recogen algunas de las recomendaciones de las últimas guías de prevención cardiovascular y algunos ensayos clínicos. Todas son correctas.  ",
                 "feedback_ko": "¡Incorrecto! Las opciones recogen algunas de las recomendaciones de las últimas guías de prevención cardiovascular y algunos ensayos clínicos. Todas son correctas. ",
-                "number_of_answers": 4,
+                
                 "topic": "",
                 "points": 3,
-                "options_order_random": true,
+                "options_order_random": false,
                 "options": [
                     {
                         "id": "1",
                         "text": "Se debe considerar una reducción cuánto más precoz e intensiva mejor en los pacientes que presentan un infarto agudo de miocardio. ",
-                        "correct": true,
+                        "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "2",
                         "text": "Debe considerarse un objetivo de LDL < 40 mg/dL en los pacientes que sufren dos eventos cardiovasculares en 2 años, aunque sean de distintos territorios. ",
-                        "correct": true,
+                        "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "3",
                         "text": "En los ensayos clínicos los niveles bajos de colesterol se relacionaron con menor tasa de eventos cardiovasculares sin efectos adversos relevantes por lo que en los próximos años podría considerarse un objetivo de LDL < 40 mg/dL directamente. ",
-                        "correct": true,
+                        "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "4",
                         "text": "La tensión arterial objetivo debe ser 130/80  mmHg siempre y cuando no genere efectos adversos. En cualquier caso y para cualquier grupo de edad debe ser inferior a 140/90 mmHg. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "5",
+                        "text": "Todas son correctas.",
                         "correct": true,
                         "feedback": ""
                     }
@@ -1431,7 +1443,7 @@
                 "feedback_ko": "¡Incorrecto! Las tres primeras son las manifestaciones típicas de la cardiopatía isquémica. La A nos relata una angina estable. La opción B es sugestivo de infarto agudo de miocardio así como la C; esta última cursa con parada cardiorrespiratoria. La D nos relata una pericarditis aguda, varón joven tras cuadro catarral y con el patrón de dolor característico; los cambios en el ECG son frecuentes, aunque en la opción no especifica el tipo de cambios. ",
                 "topic": "",
                 "points": 3,
-                "options_order_random": true,
+                "options_order_random": false,
                 "options": [
                     {
                         "id": "1",
@@ -1463,7 +1475,7 @@
                 "id": "20",
                 "qType": "TEST_TYPE.MULTIPLE_OPTION",
                 "qTitle": "¿Cuál de los siguientes no se consideraría enfermedad cardiovascular de causa ateroesclerótica?",
-                "instructions": "Selecciona una opción:",
+                "instructions": "Selecciona las opciones correctas:",
                 "feedback_ok": "¡Correcto! Aunque la enfermedad clínica y por imagen de la aorta se considera enfermedad cardiovascular ateroesclerótica en esta opción nuestro paciente padece enfermedad de Marfan. Se trata de una enfermedad del tejido conectivo que debilita la pared de la aorta SIN que exista ateroesclerosis. La opción 3 hace referencia a enfermedad de arterias coronarias pero no por placas de colesterol, sino por disección espontánea de la arteria. Esto es una condición que suele ocurrir en mujeres y en edad peri y post-menopausia.  ",
                 "feedback_ko": "¡Incorrecto! Aunque la enfermedad clínica y por imagen de la aorta se considera enfermedad cardiovascular ateroesclerótica en esta opción nuestro paciente padece enfermedad de Marfan. Se trata de una enfermedad del tejido conectivo que debilita la pared de la aorta SIN que exista ateroesclerosis. La opción 3 hace referencia a enfermedad de arterias coronarias pero no por placas de colesterol, sino por disección espontánea de la arteria. Esto es una condición que suele ocurrir en mujeres y en edad peri y post-menopausia.  ",
                 "number_of_answers": 2,
@@ -1615,7 +1627,7 @@
             {
                 "id": "4",
                 "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "4. ¿Cuál de las siguientes relaciones entre gasto cardiaco, precarga, postcarga y contractilidad es INCORRECTA? ",
+                "qTitle": "¿Cuál de las siguientes relaciones entre gasto cardiaco, precarga, postcarga y contractilidad es INCORRECTA? ",
                 "instructions": "Selecciona una opción:",
                 "feedback_ok": "¡Correcto! El gasto cardiaco es directamente proporcional a la precarga (volumen de sangre telediastólico que contiene un ventrículo) y a la contractilidad (fuerza contráctil de los ventrículos), y es inversamente proporcional a la postcarga (resistencia que deben vencer los ventrículos para impulsar la sangre hacia el exterior). Por otra parte, a mayor precarga, mayor postcarga (cuando el corazón contiene mucha sangre, se acumula presión en su interior, y esa presión debe ser vencida por el propio corazón para mandar la sangre hacia el exterior). ",
                 "feedback_ko": "¡Incorrecto! El gasto cardiaco es directamente proporcional a la precarga (volumen de sangre telediastólico que contiene un ventrículo) y a la contractilidad (fuerza contráctil de los ventrículos), y es inversamente proporcional a la postcarga (resistencia que deben vencer los ventrículos para impulsar la sangre hacia el exterior). Por otra parte, a mayor precarga, mayor postcarga (cuando el corazón contiene mucha sangre, se acumula presión en su interior, y esa presión debe ser vencida por el propio corazón para mandar la sangre hacia el exterior).",
@@ -1801,7 +1813,7 @@
                 "id": "9",
                 "qType": "TEST_TYPE.MULTIPLE_OPTION",
                 "qTitle": "¿Cuál es correcta sobre la circulación cerebral? ",
-                "instructions": "Selecciona una opción:",
+                "instructions": "Selecciona las opciones correctas:",
                 "feedback_ok": "¡Correcto!El polígono de Willis es una estructura de seguridad que comunica la circulación arterial de ambos hemisferios cerebrales. De esta forma, si una carótida se ocluye, la otra podría suplir la irrigación del otro hemisferio cerebral. Por lo general no se ocluye una carótida por completo, sino sus ramas y el polígono no es capaz de salvar el problema. Existen generalmente tres troncos supra-aórticos (tres ramas que da la aorta en el cayado antes de convertirse en aorta torácica descendente): tronco braquicefálico derecho (que después se bifurca en carótida derecha y subclavia derecha), carótida izquierda y subclavia izquierda.   ",
                 "feedback_ko": "¡Incorrecto! El polígono de Willis es una estructura de seguridad que comunica la circulación arterial de ambos hemisferios cerebrales. De esta forma, si una carótida se ocluye, la otra podría suplir la irrigación del otro hemisferio cerebral. Por lo general no se ocluye una carótida por completo, sino sus ramas y el polígono no es capaz de salvar el problema. Existen generalmente tres troncos supra-aórticos (tres ramas que da la aorta en el cayado antes de convertirse en aorta torácica descendente): tronco braquicefálico derecho (que después se bifurca en carótida derecha y subclavia derecha), carótida izquierda y subclavia izquierda.  ",
                 "number_of_answers": 4,
@@ -1886,24 +1898,30 @@
                     {
                         "id": "1",
                         "text": "Perímetro abdominal < 94 cm en varones y < 80 cm en mujeres.  ",
-                        "correct": true,
+                        "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "2",
                         "text": "Tensión arterial < 130/80 mmHg.  ",
-                        "correct": true,
+                        "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "3",
                         "text": "HbA1c < 7%. ",
-                        "correct": true,
+                        "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "4",
                         "text": "LDL 116/ 100/  70/  55 ajustado según riesgo cardiovascular bajo/ moderado/ alto/ muy alto. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "5",
+                        "text": "Todas son correctas. ",
                         "correct": true,
                         "feedback": ""
                     }
@@ -1985,13 +2003,14 @@
             },
             {
                 "id": "14",
-                "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "De las siguientes asociaciones fármaco – efecto adverso señale la respuesta correcta:",
-                "instructions": "Selecciona una opción:",
+                "qType": "TEST_TYPE.MULTIPLE_OPTION",
+                "qTitle": "De las siguientes asociaciones fármaco – efecto adverso señale las respuestas correctas:",
+                "instructions": "Selecciona las opciones que consideres correctas:",
                 "feedback_ok": "¡Correcto! El efecto adverso más frecuentemente asociado a los iPCSK9 son las molestias en el punto de punción porque solo se disponen de forma subcutánea. Los fibratos son muy bien tolerados y por lo general no presentan efectos adversos, que en caso de presentarse, se verían potenciados por el uso concomitante con estatinas y se trataría de miopatía. Aunque no se ha establecido correctamente el efecto en los fetos se desaconseja el uso de estatinas en mujeres en edad fértil si no se utiliza un método anticonceptivo eficaz. En caso de embarazo si la paciente está tomando estatinas, se aconseja su suspensión inmediata. Las resinas de intercambio, también conocidas como quelantes de sales biliares, son fármacos que no se absorben y ejercen su efecto a nivel de la luz intestinal disminuyendo la absorció de grasas y provocando molestias abdominales.  ",
                 "feedback_ko": "¡Incorrecto! El efecto adverso más frecuentemente asociado a los iPCSK9 son las molestias en el punto de punción porque solo se disponen de forma subcutánea. Los fibratos son muy bien tolerados y por lo general no presentan efectos adversos, que en caso de presentarse, se verían potenciados por el uso concomitante con estatinas y se trataría de miopatía. Aunque no se ha establecido correctamente el efecto en los fetos se desaconseja el uso de estatinas en mujeres en edad fértil si no se utiliza un método anticonceptivo eficaz. En caso de embarazo si la paciente está tomando estatinas, se aconseja su suspensión inmediata. Las resinas de intercambio, también conocidas como quelantes de sales biliares, son fármacos que no se absorben y ejercen su efecto a nivel de la luz intestinal disminuyendo la absorció de grasas y provocando molestias abdominales. ",
                 "topic": "",
                 "points": 3,
+                "number_of_answers":2,
                 "options_order_random": true,
                 "options": [
                     {
