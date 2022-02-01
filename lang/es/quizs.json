@@ -1887,48 +1887,785 @@
             {
                 "id": "11",
                 "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "Sobre los objetivos de control de los distintos factores de riesgo cardiovascular, ¿cuál es la correcta? ",
+                "qTitle": "¿Cuál de las siguientes fórmulas relaciona correctamente presión arterial (PA), gasto cardiaco (GC) y resistencias vasculares (RV)? ",
                 "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto! La pregunta expone cuál el objetivo de control para estos factores de riesgo cardiovascular. Por supuesto, evitar cualquier exposición al humo del tabaco, realizar ejercicio físico de intensidad moderada 30-60 minutos al día, IMC 20-25, son otros de los objetivos a considerar. Mención especial a los objetivos de tensión arterial que se han endurecido en las últimas guías de prevención cardiovascular recomendando una TA < 130/80 mmHg para todas las edades y grupos siempre y cuando no ocasione síntomas. Se puede ser algo más laxo con los ancianos y la enfermedad renal crónica si esto condiciona empeoramiento de la función renal. ",
-                "feedback_ko": "¡Incorrecto! La pregunta expone cuál el objetivo de control para estos factores de riesgo cardiovascular. Por supuesto, evitar cualquier exposición al humo del tabaco, realizar ejercicio físico de intensidad moderada 30-60 minutos al día, IMC 20-25, son otros de los objetivos a considerar. Mención especial a los objetivos de tensión arterial que se han endurecido en las últimas guías de prevención cardiovascular recomendando una TA < 130/80 mmHg para todas las edades y grupos siempre y cuando no ocasione síntomas. Se puede ser algo más laxo con los ancianos y la enfermedad renal crónica si esto condiciona empeoramiento de la función renal.  ",
+                "feedback_ok": "¡Correcto! La presión arterial es la fuerza que ejerce la sangre contra la pared de las arterias del organismo. Es directamente proporcional a la cantidad de sangre que fluye a su través (cuanta más sangre, más presión) y a la resistencia que las arterias ejercen frente al paso de la sangre (cuanta más resistencia ejerzan, más presión provocarán).",
+                "feedback_ko": "¡Incorrecto! La presión arterial es la fuerza que ejerce la sangre contra la pared de las arterias del organismo. Es directamente proporcional a la cantidad de sangre que fluye a su través (cuanta más sangre, más presión) y a la resistencia que las arterias ejercen frente al paso de la sangre (cuanta más resistencia ejerzan, más presión provocarán). ",
                 "topic": "",
                 "points": 3,
                 "options_order_random": true,
                 "options": [
                     {
                         "id": "1",
-                        "text": "Perímetro abdominal < 94 cm en varones y < 80 cm en mujeres.  ",
+                        "text": "PA = RV / GC.   ",
                         "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "2",
-                        "text": "Tensión arterial < 130/80 mmHg.  ",
+                        "text": "PA = GC / RV.   ",
                         "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "3",
-                        "text": "HbA1c < 7%. ",
-                        "correct": false,
+                        "text": "PA = GC · RV.  ",
+                        "correct": true,
                         "feedback": ""
                     },
                     {
                         "id": "4",
-                        "text": "LDL 116/ 100/  70/  55 ajustado según riesgo cardiovascular bajo/ moderado/ alto/ muy alto. ",
+                        "text": "PA = GC2 · RV.  ",
                         "correct": false,
-                        "feedback": ""
-                    },
-                    {
-                        "id": "5",
-                        "text": "Todas son correctas. ",
-                        "correct": true,
                         "feedback": ""
                     }
                 ]
             },
             {
                 "id": "12",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Un aumento brusco de la tensión arterial afectará a qué determinante del gasto cardíaco?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! La postcarga es equivalente a la presión que tiene que ejercer el ventrículo para poder enviar la sangre al exterior; por lo tanto, si hay mucha presión arterial, el ventrículo izquierdo estará sometido a una mayor postcarga (tiene que vencer esa presión para poder mandar sangre hacia la aorta). Ante una situación de postcarga mantenida en el tiempo (como la hipertensión arterial), el ventrículo izquierdo actúa hipertrofiándose (esto es, aumentando su masa muscular); al aumentar su grosor tiene más fuerza para poder vencer el exceso de presión.  ",
+                "feedback_ko": "¡Incorrecto! La postcarga es equivalente a la presión que tiene que ejercer el ventrículo para poder enviar la sangre al exterior; por lo tanto, si hay mucha presión arterial, el ventrículo izquierdo estará sometido a una mayor postcarga (tiene que vencer esa presión para poder mandar sangre hacia la aorta). Ante una situación de postcarga mantenida en el tiempo (como la hipertensión arterial), el ventrículo izquierdo actúa hipertrofiándose (esto es, aumentando su masa muscular); al aumentar su grosor tiene más fuerza para poder vencer el exceso de presión.   ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Precarga. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Contractilidad.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Postcarga.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Ninguno. ",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "13",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿A través de qué vaso drena la sangre procedente de los miembros inferiores en el corazón?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! La sangre desoxigenada es recogida por distintas estructuras venosas y redirigida a la aurícula derecha para después oxigenarse en el pulmón. Las yugulares drenan el encéfalo y desembocan en la vena cava superior hacia la aurícula derecha. La vena cava inferior recoge el drenaje de todo el hemicuerpo inferior (incluidos los miembros inferiores). La vena porta recoge los nutrientes absorbidos en el intestino y dirige al hígado. La vena mesentérica inferior drena una parte del intestino y es una de las tributarias de la vena porta donde confluyen otros vasos que colectan nutrientes para transportarlos al hígado.     ",
+                "feedback_ko": "¡Incorrecto!La sangre desoxigenada es recogida por distintas estructuras venosas y redirigida a la aurícula derecha para después oxigenarse en el pulmón. Las yugulares drenan el encéfalo y desembocan en la vena cava superior hacia la aurícula derecha. La vena cava inferior recoge el drenaje de todo el hemicuerpo inferior (incluidos los miembros inferiores). La vena porta recoge los nutrientes absorbidos en el intestino y dirige al hígado. La vena mesentérica inferior drena una parte del intestino y es una de las tributarias de la vena porta donde confluyen otros vasos que colectan nutrientes para transportarlos al hígado.    ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Vena porta.  ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Vena mesentérica inferior ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Vena yugular. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Vena cava inferior ",
+                        "correct": true,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "14",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿Cuál de los siguientes no es un factor de riesgo cardiovascular para enfermedad ateroesclerótica?  ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto!El alcohol no contribuye a la ateroesclerosis. El resto de factores expuestos contribuyen al desarrollo de placas ateroescleróticas que podrán provocar infartos de miocardio, ictus, enfermedad arterial periférica, etc. ",
+                "feedback_ko": "¡Incorrecto! El alcohol no contribuye a la ateroesclerosis. El resto de factores expuestos contribuyen al desarrollo de placas ateroescleróticas que podrán provocar infartos de miocardio, ictus, enfermedad arterial periférica, etc.  ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Infección por VIH.  ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Consumo de alcohol  ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Marginación social",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Hígado graso no alcohólico",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "15",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿Qué característica no es propia de la angina de pecho?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto!Las tres primeras son definitorias del dolor torácico típico de isquemia (angina de pecho). La respuesta d hace referencia al color característico de la pericarditis, inflamación de la membrana que envuelve el corazón.  ",
+                "feedback_ko": "¡Incorrecto! Las tres primeras son definitorias del dolor torácico típico de isquemia (angina de pecho). La respuesta d hace referencia al color característico de la pericarditis, inflamación de la membrana que envuelve el corazón.  ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Se localiza en el centro del tórax.  ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Aparece con los esfuerzos, generalmente al caminar en pendiente  ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Puede irradiar hacia cuello, muelas, muñecas, hombro izquierdo, “boca del estómago”, espalda. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Típicamente se alivia con la inclinación hacia delante y se agrava con la inspiración profunda.",
+                        "correct": true,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "16",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿Qué es falso sobre el pericardio?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! En condiciones normales el pericardio puede contener una ligera capa de líquido que facilita la función cardíaca. En ocasiones, tras infecciones el pericardio puede endurecerse o adherirse en algunas zonas al corazón y dificultar, generalmente, su llenado. Si en el seno de una pericarditis aguda existe mucho derrame puede llegar a comprometerse su llenado provocando un taponamiento cardíaco. ",
+                "feedback_ko": "¡Incorrecto!En condiciones normales el pericardio puede contener una ligera capa de líquido que facilita la función cardíaca. En ocasiones, tras infecciones el pericardio puede endurecerse o adherirse en algunas zonas al corazón y dificultar, generalmente, su llenado. Si en el seno de una pericarditis aguda existe mucho derrame puede llegar a comprometerse su llenado provocando un taponamiento cardíaco.   ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Es la membrana que envuelve el corazón, compuesta por dos hojas.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "En condiciones normales no debe contener líquido en su interior. ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Su inflamación, pericarditis, puede producir dolor torácico y cambios en el electrocardiograma que pueden llegar a confundirse con un infarto de miocardio. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Si la cantidad de derrame pericárdico es muy importante puede producirse un taponamiento cardíaco. ",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "17",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿Cuál de los siguientes forma parte de la enfermedad cardiovascular ateroesclerótica?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Las tres primeras opciones en ningún caso son por placas de ateroesclerosis,  por lo que no forman parte de la ECVAS. En el caso del ictus isquémico no nos dicen el mecanismo que suponen. No sabemos si es por un trombo que se ha generado en alguna cavidad cardíaca consecuencia de una arritmia y posteriormente ha migrado (ictus cardio-embólico) o por una placa de ateroesclerosis in situ en la circulación cerebral que se ha trombosado (ictus aterotrombótico). No obstante, las 3 primeras opciones son incompatibles con ECVAS. ",
+                "feedback_ko": "¡Incorrecto! Las tres primeras opciones en ningún caso son por placas de ateroesclerosis,  por lo que no forman parte de la ECVAS. En el caso del ictus isquémico no nos dicen el mecanismo que suponen. No sabemos si es por un trombo que se ha generado en alguna cavidad cardíaca consecuencia de una arritmia y posteriormente ha migrado (ictus cardio-embólico) o por una placa de ateroesclerosis in situ en la circulación cerebral que se ha trombosado (ictus aterotrombótico). No obstante, las 3 primeras opciones son incompatibles con ECVAS.     ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Vasoespasmo coronario",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Tromboembolismo pulmonar agudo.  ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Miocarditis aguda ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Ictus isquémico de arteria cerebral media",
+                        "correct": true,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "18",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿Qué escala utilizaría para evaluar de la mejor forma posible el riesgo cardiovascular de un varón de 86 años?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! La escala que mejor estima el riesgo cardiovascular en mayores de 70 años es el SCORE2-OP. En la escala SCORE, este grupo etario no estaba incluido. El test de Fagerström es un cuestionario utilizado para evaluar la dependencia al tabaco.  ",
+                "feedback_ko": "¡Incorrecto! La escala que mejor estima el riesgo cardiovascular en mayores de 70 años es el SCORE2-OP. En la escala SCORE, este grupo etario no estaba incluido. El test de Fagerström es un cuestionario utilizado para evaluar la dependencia al tabaco.  ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "SCORE. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "SCORE 2 ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "SCORE 2-OP ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Test de fagerström. ",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "19",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿Cuál es el principal tipo celular que inicia el proceso ateroesclerótico?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Los macrófagos son los que inician la placa de ateroesclerosis. Reconocen el colesterol y lo interiorizan. Esto les confiere el aspecto “lleno de burbujas”, en este punto se conocen como células espumosas. Posteriormente se forma la estría grasa, centro necrótico y eventual calcificación/rotura/estabilización.    ",
+                "feedback_ko": "¡Incorrecto! Los macrófagos son los que inician la placa de ateroesclerosis. Reconocen el colesterol y lo interiorizan. Esto les confiere el aspecto “lleno de burbujas”, en este punto se conocen como células espumosas. Posteriormente se forma la estría grasa, centro necrótico y eventual calcificación/rotura/estabilización.  ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Linfocito ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Macrófago",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Hematíe ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Plaqueta ",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "20",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "De los siguientes factores de riesgo cuál se incluye en el SCORE2-OP",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Todos los presentados son factores de riesgo cardiovascular. Sin embargo, solo el colesterol No-HDL se considera para el cálculo del riesgo cardiovascular en el SCORE 2 y SCORE 2-OP. El colesterol total se utilizad en la escala SCORE.  ",
+                "feedback_ko": "¡Incorrecto! Todos los presentados son factores de riesgo cardiovascular. Sin embargo, solo el colesterol No-HDL se considera para el cálculo del riesgo cardiovascular en el SCORE 2 y SCORE 2-OP. El colesterol total se utilizad en la escala SCORE.   ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Diabetes mellitus",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Colesterol total.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Colesterol No-HDL",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Colesterol LDL ",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "21",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Marque la respuesta correcta:",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto!Las tres primeras repuestas son falsas porque nos hablan de un paciente con similar riesgo cardiovascular que debemos encasillar como muy alto riesgo cardiovascular. Para todos estos pacientes debemos saber que el objetivo de colesterol LDL debe ser < 55 mg/dL. Debemos recordar que el paciente que ya ha sufrido un evento cardiovascular (infarto, ictus, enfermedad arterial periférica, etc) entra dentro de lo que conocemos prevención secundaria y su riesgo es muy alto. La Apo B es un marcador de riesgo cardiovascular que podríamos considerar similar al colesterol LDL aunque las cifras objetivo difieren respecto a este. Hay determinadas situaciones donde el uso del colesterol LDL podría infraestimar el riesgo cardiovascular y el uso de Apo B permite hacer una mejor valoración.  ",
+                "feedback_ko": "¡Incorrecto! Las tres primeras repuestas son falsas porque nos hablan de un paciente con similar riesgo cardiovascular que debemos encasillar como muy alto riesgo cardiovascular. Para todos estos pacientes debemos saber que el objetivo de colesterol LDL debe ser < 55 mg/dL. Debemos recordar que el paciente que ya ha sufrido un evento cardiovascular (infarto, ictus, enfermedad arterial periférica, etc) entra dentro de lo que conocemos prevención secundaria y su riesgo es muy alto. La Apo B es un marcador de riesgo cardiovascular que podríamos considerar similar al colesterol LDL aunque las cifras objetivo difieren respecto a este. Hay determinadas situaciones donde el uso del colesterol LDL podría infraestimar el riesgo cardiovascular y el uso de Apo B permite hacer una mejor valoración.   ",
+                "topic": "",
+                "countDown": false,
+                "timeCountDown": 5,
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "El nivel de colesterol LDL objetivo para los pacientes con muy alto riesgo cardiovascular es < 70 mg/dL. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "El nivel de colesterol LDL objetivo para los pacientes en prevención secundaria es de < 70 mg/dL.  ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Un paciente con enfermedad renal crónica con filtrado de 23 ml/min tiene un objetivo de colesterol LDL < 100 mg/dL.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "La apolipoproteina Apo B puede ser mejor parámetro para establecer el riesgo cardiovascular que el colesterol LDL, especialmente en pacientes diabéticos, con hipertrigliceridemia importante, obesos o LDL muy bajos. ",
+                        "correct": true,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "22",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿Cuál es correcta sobre las cámaras cardíacas?",
+                "instructions": "Selecciona las opciones que consideres correctas:",
+                "feedback_ok": "¡Correcto! Las cavidades derechas están separadas por la válvula tricúspide. El ventrículo derecho se encuentra más anterior en el tórax, justo detrás del esternón, mientras que el izquierdo es posterior y más inferior o basal. El ventrículo con forma de proyectil es el izquierdo. ",
+                "feedback_ko": "¡Incorrecto! Las cavidades derechas están separadas por la válvula tricúspide. El ventrículo derecho se encuentra más anterior en el tórax, justo detrás del esternón, mientras que el izquierdo es posterior y más inferior o basal. El ventrículo con forma de proyectil es el izquierdo. ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "La aurícula derecha está separada del ventrículo derecho por la válvula mitral",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "El ventrículo izquierdo es anterior en el tórax respecto al derecho.  ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "El ventrículo derecho tiene forma de “proyectil”, hecho que permite estudiarlo con cortes como un cilindro.  ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "La aurícula izquierda es la cámara más posterior del corazón. ",
+                        "correct": true,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "23",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿Cuál de las siguientes dietas se encuentra más avalada por mejorar el perfil cardiovascular y es la más recomendada en estos pacientes?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto!Tanto la dieta mediterránea como la dieta DASH (Dietary Approaches to Stop Hipertension) han sido evaluadas para mejorar los factores de riesgo cardiovascular. La dieta DASH se centra específicamente en medidas dirigidas a reducir la hipertensión arterial. La dieta mediterránea, avalada por el ensayo PREDIMED, es la que más evidencia la respalda. Su principal diferencia respecto a la dieta DASH es que la mediterránea está enriquecida con aceite de oliva virgen extra o nueces, hecho que reduce hasta en un 30% los eventos cardiovasculares mayores con respecto a la dieta baja en grasas. ",
+                "feedback_ko": "¡Incorrecto! Tanto la dieta mediterránea como la dieta DASH (Dietary Approaches to Stop Hipertension) han sido evaluadas para mejorar los factores de riesgo cardiovascular. La dieta DASH se centra específicamente en medidas dirigidas a reducir la hipertensión arterial. La dieta mediterránea, avalada por el ensayo PREDIMED, es la que más evidencia la respalda. Su principal diferencia respecto a la dieta DASH es que la mediterránea está enriquecida con aceite de oliva virgen extra o nueces, hecho que reduce hasta en un 30% los eventos cardiovasculares mayores con respecto a la dieta baja en grasas.  ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Dieta DASH. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Dieta baja en grasas.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Dieta mediterránea.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Dieta paleo. ",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "24",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿Cuál de las siguientes características no es propia de la dieta mediterránea? ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Todas son características de la dieta mediterránea salvo la opción d. Debe predominar la ingesta proteica mediante legumbres, pescado blanco y azul y consumo de huevos reducido así como el de carne. Dentro de la carne hay que reducir al máximo el consumo de carne roja 0-1 vez por semana y priorizar las carnes blancas (pollo y pavo principalmente). ",
+                "feedback_ko": "¡Incorrecto! Todas son características de la dieta mediterránea salvo la opción d. Debe predominar la ingesta proteica mediante legumbres, pescado blanco y azul y consumo de huevos reducido así como el de carne. Dentro de la carne hay que reducir al máximo el consumo de carne roja 0-1 vez por semana y priorizar las carnes blancas (pollo y pavo principalmente). ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Consumir fruta y verdura de temporada, 5 raciones al día. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Consumir legumbres 3 veces por semana.  ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Utilizar aceite de oliva virgen extra o nueces como fuente de grasas. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Reducir el consumo de carne y priorizar la carne roja sobre la blanca.   ",
+                        "correct": true,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "25",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Respecto a las escalas de valoración del riesgo cardiovascular SCORE y sus versiones más novedosas, ¿cual es falsa?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto!De las escalas SCORE ninguna utiliza el colesterol LDL. La SCORE usa el colesterol total,  y la SCORE 2 y la SCORE 2-OP el colesterol No-HDL. Aunque son útiles para estimar el riesgo de sufrir un evento cardiovascular según los factores de riesgo no consideran condiciones que añaden mucho riesgo como la diabetes, el sedentarismo o el haber sufrido ya un evento cardiovascular. La opción d es correcta. En el SCORE 2 se clasifica distinto el hecho de tener un riesgo cardiovascular del 5% si el paciente tiene 50 años a si tiene 75 años. En el primer caso el riesgo el alto y en el segundo bajo/moderado. Esta aproximación es muy comprensible, ya que los pacientes jóvenes tienen más probabilidad de progresión a lo largo de la vida expuestos a factores de riesgo similares, por ello debemos ser más enérgicos a la hora de controlarlos.  ",
+                "feedback_ko": "¡Incorrecto! De las escalas SCORE ninguna utiliza el colesterol LDL. La SCORE usa el colesterol total,  y la SCORE 2 y la SCORE 2-OP el colesterol No-HDL. Aunque son útiles para estimar el riesgo de sufrir un evento cardiovascular según los factores de riesgo no consideran condiciones que añaden mucho riesgo como la diabetes, el sedentarismo o el haber sufrido ya un evento cardiovascular. La opción d es correcta. En el SCORE 2 se clasifica distinto el hecho de tener un riesgo cardiovascular del 5% si el paciente tiene 50 años a si tiene 75 años. En el primer caso el riesgo el alto y en el segundo bajo/moderado. Esta aproximación es muy comprensible, ya que los pacientes jóvenes tienen más probabilidad de progresión a lo largo de la vida expuestos a factores de riesgo similares, por ello debemos ser más enérgicos a la hora de controlarlos. ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Aunque estas escalas son útiles para evaluar el riesgo cardiovascular existen otros factores que éstas no consideran y también influyen decisivamente para hacer una valoración más precisa.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Existen tablas distintas según el país de procedencia y el riesgo cardiovascular atribuido a este. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "El colesterol LDL es necesario para realizar el cálculo.  ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "En las versiones más modernas el porcentaje de eventos para considerar al paciente de riesgo bajo-moderado /alto /muy alto difiere según los grupos de edad.  ",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "26",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿Qué asociación de fármacos tiene riesgo especialmente alto de miopatía?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto!A las estatinas se les atribuye como principal efecto adverso la miopatía pudiendo llegar en su máxima expresión a rabdomiolisis. En ensayos clínicos ciegos controlados con placebo no se ha visto diferencias en este sentido. No obstante, la asociación de estatinas con fibratos aumenta la probabilidad de que esto ocurra (especialmente con gemfibrozilo, con el resto de fibratos la incidencia es mucho menor).    ",
+                "feedback_ko": "¡Incorrecto!A las estatinas se les atribuye como principal efecto adverso la miopatía pudiendo llegar en su máxima expresión a rabdomiolisis. En ensayos clínicos ciegos controlados con placebo no se ha visto diferencias en este sentido. No obstante, la asociación de estatinas con fibratos aumenta la probabilidad de que esto ocurra (especialmente con gemfibrozilo, con el resto de fibratos la incidencia es mucho menor).   ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Atorvastatina y ezetimibe. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Atorvastatina y evolocumab. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Fenofibrato y Colestiramina.   ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Pravastatina y gemfibrozilo.",
+                        "correct": true,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "27",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿Cuál de los siguientes no es un efecto colateral de las estatinas?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Paradójicamente las estatinas pueden aumentar las calcificaciones coronarias. Esto debe tenerse en cuenta a la hora de realizar el calcio score en TC de coronarias. La hepatotoxicidad debe controlarse con las transaminasas y la miopatía con CPK.     ",
+                "feedback_ko": "¡Incorrecto! Paradójicamente las estatinas pueden aumentar las calcificaciones coronarias. Esto debe tenerse en cuenta a la hora de realizar el calcio score en TC de coronarias. La hepatotoxicidad debe controlarse con las transaminasas y la miopatía con CPK.   ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Hepatotoxicidad ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Fototoxicidad ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Aumento del calcio coronario. ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Miopatía",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "28",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿De los siguientes cuál no reclasificaría al alza el riesgo cardiovascular de un paciente?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! El grosor íntima-media ya no debe considerarse a tal efecto por su baja reproducibilidad. A destacar el índice tobillo-brazo (índice de Yao) por el fácil acceso a estas mediciones.  ",
+                "feedback_ko": "¡Incorrecto!El grosor íntima-media ya no debe considerarse a tal efecto por su baja reproducibilidad. A destacar el índice tobillo-brazo (índice de Yao) por el fácil acceso a estas mediciones.    ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Grosor íntima-media aumentado.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Índice de Yao disminuido. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Presencia de calcio score elevado en coronarias. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Trastorno ansioso-depresivo de la personalidad.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "29",
+                "qType": "TEST_TYPE.MULTIPLE_OPTION",
+                "qTitle": "¿Cuál de los siguientes pacientes se considera de alto riesgo cardiovascular? ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto!El primero es un paciente con 3 factores de riesgo cardiovascular mayores y que precisan mucha medicación, muy alto riesgo. La opción b tiene claudicación de la marcha, directamente pasa a muy alto riesgo cardiovascular. Opción c, diabético con lesiones retinianas típicas de diabético, lesión en órgano diana, muy alto riesgo. La paciente de la opción d es diabética de 3 fármacos pero no se alude a daño órgano diana, clínica o larga evolución, alto riesgo cardiovascular.   ",
+                "feedback_ko": "¡Incorrecto! El primero es un paciente con 3 factores de riesgo cardiovascular mayores y que precisan mucha medicación, muy alto riesgo. La opción b tiene claudicación de la marcha, directamente pasa a muy alto riesgo cardiovascular. Opción c, diabético con lesiones retinianas típicas de diabético, lesión en órgano diana, muy alto riesgo. La paciente de la opción d es diabética de 3 fármacos pero no se alude a daño órgano diana, clínica o larga evolución, alto riesgo cardiovascular. ",
+                "number_of_answers": 4,
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Varón de 43 años, fumador, hipertenso en tratamiento con 3 fármacos, diabético de diagnóstico reciente con HbA1c de 13%.   ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Mujer de 78 años, obesa con claudicación de la marcha. Índice tobillo-brazo izquierdo de 1.6.  ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Varón de 53 años, diabético con inyecciones mensuales de antiangiogénicos por retinopatía diabética. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Mujer de 57 años, diabética tipo II desde hace 6 en tratamiento con metformina, empagliflozina y análogo de GLP-1.  ",
+                        "correct": true,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "30",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Los quelantes de sales biliares son fármacos utilizados para el tratamiento de la hipercolesterolemia, ¿qué efectos adversos podemos encontrar más frecuentemente?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Las resinas de intercambio o quelantes de sales biliares son hipocolesterolemiantes que actúan atrapando las sales biliares en el tubo digestivo y aumentando el consumo hepático de colesterol para sintetizar nuevas. Son fármacos que no se absorben y que producen por ello importantes molestias abdominales.  ",
+                "feedback_ko": "¡Incorrecto! Las resinas de intercambio o quelantes de sales biliares son hipocolesterolemiantes que actúan atrapando las sales biliares en el tubo digestivo y aumentando el consumo hepático de colesterol para sintetizar nuevas. Son fármacos que no se absorben y que producen por ello importantes molestias abdominales.  ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Elevación de TSH.  ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Molestias abdominales como flatulencia y dispepsia. ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Miopatía ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Hiponatremia ",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "31",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿Cuál de las siguientes fórmulas relaciona correctamente presión arterial (PA), gasto cardiaco (GC) y resistencias vasculares (RV)? ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! La presión arterial es la fuerza que ejerce la sangre contra la pared de las arterias del organismo. Es directamente proporcional a la cantidad de sangre que fluye a su través (cuanta más sangre, más presión) y a la resistencia que las arterias ejercen frente al paso de la sangre (cuanta más resistencia ejerzan, más presión provocarán).",
+                "feedback_ko": "¡Incorrecto! La presión arterial es la fuerza que ejerce la sangre contra la pared de las arterias del organismo. Es directamente proporcional a la cantidad de sangre que fluye a su través (cuanta más sangre, más presión) y a la resistencia que las arterias ejercen frente al paso de la sangre (cuanta más resistencia ejerzan, más presión provocarán). ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "PA = RV / GC.   ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "PA = GC / RV.   ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "PA = GC · RV.  ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "PA = GC2 · RV.  ",
+                        "correct": true,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "32",
                 "qType": "TEST_TYPE.SINGLE_OPTION",
                 "qTitle": "Las estatinas son fármacos de primera línea para el control de los niveles de colesterol. Señale la respuesta falsa sobre ellas: ",
                 "instructions": "Selecciona una opción:",
@@ -1965,7 +2702,7 @@
                 ]
             },
             {
-                "id": "13",
+                "id": "33",
                 "qType": "TEST_TYPE.SINGLE_OPTION",
                 "qTitle": "Para establecer correctamente el riesgo cardiovascular de nuestros pacientes podemos utilizar ciertas pruebas o exploraciones para modificar su riesgo, ¿cuál de las siguientes son aceptadas?",
                 "instructions": "Selecciona una opción:",
@@ -2040,7 +2777,7 @@
                 ]
             },
             {
-                "id": "15",
+                "id": "35",
                 "qType": "TEST_TYPE.SINGLE_OPTION",
                 "qTitle": "Indica la asociación correcta entre fármaco y mecanismo de acción:",
                 "instructions": "Selecciona una opción:",
@@ -2077,7 +2814,7 @@
                 ]
             },
             {
-                "id": "16",
+                "id": "36",
                 "qType": "TEST_TYPE.SINGLE_OPTION",
                 "qTitle": "¿Qué grupo farmacológico deberíamos elegir para iniciar el tratamiento de la hipercolesterolemia?",
                 "instructions": "Selecciona una opción:",
@@ -2114,7 +2851,7 @@
                 ]
             },
             {
-                "id": "17",
+                "id": "37",
                 "qType": "TEST_TYPE.SINGLE_OPTION",
                 "qTitle": "Señale cuál de los siguientes pacientes cual tiene un riesgo cardiovascular muy alto:",
                 "instructions": "Selecciona una opción:",
@@ -2151,7 +2888,7 @@
                 ]
             },
             {
-                "id": "18",
+                "id": "38",
                 "qType": "TEST_TYPE.SINGLE_OPTION",
                 "qTitle": "En ocasiones, las guías de práctica clínica no alcanzan a recoger la evidencia científica más actual reflejada en ensayos clínica debido a la rápida evolución en este campo. De las siguientes cuál es cierta?",
                 "instructions": "Selecciona una opción:",
@@ -2188,7 +2925,7 @@
                 ]
             },
             {
-                "id": "19",
+                "id": "39",
                 "qType": "TEST_TYPE.SINGLE_OPTION",
                 "qTitle": "Una de las manifestaciones de la enfermedad cardiovascular ateroesclerótica es la cardiopatía isquémica en su forma angina estable o síndrome coronario agudo (infarto agudo de miocardio). ¿Cuál de las siguientes no corresponde al siguiente espectro?",
                 "instructions": "Selecciona una opción:",
@@ -2225,7 +2962,7 @@
                 ]
             },
             {
-                "id": "20",
+                "id": "40",
                 "qType": "TEST_TYPE.SINGLE_OPTION",
                 "qTitle": "¿Cuál de los siguientes no se consideraría enfermedad cardiovascular de causa ateroesclerótica?",
                 "instructions": "Selecciona una opción:",
