@@ -4486,8 +4486,751 @@
                     }
                 ]
             }
-        ]
-        ,
+        ],
+        "6.4": [
+            {
+                "id": "1",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿Cuál de las siguientes substancias produce mayor elevación de las lipoproteínas de alta densidad transportadoras de colesterol (HDLcol):",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto!Aunque las estatinas (inhibidores de la HMG-CoA-Reductasa) son el grupo con mayor capacidad hipocolesterolemiante de que disponemos, es el ácido nicotínico el que en dosis farmacológicas ha demostrado aumentar en mayor grado las HDL-col. Ello su pone un punto a favor de esta molécula dado que independientemente de los niveles de colesterol total, las HDL-col suponen un marcador de riesgo independiente para cardiopatía isquémica. Por otro lado, y aunque no sabemos exactamente cómo actúa, también reduce LDL-col y VLDL. Sin embargo, el beneficio clínico de estos resultados analíticos no está del todo claro. ",
+                "feedback_ko": "¡Incorrecto! Aunque las estatinas (inhibidores de la HMG-CoA-Reductasa) son el grupo con mayor capacidad hipocolesterolemiante de que disponemos, es el ácido nicotínico el que en dosis farmacológicas ha demostrado aumentar en mayor grado las HDL-col. Ello su pone un punto a favor de esta molécula dado que independientemente de los niveles de colesterol total, las HDL-col suponen un marcador de riesgo independiente para cardiopatía isquémica. Por otro lado, y aunque no sabemos exactamente cómo actúa, también reduce LDL-col y VLDL. Sin embargo, el beneficio clínico de estos resultados analíticos no está del todo claro. ",
+                "topic": "",
+                "countDown": false,
+                "timeCountDown": 5,
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Ácido nicotínico",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Estatinas",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Fibratos",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Inhibidores de la reabsorción ",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "2",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Está indicado conseguir un objetivo de LDL colesterol < 55 mg/dl en todas las siguientes situaciones MENOS una:",
+                "instructions": "Selecciona las opciones que consideres correctas:",
+                "feedback_ok": "¡Correcto!Deben mantenerse niveles de LDL por debajo de 55 mg/dl en pacientes con cardiopatía isquémica o muy alto riesgo cardiovascular (opciones C y D). Los pacientes con alto riesgo cardiovascular deben mantener niveles <70 mg/dL (opción A). Sin embargo, los antecedentes de muerte súbita, máxime sin saber causa de la misma, no computan a la hora de fijar objetivos de LDL. ",
+                "feedback_ko": "¡Incorrecto! Deben mantenerse niveles de LDL por debajo de 55 mg/dl en pacientes con cardiopatía isquémica o muy alto riesgo cardiovascular (opciones C y D). Los pacientes con alto riesgo cardiovascular deben mantener niveles <70 mg/dL (opción A). Sin embargo, los antecedentes de muerte súbita, máxime sin saber causa de la misma, no computan a la hora de fijar objetivos de LDL. ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Diabetes mellitus tipo 2 con factores de riesgo cardiovascular asociados. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Varón de 45 años con antecedente de muerte súbita en su padre a los 60 años. ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Antecedentes personales de coronariopatía",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Estenosis carotídea aterosclerótica >50%",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "3",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "El ejercicio físico es muy útil en la prevención de la enfermedad cardiovascular porque:",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto!Un estilo de vida físicamente activo, ya sea en el tiempo laboral o libre, va asociado a una disminución de la frecuencia y la mortalidad de las ECV en un 30%, de modo que se genera una relación inversamente proporcional: a mayor actividad física, menor incidencia de eventos cardiovasculares. Actúa en diferentes ámbitos reduciendo el riesgo, reduce la glucemia y la tensión arterial, sobre todo la diastólica (respuesta 1 correcta), disminuye el sobrepeso, aumenta el HDL y disminuye el LDL (respuesta 4 incorrecta) entre otras. No es aplicable en cualquier situación de prevención primaria o secundaria (respuesta 3 incorrecta), de hecho, tras un IAM reciente hay que valorar cuidadosamente la indicación de ejercicio en el paciente (respuesta 2 incorrecta).",
+                "feedback_ko": "¡Incorrecto!Un estilo de vida físicamente activo, ya sea en el tiempo laboral o libre, va asociado a una disminución de la frecuencia y la mortalidad de las ECV en un 30%, de modo que se genera una relación inversamente proporcional: a mayor actividad física, menor incidencia de eventos cardiovasculares. Actúa en diferentes ámbitos reduciendo el riesgo, reduce la glucemia y la tensión arterial, sobre todo la diastólica (respuesta 1 correcta), disminuye el sobrepeso, aumenta el HDL y disminuye el LDL (respuesta 4 incorrecta) entre otras. No es aplicable en cualquier situación de prevención primaria o secundaria (respuesta 3 incorrecta), de hecho, tras un IAM reciente hay que valorar cuidadosamente la indicación de ejercicio en el paciente (respuesta 2 incorrecta).",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Reduce la glucemia y la tensión arterial.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Evita el riesgo de taquiarritmias, incluso después de un infarto de miocardio reciente",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Es aplicable en cualquier situación de prevención primaria como de prevención secundaria.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Aumenta mucho las concentraciones de colesterol HDL, aunque eleve un poco las concentraciones de colesterol LDL.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "4",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿Qué consejo le parece MENOS adecuado para un hombre de 20 años con colesterol total de 320mg/dl, LDL de 160 mg/dL y triglicéridos de 110 mg/dl?: ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto!La primera etapa del tratamiento de todas las hiperlipoproteinemias es la dieta. Si hay sobrepeso, además de pobre en grasas saturadas ha de ser hipocalórica. El segundo objetivo terapéutico es eliminar los factores agravantes, lo cual incluye el control del resto de factores de riesgo cardiovascular y realizar ejercicio físico. Dado que el paciente es joven estaría además indicado un estudio familiar de dislipemias hereditarias. En el caso de la pregunta, si tras 3 a 6 meses de tratamiento no farmacológico no se consigue reducir el colesterol habría que considerar con un tratamiento farmacológico, que en este caso y dado que los triglicéridos son normales, serían solamente estatinas.",
+                "feedback_ko": "¡Incorrecto!La primera etapa del tratamiento de todas las hiperlipoproteinemias es la dieta. Si hay sobrepeso, además de pobre en grasas saturadas ha de ser hipocalórica. El segundo objetivo terapéutico es eliminar los factores agravantes, lo cual incluye el control del resto de factores de riesgo cardiovascular y realizar ejercicio físico. Dado que el paciente es joven estaría además indicado un estudio familiar de dislipemias hereditarias. En el caso de la pregunta, si tras 3 a 6 meses de tratamiento no farmacológico no se consigue reducir el colesterol habría que considerar con un tratamiento farmacológico, que en este caso y dado que los triglicéridos son normales, serían solamente estatinas.",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "En el futuro su riesgo cardiovascular va a ser elevado y debe evitar por todos los medios el hábito tabáquico.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Sus padres y hermanos deben estudiarse el perfil lipídico pues pueden tener alguna forma de hipercolesterolemia familiar.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Su problema no es relevante por ahora, y no modificar sustancialmente sus hábitos, excepto el tabaco, si es que fuma, volviendo a revisiones anuales a partir de los 35 años de edad.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Debe procurar limitar el consumo de grasas de origen animal y mantener durante toda su vida un grado de ejercicio físico moderado.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "5",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Hombre de 67 años de edad, fumador de 48 paquetes/año, con diabetes mellitus de reciente diagnóstico. Índice de Masa Corporal 32 Kg/m2, TA 148/92, Glicemia basal 98 mg/dl; Glucosuria negativa, microalbuminuria negativa; colesterol total 274 mg/dl; LDL 190 mg/dl; HDL 30 mg/dl. Su médico de familia realiza una intervención en los hábitos de vida (tabaco, alimentación y ejercicio) e interviene farmacológicamente con metformina, simvastatina y enalapril. Pasados 6 meses, ¿cuál de las siguientes situaciones reflejaría un buen control del paciente, con un riesgo coronario menor?:",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto!El tratamiento de este tipo de pacientes es un tratamiento integral por lo que además de la administración de fármacos es necesario la modificación del estilo de vida (no simplemente el control glucémico). Hay que controlar los factores de riesgo cardiovascular y dado que el tabaco es uno de ellos la opción que incluya que el paciente sigue con el hábito tabáquico puede ser desechada (opción 3). Además, el control de la TA es más estricto (<130/80) y el LDL- C debe ser < 70, condiciones que se cumplen más en la opción 1.",
+                "feedback_ko": "¡Incorrecto! El tratamiento de este tipo de pacientes es un tratamiento integral por lo que además de la administración de fármacos es necesario la modificación del estilo de vida (no simplemente el control glucémico). Hay que controlar los factores de riesgo cardiovascular y dado que el tabaco es uno de ellos la opción que incluya que el paciente sigue con el hábito tabáquico puede ser desechada (opción 3). Además, el control de la TA es más estricto (<130/80) y el LDL- C debe ser < 70, condiciones que se cumplen más en la opción 1. ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "El paciente no fuma. IMC 26.8, TA 129/78; HbAlc 6.8; colesterol total 198; LDL 68; HDL 46.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "El paciente no fuma. IMC 30, TA 140/90, HbAlc 7, colesterol total 230; LDL 140; HDL 45.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "El paciente fuma. IMC 25, TA 124/74, HbAlc 5,4, colesterol total 190; LDL 90; HDL 46.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "El paciente no fuma. IMC 25, TA 138/88, HbAlc 7,2, colesterol total 190; LDL 90; HDL 46.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "6",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Hombre de 62 años con vida laboral muy activa, que le obliga a viajar continuamente, fumador de 20 cigarrillos diarios que, tras tres meses de dieta pobre en grasas saturadas y pobre en sal, tiene colesterol total 260 mg/dl, colesterol LDL 186mg/dl y colesterol HDL 40. Su tensión arterial es 150/100. ¿Qué actitud le parece más oportuna, además de suspender el tabaco y de dar un hipotensor?:",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! En el manejo de las dislipemias el objetivo fundamental es el control de la LDL, por su mayor asociación con eventos vasculares, y el tratamiento de elección es con estatinas, pues son los fármacos que han demostrado una mayor reducción del riesgo. El objetivo de LDL para cada paciente está determinado por su comorbilidad y riesgo vascular. Según las nuevas recomendaciones, el riesgo debe estimarse según el SCORE (riesgo de evento vascular fatal a 5 años). Aunque no nos facilitan ese dato, la presencia de varios factores de riesgo en ausencia de un equivalente de riesgo vascular supone un riesgo al menos moderado, y por tanto LDL < 100 mg/dL (opción 4 verdadera).",
+                "feedback_ko": "¡Incorrecto! En el manejo de las dislipemias el objetivo fundamental es el control de la LDL, por su mayor asociación con eventos vasculares, y el tratamiento de elección es con estatinas, pues son los fármacos que han demostrado una mayor reducción del riesgo. El objetivo de LDL para cada paciente está determinado por su comorbilidad y riesgo vascular. Según las nuevas recomendaciones, el riesgo debe estimarse según el SCORE (riesgo de evento vascular fatal a 5 años). Aunque no nos facilitan ese dato, la presencia de varios factores de riesgo en ausencia de un equivalente de riesgo vascular supone un riesgo al menos moderado, y por tanto LDL < 100 mg/dL (opción 4 verdadera).",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Continuar con las mismas recomendaciones dietéticas de por vida, sin que sea necesario añadir ningún hipolipemiante, por cuanto el LDL es < 190.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Continuar con las mismas recomendaciones dietéticas añadiendo Colestiramina a dosis mínima, con suplementos de vitaminas liposolubles y aceites de pescado.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Continuar con las mismas recomendaciones dietéticas añadiendo dosis bajas de un fibrato, pues el principal objetivo terapéutico será en este caso elevar el colesterol HDL por encima de 60 mg/dl.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Continuar con las mismas recomendaciones dietéticas y añadir una estatina a dosis suficientes para reducir colesterol LDL por debajo de 100 mg/dl.",
+                        "correct": true,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "7",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Señales cuál de los siguientes no computa en el estimador de riesgo SCORE2: ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! El SCORE2 es el estimador de riesgo cardiovascular propuesto por la Sociedad Europea de Cardiología para sujetos aparentemente sanos, aportando en función de edad, sexo, tabaquismo, colesterol no HDL y cifras de tensión arterial sistólica una probabilidad X de eventos cardiovasculares en los siguientes 10 años. ",
+                "feedback_ko": "¡Incorrecto! El SCORE2 es el estimador de riesgo cardiovascular propuesto por la Sociedad Europea de Cardiología para sujetos aparentemente sanos, aportando en función de edad, sexo, tabaquismo, colesterol no HDL y cifras de tensión arterial sistólica una probabilidad X de eventos cardiovasculares en los siguientes 10 años. ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Sexo",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Edad",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Índice de masa corporal",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Cifras de colesterol no HDL",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "8",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Hombre de 60 años que sufrió un infarto de miocardio hace 1 año. Se lo remiten para valorar su tratamiento. Está tomando gemfibrozilo 900 mg, lisinopril 20 mg, aspirina 100 mg y carvedilol 25 mg. En sus análisis tiene cLDL 162 mg/dL, cHDL 46 mg/dL, triglicéridos 132 mg/dL, colesterol total 220 mg/dL. ¿Qué actitud terapéutica le parece más razonable?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Actualmente coexisten dos filosofías de manejo de la hiperlipemia, la guiada por objetivos (como las guías de la SEC) y la guiada por reducción de riesgo cardiovascular. El manejo clásico es guiado por objetivos: a mayor riesgo cardiovascular, se persigue un objetivo de control de LDL más exigente para conseguir mayor reducción del riesgo. Un paciente con un IAM previo es un equivalente de enfermedad coronaria, máximo riesgo cardiovascular posible, y se persigue un objetivo de colesterol LDL <55, por lo que en este paciente está indicado el uso de estatinas, que son el fármaco con mayor potencia hipolipemiante. El otro planteamiento huye de objetivos numéricos, y se plantea que todos los pacientes con alto riesgo cardiovascular deben recibir estatina; un paciente con un infarto previo es la categoría de mayor riesgo, y tiene indicación de estatina, tenga el LDL que tenga. Usemos el planteamiento que usemos, el paciente debe recibir estatina, luego la única opción válida es la 3.",
+                "feedback_ko": "¡Incorrecto! Actualmente coexisten dos filosofías de manejo de la hiperlipemia, la guiada por objetivos (como las guías de la SEC) y la guiada por reducción de riesgo cardiovascular. El manejo clásico es guiado por objetivos: a mayor riesgo cardiovascular, se persigue un objetivo de control de LDL más exigente para conseguir mayor reducción del riesgo. Un paciente con un IAM previo es un equivalente de enfermedad coronaria, máximo riesgo cardiovascular posible, y se persigue un objetivo de colesterol LDL <55, por lo que en este paciente está indicado el uso de estatinas, que son el fármaco con mayor potencia hipolipemiante. El otro planteamiento huye de objetivos numéricos, y se plantea que todos los pacientes con alto riesgo cardiovascular deben recibir estatina; un paciente con un infarto previo es la categoría de mayor riesgo, y tiene indicación de estatina, tenga el LDL que tenga. Usemos el planteamiento que usemos, el paciente debe recibir estatina, luego la única opción válida es la 3. ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Insistir en cambios de estilo de vida y mantener el mismo tratamiento.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Es prioritario aumentar el cHDL con ácido nicotínico.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Hay que disminuir cLDL cambiando gemfibrozilo por atorvastatina.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Retirar el betabloqueante por si altera los lípidos.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "9",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Paciente varón de 28 años de edad, fumador, con antecedentes familiares de Cardiopatía isquémica (padre con IAM a los 44 años) y que presenta en la analítica LDL de 315 mg/dL. A la exploración destaca un IMC de 30 kg/m2 y la presencia de xantomas. El diagnóstico más probable de este paciente es:",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! La hipercolesterolemia familiar podemos definirla en resumen como la hipercolesterolemia hereditaria de forma autosómica dominante causante de la aparición de xantomas. Su diagnóstico hoy día es fundamentalmente clínico, aunque se está estudiando la rentabilidad del estudio genético. Por tanto, para diagnosticar hipercolesterolemia familiar debemos reunir niveles elevados de LDL, presencia de un progenitor afecto (o en caso de desconocerse, cardiopatía isquémica precoz) y xantomas. Recuerda que la hipercolesterolemia más prevalente es la poligénica, que cursa característicamente con ausencia de xantomas. ",
+                "feedback_ko": "¡Incorrecto! La hipercolesterolemia familiar podemos definirla en resumen como la hipercolesterolemia hereditaria de forma autosómica dominante causante de la aparición de xantomas. Su diagnóstico hoy día es fundamentalmente clínico, aunque se está estudiando la rentabilidad del estudio genético. Por tanto, para diagnosticar hipercolesterolemia familiar debemos reunir niveles elevados de LDL, presencia de un progenitor afecto (o en caso de desconocerse, cardiopatía isquémica precoz) y xantomas. Recuerda que la hipercolesterolemia más prevalente es la poligénica, que cursa característicamente con ausencia de xantomas.  ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Hipercolesterolemia poligénica.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Hiperlipemia familiar combinada.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Hipercolesterolemia familiar heterocigota.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Disbetalipoproteinemia.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "10",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Respecto de las hipercolesterolemias y sus medidas terapéuticas disponibles para el tratamiento de las dislipemias, señale la opción correcta: ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! La simvastatina es una estatina, actúa inhibiendo la HMG Co A reductasa, enzima limitante para la síntesis del colesterol endógeno. Esta disminución de síntesis estimula el aumento de receptores LDL en el hepatocito favoreciendo al aclaramiento plasmático de colesterol. El probucol disminuye los niveles de colesterol incrementando el catabolismo de las LDL (no actúa sobre la HMGCoA). Además, retrasa la absorción intestinal del mismo y disminuye su síntesis. Actualmente no se usa, ya que se objetivó que alargaba el intervalo QT del electrocardiograma. En las formas homocigotas de la hipercolesterolemia familiar se deben utilizar las estatinas, el resto no son eficaces. La colestiramina es una resina de intercambio, que se une a los ácidos biliares en el intestino, bloqueando su recirculación enterohepática.   ",
+                "feedback_ko": "¡Incorrecto! La simvastatina es una estatina, actúa inhibiendo la HMG Co A reductasa, enzima limitante para la síntesis del colesterol endógeno. Esta disminución de síntesis estimula el aumento de receptores LDL en el hepatocito favoreciendo al aclaramiento plasmático de colesterol. El probucol disminuye los niveles de colesterol incrementando el catabolismo de las LDL (no actúa sobre la HMGCoA). Además, retrasa la absorción intestinal del mismo y disminuye su síntesis. Actualmente no se usa, ya que se objetivó que alargaba el intervalo QT del electrocardiograma. En las formas homocigotas de la hipercolesterolemia familiar se deben utilizar las estatinas, el resto no son eficaces. La colestiramina es una resina de intercambio, que se une a los ácidos biliares en el intestino, bloqueando su recirculación enterohepática.   ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "La simvastatina es una resina de intercambio. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "En las formas homocigotas de la hipocolesterolemia familiar cualquiera de los fármacos hipolipemiantes puede resultar útil inicialmente. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "La colestiramina es una resina de intercambio.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "El probucol es un inhibidor de la hidroxi-metil-glutaril-CoA-reductasa.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "11",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "No es un factor a tener en cuenta a la hora de estimar el riesgo cardiovascular de un sujeto aparentemente sano: ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! El SCORE2 es la calculadora de riesgo cardiovascular sugerida por la sociedad europea de cardiología. Se trata de un estimador que tiene en cuenta la edad, el sexo, el tabaquismo, los niveles de colesterol no HDL y la tensión arterial. Existen distintas ponderaciones en función de la nacionalidad de origen. No computa en el mismo los niveles de triglicéridos.  ",
+                "feedback_ko": "¡Incorrecto! El SCORE2 es la calculadora de riesgo cardiovascular sugerida por la sociedad europea de cardiología. Se trata de un estimador que tiene en cuenta la edad, el sexo, el tabaquismo, los niveles de colesterol no HDL y la tensión arterial. Existen distintas ponderaciones en función de la nacionalidad de origen. No computa en el mismo los niveles de triglicéridos. ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Nivel de colesterol no HDL",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Nivel de triglicéridos ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Nacionalidad ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Sexo",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "12",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Varón de 54 años, sin antecedentes médicos de interés, deportista, no fumador, con índice de masa corporal de 27 kg/m2. Los valores de tensión arterial son de 110/75. En la analítica realizada se objetivan niveles elevados de colesterol (colesterol total 274 mg/dL, LDL 178 mg/dL), con valores de triglicéridos dentro del límite de la normalidad. No existen otras alteraciones en el análisis. ¿Cuál sería su actitud ante este paciente?:",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Se trata de un paciente con edad > 40 años y LDL alto. Según las nuevas guías de la SEC el objetivo de control de LDL viene definido por el riesgo cardiovascular calculado según SCORE2. Aunque no disponemos de estos datos, se trata de un varón sin otros FRCV, por lo que podríamos considerarlo de bajo riesgo (objetivo LDL < 115 mg/dL). En cualquier caso, el primer paso es iniciar medidas higiénico-dietéticas antes de plantear un tratamiento farmacológico (que, llegado el caso, debería ser con estatinas como primera elección). ",
+                "feedback_ko": "¡Incorrecto! Se trata de un paciente con edad > 40 años y LDL alto. Según las nuevas guías de la SEC el objetivo de control de LDL viene definido por el riesgo cardiovascular calculado según SCORE2. Aunque no disponemos de estos datos, se trata de un varón sin otros FRCV, por lo que podríamos considerarlo de bajo riesgo (objetivo LDL < 115 mg/dL). En cualquier caso, el primer paso es iniciar medidas higiénico-dietéticas antes de plantear un tratamiento farmacológico (que, llegado el caso, debería ser con estatinas como primera elección). ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Recomendaría una dieta baja en grasas saturadas, así como la realización de ejercicio físico regular, y repetiría la analítica en 3 meses.",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Iniciaría tratamiento con 10 mg/día de atorvastatina, puesto que la dieta en este caso no va a ser suficiente para normalizar las elevadas cifras de LDL del paciente.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Iniciaría tratamiento con fibratos y reevaluar en 3-6 meses. Si no fueran eficaces, asociaría fibratos y resinas de intercambio iónico.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Recomendaría una modificación higiénico-dietética inicialmente, acompañada de la utilización de ácidos grasos poliinsaturados con configuración omega-3 y repetiría la analítica en 3 meses.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "13",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Está claramente establecido el objetivo terapéutico de un colesterol LDL inferior a 55 mg/dl en el caso de: ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Las indicaciones para tener un LDL < 55 son: -Enfermedad cardiovascular establecida o sujetos de muy alto riesgo cardiovascular calculado por SCORE2 o determinado por comorbilidades acompañantes: insuficiencia renal crónica grave, DM tipo 2 con daño de órgano diana, hipercolesterolemia familiar con otros factores de riesgo CV.  El sobrepeso, la edad > 45 en varón o 55 en mujer, y el antecedente de enfermedad coronaria en los padres, son sólo factores de riesgo cardiovascular (FRCV).",
+                "feedback_ko": "¡Incorrecto! Las indicaciones para tener un LDL < 55 son: -Enfermedad cardiovascular establecida o sujetos de muy alto riesgo cardiovascular calculado por SCORE2 o determinado por comorbilidades acompañantes: insuficiencia renal crónica grave, DM tipo 2 con daño de órgano diana, hipercolesterolemia familiar con otros factores de riesgo CV.  El sobrepeso, la edad > 45 en varón o 55 en mujer, y el antecedente de enfermedad coronaria en los padres, son sólo factores de riesgo cardiovascular (FRCV).",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "La presencia de cardiopatía isquémica previa. ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "La presencia de sobrepeso.. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "La edad de 50-60 años.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "El antecedente de cardiopatía isquémica o ictus previo en un padre o en un hijo..",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "14",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Señale la opción falsa: ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Si bien los TGs típicamente se ven afectados por la dieta y el ayuno previo, los niveles de colesterol LDL son muy poco sensibles a realizar su determinación tras la ingesta. Por ese motivo, las guías clínicas contemplan la posibilidad de su análisis pese a no cumplir la ayuna. En caso de que las cifras de triglicéridos encontradas sean muy anormales (<50 o >400) la estimación de LDL sí puede ser falsa y se recomienda repetir la analítica en ayunas. ",
+                "feedback_ko": "¡Incorrecto! Si bien los TGs típicamente se ven afectados por la dieta y el ayuno previo, los niveles de colesterol LDL son muy poco sensibles a realizar su determinación tras la ingesta. Por ese motivo, las guías clínicas contemplan la posibilidad de su análisis pese a no cumplir la ayuna. En caso de que las cifras de triglicéridos encontradas sean muy anormales (<50 o >400) la estimación de LDL sí puede ser falsa y se recomienda repetir la analítica en ayunas.  ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Los valores de LDL son normalmente referidos según la estimación de Friedewald",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Los valores de colesterol LDL no se afectan por el ayuno ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Los valores de triglicéridos son sensibles al ayuno previo. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "No se recomienda extraer analítica lipídica si el paciente ha desayunado por riesgo de determinaciones erróneas de colesterol LDL. .",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "15",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "En un paciente con hiperlipemia, la asociación de lovastatina y gemfibrozilo, presenta un elevado riesgo de:",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Las estatinas son fármacos hipolipemiantes, con los que se ha constatado eficacia en la prevención secundaria y primaria de cardiopatía isquémica. Entre las diferentes reacciones adversas que pueden ocasionar los tratamientos con «estatinas» (hepáticas, oftalmológicas y musculares), las más importantes son los efectos musculares, que se manifiestan en pocos casos, aunque pueden llegar a ser graves: elevaciones esporádicas de la creatinin-fosfoquinasa (CPK), con poca relevancia clínica; miopatías con elevaciones marcadas de CPK y/o mialgias difusas con debilidad o sensibilidad muscular y rabdomiolisis (necrosis muscular). Estas reacciones adversas musculares pueden verse incrementadas cuando los inhibidores de la HMG-CoA-reductasa («estatinas») se asocian a otros fármacos como ciclosporina, eritromicina, itraconazol y fibratos, en particular, con gemfibrozilo (opción 2 correcta), que es una combinación desaconsejada, debiendo usarse en todo caso fenofibrato con mucha precaución.",
+                "feedback_ko": "¡Incorrecto! Las estatinas son fármacos hipolipemiantes, con los que se ha constatado eficacia en la prevención secundaria y primaria de cardiopatía isquémica. Entre las diferentes reacciones adversas que pueden ocasionar los tratamientos con «estatinas» (hepáticas, oftalmológicas y musculares), las más importantes son los efectos musculares, que se manifiestan en pocos casos, aunque pueden llegar a ser graves: elevaciones esporádicas de la creatinin-fosfoquinasa (CPK), con poca relevancia clínica; miopatías con elevaciones marcadas de CPK y/o mialgias difusas con debilidad o sensibilidad muscular y rabdomiolisis (necrosis muscular). Estas reacciones adversas musculares pueden verse incrementadas cuando los inhibidores de la HMG-CoA-reductasa («estatinas») se asocian a otros fármacos como ciclosporina, eritromicina, itraconazol y fibratos, en particular, con gemfibrozilo (opción 2 correcta), que es una combinación desaconsejada, debiendo usarse en todo caso fenofibrato con mucha precaución.  ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": false,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Agranulocitosis.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Rabdomiólisis  ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Insuficiencia renal",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Acidosis láctica",
+                        "correct": true,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "16",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿Cuál de los siguientes NO es un efecto secundario esperable del tratamiento con estatinas?:",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Las estatinas son fármacos muy bien tolerados y con un perfil de seguridad muy favorable. Es frecuente la aparición de artralgias o mialgias inespecíficas, y en tal caso se debe solicitar analítica con CPK para descartar una rabdomiólisis, complicación poco frecuente pero grave del uso de estatinas, y que se favorece enormemente con la combinación con fibratos, especialmente gemfibrozilo; para prevenirlo, en caso de tener que realizar tratamiento hipolipemiante combinado, el fibrato de elección es el FENOFIBRATO. Con el inicio del uso de estatinas es posible provocar un aumento de transaminasas o incluso una hepatitis tóxica, por lo que también es necesario la monitorización de transaminasas al inicio del tratamiento con estatinas. No siempre es necesario suspender el tratamiento, si la elevación de transaminasas es asintomática, discreta y no progresiva. ",
+                "feedback_ko": "¡Incorrecto! Las estatinas son fármacos muy bien tolerados y con un perfil de seguridad muy favorable. Es frecuente la aparición de artralgias o mialgias inespecíficas, y en tal caso se debe solicitar analítica con CPK para descartar una rabdomiólisis, complicación poco frecuente pero grave del uso de estatinas, y que se favorece enormemente con la combinación con fibratos, especialmente gemfibrozilo; para prevenirlo, en caso de tener que realizar tratamiento hipolipemiante combinado, el fibrato de elección es el FENOFIBRATO. Con el inicio del uso de estatinas es posible provocar un aumento de transaminasas o incluso una hepatitis tóxica, por lo que también es necesario la monitorización de transaminasas al inicio del tratamiento con estatinas. No siempre es necesario suspender el tratamiento, si la elevación de transaminasas es asintomática, discreta y no progresiva. ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Aumento de la TSH. ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Aumento de la CPK.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Aumento de las transaminasas.",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Mialgias ",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "17",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Una de las siguientes no es correcta con respecto al evolocumab: ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Los anticuerpos inhibidores de la PCSK9 tienen un potente efecto hipolipemiante y han demostrado reducción de LDL Y DE RIESGO CARDIOVASCULAR en pacientes pretratados con estatinas o con estatinas + ezetimibe, en dos indicaciones: hipercolesterolemia familiar monogénica y prevención secundaria tras un IAM. Se acepta la indicación en esas dos condiciones.  ",
+                "feedback_ko": "¡Incorrecto! Los anticuerpos inhibidores de la PCSK9 tienen un potente efecto hipolipemiante y han demostrado reducción de LDL Y DE RIESGO CARDIOVASCULAR en pacientes pretratados con estatinas o con estatinas + ezetimibe, en dos indicaciones: hipercolesterolemia familiar monogénica y prevención secundaria tras un IAM. Se acepta la indicación en esas dos condiciones.  ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Se trata de un anticuerpo monoclonal inhibidor de la PCSK9, enzima que degrada al receptor LDL hepático",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Esta indicado en prevención primaria en pacientes de moderado riesgo con LDL > 100 a pesar de tratamiento con estatinas + ezetimibe, con independencia de su causa",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Esta indicado en prevención secundaria en pacientes con LDL > 55 a pesar de tratamiento con estatinas + ezetimibe",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Esta indicado en prevención primaria en pacientes con hipercolesterolemia familiar monogénica con LDL > 100 a pesar de tratamiento con estatinas + ezetimibe, tanto en homo- como heterocigotos",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "18",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿Cuál es uno de los principales factores de decisión a tener en cuenta cuando se desarrolla un plan de tratamiento para la hipercolesterolemia?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Las actuales recomendaciones de la Sociedad Europea de Cardiología son estrictas a la hora de marcar objetivos de LDL acordes a un determinado nivel de riesgo cardiovascular. Para calcularlo en sujetos sanos se emplea el estimador SCORE2 que aporta la probabilidad de desarrollar ECVA en los próximos 10 años. ",
+                "feedback_ko": "¡Incorrecto! Las actuales recomendaciones de la Sociedad Europea de Cardiología son estrictas a la hora de marcar objetivos de LDL acordes a un determinado nivel de riesgo cardiovascular. Para calcularlo en sujetos sanos se emplea el estimador SCORE2 que aporta la probabilidad de desarrollar ECVA en los próximos 10 años. ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Niveles de triglicéridos",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Niveles de colesterol de las lipoproteínas de alta densidad (C-HDL)",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Riesgo a 10 años de enfermedad cardiovascular aterosclerótica (ECVA)",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Antecedentes familiares de hipercolesterolemia  ",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "19",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Señale el objetivo de LDL en sujetos con riesgo alto de desarrollar ECVA en los próximos 10 años:  ",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! En pacientes considerados de alto riesgo de ECVA la recomendación es un LDL<70 mg/dL, comenzando tratamiento farmacológico si tras 2-6 meses de medidas generales no se consigue dicho objetivo.  ",
+                "feedback_ko": "¡Incorrecto! En pacientes considerados de alto riesgo de ECVA la recomendación es un LDL<70 mg/dL, comenzando tratamiento farmacológico si tras 2-6 meses de medidas generales no se consigue dicho objetivo.  ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "<70 mg/dL",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "<55 mg/dL",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "<100 mg/dL",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "<115 mg/dL",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "20",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "¿Cuál de los siguientes actúa como secuestrados de ácidos biliares?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! El colevesam es un quelante de ácidos biliares que tiene la ventaja con respecto a otros secuestrados de sales de poder ser administrado con las comidas. No presenta absorción enteral por lo que los efectos sistémicos son muy escasos. Sin embargo, las reacciones adversas intestinales (sobre todo estreñimiento) son frecuentes.  ",
+                "feedback_ko": "¡Incorrecto! El colevesam es un quelante de ácidos biliares que tiene la ventaja con respecto a otros secuestrados de sales de poder ser administrado con las comidas. No presenta absorción enteral por lo que los efectos sistémicos son muy escasos. Sin embargo, las reacciones adversas intestinales (sobre todo estreñimiento) son frecuentes.  ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Ácido bempedoico",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Colevesam",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Gemfibrozilo ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Evolucumab",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            }
+        ],
         "7.1": [
             {
                 "id": "1",

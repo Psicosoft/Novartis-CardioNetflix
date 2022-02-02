@@ -3582,6 +3582,76 @@
                         }
                         
                     ]
+                },
+                {
+                    "id": "6.4",
+                    "type": "SECTION",
+                    "next_content_preview": {
+                        "time": 5,
+                        "show_caption": false
+                    },
+                    "menu_section": {
+                        "ico": "",
+                        "img_bg": "1-6-0-image.jpg",
+                        "menu_prev": true,
+                        "time": "10 minuto",
+                        "tags": [
+                            {
+                                "name": "Vídeo"
+                            }
+                        ]
+                    },
+                    "status": 0,
+                    "title": "Test",
+                    "activities": [
+                        
+                        {
+                            "id": "6.4.0",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "save_info": true,
+                            "status": 0,
+                            "title": "",
+                            "random": true,
+                            "feedback_review": true,
+                            "id_quiz": ""
+                        },
+                        {
+                            "id": "6.4.1",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "save_info": true,
+                            "status": 0,
+                            "title": "",
+                            "random": true,
+                            "feedback_review": true,
+                            "id_quiz": ""
+                        },{
+                            "id": "6.4.1",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_FINAL_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "navigation":{
+                                "disable_nav_prev": false,
+                                "disable_nav_next": false,
+                                "hidden_nav_next": false
+
+                            },
+                            "save_info": true,
+                            "finishCourse": false,
+                            "status": 0,
+                            "title": "",
+                            "b_subtitle": "",
+                            "random": true,                            
+                            "feedback_review": true,
+                            "id_quiz": ""
+                        }
+                    ]
                 }
                 
             ]
@@ -3595,7 +3665,8 @@
             "title": "Módulos 4, 5 y 6",
             "description": "",
             "mod_navigation": {
-                "nextModule": "0"
+                "nextModule": "0",
+                "prevModule": "6"
             },
             "type": "MODULE",
             "childrens": [
