@@ -112,7 +112,7 @@
                                 "pretitle_css": "centered"
                             },
                             "title": "Introducción al módulo",
-                            "title_css": "justify-content-center",
+                            "title_css": "justify-content-center centered",
                             "content": {
                                 "c_block": [
                                     {
@@ -173,7 +173,7 @@
                                 "pretitle_css": "centered"
                             },
                             "title": "Anatomía cardiovascular",
-                            "title_css": "justify-content-center",
+                            "title_css": "justify-content-center centered",
                             "content": {
                                 "c_block": [
                                     {
@@ -234,7 +234,7 @@
                                 "pretitle_css": "centered"
                             },
                             "title": "Fisiología cardiovascular",
-                            "title_css": "justify-content-center",
+                            "title_css": "justify-content-center centered",
                             "content": {
                                 "c_block": [
                                     {
@@ -295,7 +295,7 @@
                                 "pretitle_css": "centered"
                             },
                             "title": "Consecuencias de la isquemia arterial",
-                            "title_css": "justify-content-center",
+                            "title_css": "justify-content-center centered",
                             "content": {
                                 "c_block": [
                                     {
@@ -356,7 +356,7 @@
                                 "pretitle_css": "centered"
                             },
                             "title": "Despedida del módulo",
-                            "title_css": "justify-content-center",
+                            "title_css": "justify-content-center centered",
                             "content": {
                                 "c_block": [
                                     {
@@ -783,7 +783,7 @@
                                 "pretitle_css": "centered"
                             },
                             "title": "Introducción al módulo 2",
-                            "title_css": "justify-content-center",
+                            "title_css": "justify-content-center centered",
                             "content": {
                                 "c_block": [
                                     {
@@ -844,7 +844,7 @@
                                 "pretitle_css": "centered"
                             },
                             "title": "Epidemiología, carga de enfermedad y descripción general de la ECVA",
-                            "title_css": "justify-content-center",
+                            "title_css": "justify-content-center centered",
                             "content": {
                                 "c_block": [
                                     {
@@ -905,7 +905,7 @@
                                 "pretitle_css": "centered"
                             },
                             "title": "Factores de riesgo cardiovascular",
-                            "title_css": "justify-content-center",
+                            "title_css": "justify-content-center centered",
                             "content": {
                                 "c_block": [
                                     {
@@ -966,7 +966,7 @@
                                 "pretitle_css": "centered"
                             },
                             "title": "Complicaciones y consecuencias para la salud de la ECVA",
-                            "title_css": "justify-content-center",
+                            "title_css": "justify-content-center centered",
                             "content": {
                                 "c_block": [
                                     {
@@ -1027,7 +1027,7 @@
                                 "pretitle_css": "centered"
                             },
                             "title": "Diagnóstico de la ECVA",
-                            "title_css": "justify-content-center",
+                            "title_css": "justify-content-center centered",
                             "content": {
                                 "c_block": [
                                     {
@@ -1088,7 +1088,7 @@
                                 "pretitle_css": "centered"
                             },
                             "title": "Descripción general del tratamiento actual de la ECVA",
-                            "title_css": "justify-content-center",
+                            "title_css": "justify-content-center centered",
                             "content": {
                                 "c_block": [
                                     {
@@ -1149,7 +1149,7 @@
                                 "pretitle_css": "centered"
                             },
                             "title": "Despedida Módulo 2",
-                            "title_css": "justify-content-center",
+                            "title_css": "justify-content-center centered",
                             "content": {
                                 "c_block": [
                                     {
@@ -2196,7 +2196,7 @@
                                 "pretitle_css": "centered"
                             },
                             "title": "Introducción al módulo 3",
-                            "title_css": "justify-content-center",
+                            "title_css": "justify-content-center centered",
                             "content": {
                                 "c_block": [
                                     {
@@ -2257,7 +2257,7 @@
                                 "pretitle_css": "centered"
                             },
                             "title": "Funciones del colesterol en el organismo",
-                            "title_css": "justify-content-center",
+                            "title_css": "justify-content-center centered",
                             "content": {
                                 "c_block": [
                                     {
@@ -2318,7 +2318,7 @@
                                 "pretitle_css": "centered"
                             },
                             "title": "Hipercolesterolemia: descripción, tipos, clasificaciones",
-                            "title_css": "justify-content-center",
+                            "title_css": "justify-content-center centered",
                             "content": {
                                 "c_block": [
                                     {
@@ -2379,7 +2379,7 @@
                                 "pretitle_css": "centered"
                             },
                             "title": "Complicaciones y comorbilidades asociadas a la hipercolesterolemia",
-                            "title_css": "justify-content-center",
+                            "title_css": "justify-content-center centered",
                             "content": {
                                 "c_block": [
                                     {
@@ -2440,7 +2440,7 @@
                                 "pretitle_css": "centered"
                             },
                             "title": "Despedida del módulo 3",
-                            "title_css": "justify-content-center",
+                            "title_css": "justify-content-center centered",
                             "content": {
                                 "c_block": [
                                     {
@@ -2865,7 +2865,7 @@
                                 "pretitle_css": "centered"
                             },
                             "title": "Introducción al modulo 4",
-                            "title_css": "justify-content-center",
+                            "title_css": "justify-content-center centered",
                             "content": {
                                 "c_block": [
                                     {
@@ -2913,6 +2913,7 @@
                     },
                     "status": 0,
                     "title": "Visión general del tratamiento actual de la hipercolesterolemia",
+                    "title_css": "justify-content-center centered",
                     "activities": [
                         { 
                             "id": "5.2.0",
@@ -2926,7 +2927,7 @@
                                 "pretitle_css": "centered"
                             },
                             "title": "Visión general del tratamiento actual de la hipercolesterolemia",
-                            "title_css": "justify-content-center",
+                            "title_css": "centered",
                             "content": {
                                 "c_block": [
                                     {
@@ -2987,7 +2988,7 @@
                                 "pretitle_css": "centered"
                             },
                             "title": "Enfoque terapéutico y manejo de la hipercolesterolemia",
-                            "title_css": "justify-content-center",
+                            "title_css": "justify-content-center centered",
                             "content": {
                                 "c_block": [
                                     {
@@ -3048,7 +3049,7 @@
                                 "pretitle_css": "centered"
                             },
                             "title": "Guías de tratamiento de la hipercolesterolemia",
-                            "title_css": "justify-content-center",
+                            "title_css": "justify-content-center centered",
                             "content": {
                                 "c_block": [
                                     {
@@ -3109,7 +3110,7 @@
                                 "pretitle_css": "centered"
                             },
                             "title": "Despedida del módulo 4",
-                            "title_css": "justify-content-center",
+                            "title_css": "justify-content-center centered",
                             "content": {
                                 "c_block": [
                                     {
@@ -3534,7 +3535,7 @@
                                 "pretitle_css": "centered"
                             },
                             "title": "Introducción al módulo 5",
-                            "title_css": "justify-content-center",
+                            "title_css": "justify-content-center centered",
                             "content": {
                                 "c_block": [
                                     {
@@ -3595,7 +3596,7 @@
                                 "pretitle_css": "centered"
                             },
                             "title": "Caso práctico",
-                            "title_css": "justify-content-center",
+                            "title_css": "justify-content-center centered",
                             "content": {
                                 "c_block": [
                                     {
@@ -3656,7 +3657,7 @@
                                 "pretitle_css": "centered"
                             },
                             "title": "Despedida del módulo 5",
-                            "title_css": "justify-content-center",
+                            "title_css": "justify-content-center centered",
                             "content": {
                                 "c_block": [
                                     {

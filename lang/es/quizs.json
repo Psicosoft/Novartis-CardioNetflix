@@ -972,37 +972,43 @@
             },
             {
                 "id": "7",
-                "qType": "TEST_TYPE.MULTIPLE_OPTION",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
                 "qTitle": "No exclusivamente los factores de riesgo cardiovascular clásicos deberían ser considerados a la hora de establecer el riesgo cardiovascular de un paciente. Hay otras situaciones que modifican el riesgo que ofrecen las tablas SCORE y que deberían considerarse a la hora de hacer un abordaje integral y más acertado del riesgo de los pacientes. ¿Cuáles de los siguientes deberíamos considerar?",
-                "instructions": "Selecciona las opciones que consideres correctas:",
+                "instructions": "Selecciona la opción que consideres correcta:",
                 "feedback_ok": "¡Correcto! Aunque las escalas de valoración del riesgo cardiovascular son muy útiles, no solamente debemos tener en cuenta las condiciones que se recogen en éstas. Todos las opciones expuestas deben ser consideradas por aumentar el riesgo cardiovascular. Especialmente resulta importante en sujetos jóvenes en quienes el riesgo cardiovascular a lo largo de la vida es mucho mayor y el potencial de reducir eventos cardiovascular es mayor.   ",
                 "feedback_ko": "¡Incorrecto! Aunque las escalas de valoración del riesgo cardiovascular son muy útiles, no solamente debemos tener en cuenta las condiciones que se recogen en éstas. Todos las opciones expuestas deben ser consideradas por aumentar el riesgo cardiovascular. Especialmente resulta importante en sujetos jóvenes en quienes el riesgo cardiovascular a lo largo de la vida es mucho mayor y el potencial de reducir eventos cardiovascular es mayor.   ",
                 "number_of_answers": 4,
                 "topic": "",
                 "points": 3,
-                "options_order_random": true,
+                "options_order_random": false,
                 "options": [
                     {
                         "id": "1",
                         "text": "Bajo nivel socioeconómico. ",
-                        "correct": true,
+                        "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "2",
                         "text": "Infección por el virus de la inmunodeficiencia humana. ",
-                        "correct": true,
+                        "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "3",
                         "text": "Enfermedades inflamatorias crónicas. ",
-                        "correct": true,
+                        "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "4",
                         "text": "Hígado graso no alcohólico. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "5",
+                        "text": "Todas son correctas. ",
                         "correct": true,
                         "feedback": ""
                     }
