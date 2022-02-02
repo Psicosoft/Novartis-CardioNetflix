@@ -390,7 +390,7 @@
                             "title": "Test del Módulo 1",
                             "content": {
                                 "c_type": "story",
-                                "c_img": "1-6-0-image.jpg",
+                                "c_img": "test-cover.jpg",
                                 "b_subtitle": "",
                                 "b_text": [
                                     {
@@ -1182,7 +1182,7 @@
                             "title": "Test del Módulo 2",
                             "content": {
                                 "c_type": "story",
-                                "c_img": "1-6-0-image.jpg",
+                                "c_img": "test-cover.jpg",
                                 "b_subtitle": "",
                                 "b_text": [
                                     {
@@ -2473,7 +2473,7 @@
                             "title": "Test del Módulo 3",
                             "content": {
                                 "c_type": "story",
-                                "c_img": "1-6-0-image.jpg",
+                                "c_img": "test-cover.jpg",
                                 "b_subtitle": "",
                                 "b_text": [
                                     {
@@ -3142,7 +3142,7 @@
                             "title": "Test del Módulo 4",
                             "content": {
                                 "c_type": "story",
-                                "c_img": "1-6-0-image.jpg",
+                                "c_img": "test-cover.jpg",
                                 "b_subtitle": "",
                                 "b_text": [
                                     {
@@ -3689,7 +3689,7 @@
                             "title": "Test del Módulo 5",
                             "content": {
                                 "c_type": "story",
-                                "c_img": "1-6-0-image.jpg",
+                                "c_img": "test-cover.jpg",
                                 "b_subtitle": "",
                                 "b_text": [
                                     {
