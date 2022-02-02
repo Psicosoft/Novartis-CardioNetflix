@@ -53,7 +53,9 @@
 <script>
     $(document).ready(function(){
         $(document).on("click", ".btn-close-course>div", function(){
-            window.parent.location.href = "../../../index.html#/main";
+            if(confirm("¿Deseas salir del curso?")){
+                window.parent.location.href = "../../../index.html#/main";
+            }
         });
     });
 </script>

@@ -60,3 +60,6 @@ background-color: #0460A9 !important;
 module-header header > *.content-right {
     flex: 1 1 20% !important;
 }
+tooltip tip-tip {
+    font-size: 1.6rem !important;
+}

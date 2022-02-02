@@ -25,7 +25,7 @@
         "retry": "Reintentar",
         "quiz": "Test Final",
         "quizResults": "Resultado test",
-        "nextlocked": "Para poder avanzar debes leer toda la información.",
+        "nextlocked": "Aún no puede avanzar a la siguiente página.",
         "execise_complete": "¡Ejercicio completado!",
         "max_attemps": "¡Has superado el número de intentos!",
         "instructionsAdvance": "Pulsa Avanzar para ver la siguiente pregunta.",
