@@ -3724,19 +3724,48 @@
                     "status": 0,
                     "title": "Test",
                     "activities": [
-                        
                         {
                             "id": "6.4.0",
                             "type": "CONTENT",
-                            "type_content": "ACTIVITY_TEST",
-                            "validation_auto": false,
-                            "mandatory": false,
-                            "save_info": true,
+                            "type_content": "ACTIVITY_CONTENT",
                             "status": 0,
-                            "title": "",
-                            "random": true,
-                            "feedback_review": true,
-                            "id_quiz": ""
+                            "title": "Presentación del paciente: ",
+                            "subtitle": "",
+                            "content": {
+                                "c_type": "layout1",
+                                "c_block": [
+                                    {
+                                                                        
+                                        "b_text": [
+                                          {
+                                              "b_line": "Roberto es un varón de 48 años al que en  un reconocimiento de empresa se le diagnóstica hipercolesterolemia  como parte de una analítica desde el servicio de prevención de riesgos laborales."
+                                          },
+                                          {
+                                              "b_line": "Como parte adicional de la evaluación del riesgo cardiovascular se encuentran cifras de tensión arterial de 139/83 mmHg, e IMC 28 kg/m2. "
+                                          },
+                                          {
+                                              "b_line": "En la analítica realizada se encuentra: colesterol total 260 mg/dL, colesterol LDL 183 mg/dL, HDL 43 mg/dL, triglicéridos 190. "
+                                          },
+                                          {
+                                              "b_line": "PLAN:<BR> A simple vista parece un paciente con un riesgo cardiovascular considerable y además muy joven. Por lo que se le propone iniciar tratamiento con estatinas y revisión colesterol en 3 meses."
+                                          }
+      
+                                        ],
+                                        "css": "col-12 col-lg-5 text-left cmt-3 py-3"
+                                    } ,{
+                                                                        
+                                        "b_text": [
+                                          {
+                                              "b_line":"<img src='prj/6-4-0-image.jpg' width='400px align-items-right centered'>"
+                                          }
+      
+                                        ],
+                                        "css": "col-12 col-lg-5 text-right cmt-3 py-3"
+                                    }
+                                ],
+                                "css": "justify-content-left align-items-left centered"
+                            }
+                            
                         },
                         {
                             "id": "6.4.1",
@@ -3749,7 +3778,7 @@
                             "title": "",
                             "random": true,
                             "feedback_review": true,
-                            "id_quiz": ""
+                            "id_quiz": "1"
                         },
                         {
                             "id": "6.4.2",
@@ -3762,7 +3791,7 @@
                             "title": "",
                             "random": true,
                             "feedback_review": true,
-                            "id_quiz": ""
+                            "id_quiz": "2"
                         },
                         {
                             "id": "6.4.3",
@@ -3775,7 +3804,7 @@
                             "title": "",
                             "random": true,
                             "feedback_review": true,
-                            "id_quiz": ""
+                            "id_quiz": "3"
                         },
                         {
                             "id": "6.4.4",
@@ -3788,7 +3817,7 @@
                             "title": "",
                             "random": true,
                             "feedback_review": true,
-                            "id_quiz": ""
+                            "id_quiz": "4"
                         },
                         {
                             "id": "6.4.5",
@@ -3801,7 +3830,7 @@
                             "title": "",
                             "random": true,
                             "feedback_review": true,
-                            "id_quiz": ""
+                            "id_quiz": "5"
                         },
                         {
                             "id": "6.4.6",
@@ -3814,7 +3843,7 @@
                             "title": "",
                             "random": true,
                             "feedback_review": true,
-                            "id_quiz": ""
+                            "id_quiz": "6"
                         },
                         {
                             "id": "6.4.7",
@@ -3827,7 +3856,7 @@
                             "title": "",
                             "random": true,
                             "feedback_review": true,
-                            "id_quiz": ""
+                            "id_quiz": "7"
                         },
                         {
                             "id": "6.4.8",
@@ -3840,7 +3869,7 @@
                             "title": "",
                             "random": true,
                             "feedback_review": true,
-                            "id_quiz": ""
+                            "id_quiz": "8"
                         },
                         {
                             "id": "6.4.9",
@@ -3853,21 +3882,46 @@
                             "title": "",
                             "random": true,
                             "feedback_review": true,
-                            "id_quiz": ""
+                            "id_quiz": "9"
                         },
                         {
                             "id": "6.4.10",
                             "type": "CONTENT",
-                            "type_content": "ACTIVITY_TEST",
-                            "validation_auto": false,
-                            "mandatory": false,
-                            "save_info": true,
+                            "type_content": "ACTIVITY_CONTENT",
                             "status": 0,
                             "title": "",
-                            "random": true,
-                            "feedback_review": true,
-                            "id_quiz": ""
+                            "subtitle": "Continuación",
+                            "content": {
+                                "c_type": "layout1",
+                                "c_block": [
+                                    {
+                                        "b_text": [
+                                          {
+                                              "b_line": "Roberto inicialmente intentaba cumplir el tratamiento pautado. Pero inició con dolores musculares en muslos y glúteos (como agujetas). Tomaba todos los días la tensión arterial y peso semanal pero no veía los resultados, progresaba muy poco a poco."
+                                          },
+                                          {
+                                              "b_line": "En el primer control de colesterol, realizado a los 3 meses, el LDL estaba prácticamente igual y decidió abandonar el tratamiento."
+                                          }
+      
+                                        ],
+                                        "css": "col-12 col-lg-5 text-left cmt-3 py-3"
+                                    },
+                                    {
+                                                                        
+                                        "b_text": [
+                                          {
+                                              "b_line":"<img src='prj/6-4-0-image.jpg' width='400px align-items-right centered'>"
+                                          }
+      
+                                        ],
+                                        "css": "col-12 col-lg-5 text-right cmt-3 py-3"
+                                    }
+                                ],
+                                "css": "justify-content-center align-items-center centered"
+                            }
+                            
                         },
+                        
                         {
                             "id": "6.4.11",
                             "type": "CONTENT",
@@ -3879,7 +3933,7 @@
                             "title": "",
                             "random": true,
                             "feedback_review": true,
-                            "id_quiz": ""
+                            "id_quiz": "10"
                         },
                         {
                             "id": "6.4.12",
@@ -3892,7 +3946,7 @@
                             "title": "",
                             "random": true,
                             "feedback_review": true,
-                            "id_quiz": ""
+                            "id_quiz": "11"
                         },
                         {
                             "id": "6.4.13",
@@ -3905,7 +3959,7 @@
                             "title": "",
                             "random": true,
                             "feedback_review": true,
-                            "id_quiz": ""
+                            "id_quiz": "12"
                         },
                         {
                             "id": "6.4.14",
@@ -3918,7 +3972,7 @@
                             "title": "",
                             "random": true,
                             "feedback_review": true,
-                            "id_quiz": ""
+                            "id_quiz": "13"
                         },
                         {
                             "id": "6.4.15",
@@ -3931,7 +3985,7 @@
                             "title": "",
                             "random": true,
                             "feedback_review": true,
-                            "id_quiz": ""
+                            "id_quiz": "14"
                         },
                         {
                             "id": "6.4.16",
@@ -3944,7 +3998,7 @@
                             "title": "",
                             "random": true,
                             "feedback_review": true,
-                            "id_quiz": ""
+                            "id_quiz": "15"
                         },
                         {
                             "id": "6.4.17",
@@ -3957,7 +4011,7 @@
                             "title": "",
                             "random": true,
                             "feedback_review": true,
-                            "id_quiz": ""
+                            "id_quiz": "16"
                         },
                         {
                             "id": "6.4.18",
@@ -3970,7 +4024,7 @@
                             "title": "",
                             "random": true,
                             "feedback_review": true,
-                            "id_quiz": ""
+                            "id_quiz": "17"
                         },
                         {
                             "id": "6.4.19",
@@ -3983,27 +4037,33 @@
                             "title": "",
                             "random": true,
                             "feedback_review": true,
-                            "id_quiz": ""
-                        },{
+                            "id_quiz": "18"
+                        },
+                        {
                             "id": "6.4.20",
                             "type": "CONTENT",
-                            "type_content": "ACTIVITY_FINAL_TEST",
+                            "type_content": "ACTIVITY_TEST",
                             "validation_auto": false,
                             "mandatory": false,
-                            "navigation":{
-                                "disable_nav_prev": false,
-                                "disable_nav_next": false,
-                                "hidden_nav_next": false
-
-                            },
                             "save_info": true,
-                            "finishCourse": false,
                             "status": 0,
                             "title": "",
-                            "b_subtitle": "",
-                            "random": true,                            
+                            "random": true,
                             "feedback_review": true,
-                            "id_quiz": ""
+                            "id_quiz": "19"
+                        },
+                        {
+                            "id": "6.4.21",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "save_info": true,
+                            "status": 0,
+                            "title": "",
+                            "random": true,
+                            "feedback_review": true,
+                            "id_quiz": "20"
                         }
                     ]
                 }
