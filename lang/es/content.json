@@ -3544,7 +3544,7 @@
                     "title": "Despedida del módulo 5",
                     "activities": [
                         { 
-                            "id": "6.1.0",
+                            "id": "6.3.0",
                             "type": "CONTENT",
                             "type_content": "ACTIVITY_VIDEO",
                             "video_mandatory": false,
@@ -3579,6 +3579,25 @@
                                 "css": "align-items-center justify-content-center text-center"
                             },
                             "style": "{'background': 'radial-gradient(34.51% 55.54% at 50% 59.63%, rgba(45, 204, 205, 0.8) 0%, rgba(7, 38, 83, 0) 100%), rgba(7, 38, 83, 0)', 'backdrop-filter': 'blur(4px)'}"
+                        },
+                        {
+                            "id": "6.3.1",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_MAP",
+                            "status": 0,
+                            "title": "Test del Módulo 5",
+                            "content": {
+                                "c_type": "story",
+                                "c_img": "1-6-0-image.jpg",
+                                "b_subtitle": "",
+                                "b_text": [
+                                    {
+                                        "b_line": "A continuación te invitamos a comprobar los conocimientos adquiridos en el módulo 5."
+                                    }
+                                ],
+                                "css":""
+                            },
+                            "css": "top left col-xl-6 offset-xl-3"
                         }
                         
                     ]
@@ -3630,8 +3649,242 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": ""
+                        },
+                        {
+                            "id": "6.4.2",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "save_info": true,
+                            "status": 0,
+                            "title": "",
+                            "random": true,
+                            "feedback_review": true,
+                            "id_quiz": ""
+                        },
+                        {
+                            "id": "6.4.3",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "save_info": true,
+                            "status": 0,
+                            "title": "",
+                            "random": true,
+                            "feedback_review": true,
+                            "id_quiz": ""
+                        },
+                        {
+                            "id": "6.4.4",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "save_info": true,
+                            "status": 0,
+                            "title": "",
+                            "random": true,
+                            "feedback_review": true,
+                            "id_quiz": ""
+                        },
+                        {
+                            "id": "6.4.5",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "save_info": true,
+                            "status": 0,
+                            "title": "",
+                            "random": true,
+                            "feedback_review": true,
+                            "id_quiz": ""
+                        },
+                        {
+                            "id": "6.4.6",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "save_info": true,
+                            "status": 0,
+                            "title": "",
+                            "random": true,
+                            "feedback_review": true,
+                            "id_quiz": ""
+                        },
+                        {
+                            "id": "6.4.7",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "save_info": true,
+                            "status": 0,
+                            "title": "",
+                            "random": true,
+                            "feedback_review": true,
+                            "id_quiz": ""
+                        },
+                        {
+                            "id": "6.4.8",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "save_info": true,
+                            "status": 0,
+                            "title": "",
+                            "random": true,
+                            "feedback_review": true,
+                            "id_quiz": ""
+                        },
+                        {
+                            "id": "6.4.9",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "save_info": true,
+                            "status": 0,
+                            "title": "",
+                            "random": true,
+                            "feedback_review": true,
+                            "id_quiz": ""
+                        },
+                        {
+                            "id": "6.4.10",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "save_info": true,
+                            "status": 0,
+                            "title": "",
+                            "random": true,
+                            "feedback_review": true,
+                            "id_quiz": ""
+                        },
+                        {
+                            "id": "6.4.11",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "save_info": true,
+                            "status": 0,
+                            "title": "",
+                            "random": true,
+                            "feedback_review": true,
+                            "id_quiz": ""
+                        },
+                        {
+                            "id": "6.4.12",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "save_info": true,
+                            "status": 0,
+                            "title": "",
+                            "random": true,
+                            "feedback_review": true,
+                            "id_quiz": ""
+                        },
+                        {
+                            "id": "6.4.13",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "save_info": true,
+                            "status": 0,
+                            "title": "",
+                            "random": true,
+                            "feedback_review": true,
+                            "id_quiz": ""
+                        },
+                        {
+                            "id": "6.4.14",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "save_info": true,
+                            "status": 0,
+                            "title": "",
+                            "random": true,
+                            "feedback_review": true,
+                            "id_quiz": ""
+                        },
+                        {
+                            "id": "6.4.15",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "save_info": true,
+                            "status": 0,
+                            "title": "",
+                            "random": true,
+                            "feedback_review": true,
+                            "id_quiz": ""
+                        },
+                        {
+                            "id": "6.4.16",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "save_info": true,
+                            "status": 0,
+                            "title": "",
+                            "random": true,
+                            "feedback_review": true,
+                            "id_quiz": ""
+                        },
+                        {
+                            "id": "6.4.17",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "save_info": true,
+                            "status": 0,
+                            "title": "",
+                            "random": true,
+                            "feedback_review": true,
+                            "id_quiz": ""
+                        },
+                        {
+                            "id": "6.4.18",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "save_info": true,
+                            "status": 0,
+                            "title": "",
+                            "random": true,
+                            "feedback_review": true,
+                            "id_quiz": ""
+                        },
+                        {
+                            "id": "6.4.19",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "save_info": true,
+                            "status": 0,
+                            "title": "",
+                            "random": true,
+                            "feedback_review": true,
+                            "id_quiz": ""
                         },{
-                            "id": "6.4.1",
+                            "id": "6.4.20",
                             "type": "CONTENT",
                             "type_content": "ACTIVITY_FINAL_TEST",
                             "validation_auto": false,
