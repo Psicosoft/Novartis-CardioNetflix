@@ -414,15 +414,15 @@
                         "ico": "",
                         "img_bg": "1-6-0-image.jpg",
                         "menu_prev": true,
-                        "time": "10 minuto",
+                        "time": "20 minutos",
                         "tags": [
                             {
-                                "name": "Vídeo"
+                                "name": "Test"
                             }
                         ]
                     },
                     "status": 0,
-                    "title": "Test",
+                    "title": "Autoevaluación",
                     "activities": [
                         
                         
@@ -683,6 +683,27 @@
                             "status": 0,
                             "title": "",
                             "random": true,
+                            "feedback_review": true,
+                            "id_quiz": ""
+                        },
+                        {
+                            "id": "1.6.20",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_FINAL_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "navigation":{
+                                "disable_nav_prev": false,
+                                "disable_nav_next": false,
+                                "hidden_nav_next": false
+
+                            },
+                            "save_info": true,
+                            "finishCourse": false,
+                            "status": 0,
+                            "title": "",
+                            "b_subtitle": "",
+                            "random": true,                            
                             "feedback_review": true,
                             "id_quiz": ""
                         }
@@ -1035,7 +1056,7 @@
                     ]
                 },
                 {
-                    "id": "2.8",
+                    "id": "2.6",
                     "type": "SECTION",
                     "next_content_preview": {
                         "time": 5,
@@ -1186,15 +1207,15 @@
                         "ico": "",
                         "img_bg": "1-6-0-image.jpg",
                         "menu_prev": true,
-                        "time": "10 minuto",
+                        "time": "20 minutos",
                         "tags": [
                             {
-                                "name": "Vídeo"
+                                "name": "Test"
                             }
                         ]
                     },
                     "status": 0,
-                    "title": "Test",
+                    "title": "Autoevaluación",
                     "activities": [
                         {
                             "id": "2.8.0",
@@ -1455,6 +1476,26 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": ""
+                        },{
+                            "id": "2.8.20",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_FINAL_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "navigation":{
+                                "disable_nav_prev": false,
+                                "disable_nav_next": false,
+                                "hidden_nav_next": false
+
+                            },
+                            "save_info": true,
+                            "finishCourse": false,
+                            "status": 0,
+                            "title": "",
+                            "b_subtitle": "",
+                            "random": true,                            
+                            "feedback_review": true,
+                            "id_quiz": ""
                         }
                     ]
                 }
@@ -1537,7 +1578,7 @@
                         ]
                     },
                     "status": 0,
-                    "title": "Test",
+                    "title": "Examen",
                     "activities": [
                         {
                             "id": "3.1.0",
@@ -2058,6 +2099,26 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": ""
+                        },{
+                            "id": "3.1.40",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_FINAL_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "navigation":{
+                                "disable_nav_prev": false,
+                                "disable_nav_next": false,
+                                "hidden_nav_next": false
+
+                            },
+                            "save_info": true,
+                            "finishCourse": false,
+                            "status": 0,
+                            "title": "",
+                            "b_subtitle": "",
+                            "random": true,                            
+                            "feedback_review": true,
+                            "id_quiz": ""
                         }
                     ]
                 }
@@ -2357,7 +2418,7 @@
                         "ico": "",
                         "img_bg": "video/4-1-cover.jpg",
                         "menu_prev": true,
-                        "time": "30 minutos",
+                        "time": "1 minuto",
                         "tags": [
                             {
                                 "name": "Vídeo"
@@ -2445,7 +2506,7 @@
                         ]
                     },
                     "status": 0,
-                    "title": "Test",
+                    "title": "Autoevaluación",
                     "activities": [
                         
                         {
@@ -2705,6 +2766,26 @@
                             "status": 0,
                             "title": "",
                             "random": true,
+                            "feedback_review": true,
+                            "id_quiz": ""
+                        },{
+                            "id": "4.6.20",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_FINAL_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "navigation":{
+                                "disable_nav_prev": false,
+                                "disable_nav_next": false,
+                                "hidden_nav_next": false
+
+                            },
+                            "save_info": true,
+                            "finishCourse": false,
+                            "status": 0,
+                            "title": "",
+                            "b_subtitle": "",
+                            "random": true,                            
                             "feedback_review": true,
                             "id_quiz": ""
                         }
@@ -3006,7 +3087,7 @@
                         "ico": "",
                         "img_bg": "video/5-1-cover.jpg",
                         "menu_prev": true,
-                        "time": "30 minutos",
+                        "time": "1 minuto",
                         "tags": [
                             {
                                 "name": "Vídeo"
@@ -3086,15 +3167,15 @@
                         "ico": "",
                         "img_bg": "1-6-0-image.jpg",
                         "menu_prev": true,
-                        "time": "10 minuto",
+                        "time": "20 minutos",
                         "tags": [
                             {
-                                "name": "Vídeo"
+                                "name": "Test"
                             }
                         ]
                     },
                     "status": 0,
-                    "title": "Test",
+                    "title": "Autoevaluación",
                     "activities": [
                         
                         {
@@ -3356,6 +3437,26 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": ""
+                        },{
+                            "id": "5.6.20",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_FINAL_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "navigation":{
+                                "disable_nav_prev": false,
+                                "disable_nav_next": false,
+                                "hidden_nav_next": false
+
+                            },
+                            "save_info": true,
+                            "finishCourse": false,
+                            "status": 0,
+                            "title": "",
+                            "b_subtitle": "",
+                            "random": true,                            
+                            "feedback_review": true,
+                            "id_quiz": ""
                         }
                     ]
                 }
@@ -3533,7 +3634,7 @@
                         "ico": "",
                         "img_bg": "video/6-1-cover.jpg",
                         "menu_prev": true,
-                        "time": "30 minutos",
+                        "time": "1 minuto",
                         "tags": [
                             {
                                 "name": "Vídeo"
@@ -3613,10 +3714,10 @@
                         "ico": "",
                         "img_bg": "1-6-0-image.jpg",
                         "menu_prev": true,
-                        "time": "10 minuto",
+                        "time": "20 minutos",
                         "tags": [
                             {
-                                "name": "Vídeo"
+                                "name": "Test"
                             }
                         ]
                     },
@@ -3986,7 +4087,7 @@
                         ]
                     },
                     "status": 0,
-                    "title": "Test",
+                    "title": "Examen",
                     "activities": [
                         {
                             "id": "7.1.0",
@@ -4505,6 +4606,27 @@
                             "status": 0,
                             "title": "",
                             "random": true,
+                            "feedback_review": true,
+                            "id_quiz": ""
+                        },
+                        {
+                            "id": "7.1.40",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_FINAL_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "navigation":{
+                                "disable_nav_prev": false,
+                                "disable_nav_next": false,
+                                "hidden_nav_next": true
+
+                            },
+                            "save_info": true,
+                            "finishCourse": false,
+                            "status": 0,
+                            "title": "",
+                            "b_subtitle": "",
+                            "random": true,                            
                             "feedback_review": true,
                             "id_quiz": ""
                         }
