@@ -4490,39 +4490,45 @@
         "6.4": [
             {
                 "id": "1",
-                "qType": "TEST_TYPE.MULTIPLE_OPTION",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
                 "qTitle": "¿Cómo podríamos mejorar la evaluación del riesgo cardiovascular de Roberto?",
                 "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto!Sin duda lo más importante porque clasificaría a Roberto directamente como muy alto riesgo cardiovascular es la presencia de clínica que oriente a enfermedad cardiovascular establecida.",
+                "feedback_ok": "¡Correcto! Sin duda lo más importante porque clasificaría a Roberto directamente como muy alto riesgo cardiovascular es la presencia de clínica que oriente a enfermedad cardiovascular establecida.",
                 "feedback_ko": "¡Incorrecto! Sin duda lo más importante porque clasificaría a Roberto directamente como muy alto riesgo cardiovascular es la presencia de clínica que oriente a enfermedad cardiovascular establecida.",
-                "number_of_answers": 4,
+                
                 "topic": "",
                 "countDown": false,
                 "timeCountDown": 5,
                 "points": 3,
-                "options_order_random": true,
+                "options_order_random": false,
                 "options": [
                     {
                         "id": "1",
                         "text": "Realizar una entrevista exhaustiva buscando enfermedad cardiovascular clínica.",
-                        "correct": true,
+                        "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "2",
                         "text": "Deberíamos considerar realizar índice tobillo-brazo en consulta como subrogado de enfermedad cardiovascular establecida.",
-                        "correct": true,
+                        "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "3",
                         "text": "Tratándose de un paciente con sobrepeso e hipertenso debería interrogarse por ronquidos nocturnos y apneas pensando en síndrome de apnea obstructiva del sueño. ",
-                        "correct": true,
+                        "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "4",
                         "text": "Se han omitido algunas determinaciones analíticas importantes como la hemoglobina glicosilada.  Podría realizarse también un holter de tensión arterial. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "5",
+                        "text": "Todas son correctas. ",
                         "correct": true,
                         "feedback": ""
                     }
@@ -4530,37 +4536,43 @@
             },
             {
                 "id": "2",
-                "qType": "TEST_TYPE.MULTIPLE_OPTION",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
                 "qTitle": "¿Qué cosas preguntarías para intentar buscar si existe clínica?",
                 "instructions": "Selecciona las opciones que consideres correctas:",
-                "feedback_ok": "¡Correcto!Todos los enunciados hacen referencia a enfermedad cardiovascular establecida. No debe olvidarse preguntar por la impotencia sexual, a veces es el evento centinela de ateroesclerosis presente a otros niveles.",
+                "feedback_ok": "¡Correcto! Todos los enunciados hacen referencia a enfermedad cardiovascular establecida. No debe olvidarse preguntar por la impotencia sexual, a veces es el evento centinela de ateroesclerosis presente a otros niveles.",
                 "feedback_ko": "¡Incorrecto! Todos los enunciados hacen referencia a enfermedad cardiovascular establecida. No debe olvidarse preguntar por la impotencia sexual, a veces es el evento centinela de ateroesclerosis presente a otros niveles. ",
-                "number_of_answers": 4,
+                
                 "topic": "",
                 "points": 3,
-                "options_order_random": true,
+                "options_order_random": false,
                 "options": [
                     {
                         "id": "1",
                         "text": "¿Tienes fatiga o molestias torácicas cuando caminas?",
-                        "correct": true,
+                        "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "2",
                         "text": "¿Has notado falta de potencia sexual?",
-                        "correct": true,
+                        "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "3",
                         "text": "¿Debes pararte por dolor en las pantorrillas o muslos cuando caminas?",
-                        "correct": true,
+                        "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "4",
                         "text": "En la consulta podría realizarse auscultación con fonendoscopia de las carótidas y femorales. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "5",
+                        "text": "Todas ellas. ",
                         "correct": true,
                         "feedback": ""
                     }
@@ -4712,7 +4724,7 @@
                 "id": "7",
                 "qType": "TEST_TYPE.MULTIPLE_OPTION",
                 "qTitle": "¿Cuál de los factores de riesgo que presenta Roberto se encuentra fuera de rango objetivo? ",
-                "instructions": "Selecciona una opción:",
+                "instructions": "Selecciona las opciones correctas:",
                 "feedback_ok": "¡Correcto! EL IMC que presenta está en rango de sobrepeso, no obesidad. La tensión arterial objetivo es 130/80 mmHg;  120/70 es un objetivo  muy estricto y que puede dar muchos síntomas.  ",
                 "feedback_ko": "¡Incorrecto! EL IMC que presenta está en rango de sobrepeso, no obesidad. La tensión arterial objetivo es 130/80 mmHg;  120/70 es un objetivo  muy estricto y que puede dar muchos síntomas. ",
                 "number_of_answers": 2,
@@ -5007,12 +5019,12 @@
             },
             {
                 "id": "15",
-                "qType": "TEST_TYPE.MULTIPLE_OPTION",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
                 "qTitle": "De las siguientes, ¿cuáles podemos encontrar como complicaciones del infarto agudo de miocardio?",
                 "instructions": "Selecciona una opción:",
                 "feedback_ok": "¡Correcto! Todas las expuestas son complicaciones potenciales del infarto agudo de miocardio a la hora de su presentación o en la evolución. La más frecuente de todas ellas es el desarrollo de insuficiencia cardíaca por pérdida de contractilidad del ventrículo izquierdo. ",
                 "feedback_ko": "¡Incorrecto! Todas las expuestas son complicaciones potenciales del infarto agudo de miocardio a la hora de su presentación o en la evolución. La más frecuente de todas ellas es el desarrollo de insuficiencia cardíaca por pérdida de contractilidad del ventrículo izquierdo.  ",
-                "number_of_answers": 4,
+                
                 "topic": "",
                 "points": 3,
                 "options_order_random": false,
@@ -5020,24 +5032,30 @@
                     {
                         "id": "1",
                         "text": "Insuficiencia cardíaca.",
-                        "correct": true,
+                        "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "2",
                         "text": "Arritmias ventriculares.  ",
-                        "correct": true,
+                        "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "3",
                         "text": "Parada cardiorrespiratoria. ",
-                        "correct": true,
+                        "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "4",
                         "text": "Rotura de músculo papilar. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Todas son correctas. ",
                         "correct": true,
                         "feedback": ""
                     }
@@ -5046,9 +5064,9 @@
             {
                 "id": "16",
                 "qType": "TEST_TYPE.MULTIPLE_OPTION",
-                "qTitle": "Tras el infarto, ¿cómo debemos reclasificar el riesgo cardiovascular de Roberto y cuáles son los objetivos de control de sus factores de riesgo cardiovascular? Se ha realizado una analítica de control y los niveles de colesterol y hemoglobina glicada siguen invariables. Señale la respuesta falsa.",
-                "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto!En prevención secundaria, cuando existe enfermedad ya establecida como en el caso de haber sufrido un infarto agudo de miocardio, el riesgo pasa a ser muy alto y el objetivo de colesterol LDL es < 55 mg/dL. Los objetivos de tensión arterial no se modifican para los distintos grupos de edad ni según la patología. Actualmente se recomienda una TA < a 130/80 mmHg si se tolera bien.  ",
+                "qTitle": "Tras el infarto, ¿cómo debemos reclasificar el riesgo cardiovascular de Roberto y cuáles son los objetivos de control de sus factores de riesgo cardiovascular? Se ha realizado una analítica de control y los niveles de colesterol y hemoglobina glicada siguen invariables. Señale las respuestas FALSAS.",
+                "instructions": "Selecciona las opciones que son FALSAS:",
+                "feedback_ok": "¡Correcto! En prevención secundaria, cuando existe enfermedad ya establecida como en el caso de haber sufrido un infarto agudo de miocardio, el riesgo pasa a ser muy alto y el objetivo de colesterol LDL es < 55 mg/dL. Los objetivos de tensión arterial no se modifican para los distintos grupos de edad ni según la patología. Actualmente se recomienda una TA < a 130/80 mmHg si se tolera bien.  ",
                 "feedback_ko": "¡Incorrecto! En prevención secundaria, cuando existe enfermedad ya establecida como en el caso de haber sufrido un infarto agudo de miocardio, el riesgo pasa a ser muy alto y el objetivo de colesterol LDL es < 55 mg/dL. Los objetivos de tensión arterial no se modifican para los distintos grupos de edad ni según la patología. Actualmente se recomienda una TA < a 130/80 mmHg si se tolera bien.  ",
                 "number_of_answers": 2,
                 "topic": "",

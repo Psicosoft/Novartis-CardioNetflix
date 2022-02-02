@@ -3747,23 +3747,24 @@
                                               "b_line": "En la analítica realizada se encuentra: colesterol total 260 mg/dL, colesterol LDL 183 mg/dL, HDL 43 mg/dL, triglicéridos 190. "
                                           },
                                           {
-                                              "b_line": "PLAN:<BR> A simple vista parece un paciente con un riesgo cardiovascular considerable y además muy joven. Por lo que se le propone iniciar tratamiento con estatinas y revisión colesterol en 3 meses."
+                                              "b_line": "<span style='display:block; padding:1em; background:#EC9A1E; color:Black'><strong>PLAN:</strong><BR> A simple vista parece un paciente con un riesgo cardiovascular considerable y además muy joven. Por lo que se le propone iniciar tratamiento con estatinas y revisión colesterol en 3 meses.</span>"
                                           }
       
                                         ],
                                         "css": "col-12 col-lg-5 text-left cmt-3 py-3"
-                                    } ,{
-                                                                        
-                                        "b_text": [
-                                          {
-                                              "b_line":"<img src='prj/6-4-0-image.jpg' width='400px align-items-right centered'>"
-                                          }
-      
-                                        ],
-                                        "css": "col-12 col-lg-5 text-right cmt-3 py-3"
+                                    },
+                                    {
+                                        "b_type": "image",
+                                        "b_img": {
+                                            "path": "6-4-0-image.jpg",
+                                            "width": "",
+                                            "height": "",
+                                            "zoom": false
+                                        },
+                                        "css": "col-12 col-lg-4 text-right cmt-3 py-3"
                                     }
                                 ],
-                                "css": "justify-content-left align-items-left centered"
+                                "css": "justify-content-center align-items-left centered"
                             }
                             
                         },
@@ -3776,7 +3777,7 @@
                             "save_info": true,
                             "status": 0,
                             "title": "",
-                            "random": true,
+                            "random": false,
                             "feedback_review": true,
                             "id_quiz": "1"
                         },
@@ -3789,7 +3790,7 @@
                             "save_info": true,
                             "status": 0,
                             "title": "",
-                            "random": true,
+                            "random": false,
                             "feedback_review": true,
                             "id_quiz": "2"
                         },
@@ -3802,7 +3803,7 @@
                             "save_info": true,
                             "status": 0,
                             "title": "",
-                            "random": true,
+                            "random": false,
                             "feedback_review": true,
                             "id_quiz": "3"
                         },
@@ -3815,7 +3816,7 @@
                             "save_info": true,
                             "status": 0,
                             "title": "",
-                            "random": true,
+                            "random": false,
                             "feedback_review": true,
                             "id_quiz": "4"
                         },
@@ -3828,7 +3829,7 @@
                             "save_info": true,
                             "status": 0,
                             "title": "",
-                            "random": true,
+                            "random": false,
                             "feedback_review": true,
                             "id_quiz": "5"
                         },
@@ -3841,7 +3842,7 @@
                             "save_info": true,
                             "status": 0,
                             "title": "",
-                            "random": true,
+                            "random": false,
                             "feedback_review": true,
                             "id_quiz": "6"
                         },
@@ -3854,7 +3855,7 @@
                             "save_info": true,
                             "status": 0,
                             "title": "",
-                            "random": true,
+                            "random": false,
                             "feedback_review": true,
                             "id_quiz": "7"
                         },
@@ -3867,7 +3868,7 @@
                             "save_info": true,
                             "status": 0,
                             "title": "",
-                            "random": true,
+                            "random": false,
                             "feedback_review": true,
                             "id_quiz": "8"
                         },
@@ -3880,7 +3881,7 @@
                             "save_info": true,
                             "status": 0,
                             "title": "",
-                            "random": true,
+                            "random": false,
                             "feedback_review": true,
                             "id_quiz": "9"
                         },
@@ -3907,14 +3908,14 @@
                                         "css": "col-12 col-lg-5 text-left cmt-3 py-3"
                                     },
                                     {
-                                                                        
-                                        "b_text": [
-                                          {
-                                              "b_line":"<img src='prj/6-4-0-image.jpg' width='400px align-items-right centered'>"
-                                          }
-      
-                                        ],
-                                        "css": "col-12 col-lg-5 text-right cmt-3 py-3"
+                                        "b_type": "image",
+                                        "b_img": {
+                                            "path": "6-4-0-image.jpg",
+                                            "width": "",
+                                            "height": "",
+                                            "zoom": false
+                                        },
+                                        "css": "col-12 col-lg-4 text-right cmt-3 py-3"
                                     }
                                 ],
                                 "css": "justify-content-center align-items-center centered"
@@ -3931,7 +3932,7 @@
                             "save_info": true,
                             "status": 0,
                             "title": "",
-                            "random": true,
+                            "random": false,
                             "feedback_review": true,
                             "id_quiz": "10"
                         },
@@ -3944,7 +3945,7 @@
                             "save_info": true,
                             "status": 0,
                             "title": "",
-                            "random": true,
+                            "random": false,
                             "feedback_review": true,
                             "id_quiz": "11"
                         },
@@ -3957,7 +3958,7 @@
                             "save_info": true,
                             "status": 0,
                             "title": "",
-                            "random": true,
+                            "random": false,
                             "feedback_review": true,
                             "id_quiz": "12"
                         },
@@ -3970,7 +3971,7 @@
                             "save_info": true,
                             "status": 0,
                             "title": "",
-                            "random": true,
+                            "random": false,
                             "feedback_review": true,
                             "id_quiz": "13"
                         },
@@ -3983,7 +3984,7 @@
                             "save_info": true,
                             "status": 0,
                             "title": "",
-                            "random": true,
+                            "random": false,
                             "feedback_review": true,
                             "id_quiz": "14"
                         },
@@ -3996,7 +3997,7 @@
                             "save_info": true,
                             "status": 0,
                             "title": "",
-                            "random": true,
+                            "random": false,
                             "feedback_review": true,
                             "id_quiz": "15"
                         },
@@ -4009,7 +4010,7 @@
                             "save_info": true,
                             "status": 0,
                             "title": "",
-                            "random": true,
+                            "random": false,
                             "feedback_review": true,
                             "id_quiz": "16"
                         },
@@ -4022,7 +4023,7 @@
                             "save_info": true,
                             "status": 0,
                             "title": "",
-                            "random": true,
+                            "random": false,
                             "feedback_review": true,
                             "id_quiz": "17"
                         },
@@ -4035,7 +4036,7 @@
                             "save_info": true,
                             "status": 0,
                             "title": "",
-                            "random": true,
+                            "random": false,
                             "feedback_review": true,
                             "id_quiz": "18"
                         },
@@ -4048,7 +4049,7 @@
                             "save_info": true,
                             "status": 0,
                             "title": "",
-                            "random": true,
+                            "random": false,
                             "feedback_review": true,
                             "id_quiz": "19"
                         },
@@ -4061,7 +4062,7 @@
                             "save_info": true,
                             "status": 0,
                             "title": "",
-                            "random": true,
+                            "random": false,
                             "feedback_review": true,
                             "id_quiz": "20"
                         }
