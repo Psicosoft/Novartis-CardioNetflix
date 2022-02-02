@@ -46,8 +46,17 @@
     <script src="js/jquery.pinchzoomer.min.js" type="text/javascript"></script>
     <!-- <script src="js/preview.min.js" type="text/javascript"></script> -->
 
-    <script src="js/scorm/SCORM_API_wrapper.js"></script>   
+    <script src="js/scorm/APIWrapper.js"></script>
+    <script src="js/scorm/SCOFunctions.js"></script>
     <script src="js/scorm/ps-scorm.js"></script>
-<script type="text/javascript" src="app.df189396dcc25a561df9.js"></script></body>
+<script type="text/javascript" src="app.df189396dcc25a561df9.js"></script>
+<script>
+    $(document).ready(function(){
+        $(document).on("click", ".btn-close-course>div", function(){
+            window.parent.location.href = "../../../index.html#/main";
+        });
+    });
+</script>
+</body>
 
 </html>
