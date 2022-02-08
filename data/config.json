@@ -21,7 +21,7 @@
         "show_lang": false
     },
     "intro_module_completed_state": true,
-    "free_navigation": true,
+    "free_navigation": false,
     "tutorial": {
         "show": false,
         "slides": [
