@@ -1,5 +1,5 @@
 {
-    "PERCENTAGE_SUCCESS": 70,
+    "PERCENTAGE_SUCCESS": 0,
     "TEST_FINAL_PROPORTION": [],
     "MAX_ATTEMPS": 0,
     "MENU_TOOLTIP_TIMES": 1,
@@ -21,7 +21,7 @@
         "show_lang": false
     },
     "intro_module_completed_state": true,
-    "free_navigation": false,
+    "free_navigation": true,
     "tutorial": {
         "show": false,
         "slides": [

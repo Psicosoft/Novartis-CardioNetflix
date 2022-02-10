@@ -63,3 +63,7 @@ module-header header > *.content-right {
 tooltip tip-tip {
     font-size: 1.6rem !important;
 }
+
+.btn.btn-netflix, .btn.btn-netflix:not([href]):not([tabindex]) {
+display: none;
+}
