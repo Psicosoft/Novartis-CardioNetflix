@@ -751,10 +751,7 @@
                             "b_subtitle": "",
                             "random": true,                            
                             "feedback_review": true,
-                            "id_quiz": "",
-                            "navigation":{
-                                "hidden_nav_next": true
-                            }
+                            "id_quiz": ""
                         }
                     ]
                 }
@@ -1604,10 +1601,7 @@
                             "b_subtitle": "",
                             "random": true,                            
                             "feedback_review": true,
-                            "id_quiz": "",
-                            "navigation":{
-                                "hidden_nav_next": true
-                            }
+                            "id_quiz": ""
                         }
                     ]
                 }
@@ -2350,10 +2344,7 @@
                             "b_subtitle": "",
                             "random": true,                            
                             "feedback_review": true,
-                            "id_quiz": "",
-                            "navigation":{
-                                "hidden_nav_next": true
-                            }
+                            "id_quiz": ""
                         }
                     ]
                 }
@@ -3082,10 +3073,7 @@
                             "b_subtitle": "",
                             "random": true,                            
                             "feedback_review": true,
-                            "id_quiz": "",
-                            "navigation":{
-                                "hidden_nav_next": true
-                            }
+                            "id_quiz": ""
                         }
                     ]
                 }
@@ -3815,10 +3803,7 @@
                             "b_subtitle": "",
                             "random": true,                            
                             "feedback_review": true,
-                            "id_quiz": "",
-                            "navigation":{
-                                "hidden_nav_next": true
-                            }
+                            "id_quiz": ""
                         }
                     ]
                 }
@@ -5232,10 +5217,7 @@
                             "b_subtitle": "",
                             "random": true,                            
                             "feedback_review": true,
-                            "id_quiz": "",
-                            "navigation":{
-                                "hidden_nav_next": true
-                            }
+                            "id_quiz": ""
                         }
                     ]
                 }

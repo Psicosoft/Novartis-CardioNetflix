@@ -64,3 +64,6 @@ tooltip tip-tip {
     font-size: 1.6rem !important;
 }
 
+pagination-menu .pagination-container .pagination .page-item.completed-item .page-link {
+display: none;
+}
