@@ -4473,6 +4473,58 @@
                             "random": false,
                             "feedback_review": true,
                             "id_quiz": "20"
+                        },
+                        {
+                            "id": "5.5.22",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "save_info": true,
+                            "status": 0,
+                            "title": "",
+                            "random": false,
+                            "feedback_review": true,
+                            "id_quiz": "21"
+                        },
+                        {
+                            "id": "5.5.23",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "save_info": true,
+                            "status": 0,
+                            "title": "",
+                            "random": false,
+                            "feedback_review": true,
+                            "id_quiz": "22"
+                        },
+                        {
+                            "id": "5.5.24",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "save_info": true,
+                            "status": 0,
+                            "title": "",
+                            "random": false,
+                            "feedback_review": true,
+                            "id_quiz": "23"
+                        },
+                        {
+                            "id": "5.5.25",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_TEST",
+                            "validation_auto": false,
+                            "mandatory": false,
+                            "save_info": true,
+                            "status": 0,
+                            "title": "",
+                            "random": false,
+                            "feedback_review": true,
+                            "id_quiz": "24"
                         }
                     ]
                 }
@@ -5281,7 +5333,7 @@
                         ]
                     },
                     "status": 0,
-                    "title": "Próximamente",
+                    "title": "Mecanismo de acción",
                     "activities": [
                         { 
                             "id": "7.1.0",
@@ -5294,7 +5346,7 @@
                                 "pretitle": "Vídeo 1",
                                 "pretitle_css": "centered"
                             },
-                            "title": "Próximamente",
+                            "title": "Mecanismo de acción",
                             "title_css": "justify-content-center centered",
                             "content": {
                                 "c_block": [
@@ -5342,7 +5394,7 @@
                         ]
                     },
                     "status": 0,
-                    "title": "Próximamente",
+                    "title": "Ficha técnica",
                     "activities": [
                         { 
                             "id": "7.2.0",
@@ -5355,7 +5407,7 @@
                                 "pretitle": "Vídeo 2",
                                 "pretitle_css": "centered"
                             },
-                            "title": "Próximamente",
+                            "title": "Ficha técnica",
                             "title_css": "justify-content-center centered",
                             "content": {
                                 "c_block": [
@@ -5403,7 +5455,7 @@
                         ]
                     },
                     "status": 0,
-                    "title": "Próximamente",
+                    "title": "Evidencia clínica: Programa Orion",
                     "activities": [
                         { 
                             "id": "7.3.0",
@@ -5416,7 +5468,7 @@
                                 "pretitle": "Vídeo 3",
                                 "pretitle_css": "centered"
                             },
-                            "title": "Próximamente",
+                            "title": "Evidencia clínica: Programa Orion",
                             "title_css": "justify-content-center centered",
                             "content": {
                                 "c_block": [
@@ -5464,7 +5516,7 @@
                         ]
                     },
                     "status": 0,
-                    "title": "Próximamente",
+                    "title": "TBD",
                     "activities": [
                         { 
                             "id": "7.4.0",
@@ -5477,7 +5529,7 @@
                                 "pretitle": "Vídeo 4",
                                 "pretitle_css": "centered"
                             },
-                            "title": "Próximamente",
+                            "title": "TBD",
                             "title_css": "justify-content-center centered",
                             "content": {
                                 "c_block": [

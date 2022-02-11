@@ -4493,7 +4493,7 @@
                 ]
             }
         ],
-        "5.4": [
+        "5.5": [
             {
                 "id": "1",
                 "qType": "TEST_TYPE.SINGLE_OPTION",
@@ -5220,6 +5220,154 @@
                 "id": "20",
                 "qType": "TEST_TYPE.SINGLE_OPTION",
                 "qTitle": "A los 6 meses, Roberto comenta con el cardiólogo que hace 3 semanas ha empezado a notar agarrotamiento en los gemelos que le obliga a pararse. Generalmente le ocurre en cuestas y cede tras unos minutos de reposo. Esto mismo también lo nota en los glúteos, le duelen cuando camina y desde el infarto, aunque no lo había dicho por vergüenza, siente falta de potencia sexual. ¿De entre todas las siguientes cuál no estaría dentro del abordaje de lo que le ocurre a Roberto?",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Los síntomas que sufre Roberto son probablemente debido a ateromatosis en ramas de las arterias ilíacas, síndrome de Leriche, que se manifiesta característicamente como claudicación de la marcha, disfunción eréctil y dolor glúteo. En las últimas recomendaciones se aconseja reducir el objetivo a 40 si en menos de 2 años el paciente sufre dos eventos clínicos, aunque sean de territorio distinto. Aunque no es lo más probable y orienta a Leriche, en un paciente con dolor muscular y tratamiento con estatinas a altas dosis es razonable solicitar analítica con CPK.   ",
+                "feedback_ko": "¡Incorrecto! Los síntomas que sufre Roberto son probablemente debido a ateromatosis en ramas de las arterias ilíacas, síndrome de Leriche, que se manifiesta característicamente como claudicación de la marcha, disfunción eréctil y dolor glúteo. En las últimas recomendaciones se aconseja reducir el objetivo a 40 si en menos de 2 años el paciente sufre dos eventos clínicos, aunque sean de territorio distinto. Aunque no es lo más probable y orienta a Leriche, en un paciente con dolor muscular y tratamiento con estatinas a altas dosis es razonable solicitar analítica con CPK.    ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Los síntomas referidos se deben a síndrome de Leriche (ateromatosis en las rama de la artería ilíaca). ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Tras estos síntomas debería considerarse reducir el objetivo de LDL a 40 mg/dL. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Los síntomas son compatibles con una trombosis venosa profunda.  ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Debería realizarse despistaje de miopatía y solicitar analítica con CPK.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "21",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Pendiente",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Los síntomas que sufre Roberto son probablemente debido a ateromatosis en ramas de las arterias ilíacas, síndrome de Leriche, que se manifiesta característicamente como claudicación de la marcha, disfunción eréctil y dolor glúteo. En las últimas recomendaciones se aconseja reducir el objetivo a 40 si en menos de 2 años el paciente sufre dos eventos clínicos, aunque sean de territorio distinto. Aunque no es lo más probable y orienta a Leriche, en un paciente con dolor muscular y tratamiento con estatinas a altas dosis es razonable solicitar analítica con CPK.   ",
+                "feedback_ko": "¡Incorrecto! Los síntomas que sufre Roberto son probablemente debido a ateromatosis en ramas de las arterias ilíacas, síndrome de Leriche, que se manifiesta característicamente como claudicación de la marcha, disfunción eréctil y dolor glúteo. En las últimas recomendaciones se aconseja reducir el objetivo a 40 si en menos de 2 años el paciente sufre dos eventos clínicos, aunque sean de territorio distinto. Aunque no es lo más probable y orienta a Leriche, en un paciente con dolor muscular y tratamiento con estatinas a altas dosis es razonable solicitar analítica con CPK.    ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Los síntomas referidos se deben a síndrome de Leriche (ateromatosis en las rama de la artería ilíaca). ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Tras estos síntomas debería considerarse reducir el objetivo de LDL a 40 mg/dL. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Los síntomas son compatibles con una trombosis venosa profunda.  ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Debería realizarse despistaje de miopatía y solicitar analítica con CPK.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "22",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Pendiente",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Los síntomas que sufre Roberto son probablemente debido a ateromatosis en ramas de las arterias ilíacas, síndrome de Leriche, que se manifiesta característicamente como claudicación de la marcha, disfunción eréctil y dolor glúteo. En las últimas recomendaciones se aconseja reducir el objetivo a 40 si en menos de 2 años el paciente sufre dos eventos clínicos, aunque sean de territorio distinto. Aunque no es lo más probable y orienta a Leriche, en un paciente con dolor muscular y tratamiento con estatinas a altas dosis es razonable solicitar analítica con CPK.   ",
+                "feedback_ko": "¡Incorrecto! Los síntomas que sufre Roberto son probablemente debido a ateromatosis en ramas de las arterias ilíacas, síndrome de Leriche, que se manifiesta característicamente como claudicación de la marcha, disfunción eréctil y dolor glúteo. En las últimas recomendaciones se aconseja reducir el objetivo a 40 si en menos de 2 años el paciente sufre dos eventos clínicos, aunque sean de territorio distinto. Aunque no es lo más probable y orienta a Leriche, en un paciente con dolor muscular y tratamiento con estatinas a altas dosis es razonable solicitar analítica con CPK.    ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Los síntomas referidos se deben a síndrome de Leriche (ateromatosis en las rama de la artería ilíaca). ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Tras estos síntomas debería considerarse reducir el objetivo de LDL a 40 mg/dL. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Los síntomas son compatibles con una trombosis venosa profunda.  ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Debería realizarse despistaje de miopatía y solicitar analítica con CPK.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "23",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Pendiente",
+                "instructions": "Selecciona una opción:",
+                "feedback_ok": "¡Correcto! Los síntomas que sufre Roberto son probablemente debido a ateromatosis en ramas de las arterias ilíacas, síndrome de Leriche, que se manifiesta característicamente como claudicación de la marcha, disfunción eréctil y dolor glúteo. En las últimas recomendaciones se aconseja reducir el objetivo a 40 si en menos de 2 años el paciente sufre dos eventos clínicos, aunque sean de territorio distinto. Aunque no es lo más probable y orienta a Leriche, en un paciente con dolor muscular y tratamiento con estatinas a altas dosis es razonable solicitar analítica con CPK.   ",
+                "feedback_ko": "¡Incorrecto! Los síntomas que sufre Roberto son probablemente debido a ateromatosis en ramas de las arterias ilíacas, síndrome de Leriche, que se manifiesta característicamente como claudicación de la marcha, disfunción eréctil y dolor glúteo. En las últimas recomendaciones se aconseja reducir el objetivo a 40 si en menos de 2 años el paciente sufre dos eventos clínicos, aunque sean de territorio distinto. Aunque no es lo más probable y orienta a Leriche, en un paciente con dolor muscular y tratamiento con estatinas a altas dosis es razonable solicitar analítica con CPK.    ",
+                "topic": "",
+                "points": 3,
+                "options_order_random": true,
+                "options": [
+                    {
+                        "id": "1",
+                        "text": "Los síntomas referidos se deben a síndrome de Leriche (ateromatosis en las rama de la artería ilíaca). ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "2",
+                        "text": "Tras estos síntomas debería considerarse reducir el objetivo de LDL a 40 mg/dL. ",
+                        "correct": false,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "3",
+                        "text": "Los síntomas son compatibles con una trombosis venosa profunda.  ",
+                        "correct": true,
+                        "feedback": ""
+                    },
+                    {
+                        "id": "4",
+                        "text": "Debería realizarse despistaje de miopatía y solicitar analítica con CPK.",
+                        "correct": false,
+                        "feedback": ""
+                    }
+                ]
+            },
+            {
+                "id": "24",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
+                "qTitle": "Pendiente",
                 "instructions": "Selecciona una opción:",
                 "feedback_ok": "¡Correcto! Los síntomas que sufre Roberto son probablemente debido a ateromatosis en ramas de las arterias ilíacas, síndrome de Leriche, que se manifiesta característicamente como claudicación de la marcha, disfunción eréctil y dolor glúteo. En las últimas recomendaciones se aconseja reducir el objetivo a 40 si en menos de 2 años el paciente sufre dos eventos clínicos, aunque sean de territorio distinto. Aunque no es lo más probable y orienta a Leriche, en un paciente con dolor muscular y tratamiento con estatinas a altas dosis es razonable solicitar analítica con CPK.   ",
                 "feedback_ko": "¡Incorrecto! Los síntomas que sufre Roberto son probablemente debido a ateromatosis en ramas de las arterias ilíacas, síndrome de Leriche, que se manifiesta característicamente como claudicación de la marcha, disfunción eréctil y dolor glúteo. En las últimas recomendaciones se aconseja reducir el objetivo a 40 si en menos de 2 años el paciente sufre dos eventos clínicos, aunque sean de territorio distinto. Aunque no es lo más probable y orienta a Leriche, en un paciente con dolor muscular y tratamiento con estatinas a altas dosis es razonable solicitar analítica con CPK.    ",
