@@ -1021,7 +1021,7 @@
                 "instructions": "Selecciona las opciones que consideres correctas:",
                 "feedback_ok": "¡Correcto! El SCORE es la escala de riesgo más utilizada, sobre todo en el ámbito europeo, y sirva para estimar el riesgo de tener cualquier evento cardiovascular que curse con la muerte en los próximos 10 años (respuesta D falsa,  no es solamente infarto, sino cualquier evento cardiovascular y debe ser mortal). Para evaluarlo considera las variables edad, el sexo, hábito tabáquico, colesterol total y cifras de presión arterial sistólica (respuesta C falsa por no ser solamente el colesterol LDL, sino el total).   ",
                 "feedback_ko": "¡Incorrecto! El SCORE es la escala de riesgo más utilizada, sobre todo en el ámbito europeo, y sirva para estimar el riesgo de tener cualquier evento cardiovascular que curse con la muerte en los próximos 10 años (respuesta D falsa,  no es solamente infarto, sino cualquier evento cardiovascular y debe ser mortal). Para evaluarlo considera las variables edad, el sexo, hábito tabáquico, colesterol total y cifras de presión arterial sistólica (respuesta C falsa por no ser solamente el colesterol LDL, sino el total).    ",
-                "number_of_answers": 0,
+                "number_of_answers": 2,
                 "topic": "",
                 "points": 3,
                 "options_order_random": true,
