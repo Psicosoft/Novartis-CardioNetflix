@@ -6742,7 +6742,7 @@
             {
                 "id": "1",
                 "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "¿Cómo valorarías las intervenciones del Dr. Eduardo Franco (Módulo 1)?<br><img src='prj/video/1-1-cover.jpg' width='50%'>",
+                "qTitle": "¿Cómo valoras las intervenciones del Dr. Eduardo Franco (Módulo 1)?<br><img src='prj/video/1-1-cover.jpg' width='50%'>",
                 "instructions": "Valora de 1 a 5, siendo 1 - Nada satisfecho, y 5 - Muy satisfecho",
                 "feedback_ok": "",
                 "feedback_ko": "",
@@ -6788,7 +6788,7 @@
             {
                 "id": "2",
                 "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "¿Cómo valorarías las intervenciones del Dr. Héctor Manjón (Módulos 2 y 5)?<br><img src='prj/video/2-1-cover.jpg' width='50%'>",
+                "qTitle": "¿Cómo valoras las intervenciones del Dr. Héctor Manjón (Módulos 2 y 5)?<br><img src='prj/video/2-1-cover.jpg' width='50%'>",
                 "instructions": "Valora de 1 a 5, siendo 1 - Nada satisfecho, y 5 - Muy satisfecho",
                 "feedback_ok": "",
                 "feedback_ko": " ",
@@ -6832,7 +6832,7 @@
             {
                 "id": "3",
                 "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "¿Cómo valorarías las intervenciones del Dr. Javier Ramos (Módulos 3 y 4)?<br><img src='prj/video/4-1-cover.jpg' width='50%'>",
+                "qTitle": "¿Cómo valoras las intervenciones del Dr. Javier Ramos (Módulos 3 y 4)?<br><img src='prj/video/4-1-cover.jpg' width='50%'>",
                 "instructions": "Valora de 1 a 5, siendo 1 - Nada satisfecho, y 5 - Muy satisfecho",
                 "feedback_ok": "",
                 "feedback_ko": " ",
@@ -6876,7 +6876,7 @@
             {
                 "id": "4",
                 "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "Y para finalizar, ¿cómo valorarías globalmente la formación?",
+                "qTitle": "Y para finalizar, ¿cómo valoras globalmente la formación?",
                 "instructions": "Valora de 1 a 5, siendo 1 - Nada satisfecho, y 5 - Muy satisfecho",
                 "feedback_ok": "",
                 "feedback_ko": " ",
