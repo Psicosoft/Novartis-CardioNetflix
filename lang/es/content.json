@@ -4040,7 +4040,7 @@
                     },
                     "menu_section": {
                         "ico": "",
-                        "img_bg": "video/6-1-cover.jpg",
+                        "img_bg": "video/6-4-cover.jpg",
                         "menu_prev": true,
                         "time": "1 minuto",
                         "tags": [
@@ -4050,7 +4050,7 @@
                         ]
                     },
                     "status": 0,
-                    "title": "Pendiente",
+                    "title": "Próximamente",
                     "activities": [
                         { 
                             "id": "5.4.0",
@@ -4063,7 +4063,7 @@
                                 "pretitle": "Vídeo 3",
                                 "pretitle_css": "centered"
                             },
-                            "title": "Pendiente",
+                            "title": "Próximamente",
                             "title_css": "justify-content-center centered",
                             "content": {
                                 "c_block": [
@@ -4072,7 +4072,7 @@
                                         "b_video": {
                                             "duration": "",
                                             "path": "6-3-0-video.m4v",
-                                            "poster": "6-1-cover.jpg",
+                                            "poster": "6-4-cover.jpg",
                                             "is_background": false,
                                             "controls": true,
                                             "autoplay": false,
@@ -5228,9 +5228,9 @@
             "id": "7",
             "status": 0,
             "mod_menu": {
-                "id_text": "Módulo 7 (Próximamente)"
+                "id_text": "Módulo 6 (Próximamente)"
             },
-            "title": "Pendiente",
+            "title": "Inclisirán",
             "description": "",
             "mod_navigation": {
                 "prevModule": "6",
@@ -5256,7 +5256,7 @@
                             "cta_text_continue": "Continuar",
                             "status": 0,
                             "accent_title": "Módulo 7",
-                            "title": "Pendiente",
+                            "title": "Próximamente",
                             "description": "",
                             "css": "lay-top"
                         }
@@ -5281,7 +5281,7 @@
                         ]
                     },
                     "status": 0,
-                    "title": "Pendiente",
+                    "title": "Próximamente",
                     "activities": [
                         { 
                             "id": "7.1.0",
@@ -5294,7 +5294,7 @@
                                 "pretitle": "Vídeo 1",
                                 "pretitle_css": "centered"
                             },
-                            "title": "Pendiente",
+                            "title": "Próximamente",
                             "title_css": "justify-content-center centered",
                             "content": {
                                 "c_block": [
@@ -5332,7 +5332,7 @@
                     },
                     "menu_section": {
                         "ico": "",
-                        "img_bg": "video/7-2-cover.jpg",
+                        "img_bg": "video/7-1-cover.jpg",
                         "menu_prev": true,
                         "time": "x minutos",
                         "tags": [
@@ -5342,7 +5342,7 @@
                         ]
                     },
                     "status": 0,
-                    "title": "Pendiente",
+                    "title": "Próximamente",
                     "activities": [
                         { 
                             "id": "7.2.0",
@@ -5355,7 +5355,7 @@
                                 "pretitle": "Vídeo 2",
                                 "pretitle_css": "centered"
                             },
-                            "title": "Pendiente",
+                            "title": "Próximamente",
                             "title_css": "justify-content-center centered",
                             "content": {
                                 "c_block": [
@@ -5364,7 +5364,7 @@
                                         "b_video": {
                                             "duration": "",
                                             "path": "7-2-0-video.m4v",
-                                            "poster": "7-2-cover.jpg",
+                                            "poster": "7-1-cover.jpg",
                                             "is_background": false,
                                             "controls": true,
                                             "autoplay": false,
@@ -5393,7 +5393,7 @@
                     },
                     "menu_section": {
                         "ico": "",
-                        "img_bg": "video/7-3-cover.jpg",
+                        "img_bg": "video/7-1-cover.jpg",
                         "menu_prev": true,
                         "time": "1 minuto",
                         "tags": [
@@ -5403,7 +5403,7 @@
                         ]
                     },
                     "status": 0,
-                    "title": "Pendiente",
+                    "title": "Próximamente",
                     "activities": [
                         { 
                             "id": "7.3.0",
@@ -5416,7 +5416,7 @@
                                 "pretitle": "Vídeo 3",
                                 "pretitle_css": "centered"
                             },
-                            "title": "Pendiente",
+                            "title": "Próximamente",
                             "title_css": "justify-content-center centered",
                             "content": {
                                 "c_block": [
@@ -5454,7 +5454,7 @@
                     },
                     "menu_section": {
                         "ico": "",
-                        "img_bg": "video/7-4-cover.jpg",
+                        "img_bg": "video/7-1-cover.jpg",
                         "menu_prev": true,
                         "time": "1 minuto",
                         "tags": [
@@ -5464,7 +5464,7 @@
                         ]
                     },
                     "status": 0,
-                    "title": "Pendiente",
+                    "title": "Próximamente",
                     "activities": [
                         { 
                             "id": "7.4.0",
@@ -5477,7 +5477,7 @@
                                 "pretitle": "Vídeo 4",
                                 "pretitle_css": "centered"
                             },
-                            "title": "Pendiente",
+                            "title": "Próximamente",
                             "title_css": "justify-content-center centered",
                             "content": {
                                 "c_block": [
