@@ -825,7 +825,7 @@
             {
                 "id": "3",
                 "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "Indique la opción correcta respecto a la anatomía de los ventrículos del corazón: ",
+                "qTitle": "¿Cuál de las siguientes dietas se encuentra más avalada por mejorar el perfil cardiovascular y es la más recomendada en estos pacientes? ",
                 "instructions": "Selecciona una opción:",
                 "feedback_ok": "¡Correcto!Tanto la dieta mediterránea como la dieta DASH (Dietary Approaches to Stop Hipertension) han sido evaluadas para mejorar los factores de riesgo cardiovascular. La dieta DASH se centra específicamente en medidas dirigidas a reducir la hipertensión arterial. La dieta mediterránea, avalada por el ensayo PREDIMED, es la que más evidencia la respalda. Su principal diferencia respecto a la dieta DASH es que la mediterránea está enriquecida con aceite de oliva virgen extra o nueces, hecho que reduce hasta en un 30% los eventos cardiovasculares mayores con respecto a la dieta baja en grasas. ",
                 "feedback_ko": "¡Incorrecto! Tanto la dieta mediterránea como la dieta DASH (Dietary Approaches to Stop Hipertension) han sido evaluadas para mejorar los factores de riesgo cardiovascular. La dieta DASH se centra específicamente en medidas dirigidas a reducir la hipertensión arterial. La dieta mediterránea, avalada por el ensayo PREDIMED, es la que más evidencia la respalda. Su principal diferencia respecto a la dieta DASH es que la mediterránea está enriquecida con aceite de oliva virgen extra o nueces, hecho que reduce hasta en un 30% los eventos cardiovasculares mayores con respecto a la dieta baja en grasas. ",
@@ -938,7 +938,7 @@
                 "qType": "TEST_TYPE.SINGLE_OPTION",
                 "qTitle": "De los siguientes, ¿cuál no es considerado un factor de riesgo cardiovascular?",
                 "instructions": "Selecciona una opción:",
-                "feedback_ok": "¡Correcto!Los antecedentes familiares de cardiopatía isquémica se consideran como factor de riesgo para enfermedad cardiovascular aterosclerótica si se producen a una edad temprana (independientemente de que cursen de forma fatal o no). Para varones se considera precoz haber sufrido eventos antes de los 55 años y para las mujeres antes de los 60 años.   ",
+                "feedback_ok": "¡Correcto! Los antecedentes familiares de cardiopatía isquémica se consideran como factor de riesgo para enfermedad cardiovascular aterosclerótica si se producen a una edad temprana (independientemente de que cursen de forma fatal o no). Para varones se considera precoz haber sufrido eventos antes de los 55 años y para las mujeres antes de los 60 años.   ",
                 "feedback_ko": "¡Incorrecto! Los antecedentes familiares de cardiopatía isquémica se consideran como factor de riesgo para enfermedad cardiovascular aterosclerótica si se producen a una edad temprana (independientemente de que cursen de forma fatal o no). Para varones se considera precoz haber sufrido eventos antes de los 55 años y para las mujeres antes de los 60 años.  ",
                 "topic": "",
                 "points": 3,
@@ -1103,25 +1103,25 @@
                 "options": [
                     {
                         "id": "1",
-                        "text": "El infarto agudo de miocardio. ",
+                        "text": "Hipercolesterolemia familiar con LDL de 240 mg/dL. ",
                         "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "2",
-                        "text": "La miocarditis (inflamación del músculo cardiaco, habitualmente por virus). ",
+                        "text": "Varón de 70 años que al caminar en cuesta presenta dolor en glúteos y pantorrillas que cede al detenerse.  ",
                         "correct": true,
                         "feedback": ""
                     },
                     {
                         "id": "3",
-                        "text": "Enfermedades genéticas (miocardiopatía dilatada idiopática).",
+                        "text": "Mujer de 50 años con diabetes mellitus tipo I diagnosticada a los 6 años. ",
                         "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "4",
-                        "text": "La miocardiopatía hipertrófica.",
+                        "text": "Varón de 74 años con nefropatía diabética en estadio prediálisis. ",
                         "correct": true,
                         "feedback": ""
                     }
