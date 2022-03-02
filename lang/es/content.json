@@ -1,6 +1,5 @@
 {
     "modules": [
-        
         {
             "id": "0",
             "status": 0,
@@ -86,7 +85,7 @@
                     "status": 0,
                     "title": "Introducción al módulo",
                     "activities": [
-                        { 
+                        {
                             "id": "0.2.0",
                             "type": "CONTENT",
                             "type_content": "ACTIVITY_VIDEO",
@@ -123,7 +122,6 @@
                             },
                             "style": "{'background': 'radial-gradient(34.51% 55.54% at 50% 59.63%, rgba(45, 204, 205, 0.8) 0%, rgba(7, 38, 83, 0) 100%), rgba(7, 38, 83, 0)', 'backdrop-filter': 'blur(4px)'}"
                         }
-                        
                     ]
                 },
                 {
@@ -147,7 +145,7 @@
                     "status": 0,
                     "title": "Anatomía cardiovascular",
                     "activities": [
-                        { 
+                        {
                             "id": "0.3.0",
                             "type": "CONTENT",
                             "type_content": "ACTIVITY_VIDEO",
@@ -184,7 +182,6 @@
                             },
                             "style": "{'background': 'radial-gradient(34.51% 55.54% at 50% 59.63%, rgba(45, 204, 205, 0.8) 0%, rgba(7, 38, 83, 0) 100%), rgba(7, 38, 83, 0)', 'backdrop-filter': 'blur(4px)'}"
                         }
-                        
                     ]
                 },
                 {
@@ -208,7 +205,7 @@
                     "status": 0,
                     "title": "Fisiología cardiovascular",
                     "activities": [
-                        { 
+                        {
                             "id": "0.4.0",
                             "type": "CONTENT",
                             "type_content": "ACTIVITY_VIDEO",
@@ -245,7 +242,6 @@
                             },
                             "style": "{'background': 'radial-gradient(34.51% 55.54% at 50% 59.63%, rgba(45, 204, 205, 0.8) 0%, rgba(7, 38, 83, 0) 100%), rgba(7, 38, 83, 0)', 'backdrop-filter': 'blur(4px)'}"
                         }
-                        
                     ]
                 },
                 {
@@ -269,7 +265,7 @@
                     "status": 0,
                     "title": "Consecuencias de la isquemia arterial",
                     "activities": [
-                        { 
+                        {
                             "id": "0.5.0",
                             "type": "CONTENT",
                             "type_content": "ACTIVITY_VIDEO",
@@ -306,7 +302,6 @@
                             },
                             "style": "{'background': 'radial-gradient(34.51% 55.54% at 50% 59.63%, rgba(45, 204, 205, 0.8) 0%, rgba(7, 38, 83, 0) 100%), rgba(7, 38, 83, 0)', 'backdrop-filter': 'blur(4px)'}"
                         }
-                        
                     ]
                 },
                 {
@@ -330,7 +325,7 @@
                     "status": 0,
                     "title": "Despedida del módulo",
                     "activities": [
-                        { 
+                        {
                             "id": "0.6.0",
                             "type": "CONTENT",
                             "type_content": "ACTIVITY_VIDEO",
@@ -366,8 +361,7 @@
                                 "css": "align-items-center justify-content-center text-center"
                             },
                             "style": "{'background': 'radial-gradient(34.51% 55.54% at 50% 59.63%, rgba(45, 204, 205, 0.8) 0%, rgba(7, 38, 83, 0) 100%), rgba(7, 38, 83, 0)', 'backdrop-filter': 'blur(4px)'}"
-                        }
-                        ,
+                        },
                         {
                             "id": "0.6.1",
                             "type": "CONTENT",
@@ -383,7 +377,7 @@
                                         "b_line": "A continuación te invitamos a comprobar los conocimientos adquiridos en el módulo 1."
                                     }
                                 ],
-                                "css":""
+                                "css": ""
                             },
                             "css": "top left col-xl-6 offset-xl-3"
                         }
@@ -410,8 +404,6 @@
                     "status": 0,
                     "title": "Autoevaluación",
                     "activities": [
-                        
-                        
                         {
                             "id": "0.7.0",
                             "type": "CONTENT",
@@ -424,7 +416,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -440,7 +432,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -456,7 +448,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -472,7 +464,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -488,7 +480,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -504,7 +496,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -520,7 +512,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -536,7 +528,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -552,7 +544,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -568,7 +560,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -584,7 +576,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -600,7 +592,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -616,7 +608,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -632,7 +624,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -648,7 +640,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -664,7 +656,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -680,7 +672,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -696,7 +688,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -712,7 +704,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -728,7 +720,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -738,24 +730,22 @@
                             "type_content": "ACTIVITY_FINAL_TEST",
                             "validation_auto": false,
                             "mandatory": false,
-                            "navigation":{
+                            "navigation": {
                                 "disable_nav_prev": false,
                                 "disable_nav_next": false,
                                 "hidden_nav_next": false
-
                             },
                             "save_info": true,
                             "finishCourse": false,
                             "status": 0,
                             "title": "",
                             "b_subtitle": "",
-                            "random": true,                            
+                            "random": true,
                             "feedback_review": true,
                             "id_quiz": ""
                         }
                     ]
                 }
-                
             ]
         },
         {
@@ -817,7 +807,7 @@
                     "status": 0,
                     "title": "Introducción al módulo 2",
                     "activities": [
-                        { 
+                        {
                             "id": "1.1.0",
                             "type": "CONTENT",
                             "type_content": "ACTIVITY_VIDEO",
@@ -854,7 +844,6 @@
                             },
                             "style": "{'background': 'radial-gradient(34.51% 55.54% at 50% 59.63%, rgba(45, 204, 205, 0.8) 0%, rgba(7, 38, 83, 0) 100%), rgba(7, 38, 83, 0)', 'backdrop-filter': 'blur(4px)'}"
                         }
-                        
                     ]
                 },
                 {
@@ -878,7 +867,7 @@
                     "status": 0,
                     "title": "Epidemiología, carga de enfermedad y descripción general de la ECVA",
                     "activities": [
-                        { 
+                        {
                             "id": "1.2.0",
                             "type": "CONTENT",
                             "type_content": "ACTIVITY_VIDEO",
@@ -915,7 +904,6 @@
                             },
                             "style": "{'background': 'radial-gradient(34.51% 55.54% at 50% 59.63%, rgba(45, 204, 205, 0.8) 0%, rgba(7, 38, 83, 0) 100%), rgba(7, 38, 83, 0)', 'backdrop-filter': 'blur(4px)'}"
                         }
-                        
                     ]
                 },
                 {
@@ -939,7 +927,7 @@
                     "status": 0,
                     "title": "Factores de riesgo cardiovascular",
                     "activities": [
-                        { 
+                        {
                             "id": "1.3.0",
                             "type": "CONTENT",
                             "type_content": "ACTIVITY_VIDEO",
@@ -976,7 +964,6 @@
                             },
                             "style": "{'background': 'radial-gradient(34.51% 55.54% at 50% 59.63%, rgba(45, 204, 205, 0.8) 0%, rgba(7, 38, 83, 0) 100%), rgba(7, 38, 83, 0)', 'backdrop-filter': 'blur(4px)'}"
                         }
-                        
                     ]
                 },
                 {
@@ -1000,7 +987,7 @@
                     "status": 0,
                     "title": "Complicaciones y consecuencias para la salud de la ECVA",
                     "activities": [
-                        { 
+                        {
                             "id": "1.4.0",
                             "type": "CONTENT",
                             "type_content": "ACTIVITY_VIDEO",
@@ -1037,7 +1024,6 @@
                             },
                             "style": "{'background': 'radial-gradient(34.51% 55.54% at 50% 59.63%, rgba(45, 204, 205, 0.8) 0%, rgba(7, 38, 83, 0) 100%), rgba(7, 38, 83, 0)', 'backdrop-filter': 'blur(4px)'}"
                         }
-                        
                     ]
                 },
                 {
@@ -1061,7 +1047,7 @@
                     "status": 0,
                     "title": "Diagnóstico de la ECVA",
                     "activities": [
-                        { 
+                        {
                             "id": "1.5.0",
                             "type": "CONTENT",
                             "type_content": "ACTIVITY_VIDEO",
@@ -1098,7 +1084,6 @@
                             },
                             "style": "{'background': 'radial-gradient(34.51% 55.54% at 50% 59.63%, rgba(45, 204, 205, 0.8) 0%, rgba(7, 38, 83, 0) 100%), rgba(7, 38, 83, 0)', 'backdrop-filter': 'blur(4px)'}"
                         }
-                        
                     ]
                 },
                 {
@@ -1122,7 +1107,7 @@
                     "status": 0,
                     "title": "Descripción general del tratamiento actual de la ECVA",
                     "activities": [
-                        { 
+                        {
                             "id": "1.6.0",
                             "type": "CONTENT",
                             "type_content": "ACTIVITY_VIDEO",
@@ -1159,7 +1144,6 @@
                             },
                             "style": "{'background': 'radial-gradient(34.51% 55.54% at 50% 59.63%, rgba(45, 204, 205, 0.8) 0%, rgba(7, 38, 83, 0) 100%), rgba(7, 38, 83, 0)', 'backdrop-filter': 'blur(4px)'}"
                         }
-                        
                     ]
                 },
                 {
@@ -1183,7 +1167,7 @@
                     "status": 0,
                     "title": "Despedida Módulo 2",
                     "activities": [
-                        { 
+                        {
                             "id": "1.7.0",
                             "type": "CONTENT",
                             "type_content": "ACTIVITY_VIDEO",
@@ -1235,11 +1219,10 @@
                                         "b_line": "A continuación te invitamos a comprobar los conocimientos adquiridos en el módulo 2."
                                     }
                                 ],
-                                "css":""
+                                "css": ""
                             },
                             "css": "top left col-xl-6 offset-xl-3"
                         }
-                        
                     ]
                 },
                 {
@@ -1275,7 +1258,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -1291,7 +1274,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -1307,7 +1290,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -1323,7 +1306,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -1339,7 +1322,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -1355,7 +1338,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -1371,7 +1354,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -1387,7 +1370,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -1403,7 +1386,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -1419,7 +1402,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -1435,7 +1418,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -1451,7 +1434,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -1467,7 +1450,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -1483,7 +1466,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -1499,7 +1482,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -1515,7 +1498,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -1531,7 +1514,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -1547,7 +1530,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -1563,7 +1546,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -1579,33 +1562,32 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
-                        },{
+                        },
+                        {
                             "id": "1.8.20",
                             "type": "CONTENT",
                             "type_content": "ACTIVITY_FINAL_TEST",
                             "validation_auto": false,
                             "mandatory": false,
-                            "navigation":{
+                            "navigation": {
                                 "disable_nav_prev": false,
                                 "disable_nav_next": false,
                                 "hidden_nav_next": false
-
                             },
                             "save_info": true,
                             "finishCourse": false,
                             "status": 0,
                             "title": "",
                             "b_subtitle": "",
-                            "random": true,                            
+                            "random": true,
                             "feedback_review": true,
                             "id_quiz": ""
                         }
                     ]
                 }
-                
             ]
         },
         {
@@ -1617,11 +1599,11 @@
             "title": "Módulos 1 y 2",
             "description": "",
             "mod_navigation": {
-                "nextModule": "4"
+                "prevModule": "1",
+                "nextModule": "3"
             },
             "type": "MODULE",
             "childrens": [
-                
                 {
                     "id": "2.0",
                     "type": "SECTION",
@@ -1643,7 +1625,6 @@
                     "status": 0,
                     "title": "Instrucciones",
                     "activities": [
-                        
                         {
                             "id": "2.0.0",
                             "type": "CONTENT",
@@ -1659,7 +1640,7 @@
                                         "b_line": "A continuación vas a examinarte de los contenidos del módulo 1 y del módulo 2."
                                     }
                                 ],
-                                "css":""
+                                "css": ""
                             },
                             "css": "top left col-xl-6 offset-xl-3"
                         }
@@ -1698,7 +1679,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -1714,7 +1695,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -1730,7 +1711,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -1746,7 +1727,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -1762,7 +1743,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -1778,7 +1759,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -1794,7 +1775,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -1810,7 +1791,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -1826,7 +1807,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -1842,7 +1823,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -1858,7 +1839,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -1874,7 +1855,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -1890,7 +1871,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -1906,7 +1887,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -1922,7 +1903,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -1938,7 +1919,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -1954,7 +1935,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -1970,7 +1951,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -1986,7 +1967,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -2002,7 +1983,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -2018,7 +1999,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -2034,7 +2015,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -2050,7 +2031,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -2066,7 +2047,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -2082,7 +2063,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -2098,7 +2079,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -2114,7 +2095,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -2130,7 +2111,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -2146,7 +2127,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -2162,7 +2143,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -2178,7 +2159,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -2194,7 +2175,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -2210,7 +2191,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -2226,7 +2207,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -2242,7 +2223,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -2258,7 +2239,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -2274,7 +2255,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -2290,7 +2271,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -2306,7 +2287,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -2322,33 +2303,32 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
-                        },{
+                        },
+                        {
                             "id": "2.1.40",
                             "type": "CONTENT",
                             "type_content": "ACTIVITY_FINAL_TEST",
                             "validation_auto": false,
                             "mandatory": false,
-                            "navigation":{
+                            "navigation": {
                                 "disable_nav_prev": false,
                                 "disable_nav_next": false,
                                 "hidden_nav_next": false
-
                             },
                             "save_info": true,
                             "finishCourse": false,
                             "status": 0,
                             "title": "",
                             "b_subtitle": "",
-                            "random": true,                            
+                            "random": true,
                             "feedback_review": true,
                             "id_quiz": ""
                         }
                     ]
                 }
-                
             ]
         },
         {
@@ -2410,7 +2390,7 @@
                     "status": 0,
                     "title": "Introducción al módulo 3",
                     "activities": [
-                        { 
+                        {
                             "id": "3.1.0",
                             "type": "CONTENT",
                             "type_content": "ACTIVITY_VIDEO",
@@ -2447,7 +2427,6 @@
                             },
                             "style": "{'background': 'radial-gradient(34.51% 55.54% at 50% 59.63%, rgba(45, 204, 205, 0.8) 0%, rgba(7, 38, 83, 0) 100%), rgba(7, 38, 83, 0)', 'backdrop-filter': 'blur(4px)'}"
                         }
-                        
                     ]
                 },
                 {
@@ -2471,7 +2450,7 @@
                     "status": 0,
                     "title": "Funciones del colesterol en el organismo",
                     "activities": [
-                        { 
+                        {
                             "id": "3.2.0",
                             "type": "CONTENT",
                             "type_content": "ACTIVITY_VIDEO",
@@ -2508,7 +2487,6 @@
                             },
                             "style": "{'background': 'radial-gradient(34.51% 55.54% at 50% 59.63%, rgba(45, 204, 205, 0.8) 0%, rgba(7, 38, 83, 0) 100%), rgba(7, 38, 83, 0)', 'backdrop-filter': 'blur(4px)'}"
                         }
-                        
                     ]
                 },
                 {
@@ -2532,7 +2510,7 @@
                     "status": 0,
                     "title": "Hipercolesterolemia: descripción, tipos, clasificaciones",
                     "activities": [
-                        { 
+                        {
                             "id": "3.3.0",
                             "type": "CONTENT",
                             "type_content": "ACTIVITY_VIDEO",
@@ -2569,7 +2547,6 @@
                             },
                             "style": "{'background': 'radial-gradient(34.51% 55.54% at 50% 59.63%, rgba(45, 204, 205, 0.8) 0%, rgba(7, 38, 83, 0) 100%), rgba(7, 38, 83, 0)', 'backdrop-filter': 'blur(4px)'}"
                         }
-                        
                     ]
                 },
                 {
@@ -2593,7 +2570,7 @@
                     "status": 0,
                     "title": "Complicaciones y comorbilidades asociadas a la hipercolesterolemia",
                     "activities": [
-                        { 
+                        {
                             "id": "3.4.0",
                             "type": "CONTENT",
                             "type_content": "ACTIVITY_VIDEO",
@@ -2630,7 +2607,6 @@
                             },
                             "style": "{'background': 'radial-gradient(34.51% 55.54% at 50% 59.63%, rgba(45, 204, 205, 0.8) 0%, rgba(7, 38, 83, 0) 100%), rgba(7, 38, 83, 0)', 'backdrop-filter': 'blur(4px)'}"
                         }
-                        
                     ]
                 },
                 {
@@ -2654,7 +2630,7 @@
                     "status": 0,
                     "title": "Despedida del módulo 3",
                     "activities": [
-                        { 
+                        {
                             "id": "3.5.0",
                             "type": "CONTENT",
                             "type_content": "ACTIVITY_VIDEO",
@@ -2706,11 +2682,10 @@
                                         "b_line": "A continuación te invitamos a comprobar los conocimientos adquiridos en el módulo 3."
                                     }
                                 ],
-                                "css":""
+                                "css": ""
                             },
                             "css": "top left col-xl-6 offset-xl-3"
                         }
-                        
                     ]
                 },
                 {
@@ -2734,7 +2709,6 @@
                     "status": 0,
                     "title": "Autoevaluación",
                     "activities": [
-                        
                         {
                             "id": "3.6.0",
                             "type": "CONTENT",
@@ -2747,7 +2721,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -2763,7 +2737,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -2779,7 +2753,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -2795,7 +2769,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -2811,7 +2785,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -2827,7 +2801,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -2843,7 +2817,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -2859,7 +2833,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -2875,7 +2849,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -2891,7 +2865,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -2907,7 +2881,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -2923,7 +2897,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -2939,7 +2913,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -2955,7 +2929,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -2971,7 +2945,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -2987,7 +2961,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -3003,7 +2977,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -3019,7 +2993,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -3035,7 +3009,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -3051,33 +3025,32 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
-                        },{
+                        },
+                        {
                             "id": "3.6.20",
                             "type": "CONTENT",
                             "type_content": "ACTIVITY_FINAL_TEST",
                             "validation_auto": false,
                             "mandatory": false,
-                            "navigation":{
+                            "navigation": {
                                 "disable_nav_prev": false,
                                 "disable_nav_next": false,
                                 "hidden_nav_next": false
-
                             },
                             "save_info": true,
                             "finishCourse": false,
                             "status": 0,
                             "title": "",
                             "b_subtitle": "",
-                            "random": true,                            
+                            "random": true,
                             "feedback_review": true,
                             "id_quiz": ""
                         }
                     ]
                 }
-                
             ]
         },
         {
@@ -3089,7 +3062,7 @@
             "title": "Tratamiento de la hipercolesterolemia",
             "description": "",
             "mod_navigation": {
-                "prevModule" :"3",
+                "prevModule": "3",
                 "nextModule": "0"
             },
             "type": "MODULE",
@@ -3139,7 +3112,7 @@
                     "status": 0,
                     "title": "Introducción al modulo 4",
                     "activities": [
-                        { 
+                        {
                             "id": "4.1.0",
                             "type": "CONTENT",
                             "type_content": "ACTIVITY_VIDEO",
@@ -3176,7 +3149,6 @@
                             },
                             "style": "{'background': 'radial-gradient(34.51% 55.54% at 50% 59.63%, rgba(45, 204, 205, 0.8) 0%, rgba(7, 38, 83, 0) 100%), rgba(7, 38, 83, 0)', 'backdrop-filter': 'blur(4px)'}"
                         }
-                        
                     ]
                 },
                 {
@@ -3201,7 +3173,7 @@
                     "title": "Visión general del tratamiento actual de la hipercolesterolemia",
                     "title_css": "justify-content-center centered",
                     "activities": [
-                        { 
+                        {
                             "id": "4.2.0",
                             "type": "CONTENT",
                             "type_content": "ACTIVITY_VIDEO",
@@ -3238,7 +3210,6 @@
                             },
                             "style": "{'background': 'radial-gradient(34.51% 55.54% at 50% 59.63%, rgba(45, 204, 205, 0.8) 0%, rgba(7, 38, 83, 0) 100%), rgba(7, 38, 83, 0)', 'backdrop-filter': 'blur(4px)'}"
                         }
-                        
                     ]
                 },
                 {
@@ -3262,7 +3233,7 @@
                     "status": 0,
                     "title": "Enfoque terapéutico y manejo de la hipercolesterolemia",
                     "activities": [
-                        { 
+                        {
                             "id": "4.3.0",
                             "type": "CONTENT",
                             "type_content": "ACTIVITY_VIDEO",
@@ -3299,7 +3270,6 @@
                             },
                             "style": "{'background': 'radial-gradient(34.51% 55.54% at 50% 59.63%, rgba(45, 204, 205, 0.8) 0%, rgba(7, 38, 83, 0) 100%), rgba(7, 38, 83, 0)', 'backdrop-filter': 'blur(4px)'}"
                         }
-                        
                     ]
                 },
                 {
@@ -3323,7 +3293,7 @@
                     "status": 0,
                     "title": "Guías de tratamiento de la hipercolesterolemia",
                     "activities": [
-                        { 
+                        {
                             "id": "4.4.0",
                             "type": "CONTENT",
                             "type_content": "ACTIVITY_VIDEO",
@@ -3360,7 +3330,6 @@
                             },
                             "style": "{'background': 'radial-gradient(34.51% 55.54% at 50% 59.63%, rgba(45, 204, 205, 0.8) 0%, rgba(7, 38, 83, 0) 100%), rgba(7, 38, 83, 0)', 'backdrop-filter': 'blur(4px)'}"
                         }
-                        
                     ]
                 },
                 {
@@ -3384,7 +3353,7 @@
                     "status": 0,
                     "title": "Despedida del módulo 4",
                     "activities": [
-                        { 
+                        {
                             "id": "4.5.0",
                             "type": "CONTENT",
                             "type_content": "ACTIVITY_VIDEO",
@@ -3436,11 +3405,10 @@
                                         "b_line": "A continuación te invitamos a comprobar los conocimientos adquiridos en el módulo 4."
                                     }
                                 ],
-                                "css":""
+                                "css": ""
                             },
                             "css": "top left col-xl-6 offset-xl-3"
                         }
-                        
                     ]
                 },
                 {
@@ -3464,7 +3432,6 @@
                     "status": 0,
                     "title": "Autoevaluación",
                     "activities": [
-                        
                         {
                             "id": "4.6.0",
                             "type": "CONTENT",
@@ -3477,7 +3444,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -3493,7 +3460,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -3509,7 +3476,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -3525,7 +3492,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -3541,7 +3508,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -3557,7 +3524,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -3573,7 +3540,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -3589,7 +3556,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -3605,7 +3572,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -3621,7 +3588,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -3637,7 +3604,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -3653,7 +3620,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -3669,7 +3636,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -3685,7 +3652,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -3701,7 +3668,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -3717,7 +3684,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -3733,7 +3700,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -3749,7 +3716,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -3765,7 +3732,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -3781,33 +3748,32 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
-                        },{
+                        },
+                        {
                             "id": "4.6.20",
                             "type": "CONTENT",
                             "type_content": "ACTIVITY_FINAL_TEST",
                             "validation_auto": false,
                             "mandatory": false,
-                            "navigation":{
+                            "navigation": {
                                 "disable_nav_prev": false,
                                 "disable_nav_next": false,
                                 "hidden_nav_next": false
-
                             },
                             "save_info": true,
                             "finishCourse": false,
                             "status": 0,
                             "title": "",
                             "b_subtitle": "",
-                            "random": true,                            
+                            "random": true,
                             "feedback_review": true,
                             "id_quiz": ""
                         }
                     ]
                 }
-                
             ]
         },
         {
@@ -3869,7 +3835,7 @@
                     "status": 0,
                     "title": "Introducción al módulo 5",
                     "activities": [
-                        { 
+                        {
                             "id": "5.1.0",
                             "type": "CONTENT",
                             "type_content": "ACTIVITY_VIDEO",
@@ -3906,7 +3872,6 @@
                             },
                             "style": "{'background': 'radial-gradient(34.51% 55.54% at 50% 59.63%, rgba(45, 204, 205, 0.8) 0%, rgba(7, 38, 83, 0) 100%), rgba(7, 38, 83, 0)', 'backdrop-filter': 'blur(4px)'}"
                         }
-                        
                     ]
                 },
                 {
@@ -3930,7 +3895,7 @@
                     "status": 0,
                     "title": "Patient journey",
                     "activities": [
-                        { 
+                        {
                             "id": "5.2.0",
                             "type": "CONTENT",
                             "type_content": "ACTIVITY_VIDEO",
@@ -3967,7 +3932,6 @@
                             },
                             "style": "{'background': 'radial-gradient(34.51% 55.54% at 50% 59.63%, rgba(45, 204, 205, 0.8) 0%, rgba(7, 38, 83, 0) 100%), rgba(7, 38, 83, 0)', 'backdrop-filter': 'blur(4px)'}"
                         }
-                        
                     ]
                 },
                 {
@@ -3991,7 +3955,7 @@
                     "status": 0,
                     "title": "Despedida del módulo 5",
                     "activities": [
-                        { 
+                        {
                             "id": "5.3.0",
                             "type": "CONTENT",
                             "type_content": "ACTIVITY_VIDEO",
@@ -4028,7 +3992,6 @@
                             },
                             "style": "{'background': 'radial-gradient(34.51% 55.54% at 50% 59.63%, rgba(45, 204, 205, 0.8) 0%, rgba(7, 38, 83, 0) 100%), rgba(7, 38, 83, 0)', 'backdrop-filter': 'blur(4px)'}"
                         }
-                        
                     ]
                 },
                 {
@@ -4052,7 +4015,7 @@
                     "status": 0,
                     "title": "Próximamente",
                     "activities": [
-                        { 
+                        {
                             "id": "5.4.0",
                             "type": "CONTENT",
                             "type_content": "ACTIVITY_VIDEO",
@@ -4104,11 +4067,10 @@
                                         "b_line": "A continuación te invitamos a comprobar los conocimientos adquiridos en el módulo 5."
                                     }
                                 ],
-                                "css":""
+                                "css": ""
                             },
                             "css": "top left col-xl-6 offset-xl-3"
                         }
-                        
                     ]
                 },
                 {
@@ -4143,21 +4105,19 @@
                                 "c_type": "layout1",
                                 "c_block": [
                                     {
-                                                                        
                                         "b_text": [
-                                          {
-                                              "b_line": "Roberto es un varón de 48 años al que en  un reconocimiento de empresa se le diagnóstica hipercolesterolemia  como parte de una analítica desde el servicio de prevención de riesgos laborales."
-                                          },
-                                          {
-                                              "b_line": "Como parte adicional de la evaluación del riesgo cardiovascular se encuentran cifras de tensión arterial de 139/83 mmHg, e IMC 28 kg/m2. "
-                                          },
-                                          {
-                                              "b_line": "En la analítica realizada se encuentra: colesterol total 260 mg/dL, colesterol LDL 183 mg/dL, HDL 43 mg/dL, triglicéridos 190. "
-                                          },
-                                          {
-                                              "b_line": "<span style='display:block; padding:1em; background:#EC9A1E; color:Black'><strong>PLAN:</strong><BR> A simple vista parece un paciente con un riesgo cardiovascular considerable y además muy joven. Por lo que se le propone iniciar tratamiento con estatinas y revisión colesterol en 3 meses.</span>"
-                                          }
-      
+                                            {
+                                                "b_line": "Roberto es un varón de 48 años al que en  un reconocimiento de empresa se le diagnóstica hipercolesterolemia  como parte de una analítica desde el servicio de prevención de riesgos laborales."
+                                            },
+                                            {
+                                                "b_line": "Como parte adicional de la evaluación del riesgo cardiovascular se encuentran cifras de tensión arterial de 139/83 mmHg, e IMC 28 kg/m2. "
+                                            },
+                                            {
+                                                "b_line": "En la analítica realizada se encuentra: colesterol total 260 mg/dL, colesterol LDL 183 mg/dL, HDL 43 mg/dL, triglicéridos 190. "
+                                            },
+                                            {
+                                                "b_line": "<span style='display:block; padding:1em; background:#EC9A1E; color:Black'><strong>PLAN:</strong><BR> A simple vista parece un paciente con un riesgo cardiovascular considerable y además muy joven. Por lo que se le propone iniciar tratamiento con estatinas y revisión colesterol en 3 meses.</span>"
+                                            }
                                         ],
                                         "css": "col-12 col-lg-5 text-left cmt-3 py-3"
                                     },
@@ -4174,7 +4134,6 @@
                                 ],
                                 "css": "justify-content-center align-items-left centered"
                             }
-                            
                         },
                         {
                             "id": "5.5.1",
@@ -4305,13 +4264,12 @@
                                 "c_block": [
                                     {
                                         "b_text": [
-                                          {
-                                              "b_line": "Roberto inicialmente intentaba cumplir el tratamiento pautado. Pero inició con dolores musculares en muslos y glúteos (como agujetas). Tomaba todos los días la tensión arterial y peso semanal pero no veía los resultados, progresaba muy poco a poco."
-                                          },
-                                          {
-                                              "b_line": "En el primer control de colesterol, realizado a los 3 meses, el LDL estaba prácticamente igual y decidió abandonar el tratamiento."
-                                          }
-      
+                                            {
+                                                "b_line": "Roberto inicialmente intentaba cumplir el tratamiento pautado. Pero inició con dolores musculares en muslos y glúteos (como agujetas). Tomaba todos los días la tensión arterial y peso semanal pero no veía los resultados, progresaba muy poco a poco."
+                                            },
+                                            {
+                                                "b_line": "En el primer control de colesterol, realizado a los 3 meses, el LDL estaba prácticamente igual y decidió abandonar el tratamiento."
+                                            }
                                         ],
                                         "css": "col-12 col-lg-5 text-left cmt-3 py-3"
                                     },
@@ -4328,9 +4286,7 @@
                                 ],
                                 "css": "justify-content-center align-items-center centered"
                             }
-                            
                         },
-                        
                         {
                             "id": "5.5.11",
                             "type": "CONTENT",
@@ -4528,7 +4484,6 @@
                         }
                     ]
                 }
-                
             ]
         },
         {
@@ -4545,7 +4500,6 @@
             },
             "type": "MODULE",
             "childrens": [
-                
                 {
                     "id": "6.0",
                     "type": "SECTION",
@@ -4567,7 +4521,6 @@
                     "status": 0,
                     "title": "Instrucciones",
                     "activities": [
-                        
                         {
                             "id": "6.0.0",
                             "type": "CONTENT",
@@ -4583,7 +4536,7 @@
                                         "b_line": "A continuación vas a realizar la prueba de conocimientos de los contenidos del módulo 3, 4 y 5."
                                     }
                                 ],
-                                "css":""
+                                "css": ""
                             },
                             "css": "top left col-xl-6 offset-xl-3"
                         }
@@ -4622,7 +4575,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -4638,7 +4591,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -4654,7 +4607,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -4670,7 +4623,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -4686,7 +4639,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -4702,7 +4655,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -4718,7 +4671,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -4734,7 +4687,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -4750,7 +4703,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -4766,7 +4719,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -4782,7 +4735,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -4798,7 +4751,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -4814,7 +4767,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -4830,7 +4783,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -4846,7 +4799,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -4862,7 +4815,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -4878,7 +4831,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -4894,7 +4847,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -4910,7 +4863,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -4926,7 +4879,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -4942,7 +4895,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -4958,7 +4911,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -4974,7 +4927,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -4990,7 +4943,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -5006,7 +4959,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -5022,7 +4975,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -5038,7 +4991,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -5054,7 +5007,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -5070,7 +5023,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -5086,7 +5039,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -5102,7 +5055,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -5118,7 +5071,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -5134,7 +5087,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -5150,7 +5103,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -5166,7 +5119,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -5182,7 +5135,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -5198,7 +5151,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -5214,7 +5167,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -5230,7 +5183,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -5246,7 +5199,7 @@
                             "random": true,
                             "feedback_review": true,
                             "id_quiz": "",
-                            "navigation":{
+                            "navigation": {
                                 "hidden_nav_next": true
                             }
                         },
@@ -5256,24 +5209,22 @@
                             "type_content": "ACTIVITY_FINAL_TEST",
                             "validation_auto": false,
                             "mandatory": false,
-                            "navigation":{
+                            "navigation": {
                                 "disable_nav_prev": false,
                                 "disable_nav_next": false,
                                 "hidden_nav_next": true
-
                             },
                             "save_info": true,
                             "finishCourse": false,
                             "status": 0,
                             "title": "",
                             "b_subtitle": "",
-                            "random": true,                            
+                            "random": true,
                             "feedback_review": true,
                             "id_quiz": ""
                         }
                     ]
                 }
-                
             ]
         },
         {
@@ -5335,7 +5286,7 @@
                     "status": 0,
                     "title": "Mecanismo de acción",
                     "activities": [
-                        { 
+                        {
                             "id": "7.1.0",
                             "type": "CONTENT",
                             "type_content": "ACTIVITY_VIDEO",
@@ -5372,7 +5323,6 @@
                             },
                             "style": "{'background': 'radial-gradient(34.51% 55.54% at 50% 59.63%, rgba(45, 204, 205, 0.8) 0%, rgba(7, 38, 83, 0) 100%), rgba(7, 38, 83, 0)', 'backdrop-filter': 'blur(4px)'}"
                         }
-                        
                     ]
                 },
                 {
@@ -5396,7 +5346,7 @@
                     "status": 0,
                     "title": "Ficha técnica",
                     "activities": [
-                        { 
+                        {
                             "id": "7.2.0",
                             "type": "CONTENT",
                             "type_content": "ACTIVITY_VIDEO",
@@ -5433,7 +5383,6 @@
                             },
                             "style": "{'background': 'radial-gradient(34.51% 55.54% at 50% 59.63%, rgba(45, 204, 205, 0.8) 0%, rgba(7, 38, 83, 0) 100%), rgba(7, 38, 83, 0)', 'backdrop-filter': 'blur(4px)'}"
                         }
-                        
                     ]
                 },
                 {
@@ -5457,7 +5406,7 @@
                     "status": 0,
                     "title": "Evidencia clínica: Programa Orion",
                     "activities": [
-                        { 
+                        {
                             "id": "7.3.0",
                             "type": "CONTENT",
                             "type_content": "ACTIVITY_VIDEO",
@@ -5494,7 +5443,6 @@
                             },
                             "style": "{'background': 'radial-gradient(34.51% 55.54% at 50% 59.63%, rgba(45, 204, 205, 0.8) 0%, rgba(7, 38, 83, 0) 100%), rgba(7, 38, 83, 0)', 'backdrop-filter': 'blur(4px)'}"
                         }
-                        
                     ]
                 },
                 {
@@ -5518,7 +5466,7 @@
                     "status": 0,
                     "title": "TBD",
                     "activities": [
-                        { 
+                        {
                             "id": "7.4.0",
                             "type": "CONTENT",
                             "type_content": "ACTIVITY_VIDEO",
@@ -5555,10 +5503,8 @@
                             },
                             "style": "{'background': 'radial-gradient(34.51% 55.54% at 50% 59.63%, rgba(45, 204, 205, 0.8) 0%, rgba(7, 38, 83, 0) 100%), rgba(7, 38, 83, 0)', 'backdrop-filter': 'blur(4px)'}"
                         }
-                        
                     ]
                 }
-                
             ]
         },
         {
@@ -5575,7 +5521,6 @@
             },
             "type": "MODULE",
             "childrens": [
-                
                 {
                     "id": "8.0",
                     "type": "SECTION",
@@ -5597,7 +5542,6 @@
                     "status": 0,
                     "title": "Instrucciones",
                     "activities": [
-                        
                         {
                             "id": "8.0.0",
                             "type": "CONTENT",
@@ -5611,11 +5555,12 @@
                                 "b_text": [
                                     {
                                         "b_line": "Si has finalizado la formación nos gustaría que la valorases respondiendo 4 breves preguntas. La valoración es de 1 a 5, siendo 1, nada satisfactorio y 5, muy satisfactorio."
-                                    },{
+                                    },
+                                    {
                                         "b_line": "¡Muchas gracias!"
                                     }
                                 ],
-                                "css":""
+                                "css": ""
                             },
                             "css": "top left col-xl-6 offset-xl-1"
                         }
@@ -5696,9 +5641,7 @@
                         }
                     ]
                 }
-                
             ]
         }
-        
     ]
 }

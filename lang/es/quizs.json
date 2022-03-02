@@ -1,6 +1,5 @@
 {
     "quizs": {
-       
         "0.7": [
             {
                 "id": "1",
@@ -1134,7 +1133,6 @@
                 "instructions": "Selecciona una opción:",
                 "feedback_ok": "¡Correcto! La pregunta expone cuál el objetivo de control para estos factores de riesgo cardiovascular. Por supuesto, evitar cualquier exposición al humo del tabaco, realizar ejercicio físico de intensidad moderada 30-60 minutos al día, IMC 20-25, son otros de los objetivos a considerar. Mención especial a los objetivos de tensión arterial que se han endurecido en las últimas guías de prevención cardiovascular recomendando una TA < 130/80 mmHg para todas las edades y grupos siempre y cuando no ocasione síntomas. Se puede ser algo más laxo con los ancianos y la enfermedad renal crónica si esto condiciona empeoramiento de la función renal. ",
                 "feedback_ko": "¡Incorrecto! La pregunta expone cuál el objetivo de control para estos factores de riesgo cardiovascular. Por supuesto, evitar cualquier exposición al humo del tabaco, realizar ejercicio físico de intensidad moderada 30-60 minutos al día, IMC 20-25, son otros de los objetivos a considerar. Mención especial a los objetivos de tensión arterial que se han endurecido en las últimas guías de prevención cardiovascular recomendando una TA < 130/80 mmHg para todas las edades y grupos siempre y cuando no ocasione síntomas. Se puede ser algo más laxo con los ancianos y la enfermedad renal crónica si esto condiciona empeoramiento de la función renal.  ",
-              
                 "topic": "",
                 "points": 3,
                 "options_order_random": false,
@@ -1403,7 +1401,6 @@
                 "instructions": "Selecciona una opción:",
                 "feedback_ok": "¡Correcto! Las opciones recogen algunas de las recomendaciones de las últimas guías de prevención cardiovascular y algunos ensayos clínicos. Todas son correctas.  ",
                 "feedback_ko": "¡Incorrecto! Las opciones recogen algunas de las recomendaciones de las últimas guías de prevención cardiovascular y algunos ensayos clínicos. Todas son correctas. ",
-                
                 "topic": "",
                 "points": 3,
                 "options_order_random": false,
@@ -2560,12 +2557,11 @@
             },
             {
                 "id": "29",
-                "qType": "TEST_TYPE.MULTIPLE_OPTION",
+                "qType": "TEST_TYPE.SINGLE_OPTION",
                 "qTitle": "¿Cuál de los siguientes pacientes se considera de alto riesgo cardiovascular? ",
                 "instructions": "Selecciona una opción:",
                 "feedback_ok": "¡Correcto!El primero es un paciente con 3 factores de riesgo cardiovascular mayores y que precisan mucha medicación, muy alto riesgo. La opción b tiene claudicación de la marcha, directamente pasa a muy alto riesgo cardiovascular. Opción c, diabético con lesiones retinianas típicas de diabético, lesión en órgano diana, muy alto riesgo. La paciente de la opción d es diabética de 3 fármacos pero no se alude a daño órgano diana, clínica o larga evolución, alto riesgo cardiovascular.   ",
                 "feedback_ko": "¡Incorrecto! El primero es un paciente con 3 factores de riesgo cardiovascular mayores y que precisan mucha medicación, muy alto riesgo. La opción b tiene claudicación de la marcha, directamente pasa a muy alto riesgo cardiovascular. Opción c, diabético con lesiones retinianas típicas de diabético, lesión en órgano diana, muy alto riesgo. La paciente de la opción d es diabética de 3 fármacos pero no se alude a daño órgano diana, clínica o larga evolución, alto riesgo cardiovascular. ",
-                "number_of_answers": 4,
                 "topic": "",
                 "points": 3,
                 "options_order_random": true,
@@ -2753,7 +2749,7 @@
                 "feedback_ko": "¡Incorrecto! Las opciones recogen algunas de las recomendaciones de las últimas guías de prevención cardiovascular y algunos ensayos clínicos. Todas son correctas.  ",
                 "topic": "",
                 "points": 3,
-                "number_of_answers":4,
+                "number_of_answers": 4,
                 "options_order_random": true,
                 "options": [
                     {
@@ -4501,7 +4497,6 @@
                 "instructions": "Selecciona una opción:",
                 "feedback_ok": "¡Correcto! Sin duda lo más importante porque clasificaría a Roberto directamente como muy alto riesgo cardiovascular es la presencia de clínica que oriente a enfermedad cardiovascular establecida.",
                 "feedback_ko": "¡Incorrecto! Sin duda lo más importante porque clasificaría a Roberto directamente como muy alto riesgo cardiovascular es la presencia de clínica que oriente a enfermedad cardiovascular establecida.",
-                
                 "topic": "",
                 "countDown": false,
                 "timeCountDown": 5,
@@ -4547,7 +4542,6 @@
                 "instructions": "Selecciona las opciones que consideres correctas:",
                 "feedback_ok": "¡Correcto! Todos los enunciados hacen referencia a enfermedad cardiovascular establecida. No debe olvidarse preguntar por la impotencia sexual, a veces es el evento centinela de ateroesclerosis presente a otros niveles.",
                 "feedback_ko": "¡Incorrecto! Todos los enunciados hacen referencia a enfermedad cardiovascular establecida. No debe olvidarse preguntar por la impotencia sexual, a veces es el evento centinela de ateroesclerosis presente a otros niveles. ",
-                
                 "topic": "",
                 "points": 3,
                 "options_order_random": false,
@@ -5030,7 +5024,6 @@
                 "instructions": "Selecciona una opción:",
                 "feedback_ok": "¡Correcto! Todas las expuestas son complicaciones potenciales del infarto agudo de miocardio a la hora de su presentación o en la evolución. La más frecuente de todas ellas es el desarrollo de insuficiencia cardíaca por pérdida de contractilidad del ventrículo izquierdo. ",
                 "feedback_ko": "¡Incorrecto! Todas las expuestas son complicaciones potenciales del infarto agudo de miocardio a la hora de su presentación o en la evolución. La más frecuente de todas ellas es el desarrollo de insuficiencia cardíaca por pérdida de contractilidad del ventrículo izquierdo.  ",
-                
                 "topic": "",
                 "points": 3,
                 "options_order_random": false,
@@ -6894,7 +6887,6 @@
                 "instructions": "Valora de 1 a 5, siendo 1 - Nada satisfecho, y 5 - Muy satisfecho",
                 "feedback_ok": "",
                 "feedback_ko": "",
-                
                 "topic": "",
                 "countDown": false,
                 "timeCountDown": 5,
@@ -6940,7 +6932,6 @@
                 "instructions": "Valora de 1 a 5, siendo 1 - Nada satisfecho, y 5 - Muy satisfecho",
                 "feedback_ok": "",
                 "feedback_ko": " ",
-                
                 "topic": "",
                 "points": 3,
                 "options_order_random": false,
@@ -6984,7 +6975,6 @@
                 "instructions": "Valora de 1 a 5, siendo 1 - Nada satisfecho, y 5 - Muy satisfecho",
                 "feedback_ok": "",
                 "feedback_ko": " ",
-                
                 "topic": "",
                 "points": 3,
                 "options_order_random": false,
@@ -7028,7 +7018,6 @@
                 "instructions": "Valora de 1 a 5, siendo 1 - Nada satisfecho, y 5 - Muy satisfecho",
                 "feedback_ok": "",
                 "feedback_ko": " ",
-                
                 "topic": "",
                 "points": 3,
                 "options_order_random": false,
