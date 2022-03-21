@@ -1,69 +1,99 @@
 module-header header {
-    background: #0460A9 !important;
+  background: #0460a9 !important;
 }
 
 app-parent ::-webkit-scrollbar-thumb {
-    background: #EC9A1E !important;
-    border-radius: 0.8rem;
+  background: #ec9a1e !important;
+  border-radius: 0.8rem;
 }
 
 progress-menu-2021 .progress-container {
-    background-color: #0460A9 !important;
-    color:#fff;
+  background-color: #0460a9 !important;
+  color: #fff;
 }
 
 progress-menu-2021 .progress-container .progress .progress-bar {
-    background-color: #ec9a1e !important;
+  background-color: #ec9a1e !important;
 }
-
 
 netflix .netflix .netflix-cover .cover-info .frame-header h2 {
-    
-    color: #ec9a1e !important;
+  color: #ec9a1e !important;
 }
 
-.btn.btn-netflix, .btn.btn-netflix:not([href]):not([tabindex]) {
-    background: #ec9a1e !important;
-    font-weight: 600;
-    color: #20272F !important;
-    padding: 0.7rem 1.2rem 0.8rem;
-    border: 2px solid #ec9a1e !important;
+.btn.btn-netflix,
+.btn.btn-netflix:not([href]):not([tabindex]) {
+  background: #ec9a1e !important;
+  font-weight: 600;
+  color: #20272f !important;
+  padding: 0.7rem 1.2rem 0.8rem;
+  border: 2px solid #ec9a1e !important;
 }
 
 app-parent > .container-fluid .wrapper > .container-fluid .main-content .main {
-background-color: #0460A9 !important;
+  background-color: #0460a9 !important;
 }
 
-.activity activity-test .testcontent .page-indicator, .activity mines-weeper-test .testcontent .page-indicator {
-    display: display-inside !important ;
+.activity activity-test .testcontent .page-indicator,
+.activity mines-weeper-test .testcontent .page-indicator {
+  display: display-inside !important ;
 }
-.activity activity-test .testcontent, .activity mines-weeper-test .testcontent {
-    background: #ffffff !important;
+.activity activity-test .testcontent,
+.activity mines-weeper-test .testcontent {
+  background: #ffffff !important;
 }
-.pretitle, .subtitle {
-    display: block;
-    color: #ec9a1e !important;
+.pretitle,
+.subtitle {
+  display: block;
+  color: #ec9a1e !important;
 }
 .btn-close-course {
-    display: flex;
-    flex: 1 1 5%;
-    justify-content: end;
+  display: flex;
+  flex: 1 1 5%;
+  justify-content: end;
 }
-.btn-close-course>div {
-    cursor: pointer;
-    background-color: #ec9a1e;
-    border-radius: 5px;
-    color: #fff;
-    padding: 4px 10px;
-    font-weight: bold;
+.btn-close-course > div {
+  cursor: pointer;
+  background-color: #ec9a1e;
+  border-radius: 5px;
+  color: #fff;
+  padding: 4px 10px;
+  font-weight: bold;
 }
 module-header header > *.content-right {
-    flex: 1 1 20% !important;
+  flex: 1 1 20% !important;
 }
 tooltip tip-tip {
-    font-size: 1.6rem !important;
+  font-size: 1.6rem !important;
 }
-
-pagination-menu .pagination-container .pagination .page-item.completed-item .page-link {
-display: none;
+pagination-menu
+  .pagination-container
+  .pagination
+  .page-item.completed-item
+  .page-link {
+  display: none;
 }
+.activity-5-5-1 .activity activity-test .testcontent .page-indicator, .activity mines-weeper-test .testcontent .page-indicator { display: none !important; }
+.activity-5-5-2 .activity activity-test .testcontent .page-indicator, .activity mines-weeper-test .testcontent .page-indicator { display: none !important; }
+.activity-5-5-3 .activity activity-test .testcontent .page-indicator, .activity mines-weeper-test .testcontent .page-indicator { display: none !important; }
+.activity-5-5-4 .activity activity-test .testcontent .page-indicator, .activity mines-weeper-test .testcontent .page-indicator { display: none !important; }
+.activity-5-5-5 .activity activity-test .testcontent .page-indicator, .activity mines-weeper-test .testcontent .page-indicator { display: none !important; }
+.activity-5-5-6 .activity activity-test .testcontent .page-indicator, .activity mines-weeper-test .testcontent .page-indicator { display: none !important; }
+.activity-5-5-7 .activity activity-test .testcontent .page-indicator, .activity mines-weeper-test .testcontent .page-indicator { display: none !important; }
+.activity-5-5-8 .activity activity-test .testcontent .page-indicator, .activity mines-weeper-test .testcontent .page-indicator { display: none !important; }
+.activity-5-5-9 .activity activity-test .testcontent .page-indicator, .activity mines-weeper-test .testcontent .page-indicator { display: none !important; }
+.activity-5-5-10 .activity activity-test .testcontent .page-indicator, .activity mines-weeper-test .testcontent .page-indicator { display: none !important; }
+.activity-5-5-11 .activity activity-test .testcontent .page-indicator, .activity mines-weeper-test .testcontent .page-indicator { display: none !important; }
+.activity-5-5-12 .activity activity-test .testcontent .page-indicator, .activity mines-weeper-test .testcontent .page-indicator { display: none !important; }
+.activity-5-5-13 .activity activity-test .testcontent .page-indicator, .activity mines-weeper-test .testcontent .page-indicator { display: none !important; }
+.activity-5-5-14 .activity activity-test .testcontent .page-indicator, .activity mines-weeper-test .testcontent .page-indicator { display: none !important; }
+.activity-5-5-15 .activity activity-test .testcontent .page-indicator, .activity mines-weeper-test .testcontent .page-indicator { display: none !important; }
+.activity-5-5-16 .activity activity-test .testcontent .page-indicator, .activity mines-weeper-test .testcontent .page-indicator { display: none !important; }
+.activity-5-5-17 .activity activity-test .testcontent .page-indicator, .activity mines-weeper-test .testcontent .page-indicator { display: none !important; }
+.activity-5-5-18 .activity activity-test .testcontent .page-indicator, .activity mines-weeper-test .testcontent .page-indicator { display: none !important; }
+.activity-5-5-19 .activity activity-test .testcontent .page-indicator, .activity mines-weeper-test .testcontent .page-indicator { display: none !important; }
+.activity-5-5-20 .activity activity-test .testcontent .page-indicator, .activity mines-weeper-test .testcontent .page-indicator { display: none !important; }
+.activity-5-5-21 .activity activity-test .testcontent .page-indicator, .activity mines-weeper-test .testcontent .page-indicator { display: none !important; }
+.activity-5-5-22 .activity activity-test .testcontent .page-indicator, .activity mines-weeper-test .testcontent .page-indicator { display: none !important; }
+.activity-5-5-23 .activity activity-test .testcontent .page-indicator, .activity mines-weeper-test .testcontent .page-indicator { display: none !important; }
+.activity-5-5-24 .activity activity-test .testcontent .page-indicator, .activity mines-weeper-test .testcontent .page-indicator { display: none !important; }
+.activity-5-5-25 .activity activity-test .testcontent .page-indicator, .activity mines-weeper-test .testcontent .page-indicator { display: none !important; }

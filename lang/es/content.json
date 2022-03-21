@@ -3780,7 +3780,7 @@
             "id": "5",
             "status": 0,
             "mod_menu": {
-                "id_text": "Módulo 5 (Próximamente)"
+                "id_text": "Módulo 5"
             },
             "title": "Patient journey ",
             "description": "",
@@ -4490,7 +4490,7 @@
             "id": "6",
             "status": 0,
             "mod_menu": {
-                "id_text": "Prueba de conocimientos 2 (Próximamente)"
+                "id_text": "Prueba de conocimientos 2"
             },
             "title": "Módulos 3, 4 y 5",
             "description": "",
@@ -5231,7 +5231,7 @@
             "id": "7",
             "status": 0,
             "mod_menu": {
-                "id_text": "Módulo 6 (Próximamente)"
+                "id_text": "Módulo 6"
             },
             "title": "Inclisirán",
             "description": "",
@@ -5419,6 +5419,7 @@
                             },
                             "title": "Evidencia clínica: Programa Orion",
                             "title_css": "justify-content-center centered",
+                            "subtitle": "<center>(Próxicamente)</center>",
                             "content": {
                                 "c_block": [
                                     {
@@ -5426,7 +5427,7 @@
                                         "b_video": {
                                             "duration": "",
                                             "path": "7-3-0-video.m4v",
-                                            "poster": "7-3-cover.jpg",
+                                            "poster": "7-1-cover.jpg",
                                             "is_background": false,
                                             "controls": true,
                                             "autoplay": false,
@@ -5479,6 +5480,7 @@
                             },
                             "title": "TBD",
                             "title_css": "justify-content-center centered",
+                            "subtitle": "<center>(Próxicamente)</center>",
                             "content": {
                                 "c_block": [
                                     {
@@ -5486,7 +5488,7 @@
                                         "b_video": {
                                             "duration": "",
                                             "path": "7-4-0-video.m4v",
-                                            "poster": "7-3-cover.jpg",
+                                            "poster": "7-1-cover.jpg",
                                             "is_background": false,
                                             "controls": true,
                                             "autoplay": false,
@@ -5513,7 +5515,7 @@
             "mod_menu": {
                 "id_text": ""
             },
-            "title": "Cuestionario de satisfacción (Próximamente)",
+            "title": "Cuestionario de satisfacción",
             "description": "",
             "mod_navigation": {
                 "nextModule": "0",
