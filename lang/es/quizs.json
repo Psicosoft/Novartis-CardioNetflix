@@ -5249,7 +5249,7 @@
             {
                 "id": "21",
                 "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "Pendiente",
+                "qTitle": "¿Qué perfiles, entre otros, son clave en el manejo de la ECVA?",
                 "instructions": "Selecciona una opción:",
                 "feedback_ok": "¡Correcto! Los síntomas que sufre Roberto son probablemente debido a ateromatosis en ramas de las arterias ilíacas, síndrome de Leriche, que se manifiesta característicamente como claudicación de la marcha, disfunción eréctil y dolor glúteo. En las últimas recomendaciones se aconseja reducir el objetivo a 40 si en menos de 2 años el paciente sufre dos eventos clínicos, aunque sean de territorio distinto. Aunque no es lo más probable y orienta a Leriche, en un paciente con dolor muscular y tratamiento con estatinas a altas dosis es razonable solicitar analítica con CPK.   ",
                 "feedback_ko": "¡Incorrecto! Los síntomas que sufre Roberto son probablemente debido a ateromatosis en ramas de las arterias ilíacas, síndrome de Leriche, que se manifiesta característicamente como claudicación de la marcha, disfunción eréctil y dolor glúteo. En las últimas recomendaciones se aconseja reducir el objetivo a 40 si en menos de 2 años el paciente sufre dos eventos clínicos, aunque sean de territorio distinto. Aunque no es lo más probable y orienta a Leriche, en un paciente con dolor muscular y tratamiento con estatinas a altas dosis es razonable solicitar analítica con CPK.    ",
@@ -5259,26 +5259,20 @@
                 "options": [
                     {
                         "id": "1",
-                        "text": "Opción 1 pendiente",
+                        "text": "Cardiólogos, neurólogos y enfermería.",
                         "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "2",
-                        "text": "Opción 2 pendiente",
+                        "text": "Médicos de atención primaria.",
                         "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "3",
-                        "text": "Opción 3 pendiente",
+                        "text": "Las dos anteriores son correctas.",
                         "correct": true,
-                        "feedback": ""
-                    },
-                    {
-                        "id": "4",
-                        "text": "Opción 4 pendiente",
-                        "correct": false,
                         "feedback": ""
                     }
                 ]
@@ -5286,7 +5280,7 @@
             {
                 "id": "22",
                 "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "Pendiente",
+                "qTitle": "¿Cómo es el seguimiento de los pacientes después de un evento de ECVA?",
                 "instructions": "Selecciona una opción:",
                 "feedback_ok": "¡Correcto! Los síntomas que sufre Roberto son probablemente debido a ateromatosis en ramas de las arterias ilíacas, síndrome de Leriche, que se manifiesta característicamente como claudicación de la marcha, disfunción eréctil y dolor glúteo. En las últimas recomendaciones se aconseja reducir el objetivo a 40 si en menos de 2 años el paciente sufre dos eventos clínicos, aunque sean de territorio distinto. Aunque no es lo más probable y orienta a Leriche, en un paciente con dolor muscular y tratamiento con estatinas a altas dosis es razonable solicitar analítica con CPK.   ",
                 "feedback_ko": "¡Incorrecto! Los síntomas que sufre Roberto son probablemente debido a ateromatosis en ramas de las arterias ilíacas, síndrome de Leriche, que se manifiesta característicamente como claudicación de la marcha, disfunción eréctil y dolor glúteo. En las últimas recomendaciones se aconseja reducir el objetivo a 40 si en menos de 2 años el paciente sufre dos eventos clínicos, aunque sean de territorio distinto. Aunque no es lo más probable y orienta a Leriche, en un paciente con dolor muscular y tratamiento con estatinas a altas dosis es razonable solicitar analítica con CPK.    ",
@@ -5296,25 +5290,19 @@
                 "options": [
                     {
                         "id": "1",
-                        "text": "Opción 1 pendiente",
-                        "correct": false,
+                        "text": "Es muy heterogéneo y depende de cada área sanitaria.",
+                        "correct": true,
                         "feedback": ""
                     },
                     {
                         "id": "2",
-                        "text": "Opción 2 pendiente",
+                        "text": "Está estandarizado según las guías en todas las áreas sanitarias.",
                         "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "3",
-                        "text": "Opción 3 pendiente",
-                        "correct": true,
-                        "feedback": ""
-                    },
-                    {
-                        "id": "4",
-                        "text": "Opción 4 pendiente",
+                        "text": "Tienen un seguimiento muy estrecho siguiendo las indicaciones de código ictus y código infarto.",
                         "correct": false,
                         "feedback": ""
                     }
@@ -5323,7 +5311,7 @@
             {
                 "id": "23",
                 "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "Pendiente",
+                "qTitle": "¿Cuándo recomiendan las guías el control lipídico para valorar la consecución de los objetivos del tratamiento una vez instaurado el mismo?",
                 "instructions": "Selecciona una opción:",
                 "feedback_ok": "¡Correcto! Los síntomas que sufre Roberto son probablemente debido a ateromatosis en ramas de las arterias ilíacas, síndrome de Leriche, que se manifiesta característicamente como claudicación de la marcha, disfunción eréctil y dolor glúteo. En las últimas recomendaciones se aconseja reducir el objetivo a 40 si en menos de 2 años el paciente sufre dos eventos clínicos, aunque sean de territorio distinto. Aunque no es lo más probable y orienta a Leriche, en un paciente con dolor muscular y tratamiento con estatinas a altas dosis es razonable solicitar analítica con CPK.   ",
                 "feedback_ko": "¡Incorrecto! Los síntomas que sufre Roberto son probablemente debido a ateromatosis en ramas de las arterias ilíacas, síndrome de Leriche, que se manifiesta característicamente como claudicación de la marcha, disfunción eréctil y dolor glúteo. En las últimas recomendaciones se aconseja reducir el objetivo a 40 si en menos de 2 años el paciente sufre dos eventos clínicos, aunque sean de territorio distinto. Aunque no es lo más probable y orienta a Leriche, en un paciente con dolor muscular y tratamiento con estatinas a altas dosis es razonable solicitar analítica con CPK.    ",
@@ -5333,25 +5321,19 @@
                 "options": [
                     {
                         "id": "1",
-                        "text": "Opción 1 pendiente",
+                        "text": "A los 15 días.",
                         "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "2",
-                        "text": "Opción 2 pendiente",
-                        "correct": false,
-                        "feedback": ""
-                    },
-                    {
-                        "id": "3",
-                        "text": "Opción 3 pendiente",
+                        "text": "A las 6 – 12 semanas.",
                         "correct": true,
                         "feedback": ""
                     },
                     {
-                        "id": "4",
-                        "text": "Opción 4 pendiente",
+                        "id": "3",
+                        "text": "A los 6 meses.",
                         "correct": false,
                         "feedback": ""
                     }
@@ -5360,7 +5342,7 @@
             {
                 "id": "24",
                 "qType": "TEST_TYPE.SINGLE_OPTION",
-                "qTitle": "Pendiente",
+                "qTitle": "¿Cuáles son los puntos clave que se deben trabajar para optimizar y mejorar el patient journey de ECVA?",
                 "instructions": "Selecciona una opción:",
                 "feedback_ok": "¡Correcto! Los síntomas que sufre Roberto son probablemente debido a ateromatosis en ramas de las arterias ilíacas, síndrome de Leriche, que se manifiesta característicamente como claudicación de la marcha, disfunción eréctil y dolor glúteo. En las últimas recomendaciones se aconseja reducir el objetivo a 40 si en menos de 2 años el paciente sufre dos eventos clínicos, aunque sean de territorio distinto. Aunque no es lo más probable y orienta a Leriche, en un paciente con dolor muscular y tratamiento con estatinas a altas dosis es razonable solicitar analítica con CPK.   ",
                 "feedback_ko": "¡Incorrecto! Los síntomas que sufre Roberto son probablemente debido a ateromatosis en ramas de las arterias ilíacas, síndrome de Leriche, que se manifiesta característicamente como claudicación de la marcha, disfunción eréctil y dolor glúteo. En las últimas recomendaciones se aconseja reducir el objetivo a 40 si en menos de 2 años el paciente sufre dos eventos clínicos, aunque sean de territorio distinto. Aunque no es lo más probable y orienta a Leriche, en un paciente con dolor muscular y tratamiento con estatinas a altas dosis es razonable solicitar analítica con CPK.    ",
@@ -5370,26 +5352,20 @@
                 "options": [
                     {
                         "id": "1",
-                        "text": "Opción 1 pendiente",
+                        "text": "La optimización farmacológica del paciente ingresado y la estandarización del informe al alta.",
                         "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "2",
-                        "text": "Opción 2 pendiente",
+                        "text": "La transición al alta y el seguimiento posterior (estandarizar analíticas y visitas de seguimiento).",
                         "correct": false,
                         "feedback": ""
                     },
                     {
                         "id": "3",
-                        "text": "Opción 3 pendiente",
+                        "text": "Las dos anteriores son correctas.",
                         "correct": true,
-                        "feedback": ""
-                    },
-                    {
-                        "id": "4",
-                        "text": "Opción 4 pendiente",
-                        "correct": false,
                         "feedback": ""
                     }
                 ]
