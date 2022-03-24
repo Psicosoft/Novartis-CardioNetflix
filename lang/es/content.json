@@ -5404,7 +5404,7 @@
                         ]
                     },
                     "status": 0,
-                    "title": "Evidencia clínica: Programa Orion",
+                    "title": "Programa desarrollo clínico Inclisirán",
                     "activities": [
                         {
                             "id": "7.3.0",
@@ -5417,7 +5417,7 @@
                                 "pretitle": "Vídeo 3",
                                 "pretitle_css": "centered"
                             },
-                            "title": "Evidencia clínica: Programa Orion",
+                            "title": "Programa desarrollo clínico Inclisirán",
                             "title_css": "justify-content-center centered",
                             "subtitle": "<center>(Próxicamente)</center>",
                             "content": {
@@ -5465,7 +5465,7 @@
                         ]
                     },
                     "status": 0,
-                    "title": "TBD",
+                    "title": "Desarrollo clínico Inclisirán: ORION-1, ORION-9, 10 11",
                     "activities": [
                         {
                             "id": "7.4.0",
@@ -5478,7 +5478,7 @@
                                 "pretitle": "Vídeo 4",
                                 "pretitle_css": "centered"
                             },
-                            "title": "TBD",
+                            "title": "Desarrollo clínico Inclisirán: ORION-1, ORION-9, 10 11",
                             "title_css": "justify-content-center centered",
                             "subtitle": "<center>(Próxicamente)</center>",
                             "content": {
