@@ -6614,18 +6614,12 @@
                     },
                     {
                         "id": "2",
-                        "text": "Se debe eliminar el consumo de alcohol y tabaco.   ",
-                        "correct": false,
-                        "feedback": ""
-                    },
-                    {
-                        "id": "3",
                         "text": "La pérdida de peso incluso moderada mejora el perfil lipídico.   ",
                         "correct": false,
                         "feedback": ""
                     },
                     {
-                        "id": "4",
+                        "id": "3",
                         "text": "La ingesta de azúcares debe ser inferior al 10% de las calorías diarias. ",
                         "correct": false,
                         "feedback": ""
