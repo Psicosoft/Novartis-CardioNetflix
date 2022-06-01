@@ -5212,7 +5212,7 @@
                             "navigation": {
                                 "disable_nav_prev": false,
                                 "disable_nav_next": false,
-                                "hidden_nav_next": true
+                                "hidden_nav_next": false
                             },
                             "save_info": true,
                             "finishCourse": false,
